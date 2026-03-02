@@ -10,8 +10,8 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
   
   const copyright = useText({
-    arabic: `© ${currentYear} النسيج القرآني. جميع الحقوق محفوظة.`,
-    english: `© ${currentYear} Quranic Fabric. All rights reserved.`,
+    arabic: `© ${currentYear} الكتالوج. جميع الحقوق محفوظة.`,
+    english: `© ${currentYear} The Catalog. All rights reserved.`,
   });
 
   const madeWith = useText({
