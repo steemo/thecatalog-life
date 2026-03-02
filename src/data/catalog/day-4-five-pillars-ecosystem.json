@@ -82,7 +82,7 @@
         "english": "5. Hajj - Managing Status and Leaving Comfort Zone"
       },
       "content": {
-        "arabic": "المورد: طاقتك البدنية، فلوسك، وبرستيجك الاجتماعي.\n\nالشفرة: الحج بيجبرك تخرج من 'منطقة راحتك'.\n\nبتسيب بيتك، وسريرك، وتلبس حتتين قماش بيض (زي الكفن)، وتقف وسط ملايين من كل جنسيات الأرض.\n\nغني زي فقير، مدير زي عامل.\n\nده 'فورمات' كامل للغرور والأنا.",
+        "arabic": "المورد: طاقتك البدنية، فلوسك، وبرستيجك الاجتماعي.\n\nالشفرة: الحج بيجبرك تخرج من 'منطقة راحتك'.\n\nبتسيب بيتك، وسريرك، وتلبس حتتين قماش بيض (زي الكفن)، وتقف وسط ملايين من كل جنسيات الأرض.\n\nغني زي فقير، مدير زي عامل.\n\nده 'مسح كامل' للغرور والأنا.",
         "english": "The Resource: Your physical energy, your money, and your social prestige.\n\nThe Code: Hajj forces you to leave your 'comfort zone'.\n\nYou leave your home, your bed, wear two pieces of white cloth (like a shroud), and stand among millions from all nationalities of earth.\n\nRich like poor, manager like worker.\n\nThis is a complete 'format' of arrogance and ego."
       }
     }
@@ -134,9 +134,9 @@
       }
     },
     {
-      "id": "ego-format",
+      "id": "ego-reset",
       "title": {
-        "arabic": "فورمات الأنا",
+        "arabic": "مسح الأنا",
         "english": "Ego Format"
       },
       "description": {
@@ -144,7 +144,7 @@
         "english": "Hajj forces you to wear two pieces of white cloth (like a shroud), and stand among millions. Rich like poor, manager like worker."
       },
       "example": {
-        "arabic": "ده 'فورمات' كامل للغرور والأنا. بيمسح كل البرستيج الاجتماعي ويرجعك للأصل.",
+        "arabic": "ده 'مسح كامل' للغرور والأنا. بيمسح كل البرستيج الاجتماعي ويرجعك للأصل.",
         "english": "This is a complete 'format' of arrogance and ego. It erases all social prestige and returns you to the origin."
       }
     }
@@ -175,7 +175,7 @@
       "english": "Fasting is willpower bootcamp - you can do without essentials, let alone luxuries"
     },
     {
-      "arabic": "الحج فورمات كامل للأنا والغرور - الكل متساوي في حتتين قماش بيض",
+      "arabic": "الحج مسح كامل للأنا والغرور - الكل متساوي في حتتين قماش بيض",
       "english": "Hajj is complete ego format - everyone equal in two pieces of white cloth"
     }
   ],
@@ -247,7 +247,7 @@
         "english": "Audit Hajj"
       },
       "action": {
-        "arabic": "هل الأنا والغرور طاغي؟ هل بتتكبر على الناس؟ هل محتاج فورمات؟",
+        "arabic": "هل الأنا والغرور طاغي؟ هل بتتكبر على الناس؟ هل محتاج مسح كامل؟",
         "english": "Is ego and arrogance dominating? Do you look down on people? Do you need a format?"
       },
       "benefit": {
