@@ -260,8 +260,8 @@ export default function HomePage() {
                       </div>
                       <p className="text-slate-700 dark:text-slate-300">
                         {useText({
-                          arabic: 'أمثلة تقنية عصرية - الصلاة كمحطة شحن، غض البصر كحماية RAM',
-                          english: 'Modern tech analogies - Prayer as charging station, lowering gaze as RAM protection',
+                          arabic: 'أمثلة تقنية عصرية - الصلاة كمحطة شحن، غض البصر كحماية الذاكرة',
+                          english: 'Modern tech analogies - Prayer as charging station, lowering gaze as memory protection',
                         })}
                       </p>
                     </div>

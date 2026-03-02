@@ -60,7 +60,7 @@
       },
       "content": {
         "arabic": "• الله لم يفرض الصلاة ليُعذبك بالوقوف، بل جعلها محطة شحن عشان تفصل دماغك من ضغوط الدنيا 5 مرات في اليوم.\n\n• الله لم يفرض غض البصر ليحرمك من الجمال، بل ليحمي 'الذاكرة' في عقلك من التشتت، فتقدر تركز في اللي ينفعك.\n\n• الله لم يفرض تحريم الخمر تضييقاً، بل صيانة لأغلى قطعة في جهازك وهي 'المخ' المسؤول عن قراراتك ومستقبلك.",
-        "english": "• Allah did not impose prayer to torture you with standing, but made it a charging station to disconnect your mind from worldly pressures 5 times a day.\n\n• Allah did not impose lowering the gaze to deprive you of beauty, but to protect the 'RAMs' in your mind from distraction, so you can focus on what benefits you.\n\n• Allah did not prohibit alcohol as restriction, but as maintenance for the most valuable piece in your system which is the 'brain' (Processor) responsible for your decisions and future."
+        "english": "• Allah did not impose prayer to torture you with standing, but made it a charging station to disconnect your mind from worldly pressures 5 times a day.\n\n• Allah did not impose lowering the gaze to deprive you of beauty, but to protect the 'memory' in your mind from distraction, so you can focus on what benefits you.\n\n• Allah did not prohibit alcohol as restriction, but as maintenance for the most valuable piece in your system which is the 'brain' (Processor) responsible for your decisions and future."
       }
     },
     {
@@ -107,18 +107,18 @@
       }
     },
     {
-      "id": "gaze-ram",
+      "id": "gaze-memory",
       "title": {
-        "arabic": "غض البصر = حماية الرامات",
-        "english": "Lowering Gaze = RAM Protection"
+        "arabic": "غض البصر = حماية الذاكرة",
+        "english": "Lowering Gaze = Memory Protection"
       },
       "description": {
         "arabic": "الله لم يفرض غض البصر ليحرمك من الجمال، بل ليحمي 'الذاكرة' في عقلك من التشتت، فتقدر تركز في اللي ينفعك.",
-        "english": "Allah did not impose lowering the gaze to deprive you of beauty, but to protect the 'RAMs' in your mind from distraction, so you can focus on what benefits you."
+        "english": "Allah did not impose lowering the gaze to deprive you of beauty, but to protect the 'memory' in your mind from distraction, so you can focus on what benefits you."
       },
       "example": {
-        "arabic": "لما تفتح 100 تاب على الكمبيوتر، الرامات بتتملي والجهاز بيبطئ. نفس الفكرة مع عقلك - كل ما تشوف أقل، تركيزك يبقى أعلى.",
-        "english": "When you open 100 tabs on the computer, the RAM fills up and the device slows down. Same idea with your mind - the less you see, the higher your focus."
+        "arabic": "لما تفتح 100 تاب على الكمبيوتر، الذاكرة بتتملي والجهاز بيبطئ. نفس الفكرة مع عقلك - كل ما تشوف أقل، تركيزك يبقى أعلى.",
+        "english": "When you open 100 tabs on the computer, the memory fills up and the device slows down. Same idea with your mind - the less you see, the higher your focus."
       }
     },
     {
