@@ -115,6 +115,18 @@ export default function CatalogEntryPage() {
   const dailyActionText = useText((entry as any).dailyAction || { arabic: '', english: '' });
   const conclusionText = useText((entry as any).conclusion || { arabic: '', english: '' });
 
+  // Pre-render all tag texts (max 8 tags) - call hooks unconditionally
+  const tags = entry.metadata.tags;
+  const tag0Text = useText(tags[0] || { arabic: '', english: '' });
+  const tag1Text = useText(tags[1] || { arabic: '', english: '' });
+  const tag2Text = useText(tags[2] || { arabic: '', english: '' });
+  const tag3Text = useText(tags[3] || { arabic: '', english: '' });
+  const tag4Text = useText(tags[4] || { arabic: '', english: '' });
+  const tag5Text = useText(tags[5] || { arabic: '', english: '' });
+  const tag6Text = useText(tags[6] || { arabic: '', english: '' });
+  const tag7Text = useText(tags[7] || { arabic: '', english: '' });
+  const allTagTexts = [tag0Text, tag1Text, tag2Text, tag3Text, tag4Text, tag5Text, tag6Text, tag7Text].slice(0, tags.length);
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800">
       {/* Hero Section */}
@@ -167,13 +179,13 @@ export default function CatalogEntryPage() {
                 <Clock className="w-4 h-4" />
                 {entry.metadata.readTime} {minLabel}
               </span>
-              {entry.metadata.tags.map((tag, idx) => (
+              {allTagTexts.map((tagText, idx) => (
                 <span
                   key={`tag-${idx}`}
                   className="px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm text-sm font-medium flex items-center gap-2"
                 >
                   <Tag className="w-4 h-4" />
-                  {useText(tag)}
+                  {tagText}
                 </span>
               ))}
             </div>
