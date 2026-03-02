@@ -25,7 +25,13 @@ function CatalogEntryCard({ entry, index }: { entry: CatalogCard; index: number 
   const titleText = useText(entry.title);
   const subtitleText = useText(entry.subtitle || { arabic: '', english: '' });
   const hookText = useText(entry.hook);
-  const allTagTexts = entry.metadata.tags.slice(0, 3).map(tag => useText(tag));
+  
+  // Pre-render all tag texts (always 3 tags, pad with empty if needed)
+  const tags = entry.metadata.tags.slice(0, 3);
+  const tag0Text = useText(tags[0] || { arabic: '', english: '' });
+  const tag1Text = useText(tags[1] || { arabic: '', english: '' });
+  const tag2Text = useText(tags[2] || { arabic: '', english: '' });
+  const allTagTexts = [tag0Text, tag1Text, tag2Text].slice(0, tags.length);
 
   const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
   const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
