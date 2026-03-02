@@ -1,0 +1,115 @@
+/**
+ * Global Styles
+ * Created by: Tiko Abousteit
+ * Date: 22 February 2026
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* RTL/LTR direction handling */
+  html[dir='rtl'] {
+    direction: rtl;
+  }
+
+  html[dir='ltr'] {
+    direction: ltr;
+  }
+
+  /* Base typography */
+  body {
+    @apply font-sans text-neutral-900 dark:text-neutral-100 bg-neutral-50 dark:bg-neutral-900;
+    @apply antialiased;
+  }
+
+  /* Arabic text styling */
+  .font-arabic {
+    @apply leading-relaxed;
+    font-family: Amiri, 'Noto Naskh Arabic', 'Traditional Arabic', serif;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Focus styles for accessibility */
+  *:focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-500;
+  }
+}
+
+@layer components {
+  /* Card component */
+  .card {
+    @apply bg-white dark:bg-neutral-800 rounded-2xl shadow-sm;
+    @apply border border-neutral-200 dark:border-neutral-700;
+    @apply transition-shadow duration-200;
+  }
+
+  .card:hover {
+    @apply shadow-md;
+  }
+
+  /* Button base */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2;
+    @apply px-4 py-2 rounded-lg font-medium;
+    @apply transition-colors duration-200;
+    @apply focus-visible:ring-2 focus-visible:ring-offset-2;
+  }
+
+  .btn-primary {
+    @apply bg-primary-500 text-white;
+    @apply hover:bg-primary-600;
+    @apply focus-visible:ring-primary-500;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary-500 text-neutral-900;
+    @apply hover:bg-secondary-600;
+    @apply focus-visible:ring-secondary-500;
+  }
+
+  .btn-ghost {
+    @apply bg-transparent text-neutral-700 dark:text-neutral-300;
+    @apply hover:bg-neutral-100 dark:hover:bg-neutral-800;
+  }
+
+  /* Badge component */
+  .badge {
+    @apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium;
+  }
+
+  .badge-meccan {
+    @apply bg-accent-100 text-accent-700 dark:bg-accent-900 dark:text-accent-300;
+  }
+
+  .badge-medinan {
+    @apply bg-primary-100 text-primary-700 dark:bg-primary-900 dark:text-primary-300;
+  }
+}
+
+@layer utilities {
+  /* Text balance for headings */
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Hide scrollbar but keep functionality */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Arabic number styling */
+  .arabic-nums {
+    font-feature-settings: 'locl';
+  }
+}

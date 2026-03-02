@@ -1,0 +1,254 @@
+{
+  "id": 3,
+  "slug": "aal-imran",
+  "name": {
+    "arabic": "سورة آل عمران",
+    "english": "Surah Aal-Imran",
+    "transliteration": "Aal-Imran"
+  },
+  "metadata": {
+    "verses": 200,
+    "words": 3480,
+    "type": "medinan",
+    "juz": "3-4",
+    "order": 3
+  },
+  "goal": {
+    "arabic": "تثبيت وعي الأمة بكيفية الثبات على المنهج، على أساس من صفاء العقيدة ووضوح الهوية، وتحدد لها إطار تعاملها مع القوى الخارجية، حتى لا تزعزعها محنة، ولا تكسرها شبهة.",
+    "english": "Establishing the Ummah's awareness of how to remain steadfast on the path, based on pure faith and clear identity, while defining their framework for dealing with external forces, so that no trial shakes them and no doubt breaks them."
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة آل عمران", "english": "The Family of Imran" },
+      "reason": {
+        "arabic": "سميت بهذا الاسم لذكر قصة آل عمران (عمران والد مريم) وعيسى ومريم عليهما السلام.",
+        "english": "Named after the story of the family of Imran (Imran, father of Maryam) and Prophet Isa and Maryam (peace be upon them)."
+      }
+    },
+    {
+      "id": "az-zahra-2",
+      "name": { "arabic": "الزهراء الثانية", "english": "The Second Radiant One" },
+      "reason": {
+        "arabic": "مع سورة البقرة تسميان \"الزهراوان\"",
+        "english": "Together with Surah Al-Baqarah, they are called \"The Two Radiant Ones\""
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "two-radiant",
+      "title": { "arabic": "الزهراوان", "english": "The Two Radiant Ones" },
+      "hadith": {
+        "arabic": "اقرأوا القرآن فإنه يأتي يوم القيامة شفيعاً لأصحابه، اقرأوا الزهراوين البقرة وآل عمران",
+        "english": "Recite the Quran, for it will come on the Day of Judgment as an intercessor for its companions. Recite the two radiant ones: Al-Baqarah and Aal-Imran."
+      }
+    },
+    {
+      "id": "greatest-name",
+      "title": { "arabic": "اسم الله الأعظم", "english": "The Greatest Name of Allah" },
+      "hadith": {
+        "arabic": "قرأ رجل عند عبد الله البقرة وآل عمران، فقال: قرأت سورتين فيهما اسم الله الأعظم",
+        "english": "A man recited Al-Baqarah and Aal-Imran in the presence of Abdullah, who said: 'You have recited two Surahs containing the Greatest Name of Allah.'"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "creed",
+      "title": { "arabic": "إظهار فساد عقيدة أهل الكتاب", "english": "Exposing Corruption of People of Scripture's Beliefs" },
+      "verses": "1-99",
+      "description": {
+        "arabic": "الرد على شبهاتهم حول عيسى عليه السلام وقصة آل عمران",
+        "english": "Responding to their doubts about Prophet Isa and the story of the family of Imran"
+      }
+    },
+    {
+      "id": "unity",
+      "title": { "arabic": "الدعوة إلى الاعتصام", "english": "Call to Hold Fast" },
+      "verses": "100-120",
+      "description": {
+        "arabic": "الاعتصام بحبل الله والإعداد لمواجهة الأعداء",
+        "english": "Holding fast to the rope of Allah and preparing to face enemies"
+      }
+    },
+    {
+      "id": "battles",
+      "title": { "arabic": "نماذج الصدامات", "english": "Models of Confrontations" },
+      "verses": "121-200",
+      "description": {
+        "arabic": "غزوتي بدر وأحد - نصر الله وأسباب الهزيمة",
+        "english": "Battles of Badr and Uhud - Allah's victory and reasons for defeat"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "steadfastness",
+      "title": { "arabic": "الثبات على المنهج", "english": "Steadfastness on the Path" },
+      "icon": "anchor",
+      "description": {
+        "arabic": "كيف تثبت على ما تفعل في مواجهة الشبهات والشهوات",
+        "english": "How to stay firm on what you do when facing doubts and desires"
+      }
+    },
+    {
+      "id": "people-scripture",
+      "title": { "arabic": "الرد على أهل الكتاب", "english": "Responding to People of Scripture" },
+      "icon": "book-open",
+      "description": {
+        "arabic": "أربعة نداءات إلى أهل الكتاب وكشف شبهاتهم",
+        "english": "Four calls to the People of the Scripture and exposing their doubts"
+      }
+    },
+    {
+      "id": "victory-defeat",
+      "title": { "arabic": "النصر والهزيمة", "english": "Victory and Defeat" },
+      "icon": "swords",
+      "description": {
+        "arabic": "نصر بدر بالملائكة، هزيمة أحد بالمعصية",
+        "english": "Victory at Badr with angels, defeat at Uhud through disobedience"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "steadfast",
+      "title": { "arabic": "الثبات على المنهج", "english": "Steadfastness on the Path" },
+      "content": {
+        "arabic": "في الشبهات والشهوات، اجعل لك \"ثوابت\" (المحكمات) لا تقبل النقاش.",
+        "english": "In doubts and desires, establish \"constants\" (clear principles) that are non-negotiable."
+      }
+    },
+    {
+      "id": "repentance",
+      "title": { "arabic": "التوبة والعمل الصالح", "english": "Repentance and Righteous Deeds" },
+      "content": {
+        "arabic": "لا يحتملان \"التسويف\" — كل دقيقة هي فرصة.",
+        "english": "Do not accept \"procrastination\" — every minute is an opportunity."
+      }
+    },
+    {
+      "id": "internal-failure",
+      "title": { "arabic": "الفشل من الداخل", "english": "Failure from Within" },
+      "content": {
+        "arabic": "يبدأ من (التنازع والمعصية)، لا من قوة العدو.",
+        "english": "Begins from (discord and disobedience), not from enemy strength."
+      }
+    },
+    {
+      "id": "righteousness",
+      "title": { "arabic": "البر", "english": "True Righteousness" },
+      "content": {
+        "arabic": "لن تصل لدرجة \"البر\" إلا إذا تخليت عن أحب الأشياء إليك لأجل الله.",
+        "english": "You will not attain righteousness until you give up what you love most for Allah's sake."
+      }
+    },
+    {
+      "id": "wealth",
+      "title": { "arabic": "إدارة المال", "english": "Financial Management" },
+      "content": {
+        "arabic": "المال نعمة من الله وسياسة إدارته لابد أن تكون وفق منهج الله تعالى.",
+        "english": "Wealth is a blessing from Allah, and its management must align with Allah's methodology."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "love-allah",
+      "title": { "arabic": "أسباب محبة الله", "english": "Reasons for Allah's Love" },
+      "content": {
+        "arabic": "﴿وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ﴾ ﴿وَاللَّهُ يُحِبُّ الصَّابِرِينَ﴾ ﴿إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ﴾",
+        "english": "\"Allah loves the doers of good\" \"Allah loves the steadfast\" \"Allah loves those who rely upon Him\""
+      }
+    },
+    {
+      "id": "mercy",
+      "title": { "arabic": "رحمة الله ولطفه", "english": "Allah's Mercy and Kindness" },
+      "content": {
+        "arabic": "في كل مراحل حياتهم وجميع أحوالهم",
+        "english": "In all stages of their lives and all their circumstances"
+      }
+    },
+    {
+      "id": "fairness",
+      "title": { "arabic": "الإنصاف مع أهل الكتاب", "english": "Fairness with People of Scripture" },
+      "content": {
+        "arabic": "﴿مِّنْ أَهْلِ الْكِتَابِ أُمَّةٌ قَائِمَةٌ﴾ ﴿إِنَّ مِنْ أَهْلِ الْكِتَابِ لَمَن يُؤْمِنُ بِاللَّهِ﴾",
+        "english": "\"Among the People of the Scripture is a community standing in obedience\" \"Indeed, among the People of the Scripture are those who believe in Allah\""
+      }
+    }
+  ],
+  "pillars": [
+    {
+      "id": "knowledge",
+      "title": { "arabic": "العلم الراسخ", "english": "Firm Knowledge" },
+      "verse": { "arabic": "﴿وَالرَّاسِخُونَ فِي الْعِلْمِ﴾", "english": "\"And those firm in knowledge\"" }
+    },
+    {
+      "id": "worship",
+      "title": { "arabic": "عبادة الله", "english": "Worship of Allah" },
+      "verse": { "arabic": "﴿يَا مَرْيَمُ اقْنُتِي لِرَبِّكِ وَاسْجُدِي وَارْكَعِي مَعَ الرَّاكِعِينَ﴾", "english": "\"O Maryam, be devoutly obedient to your Lord and prostrate and bow with those who bow\"" }
+    },
+    {
+      "id": "dhikr",
+      "title": { "arabic": "ذكر الله والتفكر", "english": "Remembrance and Reflection" },
+      "verse": { "arabic": "﴿الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامًا وَقُعُودًا﴾", "english": "\"Who remember Allah while standing or sitting\"" }
+    },
+    {
+      "id": "dua",
+      "title": { "arabic": "الدعاء واللجوء إلى الله", "english": "Supplication and Seeking Refuge" },
+      "verse": { "arabic": "﴿رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا﴾", "english": "\"Our Lord, let not our hearts deviate after You have guided us\"" }
+    },
+    {
+      "id": "amr-maruf",
+      "title": { "arabic": "الأمر بالمعروف والنهي عن المنكر", "english": "Enjoining Right and Forbidding Wrong" },
+      "verse": { "arabic": "﴿كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ﴾", "english": "\"You are the best nation produced for mankind\"" }
+    },
+    {
+      "id": "tawbah",
+      "title": { "arabic": "التوبة والاستغفار", "english": "Repentance and Seeking Forgiveness" },
+      "verse": { "arabic": "﴿إِنَّ الَّذِينَ تَوَلَّوْا مِنكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ﴾", "english": "\"Indeed, those of you who turned back on the day the two armies met\"" }
+    },
+    {
+      "id": "trust",
+      "title": { "arabic": "الثقة بنصر الله", "english": "Trust in Allah's Victory" },
+      "verse": { "arabic": "﴿إِن تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْئًا﴾", "english": "\"If you remain patient and conscious of Allah, their plot will not harm you at all\"" }
+    },
+    {
+      "id": "itisam",
+      "title": { "arabic": "الاعتصام بالله", "english": "Holding Fast to Allah" },
+      "verse": { "arabic": "﴿وَمَن يَعْتَصِم بِاللَّهِ فَقَدْ هُدِيَ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ﴾", "english": "\"And whoever holds firmly to Allah has been guided to a straight path\"" }
+    },
+    {
+      "id": "taqwa",
+      "title": { "arabic": "تقوى الله", "english": "God-Consciousness" },
+      "verse": { "arabic": "﴿وَسَارِعُوا إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ﴾", "english": "\"And hasten to forgiveness from your Lord\"" }
+    },
+    {
+      "id": "sabr",
+      "title": { "arabic": "الصبر والمصابرة", "english": "Patience and Perseverance" },
+      "verse": { "arabic": "﴿يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا﴾", "english": "\"O you who have believed, persevere and endure\"" }
+    }
+  ],
+  "connections": [
+    {
+      "type": "previous",
+      "surahId": 2,
+      "surahSlug": "al-baqarah",
+      "description": {
+        "arabic": "البقرة: إعطاء المنهج (ماذا تفعل؟) - آل عمران: حماية المنهج (كيف تثبت؟)",
+        "english": "Al-Baqarah: Giving the methodology (What to do?) - Aal-Imran: Protecting the methodology (How to stay firm?)"
+      }
+    },
+    {
+      "type": "next",
+      "surahId": 4,
+      "surahSlug": "an-nisa",
+      "description": {
+        "arabic": "آل عمران: غزوة أحد - النساء: معالجة الآثار الاجتماعية (الأيتام والأرامل)",
+        "english": "Aal-Imran: Battle of Uhud - An-Nisa: Addressing social aftermath (orphans and widows)"
+      }
+    }
+  ]
+}

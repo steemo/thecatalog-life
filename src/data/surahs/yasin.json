@@ -1,0 +1,557 @@
+{
+  "id": 36,
+  "slug": "yasin",
+  "name": {
+    "arabic": "سورة يس",
+    "english": "Surah Yasin",
+    "transliteration": "Yasin"
+  },
+  "metadata": {
+    "verses": 83,
+    "words": 733,
+    "type": "meccan",
+    "juz": "22-23",
+    "order": 36
+  },
+  "goal": {
+    "academic": {
+      "arabic": "إثبات البعث والرسالة، وبيان قدرة الله في الخلق والإحياء، وتسلية النبي ﷺ بقصص الأنبياء.",
+      "english": "Establishing resurrection and prophethood, showing Allah's power in creation and revival, and consoling the Prophet ﷺ with prophets' stories."
+    },
+    "psychological": {
+      "arabic": "فتح الأبواب المغلقة وتيسير الأمور المعقدة - يس لما قُرئت له، فهي قلب القرآن وبها تُقضى الحاجات وتُفتح المسارات المسدودة.",
+      "english": "Opening closed doors and facilitating complicated matters - Yasin is for what it's read for, it's the heart of the Quran through which needs are fulfilled and blocked paths are opened."
+    },
+    "summary": {
+      "arabic": "سورة يس هي قلب القرآن ومفتاح الأبواب المغلقة - تُقرأ بنية قضاء الحاجة، فتعمل على تليين القلوب القاسية وتسهيل المسارات المعقدة وتحويل المستحيل إلى ممكن.",
+      "english": "Surah Yasin is the heart of the Quran and key to closed doors - read with intention of fulfilling needs, it softens hard hearts, facilitates complicated paths, and transforms the impossible to possible."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة يس", "english": "Yasin" },
+      "reason": {
+        "arabic": "سميت بالحرفين المقطعين في أولها، وهي من الحروف التي استأثر الله بعلمها.",
+        "english": "Named after the disconnected letters at its beginning, letters whose knowledge Allah has kept to Himself."
+      }
+    },
+    {
+      "id": "heart-quran",
+      "name": { "arabic": "قلب القرآن", "english": "Heart of the Quran" },
+      "reason": {
+        "arabic": "كما أن للجسد قلباً يضخ الدم، فإن للقرآن قلباً يضخ الروح وهو يس - جهاز الإنعاش للقلوب الميتة.",
+        "english": "Just as the body has a heart that pumps blood, the Quran has a heart that pumps spirit which is Yasin - resuscitation device for dead hearts."
+      }
+    },
+    {
+      "id": "al-muammah",
+      "name": { "arabic": "المعمّة", "english": "The All-Encompassing" },
+      "reason": {
+        "arabic": "أطلق عليها الصحابة 'المعمّة' لأنها تعم بالخير والبركة.",
+        "english": "The Companions called it 'Al-Muammah' because it encompasses with goodness and blessing."
+      }
+    },
+    {
+      "id": "al-dafiaa",
+      "name": { "arabic": "الدافعة", "english": "The Repeller" },
+      "reason": {
+        "arabic": "تسمى 'الدافعة' لأنها تدفع الشرور والمصائب عن قارئها.",
+        "english": "Called 'The Repeller' because it repels evils and calamities from its reader."
+      }
+    },
+    {
+      "id": "al-qadiyah",
+      "name": { "arabic": "القاضية", "english": "The Fulfiller" },
+      "reason": {
+        "arabic": "تسمى 'القاضية' لأنها تقضي الحوائج وتفتح الأبواب المغلقة.",
+        "english": "Called 'The Fulfiller' because it fulfills needs and opens closed doors."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "heart-quran-virtue",
+      "title": { "arabic": "قلب القرآن", "english": "Heart of the Quran" },
+      "hadith": {
+        "arabic": "إن لكل شيء قلباً وقلب القرآن يس، من قرأها فكأنما قرأ القرآن عشر مرات.",
+        "english": "Everything has a heart, and the heart of the Quran is Yasin. Whoever reads it, it's as if they read the Quran ten times."
+      }
+    },
+    {
+      "id": "read-for-purpose",
+      "title": { "arabic": "يس لما قُرئت له", "english": "Yasin for What It's Read For" },
+      "hadith": {
+        "arabic": "يس لما قُرئت له - القاعدة النبوية التي تؤكد أن بركة هذه السورة تذهب حيث وجهتها نية القارئ.",
+        "english": "'Yasin is for what it's read for' - the prophetic principle confirming that this Surah's blessing goes where the reader's intention directs it."
+      }
+    }
+  ]
+,
+  "sections": [
+    {
+      "id": "intro",
+      "title": { "arabic": "المقدمة", "english": "Introduction" },
+      "verses": "1-12",
+      "description": {
+        "arabic": "يس والقرآن الحكيم - تأكيد الرسالة والبعث",
+        "english": "'Yasin. By the wise Quran' - confirming the message and resurrection"
+      }
+    },
+    {
+      "id": "village-story",
+      "title": { "arabic": "قصة القرية", "english": "Story of the Village" },
+      "verses": "13-32",
+      "description": {
+        "arabic": "قصة الرسل الثلاثة والرجل المؤمن - نموذج الثبات والتضحية",
+        "english": "Story of the three messengers and the believing man - model of steadfastness and sacrifice"
+      }
+    },
+    {
+      "id": "signs",
+      "title": { "arabic": "آيات القدرة", "english": "Signs of Power" },
+      "verses": "33-50",
+      "description": {
+        "arabic": "الأرض الميتة، الليل والنهار، الشمس والقمر - دلائل البعث",
+        "english": "Dead earth, night and day, sun and moon - proofs of resurrection"
+      }
+    },
+    {
+      "id": "resurrection",
+      "title": { "arabic": "مشاهد البعث", "english": "Resurrection Scenes" },
+      "verses": "51-83",
+      "description": {
+        "arabic": "النفخ في الصور، الحساب، الجنة والنار",
+        "english": "Blowing the trumpet, reckoning, Paradise and Hell"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "category": "Academic Themes",
+      "themes": [
+        {
+          "id": "prophethood",
+          "title": { "arabic": "الرسالة", "english": "Prophethood" },
+          "icon": "MessageCircle",
+          "description": {
+            "arabic": "إنك لمن المرسلين * على صراط مستقيم - تأكيد رسالة النبي ﷺ",
+            "english": "'Indeed you are from among the messengers. On a straight path' - confirming the Prophet's ﷺ message"
+          }
+        },
+        {
+          "id": "resurrection-proof",
+          "title": { "arabic": "إثبات البعث", "english": "Resurrection Proof" },
+          "icon": "RefreshCw",
+          "description": {
+            "arabic": "أولم يروا أنا نسوق الماء إلى الأرض الجرز - دلائل البعث في الطبيعة",
+            "english": "'Have they not seen that We drive water to barren land' - proofs of resurrection in nature"
+          }
+        },
+        {
+          "id": "divine-power",
+          "title": { "arabic": "القدرة الإلهية", "english": "Divine Power" },
+          "icon": "Zap",
+          "description": {
+            "arabic": "إنما أمره إذا أراد شيئاً أن يقول له كن فيكون - القدرة المطلقة",
+            "english": "'His command is only when He intends a thing that He says to it, \"Be,\" and it is' - absolute power"
+          }
+        }
+      ]
+    }
+,
+    {
+      "category": "Psychological Pillars - Opening Closed Doors",
+      "description": {
+        "arabic": "أربع قواعد لفتح الأبواب المغلقة وتيسير الأمور المعقدة من خلال سورة يس",
+        "english": "Four principles for opening closed doors and facilitating complicated matters through Surah Yasin"
+      },
+      "themes": [
+        {
+          "id": "pillar-living-energy",
+          "floor": 1,
+          "title": { "arabic": "القرآن طاقة حية", "english": "Quran as Living Energy" },
+          "icon": "Zap",
+          "description": {
+            "arabic": "السور ليست مجرد نصوص للقراءة، بل هي طاقة روحية تتفاعل مع نية القارئ؛ فعندما تقرأ يس بنية 'الفتح' أو 'قضاء الحاجة'، يفتح الله لك المسارات المغلقة",
+            "english": "Surahs aren't just texts to read, but spiritual energy that interacts with the reader's intention; when you read Yasin with intention of 'opening' or 'fulfilling need', Allah opens blocked paths for you"
+          },
+          "verse": {
+            "arabic": "يس ۝ وَالْقُرْآنِ الْحَكِيمِ",
+            "english": "Yasin. By the wise Quran"
+          },
+          "practical": {
+            "arabic": "قبل القراءة، حدد نيتك بوضوح: 'يا رب أقرأ يس لفتح باب [اذكر حاجتك المحددة]' - النية هي المحرك",
+            "english": "Before reading, specify your intention clearly: 'O Lord, I read Yasin to open the door of [mention your specific need]' - intention is the driver"
+          }
+        },
+        {
+          "id": "pillar-certainty-moves",
+          "floor": 2,
+          "title": { "arabic": "اليقين يُحرك الأسباب", "english": "Certainty Moves Means" },
+          "icon": "Target",
+          "description": {
+            "arabic": "التأثير لا يحدث بمجرد القراءة اللسانية، بل باليقين أن الله هو 'مسبب الأسباب'، وأن يس هي وسيلة لتقوية صلتك به",
+            "english": "Effect doesn't happen by mere verbal reading, but by certainty that Allah is 'Causer of Causes', and Yasin is a means to strengthen your connection with Him"
+          },
+          "verse": {
+            "arabic": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ",
+            "english": "His command is only when He intends a thing that He says to it, 'Be,' and it is"
+          },
+          "practical": {
+            "arabic": "اقرأ بيقين 100% أن الله قادر على تحويل المستحيل إلى ممكن - اليقين يفتح الأبواب",
+            "english": "Read with 100% certainty that Allah is capable of transforming the impossible to possible - certainty opens doors"
+          }
+        },
+        {
+          "id": "pillar-mental-reset",
+          "floor": 3,
+          "title": { "arabic": "تغيير الحالة الذهنية", "english": "Mental State Change" },
+          "icon": "Brain",
+          "description": {
+            "arabic": "يس تعمل على إعادة ضبط 'النظام النفسي' للإنسان، فتنقله من حالة الخوف والضيق إلى حالة الأمان والوفرة، وهو ما يجذب الحلول",
+            "english": "Yasin works to reset the human 'psychological system', transferring from state of fear and distress to state of security and abundance, which attracts solutions"
+          },
+          "verse": {
+            "arabic": "قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ",
+            "english": "'It was said, \"Enter Paradise.\" He said, \"I wish my people could know\""
+          },
+          "practical": {
+            "arabic": "بعد القراءة، لاحظ تغير حالتك النفسية - من القلق للطمأنينة، من الضيق للانفراج - هذا التغيير يفتح الأبواب",
+            "english": "After reading, notice your psychological state change - from anxiety to tranquility, from distress to relief - this change opens doors"
+          }
+        },
+        {
+          "id": "pillar-softening-hearts",
+          "floor": 4,
+          "title": { "arabic": "تليين القلوب القاسية", "english": "Softening Hard Hearts" },
+          "icon": "Heart",
+          "description": {
+            "arabic": "يس تعمل على تليين القلوب القاسية وتسهيل المسارات الإدارية أو الشخصية التي تبدو 'مقفولة' - تفتح قلوب الناس قبل الأبواب",
+            "english": "Yasin works to soften hard hearts and facilitate administrative or personal paths that seem 'closed' - it opens people's hearts before doors"
+          },
+          "verse": {
+            "arabic": "وَجَاءَ مِنْ أَقْصَى الْمَدِينَةِ رَجُلٌ يَسْعَىٰ",
+            "english": "And there came from the farthest end of the city a man, running"
+          },
+          "practical": {
+            "arabic": "إذا كان بابك المغلق 'شخص' (مدير، مسؤول، قريب)، اقرأ يس بنية تليين قلبه - القلوب بين إصبعين من أصابع الرحمن",
+            "english": "If your closed door is 'a person' (manager, official, relative), read Yasin with intention of softening their heart - hearts are between two fingers of the Most Merciful"
+          }
+        }
+      ]
+    }
+  ]
+,
+  "lessons": [
+    {
+      "category": "General Lessons",
+      "lessons": [
+        {
+          "id": "yasin-for-purpose",
+          "title": { "arabic": "يس لما قُرئت له", "english": "Yasin for What It's Read For" },
+          "content": {
+            "arabic": "القاعدة النبوية: يس لما قُرئت له - بركة السورة تذهب حيث وجهتها نية القارئ، فحدد نيتك بوضوح قبل القراءة.",
+            "english": "Prophetic principle: Yasin is for what it's read for - the Surah's blessing goes where the reader's intention directs it, so specify your intention clearly before reading."
+          }
+        },
+        {
+          "id": "heart-quran",
+          "title": { "arabic": "قلب القرآن", "english": "Heart of the Quran" },
+          "content": {
+            "arabic": "يس هي قلب القرآن، ومن قرأها فكأنما قرأ القرآن عشر مرات - فيها جوهر رسالة القرآن: التوحيد والبعث والرسالة.",
+            "english": "Yasin is the heart of the Quran, whoever reads it is as if they read the Quran ten times - it contains the essence of the Quran's message: monotheism, resurrection, and prophethood."
+          }
+        },
+        {
+          "id": "reviving-heart",
+          "title": { "arabic": "إحياء القلب الميت", "english": "Reviving the Dead Heart" },
+          "content": {
+            "arabic": "لِيُنذِرَ مَنْ كَانَ حَيًّا - يس تنقل الإنسان من 'الغفلة' (موت القلب) إلى 'اليقظة' (حياة القلب) - إذا شعرت بموت المشاعر أو الجمود، فيس هي جهاز الإنعاش.",
+            "english": "'To warn whoever is alive' - Yasin transfers person from 'heedlessness' (heart death) to 'awakening' (heart life) - if you feel death of feelings or stagnation, Yasin is the resuscitation device."
+          }
+        },
+        {
+          "id": "leaving-impact",
+          "title": { "arabic": "ترك الأثر", "english": "Leaving Impact" },
+          "content": {
+            "arabic": "وَنَكْتُبُ مَا قَدَّمُوا وَآثَارَهُمْ - حياتك تُقاس بالأثر الذي تتركه، لا بالسنين التي تعيشها - اسأل نفسك: هل تترك أثراً؟",
+            "english": "'And We record what they have put forth and what they left behind' - your life is measured by the impact you leave, not the years you live - ask yourself: are you leaving an impact?"
+          }
+        },
+        {
+          "id": "facilitating-impossible",
+          "title": { "arabic": "تيسير المستحيل", "english": "Facilitating the Impossible" },
+          "content": {
+            "arabic": "إنما أمره إذا أراد شيئاً أن يقول له كن فيكون - الله قادر على تحويل المستحيل إلى ممكن، ويس هي مفتاح هذا التحويل.",
+            "english": "'His command is only when He intends a thing that He says to it, \"Be,\" and it is' - Allah is capable of transforming the impossible to possible, and Yasin is the key to this transformation."
+          }
+        },
+        {
+          "id": "intention-power",
+          "title": { "arabic": "قوة النية", "english": "Power of Intention" },
+          "content": {
+            "arabic": "النية هي المحرك - القوة العلاجية ليس تظهر عندما تقرأها وأنت تضع حاجتك بين يدي الله، كأنك تأخذ الدواء المناسب لوجعك.",
+            "english": "Intention is the driver - the healing power appears when you read it while placing your need in Allah's hands, as if taking the appropriate medicine for your pain."
+          }
+        },
+        {
+          "id": "tranquility-midst",
+          "title": { "arabic": "السكينة وسط المواجهة", "english": "Tranquility Amidst Confrontation" },
+          "content": {
+            "arabic": "يس تمنح القارئ ثباتاً وقوة نفسية تجعله يرى الحلول وسط الأزمات - تغير الحالة الذهنية من الخوف للأمان.",
+            "english": "Yasin grants the reader steadfastness and psychological strength that makes them see solutions amidst crises - changes mental state from fear to security."
+          }
+        }
+      ]
+    },
+    {
+      "category": "Story-Based Lessons",
+      "description": {
+        "arabic": "دروس عملية من قصة القرية والرجل المؤمن",
+        "english": "Practical lessons from the village story and the believing man"
+      },
+      "lessons": [
+        {
+          "id": "three-messengers",
+          "story": "Village",
+          "title": { "arabic": "الرسل الثلاثة", "english": "Three Messengers" },
+          "content": {
+            "arabic": "إذ أرسلنا إليهم اثنين فكذبوهما فعززنا بثالث - عندما يُغلق باب، الله يرسل تعزيزات، لا تيأس من أول رفض.",
+            "english": "'When We sent to them two but they denied them, so We strengthened them with a third' - when a door closes, Allah sends reinforcements, don't despair from first rejection."
+          },
+          "principle": {
+            "arabic": "الباب المغلق ليس نهاية المطاف - الله يرسل طرقاً أخرى وتعزيزات جديدة",
+            "english": "A closed door isn't the end - Allah sends other ways and new reinforcements"
+          }
+        },
+        {
+          "id": "believing-man",
+          "story": "Village",
+          "title": { "arabic": "الإيجابية والحركة", "english": "Positivity and Movement" },
+          "content": {
+            "arabic": "وجاء من أقصى المدينة رجل يسعى - رجل عادي تحرك رغم وجود 3 أنبياء، لم يقل 'لستُ مسؤولاً' - الحركة والسعي (الغيرة على الخير) تحيي القلب الميت وتجلب المعجزات.",
+            "english": "'And there came from the farthest end of the city a man, running' - an ordinary man moved despite 3 prophets being present, didn't say 'I'm not responsible' - movement and striving (zeal for good) revives dead heart and brings miracles."
+          },
+          "application": {
+            "arabic": "تحرك لخدمة الناس أو نصرة الحق - الحركة تحيي القلب الميت، لا تنتظر غيرك ليتحرك",
+            "english": "Move to serve people or support truth - movement revives dead heart, don't wait for others to move"
+          }
+        }
+,
+        {
+          "id": "man-sacrifice",
+          "story": "Village",
+          "title": { "arabic": "التضحية والثبات", "english": "Sacrifice and Steadfastness" },
+          "content": {
+            "arabic": "قيل ادخل الجنة قال يا ليت قومي يعلمون - حتى بعد استشهاده، همّه أن يعلم قومه الحق، الثبات على الحق يفتح أبواب الجنة.",
+            "english": "'It was said, \"Enter Paradise.\" He said, \"I wish my people could know\"' - even after his martyrdom, his concern was that his people know the truth, steadfastness on truth opens Paradise doors."
+          },
+          "lesson": {
+            "arabic": "الثبات على الحق حتى في أصعب الظروف يفتح أبواب الفرج - لا تتنازل عن مبادئك",
+            "english": "Steadfastness on truth even in hardest circumstances opens doors of relief - don't compromise your principles"
+          }
+        },
+        {
+          "id": "dead-earth",
+          "story": "Signs",
+          "title": { "arabic": "الأرض الميتة", "english": "Dead Earth" },
+          "content": {
+            "arabic": "وآية لهم الأرض الميتة أحييناها وأخرجنا منها حباً - الأرض الميتة تحيا بالماء، وحياتك الميتة تحيا بالقرآن.",
+            "english": "'And a sign for them is the dead earth. We have brought it to life and brought forth from it grain' - dead earth lives with water, and your dead life lives with Quran."
+          },
+          "application": {
+            "arabic": "إذا كانت حياتك 'ميتة' (لا حركة، لا فتح)، يس هي الماء الذي يحييها - اقرأها بنية الإحياء",
+            "english": "If your life is 'dead' (no movement, no opening), Yasin is the water that revives it - read it with intention of revival"
+          }
+        },
+        {
+          "id": "night-day",
+          "story": "Signs",
+          "title": { "arabic": "الليل والنهار", "english": "Night and Day" },
+          "content": {
+            "arabic": "وآية لهم الليل نسلخ منه النهار فإذا هم مظلمون - بعد كل ليل نهار، وبعد كل ضيق فرج.",
+            "english": "'And a sign for them is the night. We remove from it [the light of] day, so they are [left] in darkness' - after every night comes day, and after every distress comes relief."
+          },
+          "comfort": {
+            "arabic": "ظلامك الحالي ليس دائماً - الله الذي يُخرج النهار من الليل سيُخرجك من ضيقك",
+            "english": "Your current darkness isn't permanent - Allah who brings day from night will bring you out of your distress"
+          }
+        },
+        {
+          "id": "kun-fayakun",
+          "story": "Power",
+          "title": { "arabic": "كن فيكون", "english": "Be and It Is" },
+          "content": {
+            "arabic": "إنما أمره إذا أراد شيئاً أن يقول له كن فيكون - لا تعقيدات، لا مستحيلات، فقط 'كن' وتحدث المعجزة.",
+            "english": "'His command is only when He intends a thing that He says to it, \"Be,\" and it is' - no complications, no impossibilities, just 'Be' and the miracle happens."
+          },
+          "principle": {
+            "arabic": "الله لا يحتاج أسباباً معقدة لفتح بابك - فقط 'كن' وينفتح الباب المستحيل",
+            "english": "Allah doesn't need complicated means to open your door - just 'Be' and the impossible door opens"
+          }
+        }
+      ]
+    }
+  ]
+,
+  "gems": [
+    {
+      "category": "Spiritual Gems",
+      "gems": [
+        {
+          "id": "heart-quran-gem",
+          "title": { "arabic": "قلب القرآن", "english": "Heart of the Quran" },
+          "content": {
+            "arabic": "إن لكل شيء قلباً وقلب القرآن يس - فيها جوهر رسالة القرآن: التوحيد والبعث والرسالة",
+            "english": "Everything has a heart, and the heart of the Quran is Yasin - it contains the essence of the Quran's message: monotheism, resurrection, and prophethood"
+          },
+          "verse": {
+            "arabic": "يس ۝ وَالْقُرْآنِ الْحَكِيمِ ۝ إِنَّكَ لَمِنَ الْمُرْسَلِينَ",
+            "english": "Yasin. By the wise Quran. Indeed you are from among the messengers"
+          }
+        },
+        {
+          "id": "kun-fayakun-gem",
+          "title": { "arabic": "كن فيكون", "english": "Be and It Is" },
+          "content": {
+            "arabic": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ - القدرة المطلقة لتحويل المستحيل إلى ممكن",
+            "english": "'His command is only when He intends a thing that He says to it, \"Be,\" and it is' - absolute power to transform the impossible to possible"
+          },
+          "verse": {
+            "arabic": "إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ",
+            "english": "His command is only when He intends a thing that He says to it, 'Be,' and it is"
+          }
+        },
+        {
+          "id": "dead-earth-revival",
+          "title": { "arabic": "إحياء الأرض الميتة", "english": "Reviving Dead Earth" },
+          "content": {
+            "arabic": "وَآيَةٌ لَّهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا - الله الذي يحيي الأرض الميتة يحيي حياتك الميتة",
+            "english": "'And a sign for them is the dead earth. We have brought it to life' - Allah who revives dead earth revives your dead life"
+          },
+          "verse": {
+            "arabic": "وَآيَةٌ لَّهُمُ الْأَرْضُ الْمَيْتَةُ أَحْيَيْنَاهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ",
+            "english": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat"
+          }
+        },
+        {
+          "id": "believing-man-gem",
+          "title": { "arabic": "الرجل المؤمن", "english": "The Believing Man" },
+          "content": {
+            "arabic": "قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ - الثبات على الحق يفتح أبواب الجنة",
+            "english": "'It was said, \"Enter Paradise.\" He said, \"I wish my people could know\"' - steadfastness on truth opens Paradise doors"
+          },
+          "verse": {
+            "arabic": "قِيلَ ادْخُلِ الْجَنَّةَ ۖ قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ",
+            "english": "It was said, 'Enter Paradise.' He said, 'I wish my people could know'"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Practical Gems",
+      "description": {
+        "arabic": "أدعية وتوجيهات عملية لفتح الأبواب المغلقة",
+        "english": "Practical supplications and guidance for opening closed doors"
+      },
+      "gems": [
+        {
+          "id": "opening-dua",
+          "title": { "arabic": "دعاء الفتح", "english": "Opening Supplication" },
+          "content": {
+            "arabic": "اللهم يا فتاح، افتح لنا أبواب فضلك، ويسر لنا أسباب رزقك، واكفنا بحلالك عن حرامك",
+            "english": "O Allah, O Opener, open for us the doors of Your bounty, facilitate for us the means of Your provision, and suffice us with Your lawful from Your unlawful"
+          },
+          "when": {
+            "arabic": "بعد قراءة يس لقضاء الحاجة - يُفضل الدعاء به مع حضور القلب واليقين في الاستجابة",
+            "english": "After reading Yasin for fulfilling need - preferably supplicate with heart presence and certainty in response"
+          },
+          "purpose": {
+            "arabic": "التوسل باسم الله 'الفتاح' لفتح كل ما هو مغلق (مادياً أو معنوياً) + طلب الكفاية والبركة",
+            "english": "Beseeching Allah's name 'The Opener' to open everything closed (materially or spiritually) + requesting sufficiency and blessing"
+          }
+        }
+,
+        {
+          "id": "reading-with-intention",
+          "title": { "arabic": "القراءة بالنية", "english": "Reading with Intention" },
+          "content": {
+            "arabic": "قبل قراءة يس، حدد نيتك بوضوح: 'يا رب أقرأ يس لفتح باب [اذكر حاجتك المحددة: وظيفة، زواج، علاج، سفر، مشروع...]' - يس لما قُرئت له",
+            "english": "Before reading Yasin, specify your intention clearly: 'O Lord, I read Yasin to open the door of [mention your specific need: job, marriage, healing, travel, project...]' - Yasin is for what it's read for"
+          },
+          "when": {
+            "arabic": "قبل كل قراءة - النية هي المحرك الأساسي لبركة السورة",
+            "english": "Before every reading - intention is the primary driver of the Surah's blessing"
+          }
+        },
+        {
+          "id": "daily-recitation",
+          "title": { "arabic": "القراءة اليومية", "english": "Daily Recitation" },
+          "content": {
+            "arabic": "اقرأ يس يومياً (صباحاً أو مساءً) بنية فتح الأبواب المغلقة في حياتك - القراءة المستمرة تراكمية الأثر",
+            "english": "Read Yasin daily (morning or evening) with intention of opening closed doors in your life - continuous reading has cumulative effect"
+          },
+          "when": {
+            "arabic": "يومياً في وقت ثابت - الاستمرارية أهم من الكمية",
+            "english": "Daily at a fixed time - consistency is more important than quantity"
+          },
+          "purpose": {
+            "arabic": "بناء طاقة روحية تراكمية تفتح الأبواب تدريجياً - الفتح قد يكون فورياً أو تدريجياً",
+            "english": "Building cumulative spiritual energy that opens doors gradually - opening may be immediate or gradual"
+          }
+        },
+        {
+          "id": "softening-hearts-practice",
+          "title": { "arabic": "تمرين تليين القلوب", "english": "Heart Softening Exercise" },
+          "content": {
+            "arabic": "إذا كان بابك المغلق 'شخص' (مدير، مسؤول، قريب، زوج/زوجة)، اقرأ يس 3 أيام متتالية بنية تليين قلبه وفتح صدره لطلبك",
+            "english": "If your closed door is 'a person' (manager, official, relative, spouse), read Yasin for 3 consecutive days with intention of softening their heart and opening their chest to your request"
+          },
+          "when": {
+            "arabic": "عند مواجهة رفض أو قسوة من شخص معين",
+            "english": "When facing rejection or harshness from a specific person"
+          },
+          "purpose": {
+            "arabic": "القلوب بين إصبعين من أصابع الرحمن يقلبها كيف يشاء - يس تطلب من الله تقليب القلب",
+            "english": "Hearts are between two fingers of the Most Merciful, He turns them as He wills - Yasin asks Allah to turn the heart"
+          }
+        },
+        {
+          "id": "impossible-to-possible",
+          "title": { "arabic": "تحويل المستحيل", "english": "Transforming the Impossible" },
+          "content": {
+            "arabic": "عند مواجهة أمر يبدو مستحيلاً، اقرأ يس بيقين 100% في قدرة الله: 'إنما أمره إذا أراد شيئاً أن يقول له كن فيكون' - لا مستحيلات عند الله",
+            "english": "When facing something that seems impossible, read Yasin with 100% certainty in Allah's power: 'His command is only when He intends a thing that He says to it, \"Be,\" and it is' - no impossibilities with Allah"
+          },
+          "when": {
+            "arabic": "عند الشعور بأن الأمر مستحيل أو معقد جداً",
+            "english": "When feeling that the matter is impossible or too complicated"
+          }
+        },
+        {
+          "id": "zakariya-dua",
+          "title": { "arabic": "دعاء زكريا للوحدة", "english": "Zakariya's Supplication for Loneliness" },
+          "content": {
+            "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ - دعاء لكل وحيد، لكل من تأخر زواجه، للمطلقة، لمن انشغل عنه أولاده، أو من يطلب الذرية",
+            "english": "'My Lord, do not leave me alone [with no heir], while you are the best of inheritors' - supplication for every lonely person, everyone whose marriage is delayed, divorcee, those whose children are busy, or seeking offspring"
+          },
+          "verse": {
+            "arabic": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+            "english": "My Lord, do not leave me alone [with no heir], while you are the best of inheritors"
+          },
+          "when": {
+            "arabic": "للوحدة، تأخر الزواج، تأخر الإنجاب، الشعور بالعزلة",
+            "english": "For loneliness, delayed marriage, delayed childbearing, feeling isolated"
+          },
+          "purpose": {
+            "arabic": "يُكرر كذكر يومي (33 مرة) بنية الأنس بالله وطلب الونس والحياة الطيبة - الله لا يترك عبده فرداً",
+            "english": "Repeat as daily remembrance (33 times) with intention of intimacy with Allah and seeking companionship and good life - Allah doesn't leave His servant alone"
+          }
+        }
+      ]
+    }
+  ],
+  "pillars": [],
+  "connections": []
+}

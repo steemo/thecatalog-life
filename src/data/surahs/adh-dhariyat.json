@@ -1,0 +1,452 @@
+{
+  "id": 51,
+  "slug": "adh-dhariyat",
+  "name": {
+    "arabic": "سورة الذاريات",
+    "english": "Surah Adh-Dhariyat",
+    "transliteration": "Adh-Dhariyat"
+  },
+  "metadata": {
+    "verses": 60,
+    "words": 360,
+    "type": "meccan",
+    "juz": "26-27",
+    "order": 51
+  },
+  "goal": {
+    "academic": {
+      "arabic": "إثبات البعث والجزاء، وبيان قدرة الله في الخلق والرزق، وتسلية النبي ﷺ بقصص الأنبياء.",
+      "english": "Establishing resurrection and recompense, showing Allah's power in creation and provision, and consoling the Prophet ﷺ with prophets' stories."
+    },
+    "psychological": {
+      "arabic": "نموذج دورة الإنتاج والتجارة: المواد الخام ← الإنتاج ← التسويق واللوجستيات - الاندماج في دورة الأرزاق المستمرة.",
+      "english": "Production and trade cycle model: raw materials ← production ← marketing and logistics - integrating into the continuous provision cycle."
+    },
+    "summary": {
+      "arabic": "سورة الذاريات هي دليل عملي للاندماج في دورة الأرزاق العالمية - من خلال الرياح الذاريات والسحاب الحاملات، تتعلم كيف تدخل في دورة الإنتاج والتجارة المستمرة.",
+      "english": "Surah Adh-Dhariyat is a practical guide for integrating into the global provision cycle - through the scattering winds and burden-bearing clouds, you learn how to enter the continuous production and trade cycle."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الذاريات", "english": "The Scattering Winds" },
+      "reason": {
+        "arabic": "سميت بالذاريات لافتتاحها بالقسم بالرياح الذاريات، وهي رمز لدورة الرزق المستمرة.",
+        "english": "Named after the opening oath by the scattering winds, which symbolize the continuous provision cycle."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "provision-verse",
+      "title": { "arabic": "آية الرزق المضمون", "english": "Guaranteed Provision Verse" },
+      "hadith": {
+        "arabic": "وفي السماء رزقكم وما توعدون - آية تؤكد أن الرزق مكتوب ومضمون في السماء، فاسعَ بقلب مطمئن.",
+        "english": "'And in the heaven is your provision and whatever you are promised' - verse confirming that provision is written and guaranteed in heaven, so strive with a tranquil heart."
+      }
+    }
+  ]
+,
+  "sections": [
+    {
+      "id": "intro",
+      "title": { "arabic": "المقدمة", "english": "Introduction" },
+      "verses": "1-6",
+      "description": {
+        "arabic": "القسم بالرياح والسحاب - دورة الرزق المستمرة",
+        "english": "Oath by winds and clouds - the continuous provision cycle"
+      }
+    },
+    {
+      "id": "provision-promise",
+      "title": { "arabic": "وعد الرزق", "english": "Provision Promise" },
+      "verses": "7-23",
+      "description": {
+        "arabic": "وفي السماء رزقكم وما توعدون - الرزق مضمون",
+        "english": "'And in the heaven is your provision and whatever you are promised' - provision is guaranteed"
+      }
+    },
+    {
+      "id": "prophets-stories",
+      "title": { "arabic": "قصص الأنبياء", "english": "Prophets' Stories" },
+      "verses": "24-46",
+      "description": {
+        "arabic": "إبراهيم، لوط، موسى، نوح - نماذج الرزق والابتلاء",
+        "english": "Ibrahim, Lut, Musa, Nuh - models of provision and trials"
+      }
+    },
+    {
+      "id": "creation-purpose",
+      "title": { "arabic": "الخلق للعبادة", "english": "Creation for Worship" },
+      "verses": "47-60",
+      "description": {
+        "arabic": "وما خلقت الجن والإنس إلا ليعبدون - الهدف الأساسي",
+        "english": "'And I did not create the jinn and mankind except to worship Me' - the primary purpose"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "category": "Academic Themes",
+      "themes": [
+        {
+          "id": "resurrection",
+          "title": { "arabic": "البعث والجزاء", "english": "Resurrection and Recompense" },
+          "icon": "RefreshCw",
+          "description": {
+            "arabic": "إنما توعدون لصادق * وإن الدين لواقع - البعث حق والجزاء واقع",
+            "english": "'Indeed, what you are promised is true. And indeed, the recompense is to occur' - resurrection is truth and recompense will happen"
+          }
+        },
+        {
+          "id": "provision-guarantee",
+          "title": { "arabic": "ضمان الرزق", "english": "Provision Guarantee" },
+          "icon": "Shield",
+          "description": {
+            "arabic": "وفي السماء رزقكم وما توعدون - رزقك مكتوب ومضمون عند الله 100%",
+            "english": "'And in the heaven is your provision and whatever you are promised' - your provision is written and guaranteed by Allah 100%"
+          }
+        },
+        {
+          "id": "worship-purpose",
+          "title": { "arabic": "الخلق للعبادة", "english": "Creation for Worship" },
+          "icon": "Heart",
+          "description": {
+            "arabic": "وما خلقت الجن والإنس إلا ليعبدون - الهدف الأساسي من الخلق هو العبادة لا جمع المال",
+            "english": "'And I did not create the jinn and mankind except to worship Me' - the primary purpose of creation is worship not accumulating wealth"
+          }
+        }
+      ]
+    }
+,
+    {
+      "category": "Psychological Pillars - Production & Trade Cycle",
+      "description": {
+        "arabic": "نموذج دورة الإنتاج والتجارة من خلال الرياح والسحاب: من المواد الخام إلى التوزيع العالمي",
+        "english": "Production and trade cycle model through winds and clouds: from raw materials to global distribution"
+      },
+      "themes": [
+        {
+          "id": "pillar-raw-materials",
+          "floor": 1,
+          "title": { "arabic": "المواد الخام", "english": "Raw Materials" },
+          "icon": "Box",
+          "description": {
+            "arabic": "والذاريات ذروًا - الرياح تذرو (تنشر) البذور والمواد الخام في كل مكان - ابحث عن المواد الخام المتاحة حولك",
+            "english": "'By those [winds] scattering [dust] dispersing' - winds scatter (spread) seeds and raw materials everywhere - search for available raw materials around you"
+          },
+          "verse": {
+            "arabic": "وَالذَّارِيَاتِ ذَرْوًا",
+            "english": "By those [winds] scattering [dust] dispersing"
+          },
+          "practical": {
+            "arabic": "المواد الخام حولك: معلومات، بيانات، مهارات، علاقات، موارد طبيعية - اجمعها واستثمرها",
+            "english": "Raw materials around you: information, data, skills, relationships, natural resources - collect and invest them"
+          }
+        },
+        {
+          "id": "pillar-production",
+          "floor": 2,
+          "title": { "arabic": "الإنتاج والتصنيع", "english": "Production and Manufacturing" },
+          "icon": "Settings",
+          "description": {
+            "arabic": "فالحاملات وقرًا - السحاب تحمل الماء (المادة الخام) وتحوله لمطر نافع - حوّل المواد الخام لمنتج نهائي",
+            "english": "'And those [clouds] carrying a load [of rain]' - clouds carry water (raw material) and transform it to beneficial rain - transform raw materials to final product"
+          },
+          "verse": {
+            "arabic": "فَالْحَامِلَاتِ وِقْرًا",
+            "english": "And those [clouds] carrying a load [of rain]"
+          },
+          "practical": {
+            "arabic": "الإنتاج: حوّل المعلومات لمحتوى، البيانات لتحليلات، المهارات لخدمات، الموارد لمنتجات",
+            "english": "Production: transform information to content, data to analytics, skills to services, resources to products"
+          }
+        },
+        {
+          "id": "pillar-distribution",
+          "floor": 3,
+          "title": { "arabic": "التوزيع واللوجستيات", "english": "Distribution and Logistics" },
+          "icon": "Truck",
+          "description": {
+            "arabic": "فالجاريات يسرًا - الرياح والسحاب تجري بيسر لتوصيل المطر لكل مكان - وزّع منتجك بكفاءة",
+            "english": "'And those [ships] sailing with ease' - winds and clouds flow easily to deliver rain everywhere - distribute your product efficiently"
+          },
+          "verse": {
+            "arabic": "فَالْجَارِيَاتِ يُسْرًا",
+            "english": "And those [ships] sailing with ease"
+          },
+          "practical": {
+            "arabic": "التوزيع: أونلاين (موقع، سوشيال ميديا)، أوفلاين (محلات، معارض)، شحن، خدمة عملاء",
+            "english": "Distribution: online (website, social media), offline (stores, exhibitions), shipping, customer service"
+          }
+        },
+        {
+          "id": "pillar-continuous-cycle",
+          "floor": 4,
+          "title": { "arabic": "الدورة المستمرة", "english": "Continuous Cycle" },
+          "icon": "Repeat",
+          "description": {
+            "arabic": "فالمقسمات أمرًا - الملائكة تقسم الأرزاق بأمر الله في دورة مستمرة - ادخل في دورة الأرزاق ولا تتوقف",
+            "english": "'And those [angels] apportioning [each] matter' - angels distribute provisions by Allah's command in continuous cycle - enter the provision cycle and don't stop"
+          },
+          "verse": {
+            "arabic": "فَالْمُقَسِّمَاتِ أَمْرًا",
+            "english": "And those [angels] apportioning [each] matter"
+          },
+          "practical": {
+            "arabic": "الدورة المستمرة: إنتاج ← بيع ← تطوير ← إنتاج جديد - لا تتوقف عند نجاح واحد",
+            "english": "Continuous cycle: production ← sale ← development ← new production - don't stop at one success"
+          }
+        }
+      ]
+    }
+  ]
+,
+  "lessons": [
+    {
+      "category": "General Lessons",
+      "lessons": [
+        {
+          "id": "provision-guaranteed",
+          "title": { "arabic": "الرزق مضمون", "english": "Provision is Guaranteed" },
+          "content": {
+            "arabic": "وفي السماء رزقكم وما توعدون - رزقك مكتوب ومضمون عند الله 100%، فاسعَ بقلب مطمئن ونفسية هادئة.",
+            "english": "'And in the heaven is your provision and whatever you are promised' - your provision is written and guaranteed by Allah 100%, so strive with a tranquil heart and calm psyche."
+          }
+        },
+        {
+          "id": "allah-provides",
+          "title": { "arabic": "الله هو الرزاق", "english": "Allah is the Provider" },
+          "content": {
+            "arabic": "ما أريد منهم من رزق وما أريد أن يطعمون * إن الله هو الرزاق ذو القوة المتين - الله لا يحتاج رزقك، بل هو الذي يرزقك.",
+            "english": "'I do not want from them any provision, nor do I want them to feed Me. Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength' - Allah doesn't need your provision, rather He provides for you."
+          }
+        },
+        {
+          "id": "worship-first",
+          "title": { "arabic": "العبادة أولاً", "english": "Worship First" },
+          "content": {
+            "arabic": "وما خلقت الجن والإنس إلا ليعبدون - الهدف الأساسي من الخلق هو العبادة، والرزق تابع لها لا العكس.",
+            "english": "'And I did not create the jinn and mankind except to worship Me' - the primary purpose of creation is worship, and provision follows it not vice versa."
+          }
+        },
+        {
+          "id": "strong-striving",
+          "title": { "arabic": "قوة السعي", "english": "Strength of Striving" },
+          "content": {
+            "arabic": "السعي بقوة (فامشوا في مناكبها، ضرب في الأرض) - بقدر قوة السعي المادي، تفتح أبواب الرزق المقدر.",
+            "english": "Striving with strength (walk in its paths, travel through the land) - to the extent of material striving strength, doors of destined provision open."
+          }
+        },
+        {
+          "id": "blockers",
+          "title": { "arabic": "موانع الأرزاق", "english": "Provision Blockers" },
+          "content": {
+            "arabic": "ثلاثة موانع: عدم تقوى الله (الذنوب تعطل الرزق)، عدم شكر النعمة (يوقف الزيادة)، حسد الناس (اعتراض على تقسيم الرزاق).",
+            "english": "Three blockers: lack of taqwa (sins block provision), lack of gratitude (stops increase), envying people (objecting to the Provider's distribution)."
+          }
+        }
+      ]
+    },
+    {
+      "category": "Story-Based Lessons",
+      "description": {
+        "arabic": "دروس عملية من قصص الأنبياء في السورة",
+        "english": "Practical lessons from prophets' stories in the Surah"
+      },
+      "lessons": [
+        {
+          "id": "ibrahim-hospitality",
+          "story": { "arabic": "قصة إبراهيم", "english": "Story of Ibrahim" },
+          "title": { "arabic": "كرم الضيافة", "english": "Generosity of Hospitality" },
+          "content": {
+            "arabic": "إذ دخلوا عليه فقالوا سلامًا قال سلام قوم منكرون * فراغ إلى أهله فجاء بعجل سمين - إبراهيم يكرم ضيوفه رغم أنهم غرباء.",
+            "english": "'When they entered upon him and said, \"Peace.\" He answered, \"Peace, [you are] a people unknown.\" Then he went to his family and came with a fat [roasted] calf' - Ibrahim honors his guests despite them being strangers."
+          },
+          "principle": {
+            "arabic": "الكرم والإنفاق يفتح أبواب الرزق - من أنفق في سبيل الله عوّضه الله خيرًا منه",
+            "english": "Generosity and spending open provision doors - whoever spends in Allah's way, Allah compensates them with better"
+          }
+        },
+        {
+          "id": "ibrahim-good-news",
+          "story": { "arabic": "قصة إبراهيم", "english": "Story of Ibrahim" },
+          "title": { "arabic": "البشارة بعد الكرم", "english": "Good News After Generosity" },
+          "content": {
+            "arabic": "بعد كرم إبراهيم للضيوف، بشّروه بغلام عليم (إسحاق) - الكرم يُكافأ بفتح أبواب جديدة.",
+            "english": "After Ibrahim's generosity to guests, they gave him good news of a learned boy (Ishaq) - generosity is rewarded with opening new doors."
+          },
+          "application": {
+            "arabic": "أنفق في سبيل الله وانتظر الفتح - الإنفاق استثمار في الرزق المستقبلي",
+            "english": "Spend in Allah's way and await the opening - spending is investment in future provision"
+          }
+        }
+,
+        {
+          "id": "musa-mission",
+          "story": { "arabic": "قصة موسى", "english": "Story of Musa" },
+          "title": { "arabic": "الرسالة قبل الرزق", "english": "Mission Before Provision" },
+          "content": {
+            "arabic": "وفي موسى إذ أرسلناه إلى فرعون بسلطان مبين - موسى أُرسل برسالة، والرزق تبع الرسالة.",
+            "english": "'And in Moses [was a sign], when We sent him to Pharaoh with clear authority' - Musa was sent with a mission, and provision followed the mission."
+          },
+          "principle": {
+            "arabic": "الرسالة أولاً ثم الرزق - من عنده رسالة واضحة، الله يفتح له أبواب الرزق",
+            "english": "Mission first then provision - whoever has a clear mission, Allah opens provision doors for them"
+          }
+        },
+        {
+          "id": "nuh-patience",
+          "story": { "arabic": "قصة نوح", "english": "Story of Nuh" },
+          "title": { "arabic": "الصبر الطويل", "english": "Long Patience" },
+          "content": {
+            "arabic": "وقوم نوح من قبل إنهم كانوا قومًا فاسقين - نوح دعا قومه 950 سنة، والرزق جاء بعد الصبر الطويل.",
+            "english": "'And [We destroyed] the people of Noah before; indeed, they were a people defiantly disobedient' - Nuh called his people for 950 years, and provision came after long patience."
+          },
+          "lesson": {
+            "arabic": "الصبر على الدعوة والرسالة يُكافأ بفتح مضاعف - لا تستعجل النتائج",
+            "english": "Patience in da'wah and mission is rewarded with multiplied opening - don't rush results"
+          }
+        },
+        {
+          "id": "winds-model",
+          "story": { "arabic": "نموذج الطبيعة", "english": "Nature Model" },
+          "title": { "arabic": "نموذج الرياح", "english": "Winds Model" },
+          "content": {
+            "arabic": "الذاريات ذروًا، الحاملات وقرًا، الجاريات يسرًا، المقسمات أمرًا - دورة كاملة من جمع المواد الخام للتوزيع.",
+            "english": "Scattering dispersing, carrying a load, sailing with ease, apportioning matter - complete cycle from collecting raw materials to distribution."
+          },
+          "application": {
+            "arabic": "ادخل في دورة الإنتاج والتجارة: اجمع المواد الخام ← أنتج ← وزّع ← كرر الدورة",
+            "english": "Enter the production and trade cycle: collect raw materials ← produce ← distribute ← repeat the cycle"
+          }
+        },
+        {
+          "id": "heaven-provision",
+          "story": { "arabic": "وعد الله", "english": "Allah's Promise" },
+          "title": { "arabic": "الرزق في السماء", "english": "Provision in Heaven" },
+          "content": {
+            "arabic": "وفي السماء رزقكم وما توعدون - رزقك مكتوب في السماء قبل أن تُخلق، فلا تقلق.",
+            "english": "'And in the heaven is your provision and whatever you are promised' - your provision is written in heaven before you were created, so don't worry."
+          },
+          "comfort": {
+            "arabic": "هذه الآية تُقرأ عند القلق المالي لتهدئة القلب - رزقك مضمون 100%",
+            "english": "This verse is recited during financial anxiety to calm the heart - your provision is 100% guaranteed"
+          }
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "category": "Spiritual Gems",
+      "gems": [
+        {
+          "id": "provision-promise",
+          "title": { "arabic": "وعد الرزق", "english": "Provision Promise" },
+          "content": {
+            "arabic": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ - رزقك مكتوب في السماء قبل أن تُخلق",
+            "english": "'And in the heaven is your provision and whatever you are promised' - your provision is written in heaven before you were created"
+          },
+          "verse": {
+            "arabic": "وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ",
+            "english": "And in the heaven is your provision and whatever you are promised"
+          }
+        },
+        {
+          "id": "allah-provider",
+          "title": { "arabic": "الله الرزاق", "english": "Allah the Provider" },
+          "content": {
+            "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ - الله هو الرزاق، لا تذل نفسك لأحد",
+            "english": "'Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength' - Allah is the Provider, don't humiliate yourself to anyone"
+          },
+          "verse": {
+            "arabic": "إِنَّ اللَّهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَتِينُ",
+            "english": "Indeed, it is Allah who is the [continual] Provider, the firm possessor of strength"
+          }
+        },
+        {
+          "id": "worship-purpose",
+          "title": { "arabic": "الخلق للعبادة", "english": "Creation for Worship" },
+          "content": {
+            "arabic": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ - الهدف الأساسي هو العبادة لا جمع المال",
+            "english": "'And I did not create the jinn and mankind except to worship Me' - the primary purpose is worship not accumulating wealth"
+          },
+          "verse": {
+            "arabic": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+            "english": "And I did not create the jinn and mankind except to worship Me"
+          }
+        }
+      ]
+    }
+,
+    {
+      "category": "Practical Gems",
+      "description": {
+        "arabic": "أدعية وتوجيهات عملية للاندماج في دورة الأرزاق",
+        "english": "Practical supplications and guidance for integrating into the provision cycle"
+      },
+      "gems": [
+        {
+          "id": "musa-provision-dua",
+          "title": { "arabic": "دعاء موسى للرزق", "english": "Musa's Provision Supplication" },
+          "content": {
+            "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ - دعاء يجمع بين الحمد والافتقار",
+            "english": "'My Lord, indeed I am, for whatever good You would send down to me, in need' - supplication combining gratitude and need"
+          },
+          "verse": {
+            "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+            "english": "My Lord, indeed I am, for whatever good You would send down to me, in need"
+          },
+          "when": {
+            "arabic": "عند الضيق المالي أو إغلاق أبواب الرزق",
+            "english": "When to use: During financial hardship or closure of provision doors"
+          },
+          "purpose": {
+            "arabic": "الحمد: اعتراف بالنعم الحالية | الافتقار: إعلان الاحتياج لعطاء الله الجديد | النتيجة: فتح أبواب رزق جديدة",
+            "english": "Gratitude: acknowledging current blessings | Need: declaring need for Allah's new provision | Result: opening new provision doors"
+          }
+        },
+        {
+          "id": "production-cycle-exercise",
+          "title": { "arabic": "تمرين دورة الإنتاج", "english": "Production Cycle Exercise" },
+          "content": {
+            "arabic": "حدد مشروعك أو عملك، ثم اكتب: 1) المواد الخام المتاحة 2) عملية الإنتاج 3) قنوات التوزيع 4) كيف تكرر الدورة",
+            "english": "Identify your project or work, then write: 1) Available raw materials 2) Production process 3) Distribution channels 4) How to repeat the cycle"
+          },
+          "when": {
+            "arabic": "عند التخطيط لمشروع جديد أو تطوير عمل حالي",
+            "english": "When to use: When planning a new project or developing current work"
+          }
+        },
+        {
+          "id": "trade-integration",
+          "title": { "arabic": "الاندماج في التجارة", "english": "Trade Integration" },
+          "content": {
+            "arabic": "ارمِ نفسك في مهنة حيوية مرتبطة بحركة الحياة اليومية ودورة الغذاء والتجارة العالمية - لا تعزل نفسك",
+            "english": "Throw yourself into a vital profession connected to daily life movement and the global food and trade cycle - don't isolate yourself"
+          },
+          "when": {
+            "arabic": "عند اختيار مهنة أو مجال عمل جديد",
+            "english": "When to use: When choosing a profession or new work field"
+          }
+        },
+        {
+          "id": "heaven-provision-reminder",
+          "title": { "arabic": "تذكير الرزق السماوي", "english": "Heaven Provision Reminder" },
+          "content": {
+            "arabic": "عند القلق المالي، كرر: 'وفي السماء رزقي وما أوعد' - رزقك مكتوب ومضمون، فاسعَ بقلب مطمئن",
+            "english": "During financial anxiety, repeat: 'And in the heaven is my provision and what I am promised' - your provision is written and guaranteed, so strive with a tranquil heart"
+          },
+          "when": {
+            "arabic": "عند الشعور بالقلق المالي أو الخوف من المستقبل",
+            "english": "When to use: When feeling financial anxiety or fear of the future"
+          }
+        }
+      ]
+    }
+  ],
+  "pillars": [],
+  "connections": []
+}

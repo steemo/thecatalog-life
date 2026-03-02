@@ -1,0 +1,554 @@
+{
+  "id": 20,
+  "slug": "taha",
+  "name": {
+    "arabic": "سورة طه",
+    "english": "Surah Taha",
+    "transliteration": "Taha"
+  },
+  "metadata": {
+    "verses": 135,
+    "words": 1432,
+    "type": "meccan",
+    "juz": "16",
+    "order": 20
+  },
+  "goal": {
+    "academic": {
+      "arabic": "بيان أن القرآن ليس للشقاء بل للهداية والطمأنينة، وتثبيت النبي ﷺ والمؤمنين من خلال قصة موسى عليه السلام مع فرعون.",
+      "english": "Clarifying that the Quran is not for hardship but for guidance and tranquility, and strengthening the Prophet ﷺ and believers through the story of Musa (peace be upon him) with Pharaoh."
+    },
+    "psychological": {
+      "arabic": "فهم حكمة إغلاق الأبواب في الحياة - ليس غضبًا من الله بل تجهيزًا وتحريكًا لمساحة أوسع، مع تعليم الصبر والثقة بالله عند طول الانتظار.",
+      "english": "Understanding the wisdom of closed doors in life - not Allah's anger but preparation and movement to a wider space, while teaching patience and trust in Allah during long waiting periods."
+    },
+    "summary": {
+      "arabic": "سورة طه تجيب على سؤال: لماذا تُغلق الأبواب؟ من خلال ثلاث قصص (موسى، السحرة، السامري) تُظهر أن الإغلاق قد يكون للتجهيز، أو لفتح باب أعظم إلى الله، أو اختبارًا لعدم اللجوء للحرام.",
+      "english": "Surah Taha answers the question: Why do doors close? Through three stories (Musa, the Magicians, Samiri) showing that closure may be for preparation, opening a greater door to Allah, or a test not to resort to haram."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة طه", "english": "Taha" },
+      "reason": {
+        "arabic": "سميت بالحرفين المقطعين في أول السورة، وهي من الحروف التي استأثر الله بعلمها.",
+        "english": "Named after the disconnected letters at the beginning of the Surah, letters whose knowledge Allah has kept to Himself."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "umar-conversion",
+      "title": { "arabic": "سبب إسلام عمر", "english": "Cause of Umar's Conversion" },
+      "hadith": {
+        "arabic": "كانت سورة طه سببًا في إسلام عمر بن الخطاب رضي الله عنه، حيث قرأ أولها فقال: ما هذا الكلام؟ دلوني على رسول الله.",
+        "english": "Surah Taha was the reason for Umar ibn Al-Khattab's conversion to Islam. When he read its beginning, he said: 'What is this speech? Guide me to the Messenger of Allah.'"
+      }
+    },
+    {
+      "id": "not-for-hardship",
+      "title": { "arabic": "القرآن ليس للشقاء", "english": "Quran Not for Hardship" },
+      "hadith": {
+        "arabic": "طه ما أنزلنا عليك القرآن لتشقى - الدين جاء ليكون سبب سعادة وطمأنينة، لا سبب نكد وشقاء.",
+        "english": "'Taha. We have not sent down to you the Quran that you be distressed' - Religion came to be a cause of happiness and tranquility, not distress and hardship."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": { "arabic": "المقدمة", "english": "Introduction" },
+      "verses": "1-8",
+      "description": {
+        "arabic": "القرآن ليس للشقاء، والتعريف بالله العظيم",
+        "english": "The Quran is not for hardship, and introduction to Allah the Almighty"
+      }
+    },
+    {
+      "id": "musa-story",
+      "title": { "arabic": "قصة موسى", "english": "Story of Musa" },
+      "verses": "9-98",
+      "description": {
+        "arabic": "من الولادة إلى النبوة، المواجهة مع فرعون، والسحرة",
+        "english": "From birth to prophethood, confrontation with Pharaoh, and the magicians"
+      }
+    },
+    {
+      "id": "samiri",
+      "title": { "arabic": "قصة السامري", "english": "Story of Samiri" },
+      "verses": "83-98",
+      "description": {
+        "arabic": "صناعة العجل وعبادته في غياب موسى",
+        "english": "Making the calf and worshipping it in Musa's absence"
+      }
+    },
+    {
+      "id": "qiyamah",
+      "title": { "arabic": "مشاهد القيامة", "english": "Scenes of Resurrection" },
+      "verses": "99-112",
+      "description": {
+        "arabic": "تهوين الدنيا وتخفيف ثقل الإغلاق",
+        "english": "Minimizing worldly life and lightening the burden of closure"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": { "arabic": "الخاتمة", "english": "Conclusion" },
+      "verses": "113-135",
+      "description": {
+        "arabic": "التوجيهات العملية: الصبر، الذكر، وعدم الحسد",
+        "english": "Practical guidance: patience, remembrance, and avoiding envy"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "category": "Academic Themes",
+      "themes": [
+        {
+          "id": "quran-purpose",
+          "title": { "arabic": "القرآن للهداية", "english": "Quran for Guidance" },
+          "icon": "BookOpen",
+          "description": {
+            "arabic": "ما أنزلنا عليك القرآن لتشقى - لا صدام بين التدين والحياة العملية والنجاح",
+            "english": "'We have not sent down the Quran upon you to cause you distress' - No conflict between religiosity and practical life and success"
+          }
+        },
+        {
+          "id": "divine-names",
+          "title": { "arabic": "أسماء الله", "english": "Names of Allah" },
+          "icon": "Star",
+          "description": {
+            "arabic": "له ما في السماوات وما في الأرض... يعلم السر وأخفى - التعريف بعظمة الله وعلمه",
+            "english": "'To Him belongs what is in the heavens and on earth... He knows what is secret and what is yet more hidden' - Introducing Allah's greatness and knowledge"
+          }
+        },
+        {
+          "id": "prophetic-stories",
+          "title": { "arabic": "قصص الأنبياء", "english": "Prophetic Stories" },
+          "icon": "Users",
+          "description": {
+            "arabic": "قصة موسى من الولادة للنبوة، السحرة، السامري - نماذج للتعلم",
+            "english": "Story of Musa from birth to prophethood, magicians, Samiri - models for learning"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Psychological Pillars - Why Doors Close",
+      "description": {
+        "arabic": "فهم حكمة إغلاق الأبواب: ليس غضبًا بل تجهيزًا وتحريكًا ونقلة لمساحة أوسع",
+        "english": "Understanding the wisdom of closed doors: not anger but preparation, movement, and transition to a wider space"
+      },
+      "themes": [
+        {
+          "id": "pillar-movement",
+          "floor": 1,
+          "title": { "arabic": "الإغلاق للتحريك", "english": "Closure for Movement" },
+          "icon": "Move",
+          "description": {
+            "arabic": "ربنا بيقفل الأبواب عشان يحركك من الـ comfort zone لمستوى جديد أوسع في حياتك وشخصيتك",
+            "english": "Allah closes doors to move you from your comfort zone to a new, wider level in your life and personality"
+          },
+          "verse": {
+            "arabic": "إنما يضيق عليك القدر ضيقًا ليدفعك دفعًا إلى قدر جديد أوسع لك",
+            "english": "Fate only constricts you to push you forcefully to a new, wider fate for you"
+          },
+          "practical": {
+            "arabic": "الإنسان بطبيعته يحب الثبات ولا يريد التحرك - الإغلاق رحمة لإجبارك على النمو",
+            "english": "Humans naturally love stability and don't want to move - closure is mercy to force you to grow"
+          }
+        },
+        {
+          "id": "pillar-preparation",
+          "floor": 2,
+          "title": { "arabic": "الإغلاق للتجهيز", "english": "Closure for Preparation" },
+          "icon": "Clock",
+          "description": {
+            "arabic": "لسه ما استوتش - محتاج وقت تنضج، تتربى، وتستعد للمسؤولية اللي جاية",
+            "english": "'Not yet mature' - you need time to ripen, be nurtured, and prepare for the coming responsibility"
+          },
+          "verse": {
+            "arabic": "وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَىٰ",
+            "english": "'And I have chosen you, so listen to what is revealed'"
+          },
+          "practical": {
+            "arabic": "لما تستوي وتجهز، بنفسك تلاقي الأبواب بتتفتح - الإغلاق تربية لا إهانة",
+            "english": "When you mature and are ready, you'll find doors opening by themselves - closure is nurturing, not humiliation"
+          }
+        },
+        {
+          "id": "pillar-divine-door",
+          "floor": 3,
+          "title": { "arabic": "إغلاق الدنيا وفتح باب الله", "english": "Worldly Closure, Divine Opening" },
+          "icon": "Heart",
+          "description": {
+            "arabic": "لو اتقفلت أبواب الدنيا كلها وتفتح لك باب معرفة الله ومحبته، فقد فُتحت لك أبواب الدنيا والآخرة معًا",
+            "english": "If all worldly doors close but the door of knowing and loving Allah opens, then both worldly and hereafter doors have opened for you"
+          },
+          "verse": {
+            "arabic": "لَن نُّؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ",
+            "english": "'We will never prefer you over what has come to us of clear proofs'"
+          },
+          "practical": {
+            "arabic": "ماذا فقد من وجدك، وماذا وجد من فقدك - من وجد الله فقد وجد كل شيء",
+            "english": "What has he lost who found You, and what has he found who lost You - whoever finds Allah has found everything"
+          }
+        },
+        {
+          "id": "pillar-wrong-response",
+          "floor": 4,
+          "title": { "arabic": "خطورة الرد الخاطئ", "english": "Danger of Wrong Response" },
+          "icon": "AlertTriangle",
+          "description": {
+            "arabic": "إذا طال عليك إغلاق الأبواب، أوعى تلجأ للحرام أو الانتقام أو تخريب حياة الآخرين",
+            "english": "If door closure prolongs, never resort to haram, revenge, or destroying others' lives"
+          },
+          "verse": {
+            "arabic": "اذْهَبْ فَإِنَّ لَكَ فِي الْحَيَاةِ أَن تَقُولَ لَا مِسَاسَ",
+            "english": "'Go, for indeed, it is [decreed] for you in [this] life to say: No contact'"
+          },
+          "practical": {
+            "arabic": "السامري: موهبة عظيمة تحولت لإفساد بسبب طول الانتظار واللجوء للحرام - النتيجة: إغلاق نهائي",
+            "english": "Samiri: great talent turned to corruption due to long waiting and resorting to haram - result: permanent closure"
+          }
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "category": "General Lessons",
+      "lessons": [
+        {
+          "id": "change-question",
+          "title": { "arabic": "غيّر السؤال", "english": "Change the Question" },
+          "content": {
+            "arabic": "بدل ما تسأل 'ليه يا رب؟' اسأل 'يا رب اديني دليل... فهمني حكمتك وطمني إنك راضي عني'",
+            "english": "Instead of asking 'Why, O Lord?' ask 'O Lord, give me a sign... help me understand Your wisdom and reassure me that You are pleased with me'"
+          }
+        },
+        {
+          "id": "life-is-short",
+          "title": { "arabic": "الدنيا قصيرة", "english": "Life is Short" },
+          "content": {
+            "arabic": "يوم القيامة: إن لبثتم إلا عشرًا... بل إن لبثتم إلا يومًا - لا تكبّر موضوع الإغلاق، الدنيا في نظر الآخرة لا شيء",
+            "english": "Day of Resurrection: 'You stayed not but ten... rather you stayed not but one day' - don't magnify closure, this life is nothing compared to the hereafter"
+          }
+        },
+        {
+          "id": "no-conflict",
+          "title": { "arabic": "لا صدام بين الدين والحياة", "english": "No Conflict Between Religion and Life" },
+          "content": {
+            "arabic": "طه ما أنزلنا عليك القرآن لتشقى - الدين مش جاي يمصّ دمك، بل ليكون سبب سعادة ونجاح",
+            "english": "'Taha. We have not sent down the Quran upon you to cause you distress' - religion didn't come to drain you, but to be a cause of happiness and success"
+          }
+        },
+        {
+          "id": "patience-worship",
+          "title": { "arabic": "الصبر والعبادة", "english": "Patience and Worship" },
+          "content": {
+            "arabic": "فاصبر على ما يقولون وسبح بحمد ربك - الإغلاق يُعالج بالصبر وكثرة التسبيح والذكر على مدار اليوم",
+            "english": "'So be patient over what they say and exalt [Allah] with praise of your Lord' - closure is treated with patience and abundant glorification and remembrance throughout the day"
+          }
+        },
+        {
+          "id": "dont-envy",
+          "title": { "arabic": "لا تحسد", "english": "Don't Envy" },
+          "content": {
+            "arabic": "ولا تمدن عينيك إلى ما متعنا به أزواجًا منهم - لا تنظر لمن فُتحت لهم أبواب الدنيا، رزق ربك خير وأبقى",
+            "english": "'And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them' - don't look at those whose worldly doors opened, your Lord's provision is better and more lasting"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Story-Based Lessons",
+      "description": {
+        "arabic": "دروس عملية من القصص الثلاث الكبرى في السورة: موسى، السحرة، والسامري",
+        "english": "Practical lessons from the three major stories in the Surah: Musa, the Magicians, and Samiri"
+      },
+      "lessons": [
+        {
+          "id": "musa-20-years",
+          "story": "Musa",
+          "title": { "arabic": "عشرون سنة إعداد", "english": "Twenty Years of Preparation" },
+          "content": {
+            "arabic": "موسى عاش 20 سنة كأن الدنيا مقفولة: مطاردة، إلقاء في البحر، تربية في بيت فرعون، هروب لمدين 10 سنين - كل ده كان إعداد لـ'كليم الله'",
+            "english": "Musa lived 20 years as if the world was closed: pursuit, thrown in the river, raised in Pharaoh's house, escape to Midian for 10 years - all this was preparation for 'the one who spoke to Allah'"
+          },
+          "principle": {
+            "arabic": "الإغلاق الظاهري قد يكون إعدادًا لشخصية عظيمة ومهمة كبيرة",
+            "english": "Apparent closure may be preparation for a great personality and major mission"
+          }
+        },
+        {
+          "id": "musa-darkest-moment",
+          "story": "Musa",
+          "title": { "arabic": "أشد لحظات الظلام", "english": "Darkest Moment" },
+          "content": {
+            "arabic": "لحظة الفتح جاءت في أقصى لحظة ظلام: ليل، برد، صحراء، تيه، فيرى نارًا - رايح يدور على نار فيرجع نبي",
+            "english": "The moment of opening came at the darkest moment: night, cold, desert, lost, then he sees a fire - went looking for fire and returned a prophet"
+          },
+          "lesson": {
+            "arabic": "أشد لحظات الظلام قد تكون هي لحظة الفتح، والفتح غالبًا قريب جدًا وأنت مش واخد بالك",
+            "english": "The darkest moments may be the moment of opening, and the opening is often very close and you're not aware"
+          }
+        },
+        {
+          "id": "musa-chosen",
+          "story": "Musa",
+          "title": { "arabic": "وأنا اخترتك", "english": "And I Have Chosen You" },
+          "content": {
+            "arabic": "ربنا قال لموسى: وأنا اخترتك فاستمع لما يوحى - إغلاق السنين كان لأن ربنا 'بيختاره' لمهمة عظيمة",
+            "english": "Allah said to Musa: 'And I have chosen you, so listen to what is revealed' - years of closure were because Allah was 'choosing him' for a great mission"
+          },
+          "application": {
+            "arabic": "كل واحد في حياته عنده اختيار خاص من ربنا: لموهبة، لخدمة، لمهمة معينة - علم، دعوة، تربية، عمل نافع",
+            "english": "Everyone in their life has a special selection from Allah: for a talent, service, specific mission - knowledge, da'wah, nurturing, beneficial work"
+          }
+        },
+        {
+          "id": "musa-8-requests",
+          "story": "Musa",
+          "title": { "arabic": "ثمانية طلبات دفعة واحدة", "english": "Eight Requests at Once" },
+          "content": {
+            "arabic": "موسى طلب 8 طلبات (رب اشرح لي صدري، ويسر لي أمري... الخ) وربنا أجابها كلها دفعة واحدة: قد أوتيت سؤلك يا موسى",
+            "english": "Musa requested 8 things (Lord, expand my breast, ease my task... etc.) and Allah answered them all at once: 'You have been granted your request, O Musa'"
+          },
+          "principle": {
+            "arabic": "بعد الاختيار والإعداد، ربنا يفتح متتاليات من الفتح - الصبر يُكافأ بفتح مضاعف",
+            "english": "After selection and preparation, Allah opens sequences of openings - patience is rewarded with multiplied opening"
+          }
+        },
+        {
+          "id": "musa-flashback",
+          "story": "Musa",
+          "title": { "arabic": "الفلاش باك", "english": "The Flashback" },
+          "content": {
+            "arabic": "ربنا ذكّر موسى بكل تفاصيل حياته: إلهام الأم، رميه في اليم، وصوله لبيت فرعون، إلقاء المحبة عليه: ولتصنع على عيني",
+            "english": "Allah reminded Musa of all his life details: inspiring his mother, throwing him in the river, reaching Pharaoh's house, casting love upon him: 'And that you would be brought up under My eye'"
+          },
+          "application": {
+            "arabic": "أعد قراءة حياتك أنت كمان - الأبواب المغلقة السابقة كانت إعدادًا لقدَر جديد - ربنا رباك بنفسه في مواقف معينة",
+            "english": "Re-read your life too - previously closed doors were preparation for a new destiny - Allah nurtured you Himself in certain situations"
+          }
+        },
+        {
+          "id": "musa-staff",
+          "story": "Musa",
+          "title": { "arabic": "وما تلك بيمينك", "english": "What is That in Your Right Hand" },
+          "content": {
+            "arabic": "وسط الكلام عن فرعون والرسالة، ربنا يسأل: وما تلك بيمينك يا موسى - فيرد: هي عصاي... ولي فيها مآرب أخرى",
+            "english": "Amidst talk about Pharaoh and the message, Allah asks: 'And what is that in your right hand, O Musa' - he replies: 'It is my staff... and I have other uses for it'"
+          },
+          "lesson": {
+            "arabic": "أحيانًا يكون في يدك/جواك 'أداة الفتح' (موهبة، مهارة، علاقة، علم) وأنت مش واخد بالك - بص كويس إنت ماسك إيه",
+            "english": "Sometimes you have in your hand/within you 'the tool of opening' (talent, skill, relationship, knowledge) and you're not aware - look carefully at what you're holding"
+          }
+        },
+        {
+          "id": "magicians-worldly-closure",
+          "story": "Magicians",
+          "title": { "arabic": "إغلاق الدنيا كلها", "english": "All Worldly Doors Closed" },
+          "content": {
+            "arabic": "سحرة فرعون: مهنة رديئة، حياة سحر وخداع، ثم تهديد بالقتل والتقطيع والصلب - أبواب الدنيا كلها اتقفلت (10,000 ساحر)",
+            "english": "Pharaoh's magicians: bad profession, life of magic and deception, then threat of killing, cutting, and crucifixion - all worldly doors closed (10,000 magicians)"
+          },
+          "verse": {
+            "arabic": "لَن نُّؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا فَاقْضِ مَا أَنتَ قَاضٍ",
+            "english": "'We will never prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree'"
+          }
+        },
+        {
+          "id": "magicians-divine-opening",
+          "story": "Magicians",
+          "title": { "arabic": "فتح باب الله", "english": "Allah's Door Opens" },
+          "content": {
+            "arabic": "لكنهم ذاقوا 'فتح باب الإيمان بالله' - لو اتقفلت أبواب الدنيا كلها وتفتح لك باب معرفة الله ومحبته، فقد فُتحت لك أبواب الدنيا والآخرة معًا",
+            "english": "But they tasted 'the opening of the door of faith in Allah' - if all worldly doors close but the door of knowing and loving Allah opens, then both worldly and hereafter doors have opened for you"
+          },
+          "principle": {
+            "arabic": "ماذا فقد من وجدك، وماذا وجد من فقدك - من وجد الله فقد وجد كل شيء، ومن فقده فقد فقد كل شيء",
+            "english": "What has he lost who found You, and what has he found who lost You - whoever finds Allah has found everything, and whoever loses Him has lost everything"
+          }
+        },
+        {
+          "id": "samiri-talented-youth",
+          "story": "Samiri",
+          "title": { "arabic": "شاب موهوب مكبوت", "english": "Talented Suppressed Youth" },
+          "content": {
+            "arabic": "السامري شاب موهوب جدًا (نحات بارع) من بني إسرائيل، موهبته مكبوتة ومضطهد بسبب فرعون - طال عليه إغلاق الأبواب",
+            "english": "Samiri was a very talented youth (skilled sculptor) from Bani Israel, his talent suppressed and oppressed because of Pharaoh - door closure prolonged for him"
+          }
+        },
+        {
+          "id": "samiri-wrong-choice",
+          "story": "Samiri",
+          "title": { "arabic": "الاختيار الخاطئ", "english": "The Wrong Choice" },
+          "content": {
+            "arabic": "اختار طريق الفساد: استغل غياب موسى، جمع حلي النساء، وصنع لهم عجلًا له خوار فعبدوه - انقلبت الموهبة إلى إفساد",
+            "english": "He chose the path of corruption: exploited Musa's absence, collected women's jewelry, made them a calf that lowed so they worshipped it - talent turned to corruption"
+          },
+          "verse": {
+            "arabic": "اذْهَبْ فَإِنَّ لَكَ فِي الْحَيَاةِ أَن تَقُولَ لَا مِسَاسَ",
+            "english": "'Go, for indeed, it is [decreed] for you in [this] life to say: No contact'"
+          }
+        },
+        {
+          "id": "samiri-warning",
+          "story": "Samiri",
+          "title": { "arabic": "تحذير السامري", "english": "Samiri's Warning" },
+          "content": {
+            "arabic": "النتيجة: غُلقت أبوابه نهائيًا - إذا طال عليك إغلاق الأبواب، أوعى تلجأ للحرام، أو الانتقام، أو تخريب حياة الآخرين، أو سلوك منحرف",
+            "english": "Result: his doors closed permanently - if door closure prolongs for you, never resort to haram, revenge, destroying others' lives, or deviant behavior"
+          },
+          "warning": {
+            "arabic": "الموهبة المستخدمة في الحرام = إغلاق نهائي ودائم",
+            "english": "Talent used in haram = permanent and final closure"
+          }
+        }
+      ]
+    }
+  ]
+,
+  "gems": [
+    {
+      "category": "Spiritual Gems",
+      "description": {
+        "arabic": "لطائف روحية من السورة للطمأنينة والتقرب إلى الله",
+        "english": "Spiritual gems from the Surah for tranquility and drawing closer to Allah"
+      },
+      "gems": [
+        {
+          "id": "opening-verse",
+          "title": { "arabic": "القرآن ليس للشقاء", "english": "Quran Not for Hardship" },
+          "content": {
+            "arabic": "طه ما أنزلنا عليك القرآن لتشقى - الدين جاء ليكون سبب سعادة وطمأنينة، لا سبب نكد وشقاء في الحياة",
+            "english": "'Taha. We have not sent down the Quran upon you to cause you distress' - religion came to be a cause of happiness and tranquility, not distress and hardship in life"
+          },
+          "verse": {
+            "arabic": "طه ۝ مَا أَنزَلْنَا عَلَيْكَ الْقُرْآنَ لِتَشْقَىٰ",
+            "english": "Taha. We have not sent down to you the Quran that you be distressed"
+          }
+        },
+        {
+          "id": "divine-knowledge",
+          "title": { "arabic": "علم الله المطلق", "english": "Allah's Absolute Knowledge" },
+          "content": {
+            "arabic": "له ما في السماوات وما في الأرض وما بينهما وما تحت الثرى... يعلم السر وأخفى - هذه الآيات كانت سبب إسلام عمر بن الخطاب",
+            "english": "'To Him belongs what is in the heavens and on earth and what is between them and what is under the soil... He knows what is secret and what is yet more hidden' - these verses were the reason for Umar ibn Al-Khattab's conversion"
+          },
+          "verse": {
+            "arabic": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِ عِلْمًا",
+            "english": "He knows what is [presently] before them and what will be after them, but they do not encompass it in knowledge"
+          }
+        },
+        {
+          "id": "qiyamah-perspective",
+          "title": { "arabic": "منظور القيامة", "english": "Resurrection Perspective" },
+          "content": {
+            "arabic": "يوم ينفخ في الصور... يتخافتون بينهم إن لبثتم إلا عشرًا... بل إن لبثتم إلا يومًا - الدنيا في نظر الآخرة لا شيء، لا تكبّر موضوع الإغلاق",
+            "english": "'The Day the Horn is blown... they will murmur among themselves, You remained not but ten... Rather, you remained not but one day' - this life is nothing compared to the hereafter, don't magnify closure"
+          },
+          "purpose": {
+            "arabic": "تهوين الدنيا وتخفيف ثقل الإغلاق - لو طال عليك الإغلاق، افتكر إن الدنيا قصيرة جدًا",
+            "english": "Minimizing worldly life and lightening the burden of closure - if closure prolongs, remember that this life is very short"
+          }
+        },
+        {
+          "id": "divine-nurturing",
+          "title": { "arabic": "ولتصنع على عيني", "english": "Brought Up Under My Eye" },
+          "content": {
+            "arabic": "ربنا قال لموسى: ولتصنع على عيني - ربنا بيربي عباده بنفسه في مواقف معينة، سمي الرب 'ربًا' لأنه يربي",
+            "english": "Allah said to Musa: 'And that you would be brought up under My eye' - Allah nurtures His servants Himself in certain situations, He is called 'Rabb' because He nurtures"
+          },
+          "verse": {
+            "arabic": "وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّي وَلِتُصْنَعَ عَلَىٰ عَيْنِي",
+            "english": "And I bestowed upon you love from Me that you would be brought up under My eye"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Practical Gems",
+      "description": {
+        "arabic": "أدعية وتوجيهات عملية للاستخدام في المواقف الصعبة",
+        "english": "Practical supplications and guidance for use in difficult situations"
+      },
+      "gems": [
+        {
+          "id": "musa-dua",
+          "title": { "arabic": "دعاء موسى الشامل", "english": "Musa's Comprehensive Supplication" },
+          "content": {
+            "arabic": "رب اشرح لي صدري ويسر لي أمري واحلل عقدة من لساني يفقهوا قولي - دعاء عملي لكل موقف صعب: إنترفيو، بريزنتيشن، مناقشة، محكمة، لقاء مهم",
+            "english": "'My Lord, expand for me my breast, ease for me my task, and untie the knot from my tongue that they may understand my speech' - practical supplication for every difficult situation: interview, presentation, discussion, court, important meeting"
+          },
+          "verse": {
+            "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي ۝ وَيَسِّرْ لِي أَمْرِي ۝ وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي ۝ يَفْقَهُوا قَوْلِي",
+            "english": "My Lord, expand for me my breast [with assurance]. And ease for me my task. And untie the knot from my tongue. That they may understand my speech"
+          },
+          "when": {
+            "arabic": "قبل أي موقف مهم: امتحان، مقابلة عمل، عرض تقديمي، مواجهة شخص صعب، تصوير، محاضرة، مناقشة علمية",
+            "english": "Before any important situation: exam, job interview, presentation, confronting a difficult person, filming, lecture, academic discussion"
+          },
+          "purpose": {
+            "arabic": "1) اشرح لي صدري → هدوء داخلي وانعكاس على الوجه (first impression) | 2) ويسر لي أمري → سهولة اللقاء وعدم توتر | 3) واحلل عقدة من لساني → كلام واضح حكيم موزون | 4) يفقهوا قولي → الطرف الآخر يستقبل ويفهم ويقتنع",
+            "english": "1) Expand my breast → inner calm reflected on face (first impression) | 2) Ease my task → easy meeting without tension | 3) Untie knot from tongue → clear, wise, balanced speech | 4) They understand my speech → other party receives, understands, and is convinced"
+          }
+        },
+        {
+          "id": "increase-worship",
+          "title": { "arabic": "زوّد العبادة", "english": "Increase Worship" },
+          "content": {
+            "arabic": "فاصبر على ما يقولون وسبح بحمد ربك قبل طلوع الشمس وقبل غروبها ومن آناء الليل فسبح وأطراف النهار لعلك ترضى",
+            "english": "'So be patient over what they say and exalt [Allah] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied'"
+          },
+          "when": {
+            "arabic": "عند إغلاق الأبواب وطول الانتظار - زوّد الذكر والتسبيح على مدار اليوم",
+            "english": "When doors close and waiting prolongs - increase remembrance and glorification throughout the day"
+          },
+          "purpose": {
+            "arabic": "الإغلاق يُعالج بالصبر + كثرة التسبيح والذكر - العبادة توسع الصدر وتخفف الضيق",
+            "english": "Closure is treated with patience + abundant glorification and remembrance - worship expands the chest and relieves distress"
+          }
+        },
+        {
+          "id": "dont-compare",
+          "title": { "arabic": "لا تمد عينيك", "english": "Don't Extend Your Eyes" },
+          "content": {
+            "arabic": "ولا تمدن عينيك إلى ما متعنا به أزواجًا منهم زهرة الحياة الدنيا لنفتنهم فيه ورزق ربك خير وأبقى",
+            "english": "'And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring'"
+          },
+          "when": {
+            "arabic": "عندما ترى من فُتحت لهم أبواب الدنيا وتشعر بالحسد أو تقول 'اشمعنى أنا؟'",
+            "english": "When you see those whose worldly doors opened and feel envy or say 'Why not me?'"
+          },
+          "purpose": {
+            "arabic": "لا تنظر لمن فُتحت لهم أبواب الدنيا - رزق ربك وخطته لك أحسن وأبقى - كل واحد عنده اختيار خاص من ربنا",
+            "english": "Don't look at those whose worldly doors opened - your Lord's provision and plan for you is better and more lasting - everyone has a special selection from Allah"
+          }
+        },
+        {
+          "id": "family-prayer",
+          "title": { "arabic": "أمر أهلك بالصلاة", "english": "Command Your Family to Pray" },
+          "content": {
+            "arabic": "وأمر أهلك بالصلاة واصطبر عليها لا نسألك رزقًا نحن نرزقك والعاقبة للتقوى",
+            "english": "'And enjoin prayer upon your family [and people] and be steadfast therein. We ask you not for provision; We provide for you, and the [best] outcome is for [those of] righteousness'"
+          },
+          "when": {
+            "arabic": "عند الضيق المالي أو إغلاق أبواب الرزق - ركّز في العبادة والمسؤولية تجاه أهلك",
+            "english": "During financial hardship or closure of provision doors - focus on worship and responsibility toward your family"
+          },
+          "purpose": {
+            "arabic": "صلِّ ومرّن أهل بيتك على الصلاة - التقوى في النهاية هي اللي تكسب - ربنا يرزقك ولا تقلق",
+            "english": "Pray and train your household in prayer - righteousness ultimately wins - Allah will provide for you, don't worry"
+          }
+        }
+      ]
+    }
+  ],
+  "pillars": [],
+  "connections": []
+}

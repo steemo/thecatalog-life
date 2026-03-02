@@ -1,0 +1,248 @@
+{
+  "id": "day-10-prayer-timing",
+  "slug": "day-10-prayer-timing",
+  "day": 10,
+  "title": {
+    "arabic": "ليه 5 مرات متفرقين؟",
+    "english": "Why 5 Times Spread Out?"
+  },
+  "subtitle": {
+    "arabic": "التوقيت - إدارة الطاقة والساعة البيولوجية",
+    "english": "Timing - Energy Management and Biological Clock"
+  },
+  "metadata": {
+    "day": 10,
+    "type": "concept",
+    "readTime": 10,
+    "tags": ["prayer-timing", "circadian-rhythm", "time-blocking", "energy", "biology"]
+  },
+  "hook": {
+    "arabic": "تخيل إنك رحت لدكتور وكتبلك مضاد حيوي تاخده 'كل 8 ساعات'. ينفع تقول للدكتور: 'بص يا دكتور، أنا يومي زحمة وبنسى، فممكن أبلع الـ 3 حبايات مع بعض بالليل قبل ما أنام وأخلص؟' الدكتور هيقولك إنت كده بتدمر جسمك! الفكرة مش إنك تبلع الدوا وخلاص، الفكرة إن 'المادة الفعالة' تفضل موجودة في دمك بنسبة معينة على مدار اليوم كله عشان تحارب البكتيريا.",
+    "english": "Imagine you went to a doctor and he prescribed an antibiotic to take 'every 8 hours'. Can you tell the doctor: 'Look doctor, my day is busy and I forget, so can I swallow all 3 pills together at night before I sleep and be done?' The doctor will tell you you're destroying your body! The idea isn't just to swallow the medicine, the idea is that the 'active ingredient' stays present in your blood at a certain level throughout the entire day to fight bacteria."
+  },
+  "mainConcept": {
+    "arabic": "ولله المثل الأعلى.. الصلاة هي 'المضاد الحيوي' اللي بيحارب بكتيريا القلق، والتوتر، والذنوب. لو ربنا كان عايز الصلاة مجرد 'تاسك' بنخلصه، كان قالنا صلوا الـ 5 مرات ورا بعض أول ما تصحوا، أو قبل ما تناموا. لكن 'المصمم' فرّقهم على مدار اليوم عشان 'المادة الفعالة' (السكينة والاتصال بالله) تفضل ماشية في عروقك طول ما أنت صاحي.",
+    "english": "And to Allah belongs the highest example... Prayer is the 'antibiotic' that fights bacteria of anxiety, stress, and sins. If Allah wanted prayer to be just a 'task' we finish, He would have told us to pray all 5 times consecutively when we wake up, or before we sleep. But 'the Designer' spread them throughout the day so the 'active ingredient' (tranquility and connection with Allah) stays flowing in your veins as long as you're awake."
+  },
+  "sections": [
+    {
+      "id": "fajr-startup",
+      "title": {
+        "arabic": "الفجر - زرار التشغيل",
+        "english": "Fajr - The Startup Button"
+      },
+      "content": {
+        "arabic": "في الوقت ده، هرمون النوم (الميلاتونين) بيبدأ يقل، وهرمون النشاط (الكورتيزول) بيبدأ يعلى.\n\nصحيانك في اللحظة دي بيعمل تزامن بين جسمك والكون.\n\nعشان كده أصحاب النجاحات الكبيرة (حتى اللي مش مسلمين) بيقدسوا الصحيان في الوقت ده بيسموه 'نادي الخامسة صباحاً'.",
+        "english": "At this time, sleep hormone (melatonin) starts decreasing, and activity hormone (cortisol) starts rising.\n\nWaking up at this moment creates a sync between your body and the universe.\n\nThat's why highly successful people (even non-Muslims) sanctify waking at this time, calling it 'The 5 AM Club'."
+      }
+    },
+    {
+      "id": "dhuhr-midday",
+      "title": {
+        "arabic": "الظهر - انخفاض نص اليوم",
+        "english": "Dhuhr - The Midday Slump"
+      },
+      "content": {
+        "arabic": "أنت شغال من الصبح، وفي نص اليوم مخك بيفصل وتركيزك بيقع.\n\nالصلاة هنا بتيجي كفاصل إجباري عشان تغسل وشك وتفصل دماغك وترجع تكمل بطاقة جديدة.",
+        "english": "You've been working since morning, and at midday your brain disconnects and focus drops.\n\nPrayer here comes as a mandatory break to wash your face, disconnect your brain, and return to continue with new energy."
+      }
+    },
+    {
+      "id": "asr-peak",
+      "title": {
+        "arabic": "العصر - ساعة الذروة",
+        "english": "Asr - Peak Hour"
+      },
+      "content": {
+        "arabic": "ده أكتر وقت الإنسان بيكون فيه مطحون في زحمة الشغل أو زحمة الطريق.\n\nإنك تسيب كل ده وتقف تصلي، ده أكبر تدريب للإرادة.. أنت بتثبت لنفسك إنك 'سيد' وقتك مش عبد ليه.",
+        "english": "This is the time when a person is most ground down in work rush or traffic.\n\nLeaving all that and standing to pray is the greatest willpower training... you're proving to yourself that you're 'master' of your time not slave to it."
+      }
+    },
+    {
+      "id": "maghrib-isha-winddown",
+      "title": {
+        "arabic": "المغرب والعشاء - التهدئة",
+        "english": "Maghrib and Isha - Wind Down"
+      },
+      "content": {
+        "arabic": "الشمس غابت، واليوم خلص.\n\nدي صلوات 'التهدئة' وفصل الفيشة، عشان تستعد لنوم عميق وهادي وأنت مصفي حساباتك مع ربنا.",
+        "english": "The sun has set, and the day is done.\n\nThese are 'wind down' prayers and unplugging, to prepare for deep and peaceful sleep while you've settled your accounts with your Lord."
+      }
+    },
+    {
+      "id": "time-blocking",
+      "title": {
+        "arabic": "أعظم نظام لإدارة الوقت",
+        "english": "Greatest Time Management System"
+      },
+      "content": {
+        "arabic": "في الكورسات الغالية بتاعة إدارة الوقت، بيعلموك تكنيك اسمه تقسيم الوقت لبلوكات.. إنك تقسم يومك لـ 'بلوكات' واضحة عشان تنجز.\n\nالإسلام عملك ده من 1400 سنة!\n\nالمشكلة إننا بنقول: 'أنا هصلي لما أخلص شغل'.\n\nالكتالوج بيقولك العكس: 'أنا هشتغل بين الظهر والعصر'.\n\nخلي الصلاة هي 'العواميد' الثابتة، وابني حياتك وشغلك حواليها.. مش العكس.\n\nلما بتخلي مواعيد ربنا هي الأولوية، ربنا بيباركلك في الوقت اللي بين الصلوات بشكل لا يمكن حسابه بالمنطق. الوقت بيتمدد، والبركة بتنزل في تركيزك.",
+        "english": "In expensive time management courses, they teach you a technique called time blocking... dividing your day into clear 'blocks' to be productive.\n\nIslam did this for you 1400 years ago!\n\nThe problem is we say: 'I'll pray when I finish work'.\n\nThe catalog tells you the opposite: 'I'll work between Dhuhr and Asr'.\n\nMake prayer the fixed 'pillars', and build your life and work around them... not the other way around.\n\nWhen you make Allah's appointments the priority, Allah blesses the time between prayers in a way that cannot be calculated by logic. Time expands, and blessing descends on your focus."
+      }
+    }
+  ],
+  "analogies": [
+    {
+      "id": "antibiotic-dosage",
+      "title": {
+        "arabic": "جرعة المضاد الحيوي",
+        "english": "Antibiotic Dosage"
+      },
+      "description": {
+        "arabic": "لو بلعت الـ 3 حبايات مع بعض بالليل، هتدمر جسمك. الفكرة إن 'المادة الفعالة' تفضل في دمك طول اليوم.",
+        "english": "If you swallowed all 3 pills together at night, you'd destroy your body. The idea is the 'active ingredient' stays in your blood all day."
+      },
+      "example": {
+        "arabic": "الصلاة هي 'المضاد الحيوي' اللي بيحارب بكتيريا القلق والتوتر. المصمم فرّقهم عشان 'المادة الفعالة' (السكينة) تفضل ماشية في عروقك.",
+        "english": "Prayer is the 'antibiotic' fighting anxiety and stress bacteria. The Designer spread them so the 'active ingredient' (tranquility) stays flowing in your veins."
+      }
+    },
+    {
+      "id": "circadian-sync",
+      "title": {
+        "arabic": "التزامن البيولوجي",
+        "english": "Biological Sync"
+      },
+      "description": {
+        "arabic": "مواقيت الصلاة مربوطة بحركة الشمس وبالساعة البيولوجية جوه جسمك.",
+        "english": "Prayer times are linked to sun movement and the biological clock inside your body."
+      },
+      "example": {
+        "arabic": "الفجر: هرمون النشاط بيعلى. الظهر: المخ بيفصل. العصر: ذروة الضغط. المغرب والعشاء: التهدئة والنوم.",
+        "english": "Fajr: activity hormone rises. Dhuhr: brain disconnects. Asr: peak pressure. Maghrib and Isha: wind down and sleep."
+      }
+    },
+    {
+      "id": "time-blocking-1400",
+      "title": {
+        "arabic": "تقسيم الوقت من 1400 سنة",
+        "english": "Time Blocking from 1400 Years"
+      },
+      "description": {
+        "arabic": "في كورسات إدارة الوقت الغالية بيعلموك تقسيم الوقت لبلوكات. الإسلام عملك ده من 1400 سنة!",
+        "english": "In expensive time management courses they teach time blocking. Islam did this for you 1400 years ago!"
+      },
+      "example": {
+        "arabic": "بدل 'هصلي لما أخلص شغل'، قول 'هشتغل بين الظهر والعصر'. خلي الصلاة هي العواميد الثابتة.",
+        "english": "Instead of 'I'll pray when I finish work', say 'I'll work between Dhuhr and Asr'. Make prayer the fixed pillars."
+      }
+    },
+    {
+      "id": "petrol-stations",
+      "title": {
+        "arabic": "محطات البنزين",
+        "english": "Petrol Stations"
+      },
+      "description": {
+        "arabic": "مواعيد الصلاة هي محطات بنزين متوزعة بحكمة على طريق سفرك.",
+        "english": "Prayer times are petrol stations wisely distributed on your travel road."
+      },
+      "example": {
+        "arabic": "عشان مفيش محطة تفوتك فتعطل في النص. الصلاة مش بتقطع يومك، دي بتنظمه وتنقذك من العشوائية.",
+        "english": "So no station passes you and you break down in the middle. Prayer doesn't cut your day, it organises it and saves you from chaos."
+      }
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "arabic": "الصلاة مضاد حيوي - 'المادة الفعالة' (السكينة) لازم تفضل في دمك طول اليوم",
+      "english": "Prayer is antibiotic - 'active ingredient' (tranquility) must stay in your blood all day"
+    },
+    {
+      "arabic": "لو جمعت الـ 5 صلوات مع بعض بتدمر السيستم - زي بلع 3 حبايات مرة واحدة",
+      "english": "If you combine all 5 prayers you destroy the system - like swallowing 3 pills at once"
+    },
+    {
+      "arabic": "مواقيت الصلاة مربوطة بالساعة البيولوجية: الفجر تشغيل، الظهر فاصل، العصر إرادة، المغرب والعشاء تهدئة",
+      "english": "Prayer times linked to biological clock: Fajr startup, Dhuhr break, Asr willpower, Maghrib/Isha wind down"
+    },
+    {
+      "arabic": "الإسلام عملك نظام تقسيم الوقت من 1400 سنة قبل كورسات إدارة الوقت",
+      "english": "Islam gave you time blocking system 1400 years before time management courses"
+    },
+    {
+      "arabic": "بدل 'هصلي لما أخلص شغل' قول 'هشتغل بين الظهر والعصر' - الصلاة هي العواميد الثابتة",
+      "english": "Instead of 'pray when work finishes' say 'work between Dhuhr and Asr' - prayer is the fixed pillars"
+    },
+    {
+      "arabic": "لما مواعيد ربنا هي الأولوية، ربنا بيباركلك في الوقت - الوقت بيتمدد والبركة بتنزل",
+      "english": "When Allah's appointments are priority, Allah blesses your time - time expands and blessing descends"
+    },
+    {
+      "arabic": "مواعيد الصلاة محطات بنزين متوزعة بحكمة - عشان ما تعطلش في النص",
+      "english": "Prayer times are petrol stations wisely distributed - so you don't break down in the middle"
+    }
+  ],
+  "practicalSteps": [
+    {
+      "id": "on-time-prayer",
+      "title": {
+        "arabic": "صلاة في وقتها",
+        "english": "Prayer on Time"
+      },
+      "action": {
+        "arabic": "اختار 'صلاة واحدة بس' أنت عارف إنك دايماً بتأخرها (غالباً العصر أو العشاء). أول ما تسمع الأذان، سيب اللي في إيدك فوراً وصليها في وقتها.",
+        "english": "Choose 'just one prayer' you know you always delay (usually Asr or Isha). As soon as you hear the call, leave what's in your hand immediately and pray it on time."
+      },
+      "benefit": {
+        "arabic": "الصلاة في وقتها تحافظ على 'المادة الفعالة' في دمك وتمنع تراكم التوتر",
+        "english": "Prayer on time maintains 'active ingredient' in your blood and prevents stress accumulation"
+      }
+    },
+    {
+      "id": "provider-calling",
+      "title": {
+        "arabic": "الرزاق بينادي",
+        "english": "The Provider is Calling"
+      },
+      "action": {
+        "arabic": "مهما كان الشغل مهم، قول لنفسك: 'الرزاق بينادي عليا، مستحيل الشغل يكون أهم منه'.",
+        "english": "No matter how important work is, tell yourself: 'The Provider is calling me, work can't possibly be more important than Him'."
+      },
+      "benefit": {
+        "arabic": "تغيير المنظور يحول الصلاة من 'انقطاع' لـ 'أولوية' تجلب البركة",
+        "english": "Changing perspective transforms prayer from 'interruption' to 'priority' that brings blessing"
+      }
+    },
+    {
+      "id": "build-around-prayer",
+      "title": {
+        "arabic": "ابني يومك حوالين الصلاة",
+        "english": "Build Your Day Around Prayer"
+      },
+      "action": {
+        "arabic": "جرب النهاردة تخطط يومك بالعكس: حط مواعيد الصلاة الأول كـ 'عواميد ثابتة'، وبعدين وزع شغلك ومهامك في الفراغات بينهم.",
+        "english": "Try today to plan your day in reverse: put prayer times first as 'fixed pillars', then distribute your work and tasks in the gaps between them."
+      },
+      "benefit": {
+        "arabic": "بناء اليوم حوالين الصلاة يخلق نظام وبركة في الوقت",
+        "english": "Building day around prayer creates system and blessing in time"
+      }
+    },
+    {
+      "id": "victory-feeling",
+      "title": {
+        "arabic": "إحساس الانتصار",
+        "english": "Victory Feeling"
+      },
+      "action": {
+        "arabic": "جرب إحساس 'الانتصار' على كسلك وعلى زحمة يومك، وشوف كمية الإنجاز اللي هتعملها بعد الصلاة دي.",
+        "english": "Try the feeling of 'victory' over your laziness and your day's rush, and see the amount of achievement you'll make after this prayer."
+      },
+      "benefit": {
+        "arabic": "الانتصار على الكسل في الصلاة يبني عضلة الإرادة لباقي اليوم",
+        "english": "Victory over laziness in prayer builds willpower muscle for rest of day"
+      }
+    }
+  ],
+  "dailyAction": {
+    "arabic": "كتير مننا بيعاني من فكرة 'تجميع الصلوات' بالليل لما يرجع البيت، وده بيخلينا نصلي وإحنا مرهقين وعايزين ننام، فبنفقد 'المادة الفعالة'.\n\nالتحدي: النهاردة، اختار 'صلاة واحدة بس' أنت عارف إنك دايماً بتأخرها (غالباً بتكون العصر أو العشاء).\n\nأول ما تسمع الأذان، سيب اللي في إيدك فوراً وصليها في وقتها.\n\nمهما كان الشغل مهم، قول لنفسك: 'الرزاق بينادي عليا، مستحيل الشغل يكون أهم منه'.\n\nجرب إحساس 'الانتصار' على كسلك وعلى زحمة يومك، وشوف كمية الإنجاز اللي هتعملها بعد الصلاة دي.",
+    "english": "Many of us suffer from the idea of 'combining prayers' at night when we get home, which makes us pray while exhausted and wanting to sleep, so we lose the 'active ingredient'.\n\nThe challenge: Today, choose 'just one prayer' you know you always delay (usually Asr or Isha).\n\nAs soon as you hear the call to prayer, leave what's in your hand immediately and pray it on time.\n\nNo matter how important work is, tell yourself: 'The Provider is calling me, work can't possibly be more important than Him'.\n\nTry the feeling of 'victory' over your laziness and your day's rush, and see the amount of achievement you'll make after this prayer."
+  },
+  "conclusion": {
+    "arabic": "الخلاصة: مواعيد الصلاة مش جاية 'تقطع' يومك وتعطلك.. دي جاية 'تنظم' يومك وتنقذك من العشوائية. هي محطات بنزين متوزعة بحكمة على طريق سفرك، عشان مفيش محطة تفوتك فتعطل في النص.",
+    "english": "Conclusion: Prayer times don't come to 'cut' your day and delay you... they come to 'organise' your day and save you from chaos. They are petrol stations wisely distributed on your travel road, so no station passes you and you break down in the middle."
+  },
+  "prevEntry": "day-9-prayer-airplane-mode",
+  "nextEntry": "day-11-body-language-sujood"
+}

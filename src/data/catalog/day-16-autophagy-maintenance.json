@@ -1,0 +1,211 @@
+{
+  "id": "day-16-autophagy-maintenance",
+  "slug": "day-16-autophagy-maintenance",
+  "day": 16,
+  "title": {
+    "arabic": "المصنع الداخلي لإعادة التدوير",
+    "english": "The Internal Recycling Factory"
+  },
+  "subtitle": {
+    "arabic": "الصيانة الدورية - الالتهام الذاتي",
+    "english": "Periodic Maintenance - Autophagy"
+  },
+  "metadata": {
+    "day": 16,
+    "type": "concept",
+    "readTime": 11,
+    "tags": ["autophagy", "fasting-science", "cell-renewal", "nobel-prize", "insulin", "growth-hormone", "maintenance"]
+  },
+  "hook": {
+    "arabic": "تخيل لو عندك مصنع شغال 24 ساعة، 7 أيام في الأسبوع، بقاله 20 سنة مبيقفش لحظة واحدة للصيانة. المكن بيتراب، والزبالة بتتكوم في الممرات، وكفاءة الإنتاج بتقل، والمصنع بيقرب من الانفجار.\n\nده بالظبط حال جسمك لما بتاكل طول اليوم (فطار، غداء، عشاء، سناكس). الجهاز الهضمي والمناعي مطحونين في هضم الطعام وتنظيفه، ومفيش وقت يلتفتوا لترميم 'المصنع' نفسه.",
+    "english": "Imagine a factory running 24 hours, 7 days a week, for 20 years without stopping once for maintenance. Machines rust, rubbish piles up in corridors, production efficiency drops, and the factory nears explosion.\n\nThat's exactly your body's state when you eat all day (breakfast, lunch, dinner, snacks). The digestive and immune systems are crushed processing food, with no time to repair 'the factory' itself."
+  },
+  "mainConcept": {
+    "arabic": "'المصمم' العظيم عارف إن الماكينة دي محتاجة وقت تتفرغ فيه لترميم نفسها. عشان كدة فرض عليك الصيام.\n\nبس الصيام بيعمل إيه جوه؟",
+    "english": "The great 'Designer' knows this machine needs time to dedicate to repairing itself. That's why He prescribed fasting for you.\n\nBut what does fasting actually do inside?"
+  },
+  "sections": [
+    {
+      "id": "nobel-prize-autophagy",
+      "title": {
+        "arabic": "جايزة نوبل والسر الخطير",
+        "english": "The Nobel Prize and the Critical Secret"
+      },
+      "content": {
+        "arabic": "في سنة 2016، عالم ياباني اسمه (يوشينوري أوسومي) خد جايزة نوبل في الطب عشان اكتشف عملية بتحصل في الجسم لما يجوع لأكتر من 12-16 ساعة. العملية دي اسمها الالتهام الذاتي.\n\nيعني 'أكل ذاتي'.\n\nلما جسمك بيجوع، ومصادر الأكل الخارجية بتقطع، الخلايا بتدور على أي مصدر طاقة جوه عشان تعيش. فبتعمل إيه؟ بتبدأ تاكل 'الزبالة' اللي جواها!\n\n• بتاكل البروتينات التالفة والمعيوبة.\n• بتاكل الخلايا العجوزة اللي بتسبب الشيخوخة.\n• بتاكل الخلايا السرطانية في بدايتها قبل ما تنتشر.\n• بتاكل الفيروسات والبكتيريا المستخبية.\n\nالجسم بيحول 'الزبالة' دي لطاقة جديدة وأحماض أمينية سليمة يبني بيها خلايا جديدة.\n\nيعني الصيام حرفياً هو عملية 'إعادة تدوير' كاملة لجسمك. أنت بتجدد شبابك من جوه، وبتقضي على أمراض الشيخوخة والسرطان والزهايمر قبل ما تبدأ.",
+        "english": "In 2016, a Japanese scientist named Yoshinori Ohsumi won the Nobel Prize in Medicine for discovering a process that happens in the body when it fasts for more than 12-16 hours. This process is called Autophagy.\n\nMeaning 'self-eating'.\n\nWhen your body gets hungry and external food sources are cut off, cells search for any internal energy source to survive. So what do they do? They start eating the 'rubbish' inside them!\n\n• They eat damaged and defective proteins.\n• They eat old zombie cells that cause ageing.\n• They eat cancerous cells in their early stages before they spread.\n• They eat hidden viruses and bacteria.\n\nThe body converts this 'rubbish' into new energy and healthy amino acids to build new cells.\n\nFasting is literally a complete 'recycling' process for your body. You're renewing your youth from within, and eliminating ageing diseases, cancer, and Alzheimer's before they start."
+      }
+    },
+    {
+      "id": "stomach-rumble-music",
+      "title": {
+        "arabic": "صوت 'قرقرة البطن' - موسيقى التنظيف",
+        "english": "Stomach Rumble Sound - Music of Cleaning"
+      },
+      "content": {
+        "arabic": "لما بطنك تطلع صوت 'قرقرة' وأنت صايم، ماتتضايقش.\n\nالصوت ده معناه إن 'عربيات النظافة' ماشية في أمعائك دلوقتي وبتكنس الفضلات المتراكمة.\n\nده صوت الصيانة الدورية.",
+        "english": "When your stomach makes a 'rumbling' sound while fasting, don't be annoyed.\n\nThat sound means the 'cleaning trucks' are moving through your intestines right now, sweeping accumulated waste.\n\nThat's the sound of periodic maintenance."
+      }
+    },
+    {
+      "id": "hormone-factory-reset",
+      "title": {
+        "arabic": "إعادة ضبط المصنع للهرمونات",
+        "english": "Factory Reset for Hormones"
+      },
+      "content": {
+        "arabic": "مش بس تنضيف.. الصيام بيعمل إعادة ضبط لحساسية الأنسولين، وده الوقاية الأولى من مرض السكر (النوع التاني).\n\nوبيرفع هرمون النمو لأرقام خيالية (بيوصل لـ 2000% عند الرجال)، وده الهرمون المسؤول عن الحرق، وبناء العضلات، ومحاربة التجاعيد.",
+        "english": "Not just cleaning... fasting resets insulin sensitivity, which is the primary prevention against diabetes (Type 2).\n\nAnd it raises growth hormone to extraordinary levels (reaching 2000% in men), the hormone responsible for fat burning, muscle building, and fighting wrinkles."
+      }
+    }
+  ],
+  "analogies": [
+    {
+      "id": "factory-maintenance",
+      "title": {
+        "arabic": "المصنع اللي مبيقفش",
+        "english": "The Factory That Never Stops"
+      },
+      "description": {
+        "arabic": "مصنع شغال 20 سنة من غير صيانة. المكن بيتراب والزبالة بتتكوم وكفاءة الإنتاج بتقل.",
+        "english": "A factory running 20 years without maintenance. Machines rust, rubbish piles up, production efficiency drops."
+      },
+      "example": {
+        "arabic": "جسمك لما بتاكل طول اليوم، الجهاز الهضمي مطحون ومفيش وقت لترميم المصنع نفسه. الصيام هو 'يوم الصيانة'.",
+        "english": "Your body when eating all day, digestive system is crushed with no time to repair the factory itself. Fasting is 'maintenance day'."
+      }
+    },
+    {
+      "id": "internal-recycling",
+      "title": {
+        "arabic": "إعادة التدوير الداخلية",
+        "english": "Internal Recycling"
+      },
+      "description": {
+        "arabic": "الخلايا بتاكل الزبالة اللي جواها وبتحولها لطاقة جديدة وخلايا سليمة.",
+        "english": "Cells eat the rubbish inside them and convert it to new energy and healthy cells."
+      },
+      "example": {
+        "arabic": "بروتينات تالفة، خلايا عجوزة، خلايا سرطانية في بدايتها، فيروسات مستخبية.. كلها بتتاكل وبتتحول لوقود.",
+        "english": "Damaged proteins, zombie cells, early cancer cells, hidden viruses... all eaten and converted to fuel."
+      }
+    },
+    {
+      "id": "cleaning-trucks",
+      "title": {
+        "arabic": "عربيات النظافة",
+        "english": "Cleaning Trucks"
+      },
+      "description": {
+        "arabic": "صوت قرقرة البطن وأنت صايم = عربيات النظافة ماشية في أمعائك بتكنس الفضلات.",
+        "english": "Stomach rumbling while fasting = cleaning trucks moving through intestines sweeping waste."
+      },
+      "example": {
+        "arabic": "ماتتضايقش من الصوت ده. ده صوت الصيانة الدورية. جسمك بينضف نفسه.",
+        "english": "Don't be annoyed by that sound. It's the sound of periodic maintenance. Your body is cleaning itself."
+      }
+    },
+    {
+      "id": "sugar-bomb",
+      "title": {
+        "arabic": "قنبلة السكر",
+        "english": "Sugar Bomb"
+      },
+      "description": {
+        "arabic": "أول ما المغرب يأذن، بنرمي قنبلة سكر في المعدة فالأنسولين بيضرب في السما وعملية الالتهام الذاتي بتقف فجأة.",
+        "english": "The moment Maghrib calls, we throw a sugar bomb into the stomach, insulin spikes, and autophagy stops suddenly."
+      },
+      "example": {
+        "arabic": "الحل: اكسر صيامك على مية وتمر، استنى 10 دقايق، وابدأ بالسلطة والبروتين. احترم المصنع وشغله بالتدريج.",
+        "english": "The fix: break fast with water and dates, wait 10 minutes, start with salad and protein. Respect the factory and start it gradually."
+      }
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "arabic": "جسمك زي مصنع شغال 24/7 - الصيام هو يوم الصيانة الإجبارية عشان الماكينة ماتصديش",
+      "english": "Your body is like a factory running 24/7 — fasting is the mandatory maintenance day so the machine doesn't rust"
+    },
+    {
+      "arabic": "الالتهام الذاتي (جايزة نوبل 2016): بعد 12-16 ساعة جوع، الخلايا بتاكل الزبالة اللي جواها",
+      "english": "Autophagy (Nobel Prize 2016): after 12-16 hours of hunger, cells eat the rubbish inside them"
+    },
+    {
+      "arabic": "الخلايا بتاكل البروتينات التالفة والخلايا السرطانية والفيروسات المستخبية وبتحولها لطاقة جديدة",
+      "english": "Cells eat damaged proteins, cancer cells, hidden viruses and convert them to new energy"
+    },
+    {
+      "arabic": "صوت قرقرة البطن = عربيات النظافة بتكنس أمعائك - ده صوت الصيانة مش صوت المعاناة",
+      "english": "Stomach rumbling = cleaning trucks sweeping your intestines — that's maintenance sound not suffering sound"
+    },
+    {
+      "arabic": "الصيام بيعمل إعادة ضبط للأنسولين (وقاية من السكر) وبيرفع هرمون النمو 2000%",
+      "english": "Fasting resets insulin (diabetes prevention) and raises growth hormone by 2000%"
+    },
+    {
+      "arabic": "الصيام مش عقاب بالجوع - الصيام 'روشتة طبية' إجبارية من المصمم عشان يحميك",
+      "english": "Fasting isn't punishment by hunger — fasting is a mandatory 'medical prescription' from the Designer to protect you"
+    },
+    {
+      "arabic": "ماتبوظش الصيانة بقنبلة سكر عند الفطار - اكسر على مية وتمر واستنى 10 دقايق",
+      "english": "Don't ruin the maintenance with a sugar bomb at iftar — break with water and dates and wait 10 minutes"
+    }
+  ],
+  "practicalSteps": [
+    {
+      "id": "water-and-dates",
+      "title": {
+        "arabic": "مية وتمر فقط",
+        "english": "Water and Dates Only"
+      },
+      "action": {
+        "arabic": "اكسر صيامك على مية وتمر فقط: التمر فيه سكر بسيط بيجهز المعدة، والمية بترويك.",
+        "english": "Break your fast with water and dates only: dates have simple sugar that prepares the stomach, and water hydrates you."
+      },
+      "benefit": {
+        "arabic": "بتجهز المعدة بالتدريج بدل ما تصدمها بقنبلة سكر",
+        "english": "Gradually prepares the stomach instead of shocking it with a sugar bomb"
+      }
+    },
+    {
+      "id": "ten-minute-wait",
+      "title": {
+        "arabic": "استنى 10 دقايق",
+        "english": "Wait 10 Minutes"
+      },
+      "action": {
+        "arabic": "استنى 10 دقايق (وقت صلاة المغرب): الـ 10 دقايق دول بيدوا إشارة للمعدة والمخ إن 'الأكل جاي'، فالإنزيمات تبدأ تتفرز بالتدريج.",
+        "english": "Wait 10 minutes (Maghrib prayer time): these 10 minutes signal the stomach and brain that 'food is coming', so enzymes start releasing gradually."
+      },
+      "benefit": {
+        "arabic": "الإنزيمات بتتفرز بالتدريج وجسمك بيستعد للأكل بدل ما ياخد صدمة",
+        "english": "Enzymes release gradually and your body prepares for food instead of getting shocked"
+      }
+    },
+    {
+      "id": "salad-protein-first",
+      "title": {
+        "arabic": "سلطة وبروتين الأول",
+        "english": "Salad and Protein First"
+      },
+      "action": {
+        "arabic": "بعد الصلاة، ابدأ بالسلطة والبروتين: وحاول تقلل النشويات والسكريات في أول نص ساعة.",
+        "english": "After prayer, start with salad and protein: try to reduce carbs and sugars in the first half hour."
+      },
+      "benefit": {
+        "arabic": "هتقوم من على الفطار 'خفيف'، نشيط، ومش حاسس بالخمول التقليدي بتاع كل يوم",
+        "english": "You'll leave iftar feeling 'light', energetic, and without the traditional daily sluggishness"
+      }
+    }
+  ],
+  "dailyAction": {
+    "arabic": "المشكلة إننا بنبوظ عملية الصيانة دي بإننا بنفطر غلط! أول ما المغرب يأذن، بنرمي قنبلة سكر (عصير، خشاف، حلويات) في المعدة، فالأنسولين بيضرب في السما، وعملية الالتهام الذاتي بتقف فجأة وبطريقة عنيفة.\n\nالتحدي: النهاردة هنفطر بذكاء (سنة وعلم).\n\n• اكسر صيامك على مية وتمر فقط: التمر فيه سكر بسيط بيجهز المعدة، والمية بترويك.\n\n• استنى 10 دقايق (وقت صلاة المغرب): الـ 10 دقايق دول بيدوا إشارة للمعدة والمخ إن 'الأكل جاي'، فالإنزيمات تبدأ تتفرز بالتدريج.\n\n• بعد الصلاة، ابدأ بالسلطة والبروتين: وحاول تقلل النشويات والسكريات في أول نص ساعة.\n\nالحركة دي هتخليك تقوم من على الفطار 'خفيف'، نشيط، ومش حاسس بالخمول التقليدي بتاع كل يوم. أنت كدة احترمت 'المصنع' وشغلته بالتدريج.",
+    "english": "The problem is we ruin this maintenance by breaking fast wrong! The moment Maghrib calls, we throw a sugar bomb (juice, dried fruit drink, sweets) into the stomach, insulin spikes, and autophagy stops suddenly and violently.\n\nThe challenge: Today we'll break fast smartly (Sunnah and Science).\n\n• Break your fast with water and dates only: dates have simple sugar that prepares the stomach, and water hydrates you.\n\n• Wait 10 minutes (Maghrib prayer time): these 10 minutes signal the stomach and brain that 'food is coming', so enzymes start releasing gradually.\n\n• After prayer, start with salad and protein: try to reduce carbs and sugars in the first half hour.\n\nThis will make you leave iftar feeling 'light', energetic, and without the traditional daily sluggishness. You've respected 'the factory' and started it gradually."
+  },
+  "conclusion": {
+    "arabic": "الخلاصة: الصيام مش عقاب بالجوع. الصيام 'روشتة طبية' إجبارية من المصمم عشان يحميك من إن الماكينة تصدي أو تعطل بدري. كل دقيقة جوع بتمر عليك، هي دقيقة جسمك بينضف فيها نفسه من سموم كانت ممكن تموتك لو فضلت تاكل طول السنة.",
+    "english": "Conclusion: Fasting isn't punishment by hunger. Fasting is a mandatory 'medical prescription' from the Designer to protect you from the machine rusting or breaking down early. Every minute of hunger you endure is a minute your body is cleaning itself from toxins that could have killed you if you kept eating all year."
+  },
+  "prevEntry": "day-15-fasting-willpower",
+  "nextEntry": "day-17-soul-detox-dopamine"
+}

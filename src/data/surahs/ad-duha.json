@@ -1,0 +1,170 @@
+{
+  "id": 93,
+  "slug": "ad-duha",
+  "name": {
+    "arabic": "سورة الضحى",
+    "english": "Surah Ad-Duha",
+    "transliteration": "Ad-Duha"
+  },
+  "metadata": {
+    "verses": 11,
+    "words": 40,
+    "type": "meccan",
+    "juz": "30",
+    "order": 93
+  },
+  "goal": {
+    "academic": {
+      "arabic": "مواساة وطمأنة النبي ﷺ بعد انقطاع الوحي، وإظهار رعاية الله له في الماضي والحاضر والمستقبل.",
+      "english": "Consoling and reassuring the Prophet ﷺ after the pause in revelation, showing Allah's care for him in the past, present, and future."
+    },
+    "psychological": {
+      "arabic": "علاج مشاعر الوحدة وفقدان الأمان - رسالة مباشرة من الله: أنا لم أتركك، ولم أغضب عليك، والمستقبل أفضل من الماضي.",
+      "english": "Treating feelings of loneliness and loss of security - a direct message from Allah: 'I have not abandoned you, I am not displeased with you, and the future is better than the past.'"
+    },
+    "summary": {
+      "arabic": "سورة الضحى هي وصفة نفسية شافية لمن يشعر أن الناس تخلوا عنه والأحباب رحلوا - بنية 3×3×3: ثلاثة وعود، ثلاثة تأملات في الماضي، ثلاثة أفعال للخير.",
+      "english": "Surah Ad-Duha is a psychological healing prescription for those who feel people have abandoned them and loved ones have left - a 3×3×3 structure: three promises, three reflections on the past, three actions for good."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الضحى", "english": "The Morning Hours" },
+      "reason": {
+        "arabic": "سميت بالضحى لافتتاحها بالقسم بوقت الضحى.",
+        "english": "Named after the opening oath by the morning hours."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "healing-prescription",
+      "title": { "arabic": "الوصفة الشافية", "english": "The Healing Prescription" },
+      "hadith": {
+        "arabic": "سورة الضحى وصفة نفسية شافية لمن يشعر بالهجر والوحدة - رسالة مباشرة من الله: أنا لم أتركك ولم أغضب عليك.",
+        "english": "Surah Ad-Duha is a psychological healing prescription for those who feel abandoned and lonely - a direct message from Allah: I have not left you nor am I displeased with you."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "divine-oath",
+      "title": { "arabic": "القسم الإلهي - الضوء بعد الظلام", "english": "Divine Oath - Light After Darkness" },
+      "verses": "1-3",
+      "description": {
+        "arabic": "والضحى والليل إذا سجى - ما ودعك ربك وما قلى. الله يقسم بالضحى والليل: أنا لم أتركك ولم أغضب عليك. القسم بالضحى (النور) والليل (الظلام) رسالة: الظلام مؤقت، والنور قادم حتماً.",
+        "english": "By the morning brightness and the night when it covers - Your Lord has not abandoned you, nor has He become displeased. Allah swears by morning and night: I have not abandoned you nor am I displeased. The oath by morning (light) and night (darkness) is a message: darkness is temporary, light is inevitably coming."
+      }
+    },
+    {
+      "id": "future-promise",
+      "title": { "arabic": "وعد المستقبل - الآخرة خير من الأولى", "english": "Future Promise - The Hereafter is Better" },
+      "verses": "4-5",
+      "description": {
+        "arabic": "وللآخرة خير لك من الأولى - ولسوف يعطيك ربك فترضى. المستقبل أفضل من الماضي، وسأعطيك حتى ترضى. علاج الاكتئاب من الماضي والخوف من المستقبل: الله يعدك أن المستقبل خير من الماضي، وسيعطيك حتى تصل للرضا التام.",
+        "english": "And the Hereafter is better for you than the first - And your Lord is going to give you, and you will be satisfied. The future is better than the past, and I will give you until you are satisfied. Treatment for depression about the past and fear of the future: Allah promises the future is better than the past, and He will give until you reach complete satisfaction."
+      }
+    },
+    {
+      "id": "past-reminders",
+      "title": { "arabic": "تذكير بالماضي - سجل الرعاية الإلهية", "english": "Past Reminders - Record of Divine Care" },
+      "verses": "6-8",
+      "description": {
+        "arabic": "ألم يجدك يتيماً فآوى - ووجدك ضالاً فهدى - ووجدك عائلاً فأغنى. ثلاثة تذكيرات: وجدك يتيماً فآوى، ووجدك ضالاً فهدى، ووجدك عائلاً فأغنى. علاج القلق من المستقبل: انظر للماضي. الله الذي رعاك في أصعب الظروف لن يتركك الآن.",
+        "english": "Did He not find you an orphan and give refuge - And He found you lost and guided - And He found you poor and made self-sufficient. Three reminders: found you orphaned and gave shelter, found you lost and guided, found you poor and enriched. Treatment for anxiety about the future: look at the past. The Allah who cared for you in the most difficult circumstances will not leave you now."
+      }
+    },
+    {
+      "id": "action-commands",
+      "title": { "arabic": "أوامر العمل - من المتلقي للمعطي", "english": "Action Commands - From Receiver to Giver" },
+      "verses": "9-11",
+      "description": {
+        "arabic": "فأما اليتيم فلا تقهر - وأما السائل فلا تنهر - وأما بنعمة ربك فحدث. ثلاثة أوامر: لا تقهر اليتيم، لا تنهر السائل، وحدث بنعمة ربك. علاج الشعور بالضعف: حوّل ألمك لقوة. أنت الذي كنت يتيماً، لا تقهر يتيماً. الألم يصنع التعاطف، والتعاطف يصنع العطاء.",
+        "english": "So as for the orphan, do not oppress - And as for the petitioner, do not repel - But as for the favor of your Lord, report. Three commands: do not oppress the orphan, do not repel the petitioner, and proclaim the blessing of your Lord. Treatment for feeling weak: turn your pain into strength. You who were an orphan, do not oppress an orphan. Pain creates empathy, and empathy creates giving."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "divine-reassurance",
+      "title": { "arabic": "الطمأنينة الإلهية", "english": "Divine Reassurance" },
+      "icon": "Heart",
+      "description": {
+        "arabic": "الله لم يتركك ولم يغضب عليك - رسالة مباشرة لكل من يشعر بالهجر",
+        "english": "Allah has not abandoned you nor is He displeased - a direct message to everyone who feels forsaken"
+      }
+    },
+    {
+      "id": "future-hope",
+      "title": { "arabic": "الأمل في المستقبل", "english": "Hope for the Future" },
+      "icon": "Sun",
+      "description": {
+        "arabic": "المستقبل أفضل من الماضي - علاج الاكتئاب والخوف من الغد",
+        "english": "The future is better than the past - treatment for depression and fear of tomorrow"
+      }
+    },
+    {
+      "id": "gratitude-action",
+      "title": { "arabic": "الشكر بالعمل", "english": "Gratitude Through Action" },
+      "icon": "Gift",
+      "description": {
+        "arabic": "حول ألمك لعطاء - من متلقي الرحمة إلى معطي الرحمة",
+        "english": "Turn your pain into giving - from receiver of mercy to giver of mercy"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "darkness-temporary",
+      "title": { "arabic": "الظلام مؤقت", "english": "Darkness is Temporary" },
+      "content": {
+        "arabic": "القسم بالضحى والليل رسالة: الليل ليس نهاية، بل مقدمة للفجر. كل ظلام في حياتك مؤقت.",
+        "english": "The oath by morning and night is a message: night is not the end, but a prelude to dawn. Every darkness in your life is temporary."
+      }
+    },
+    {
+      "id": "past-guarantee",
+      "title": { "arabic": "الماضي ضمان المستقبل", "english": "Past is Guarantee of Future" },
+      "content": {
+        "arabic": "الله الذي رعاك في أصعب الظروف (يتيم، ضال، فقير) لن يتركك الآن. سجل الماضي هو ضمان المستقبل.",
+        "english": "The Allah who cared for you in the most difficult circumstances (orphan, lost, poor) will not leave you now. The past record is the guarantee of the future."
+      }
+    },
+    {
+      "id": "pain-to-empathy",
+      "title": { "arabic": "الألم يصنع التعاطف", "english": "Pain Creates Empathy" },
+      "content": {
+        "arabic": "أنت الذي عرفت الألم، لا تسبب الألم لغيرك. حول ألمك لقوة، وقوتك لعطاء. هذا هو الشفاء الحقيقي.",
+        "english": "You who knew pain, do not cause pain to others. Turn your pain into strength, and your strength into giving. This is true healing."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "divine-promise",
+      "title": { "arabic": "وعد الرضا", "english": "Promise of Satisfaction" },
+      "content": {
+        "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ - هذا أعظم وعد في القرآن: الله لن يتوقف عن العطاء حتى تصل أنت للرضا الكامل. عقد مفتوح بلا سقف.",
+        "english": "And your Lord is going to give you, and you will be satisfied - This is the greatest promise in the Quran: Allah will not stop giving until you reach complete satisfaction. An open-ended contract with no ceiling."
+      }
+    },
+    {
+      "id": "not-abandoned",
+      "title": { "arabic": "لم يتركك", "english": "Not Abandoned" },
+      "content": {
+        "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ - رد إلهي مباشر على كل من يشعر بالهجر: أنا لم أتركك، ولم أغضب عليك. الصمت ليس هجراً، بل استراحة قبل عطاء أعظم.",
+        "english": "Your Lord has not abandoned you, nor has He become displeased - A direct divine response to everyone who feels forsaken: I have not left you, nor am I displeased with you. Silence is not abandonment, but a break before greater giving."
+      }
+    },
+    {
+      "id": "future-better",
+      "title": { "arabic": "المستقبل أفضل", "english": "Future is Better" },
+      "content": {
+        "arabic": "وَلَلْآخِرَةُ خَيْرٌ لَّكَ مِنَ الْأُولَىٰ - علاج الاكتئاب من الماضي: المستقبل أفضل من الماضي. كل مرحلة قادمة أفضل من سابقتها. هذا وعد إلهي.",
+        "english": "And the Hereafter is better for you than the first - Treatment for depression about the past: the future is better than the past. Each coming phase is better than the previous. This is a divine promise."
+      }
+    }
+  ],
+  "connections": []
+}

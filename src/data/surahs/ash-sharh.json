@@ -1,0 +1,276 @@
+{
+  "id": 94,
+  "slug": "ash-sharh",
+  "name": {
+    "arabic": "سورة الشرح",
+    "english": "Surah Ash-Sharh",
+    "transliteration": "Ash-Sharh"
+  },
+  "metadata": {
+    "verses": 8,
+    "words": 27,
+    "type": "meccan",
+    "juz": "30",
+    "order": 94
+  },
+  "goal": {
+    "academic": {
+      "arabic": "بيان منّة الله على نبيه بشرح صدره وتيسير أمره ورفع ذكره، وتعليمه الصبر والتوكل.",
+      "english": "Showing Allah's favor upon His Prophet by expanding his chest, easing his task, elevating his mention, and teaching him patience and reliance."
+    },
+    "psychological": {
+      "arabic": "علاج الشعور بالاختناق وتراكم الأحزان - أربع قواعد لتوسيع الصدر: التخلص من الأحمال، تقدير الذات، عدم اليأس، والعبادة.",
+      "english": "Treating feelings of suffocation and accumulated sorrows - four rules for chest expansion: removing burdens, self-worth, not despairing, and worship."
+    },
+    "summary": {
+      "arabic": "سورة الشرح هي وصفة علاج للمخنوق من تراكم الأحزان - توسيع الصدر من خلال التخلص من الأوزار، تقدير الذات، اليقين بأن مع العسر يسرًا، والتعلق بالله.",
+      "english": "Surah Ash-Sharh is a healing prescription for those suffocating from accumulated sorrows - chest expansion through removing burdens, self-worth, certainty that with hardship comes ease, and attachment to Allah."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الشرح", "english": "The Expansion" },
+      "reason": {
+        "arabic": "سميت بالشرح لافتتاحها بقوله تعالى: ألم نشرح لك صدرك، وهو شرح الصدر وتوسيعه.",
+        "english": "Named after the opening: 'Have We not expanded for you your breast' - referring to chest expansion and widening."
+      }
+    },
+    {
+      "id": "inshirah",
+      "name": { "arabic": "سورة الانشراح", "english": "The Relief" },
+      "reason": {
+        "arabic": "تسمى أيضًا بالانشراح لما فيها من معاني الانفراج والراحة النفسية.",
+        "english": "Also called Al-Inshirah for its meanings of relief and psychological comfort."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "chest-expansion",
+      "title": { "arabic": "شرح الصدر", "english": "Chest Expansion" },
+      "hadith": {
+        "arabic": "هذه السورة تُقرأ لشرح الصدر وتوسيعه وإزالة الضيق والهم، وهي من أعظم السور في علاج الاختناق النفسي.",
+        "english": "This Surah is recited for chest expansion and widening, removing distress and worry, and is among the greatest Surahs for treating psychological suffocation."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "expansion",
+      "title": { "arabic": "شرح الصدر", "english": "Chest Expansion" },
+      "verses": "1",
+      "description": {
+        "arabic": "ألم نشرح لك صدرك - توسيع الصدر وإزالة الضيق",
+        "english": "'Have We not expanded for you your breast' - widening the chest and removing distress"
+      }
+    },
+    {
+      "id": "burden-removal",
+      "title": { "arabic": "وضع الوزر", "english": "Burden Removal" },
+      "verses": "2-3",
+      "description": {
+        "arabic": "ووضعنا عنك وزرك الذي أنقض ظهرك - التخلص من الأحمال الثقيلة",
+        "english": "'And We removed from you your burden which had weighed upon your back' - removing heavy burdens"
+      }
+    },
+    {
+      "id": "elevation",
+      "title": { "arabic": "رفع الذكر", "english": "Elevation of Mention" },
+      "verses": "4",
+      "description": {
+        "arabic": "ورفعنا لك ذكرك - تقدير الذات والقيمة",
+        "english": "'And raised high for you your repute' - self-worth and value"
+      }
+    },
+    {
+      "id": "ease-with-hardship",
+      "title": { "arabic": "اليسر مع العسر", "english": "Ease with Hardship" },
+      "verses": "5-6",
+      "description": {
+        "arabic": "فإن مع العسر يسرا * إن مع العسر يسرا - اليقين بالفرج",
+        "english": "'For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease' - certainty of relief"
+      }
+    },
+    {
+      "id": "worship-attachment",
+      "title": { "arabic": "العبادة والتعلق", "english": "Worship and Attachment" },
+      "verses": "7-8",
+      "description": {
+        "arabic": "فإذا فرغت فانصب * وإلى ربك فارغب - العبادة وربط الرغبات بالله",
+        "english": "'So when you have finished [your duties], then stand up [for worship]. And to your Lord direct [your] longing' - worship and attaching desires to Allah"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "category": "Academic Themes",
+      "themes": [
+        {
+          "id": "divine-favor",
+          "title": { "arabic": "المنّة الإلهية", "english": "Divine Favor" },
+          "icon": "Gift",
+          "description": {
+            "arabic": "ألم نشرح لك صدرك - الله يذكّر نبيه بنعمه عليه: شرح الصدر، وضع الوزر، رفع الذكر",
+            "english": "'Have We not expanded for you your breast' - Allah reminds His Prophet of His favors: chest expansion, burden removal, elevation of mention"
+          }
+        },
+        {
+          "id": "ease-certainty",
+          "title": { "arabic": "اليقين بالفرج", "english": "Certainty of Relief" },
+          "icon": "Sun",
+          "description": {
+            "arabic": "فإن مع العسر يسرا - تكرار الآية مرتين لترسيخ اليقين أن مع كل عسر أكثر من يسر",
+            "english": "'For indeed, with hardship [will be] ease' - verse repeated twice to establish certainty that with every hardship comes more than one ease"
+          }
+        },
+        {
+          "id": "worship-solution",
+          "title": { "arabic": "العبادة حل", "english": "Worship as Solution" },
+          "icon": "Heart",
+          "description": {
+            "arabic": "فإذا فرغت فانصب - بعد الفراغ من الشغل، قف بين يدي الله، واربط كل رغباتك بالدعاء",
+            "english": "'So when you have finished, then stand up' - after finishing work, stand before Allah and attach all your desires to supplication"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Psychological Healing - Four Rules for Relief",
+      "description": {
+        "arabic": "أربع قواعد علاجية لتوسيع الصدر وإزالة الاختناق النفسي",
+        "english": "Four healing rules for chest expansion and removing psychological suffocation"
+      },
+      "themes": [
+        {
+          "id": "rule-remove-burdens",
+          "floor": 1,
+          "title": { "arabic": "التخلص من الأحمال", "english": "Remove Burdens" },
+          "icon": "PackageX",
+          "description": {
+            "arabic": "ووضعنا عنك وزرك الذي أنقض ظهرك - الأحمال: ذنوب، غل، حقد، حسد، ذكريات مؤلمة معلّقة",
+            "english": "'And We removed from you your burden which had weighed upon your back' - burdens: sins, resentment, hatred, envy, hanging painful memories"
+          },
+          "verse": {
+            "arabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ ۝ الَّذِي أَنقَضَ ظَهْرَكَ",
+            "english": "And We removed from you your burden. Which had weighed upon your back"
+          },
+          "practical": {
+            "arabic": "الحل: توبة واستغفار من الذنوب، وترك الكراهية والحقد لأجل نفسك لا لأجلهم - الغل يثقل الصدر",
+            "english": "Solution: repentance and seeking forgiveness from sins, leaving hatred and resentment for your own sake not theirs - resentment weighs down the chest"
+          }
+        },
+        {
+          "id": "rule-self-worth",
+          "floor": 2,
+          "title": { "arabic": "تقدير الذات", "english": "Self-Worth" },
+          "icon": "Award",
+          "description": {
+            "arabic": "ورفعنا لك ذكرك - تذكر ما رفع الله به ذكرك: علم، عبادة، دور نافع، مواهب، تأثير إيجابي",
+            "english": "'And raised high for you your repute' - remember what Allah elevated your mention through: knowledge, worship, beneficial role, talents, positive impact"
+          },
+          "verse": {
+            "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+            "english": "And raised high for you your repute"
+          },
+          "practical": {
+            "arabic": "هذا يعالج شعور 'أنا قليل/فاشل' - اكتب قائمة بما أنجزته وما أثّرت به إيجابيًا",
+            "english": "This treats the feeling 'I am insignificant/failure' - write a list of what you've accomplished and positively impacted"
+          }
+        },
+        {
+          "id": "rule-no-despair",
+          "floor": 3,
+          "title": { "arabic": "لا تستسلم لليأس", "english": "Don't Surrender to Despair" },
+          "icon": "TrendingUp",
+          "description": {
+            "arabic": "فإن مع العسر يسرا * إن مع العسر يسرا - 'مع' العسر لا 'بعده': في قلب كل أزمة يسر خاص بها",
+            "english": "'For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease' - 'with' hardship not 'after': in the heart of every crisis is ease specific to it"
+          },
+          "verse": {
+            "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+            "english": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease"
+          },
+          "practical": {
+            "arabic": "التكرار لترسيخ أن مع كل عسر أكثر من يسر - ابحث عن اليسر المخفي في قلب العسر الحالي",
+            "english": "Repetition to establish that with every hardship comes more than one ease - search for the hidden ease in the heart of current hardship"
+          }
+        },
+        {
+          "id": "rule-worship-attachment",
+          "floor": 4,
+          "title": { "arabic": "العبادة وربط الرغبات بالله", "english": "Worship and Attaching Desires to Allah" },
+          "icon": "Sparkles",
+          "description": {
+            "arabic": "فإذا فرغت فانصب * وإلى ربك فارغب - بعد الفراغ من الشغل، قف بين يدي الله، واربط كل رغباتك بالدعاء والتعلق بالله",
+            "english": "'So when you have finished, then stand up. And to your Lord direct your longing' - after finishing work, stand before Allah and attach all your desires to supplication and attachment to Allah"
+          },
+          "verse": {
+            "arabic": "فَإِذَا فَرَغْتَ فَانصَبْ ۝ وَإِلَىٰ رَبِّكَ فَارْغَب",
+            "english": "So when you have finished [your duties], then stand up [for worship]. And to your Lord direct [your] longing"
+          },
+          "practical": {
+            "arabic": "لا تربط رغباتك بالدنيا فقط - اجعل الله هو المقصد الأول في كل رغبة ودعاء",
+            "english": "Don't attach your desires to worldly life only - make Allah the first destination in every desire and supplication"
+          }
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "category": "General Lessons",
+      "lessons": [
+        {
+          "id": "suffocation-treatment",
+          "title": { "arabic": "علاج الاختناق", "english": "Treating Suffocation" },
+          "content": {
+            "arabic": "المخنوق يحتاج: حد يحس بيه، التخلص من الأحمال، تقدير الذات، اليقين بالفرج، والعبادة",
+            "english": "The suffocated person needs: someone to feel them, removing burdens, self-worth, certainty of relief, and worship"
+          }
+        },
+        {
+          "id": "with-not-after",
+          "title": { "arabic": "مع لا بعد", "english": "With Not After" },
+          "content": {
+            "arabic": "فإن مع العسر يسرًا - 'مع' العسر لا 'بعده': في قلب كل أزمة يسر خاص بها، لا تنتظر انتهاء الأزمة لترى اليسر",
+            "english": "'For indeed, with hardship [will be] ease' - 'with' hardship not 'after': in the heart of every crisis is ease specific to it, don't wait for the crisis to end to see ease"
+          }
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "category": "Practical Gems",
+      "gems": [
+        {
+          "id": "burden-removal-practice",
+          "title": { "arabic": "تمرين التخلص من الأوزار", "english": "Burden Removal Exercise" },
+          "content": {
+            "arabic": "اكتب قائمة بالأحمال التي تثقل صدرك: ذنوب (استغفر منها)، أحقاد (اتركها لأجل نفسك)، ذكريات مؤلمة (اعمل عليها بالعلاج أو التسامح)",
+            "english": "Write a list of burdens weighing down your chest: sins (seek forgiveness), resentments (leave them for your own sake), painful memories (work on them through therapy or forgiveness)"
+          },
+          "when": {
+            "arabic": "عند الشعور بثقل على الصدر أو ضيق نفس",
+            "english": "When feeling weight on chest or shortness of breath"
+          }
+        },
+        {
+          "id": "ease-search",
+          "title": { "arabic": "البحث عن اليسر", "english": "Searching for Ease" },
+          "content": {
+            "arabic": "في كل عسر تمر به، ابحث عن اليسر المخفي: درس تعلمته، قوة اكتسبتها، شخص تعرفت عليه، فرصة ظهرت",
+            "english": "In every hardship you go through, search for the hidden ease: lesson learned, strength gained, person you met, opportunity that appeared"
+          },
+          "when": {
+            "arabic": "عند الشعور باليأس أو أن الأزمة لا نهاية لها",
+            "english": "When feeling despair or that the crisis is endless"
+          }
+        }
+      ]
+    }
+  ],
+  "pillars": [],
+  "connections": []
+}

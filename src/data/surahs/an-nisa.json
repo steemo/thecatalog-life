@@ -1,0 +1,267 @@
+{
+  "id": 4,
+  "slug": "an-nisa",
+  "name": {
+    "arabic": "سورة النساء",
+    "english": "Surah An-Nisa",
+    "transliteration": "An-Nisa"
+  },
+  "metadata": {
+    "verses": 176,
+    "words": 3745,
+    "type": "medinan",
+    "juz": "4-6",
+    "order": 4
+  },
+  "goal": {
+    "arabic": "إرساء قواعد العدل والرحمة في بناء المجتمع المسلم، وحماية حقوق المستضعفين.",
+    "english": "Establishing the foundations of justice and mercy in building Muslim society, and protecting the rights of the vulnerable."
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة النساء", "english": "The Women" },
+      "reason": {
+        "arabic": "لكثرة ما ورد فيها من الأحكام المتعلقة بالنساء (المواريث، الزواج، الحقوق الزوجية، وحقوق اليتيمات).",
+        "english": "Named for the abundance of rulings related to women (inheritance, marriage, marital rights, orphan girls' rights)."
+      }
+    },
+    {
+      "id": "greater",
+      "name": { "arabic": "سورة النساء الكبرى", "english": "The Greater Surah of Women" },
+      "reason": {
+        "arabic": "لتمييزها عن سورة \"الطلاق\" التي تُسمى أحياناً \"سورة النساء الصغرى\".",
+        "english": "To distinguish it from Surah At-Talaq (Divorce), sometimes called \"The Lesser Surah of Women\"."
+      }
+    },
+    {
+      "id": "vulnerable",
+      "name": { "arabic": "سورة الاستضعاف", "english": "Surah of the Vulnerable" },
+      "reason": {
+        "arabic": "نزلت لإنصاف المستضعفين في المجتمع (النساء، اليتامى، الأولاد).",
+        "english": "Revealed to bring justice to the vulnerable in society (women, orphans, children)."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "weeping",
+      "title": { "arabic": "سورة البكاء والخشوع", "english": "Surah of Weeping and Humility" },
+      "hadith": {
+        "arabic": "قال النبي ﷺ لابن مسعود: \"اقرأ علي\" فقرأ حتى وصل إلى ﴿فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰؤُلَاءِ شَهِيدًا﴾ فبكى النبي ﷺ حتى ذرفت عيناه.",
+        "english": "The Prophet ﷺ said to Ibn Mas'ud: \"Recite to me.\" He recited until reaching \"So how will it be when We bring from every nation a witness and we bring you against these as a witness?\" The Prophet ﷺ wept until his eyes shed tears."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "family",
+      "title": { "arabic": "تنظيم شؤون الأسرة", "english": "Organising Family Affairs" },
+      "verses": "1-35",
+      "description": {
+        "arabic": "حقوق النساء، المواريث، اليتامى، والعدل في البيوت. القاعدة: العدل يبدأ من أقرب الناس إليك.",
+        "english": "Rights of women, inheritance, orphans, and justice in homes. Principle: Justice begins with those closest to you."
+      }
+    },
+    {
+      "id": "society",
+      "title": { "arabic": "تنظيم المجتمع والدولة", "english": "Organising Society and State" },
+      "verses": "36-126",
+      "description": {
+        "arabic": "الأمانات، طاعة ولي الأمر، الهجرة في سبيل الله، صلاة الخوف. القاعدة: المجتمع القوي هو الذي يحمي الضعيف.",
+        "english": "Trusts, obedience to authority, migration for Allah's sake, prayer of fear. Principle: A strong society protects the weak."
+      }
+    },
+    {
+      "id": "plots",
+      "title": { "arabic": "التصدّي لمكر الداخل والخارج", "english": "Confronting Internal and External Plots" },
+      "verses": "127-162",
+      "description": {
+        "arabic": "المنافقون (الخطر الداخلي) وأهل الكتاب (الخطر الخارجي). القاعدة: الثبات على العدل يحميك من كيد الأعداء.",
+        "english": "Hypocrites (internal threat) and People of Scripture (external threat). Principle: Steadfastness in justice protects from enemies' plots."
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": { "arabic": "خاتمة المواريث والتوحيد", "english": "Conclusion on Inheritance and Monotheism" },
+      "verses": "163-176",
+      "description": {
+        "arabic": "تأكيد الرسالة الخاتمة، الختام بآية \"الكلالة\" لتأكيد حقوق الورثة.",
+        "english": "Affirming the final message, concluding with the verse of \"Kalalah\" to confirm heirs' rights."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "justice",
+      "title": { "arabic": "العدل والرحمة", "english": "Justice and Mercy" },
+      "icon": "scale",
+      "description": {
+        "arabic": "إرساء قواعد العدل في الأسرة والمجتمع",
+        "english": "Establishing foundations of justice in family and society"
+      }
+    },
+    {
+      "id": "vulnerable",
+      "title": { "arabic": "حماية المستضعفين", "english": "Protecting the Vulnerable" },
+      "icon": "shield",
+      "description": {
+        "arabic": "النساء، اليتامى، الأولاد - حقوقهم وحمايتهم",
+        "english": "Women, orphans, children - their rights and protection"
+      }
+    },
+    {
+      "id": "inheritance",
+      "title": { "arabic": "نظام الميراث", "english": "Inheritance System" },
+      "icon": "landmark",
+      "description": {
+        "arabic": "توزيع التركة وفق شرع الله - الأولاد، الأبوين، الأزواج، الكلالة",
+        "english": "Distribution of inheritance according to Allah's law - children, parents, spouses, Kalalah"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "justice-foundation",
+      "title": { "arabic": "العدل أساس المجتمع", "english": "Justice as Foundation of Society" },
+      "content": {
+        "arabic": "حدد موقعك من الأصناف الثلاثة: تسويف، مناقشة واعتراض، أم سمعنا وأطعنا؟",
+        "english": "Determine your position among the three categories: procrastination, debate and objection, or we hear and obey?"
+      }
+    },
+    {
+      "id": "commands-test",
+      "title": { "arabic": "التكاليف اختبار الإيمان", "english": "Commands Test Faith" },
+      "content": {
+        "arabic": "التكاليف اختبار الإيمان وصدق الطاعة.",
+        "english": "Divine commands test faith and sincerity of obedience."
+      }
+    },
+    {
+      "id": "rights-sacred",
+      "title": { "arabic": "قداسة الحقوق", "english": "Sanctity of Rights" },
+      "content": {
+        "arabic": "قداسة الحقوق المتعلقة بالخلق.",
+        "english": "The sanctity of rights related to creation."
+      }
+    },
+    {
+      "id": "wealth",
+      "title": { "arabic": "إدارة المال", "english": "Financial Management" },
+      "content": {
+        "arabic": "المال نعمة من الله وسياسة إدارته لابد أن تكون وفق منهج الله تعالى.",
+        "english": "Wealth is a blessing from Allah, and its management must align with Allah's methodology."
+      }
+    },
+    {
+      "id": "dua",
+      "title": { "arabic": "الدعاء عبادة", "english": "Supplication as Worship" },
+      "content": {
+        "arabic": "التعبد بالدعاء من أعظم ألوان التعبد.",
+        "english": "Worship through supplication is among the greatest forms of devotion."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "unity",
+      "title": { "arabic": "وحدة الأصل", "english": "Unity of Origin" },
+      "content": {
+        "arabic": "﴿مِن نَّفْسٍ وَاحِدَةٍ﴾ - كل البشر خُلقوا من أصل واحد",
+        "english": "\"From one soul\" - All humanity created from one origin"
+      }
+    },
+    {
+      "id": "consoling",
+      "title": { "arabic": "جبر الخواطر", "english": "Consoling Hearts" },
+      "content": {
+        "arabic": "﴿وَقُولُوا لَهُم قَوْلًا مَّعْرُوفًا﴾ - إعطاء \"ترضية\" للأقارب في المواريث",
+        "english": "\"And speak to them a kind word\" - Giving consolation to relatives in inheritance"
+      }
+    },
+    {
+      "id": "mercy",
+      "title": { "arabic": "رحمة التشريع", "english": "Mercy in Legislation" },
+      "content": {
+        "arabic": "﴿يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ﴾",
+        "english": "\"Allah wants to lighten for you\""
+      }
+    },
+    {
+      "id": "reconciliation",
+      "title": { "arabic": "علاج الخلاف", "english": "Resolving Conflict" },
+      "content": {
+        "arabic": "﴿إِن يُرِيدَا إِصْلَاحًا﴾ - في المشاكل الزوجية",
+        "english": "\"If they both desire reconciliation\" - In marital problems"
+      }
+    },
+    {
+      "id": "justice",
+      "title": { "arabic": "العدل المطلق", "english": "Absolute Justice" },
+      "content": {
+        "arabic": "﴿إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ﴾",
+        "english": "\"Indeed, Allah does not do injustice, even as much as an atom's weight\""
+      }
+    },
+    {
+      "id": "vulnerable-jihad",
+      "title": { "arabic": "النساء والجهاد", "english": "Women and Jihad" },
+      "content": {
+        "arabic": "﴿وَالْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ﴾",
+        "english": "\"And the oppressed among men, women, and children\""
+      }
+    },
+    {
+      "id": "greeting",
+      "title": { "arabic": "التحية بأحسن منها", "english": "Better Greeting" },
+      "content": {
+        "arabic": "﴿فَحَيُّوا بِأَحْسَنَ مِنْهَا﴾",
+        "english": "\"Then greet with better than it\""
+      }
+    },
+    {
+      "id": "testimony",
+      "title": { "arabic": "الدقة في الشهادة", "english": "Precision in Testimony" },
+      "content": {
+        "arabic": "﴿وَلَوْ عَلَىٰ أَنفُسِكُمْ﴾",
+        "english": "\"Even if it be against yourselves\""
+      }
+    },
+    {
+      "id": "protect-heart",
+      "title": { "arabic": "صيانة السمع والقلب", "english": "Protecting Hearing and Heart" },
+      "content": {
+        "arabic": "﴿فَلَا تَقْعُدُوا مَعَهُمْ﴾",
+        "english": "\"Then do not sit with them\""
+      }
+    },
+    {
+      "id": "kalalah",
+      "title": { "arabic": "الخاتمة القانونية", "english": "Legal Conclusion" },
+      "content": {
+        "arabic": "﴿يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ﴾ - آية الكلالة",
+        "english": "\"They ask you for a legal ruling. Say, 'Allah gives you a ruling'\" - Verse of Kalalah"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "previous",
+      "surahId": 3,
+      "surahSlug": "aal-imran",
+      "description": {
+        "arabic": "آل عمران: غزوة أحد واستشهاد المسلمين - النساء: معالجة الآثار الاجتماعية (الأيتام والأرامل)",
+        "english": "Aal-Imran: Battle of Uhud and martyrdom - An-Nisa: Addressing social aftermath (orphans and widows)"
+      }
+    },
+    {
+      "type": "related",
+      "surahId": 65,
+      "surahSlug": "at-talaq",
+      "description": {
+        "arabic": "النساء (الكبرى): أحكام الأسرة والمجتمع - الطلاق (الصغرى): أحكام الفرقة والعدة",
+        "english": "An-Nisa (Greater): Family and society rulings - At-Talaq (Lesser): Divorce and waiting period rulings"
+      }
+    }
+  ]
+}

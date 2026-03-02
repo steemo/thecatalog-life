@@ -1,0 +1,128 @@
+{
+  "id": "teaser",
+  "slug": "teaser",
+  "day": 0,
+  "title": {
+    "arabic": "أنت بتستخدم نفسك غلط!",
+    "english": "You're Using Yourself Wrong!"
+  },
+  "subtitle": {
+    "arabic": "تخيل لو اشتريت طيارة وقررت تسوقها زي العجلة",
+    "english": "Imagine buying a plane and deciding to drive it like a bicycle"
+  },
+  "metadata": {
+    "day": 0,
+    "type": "teaser",
+    "readTime": 3,
+    "tags": ["introduction", "metaphor", "awakening"]
+  },
+  "hook": {
+    "arabic": "تخيل لو اشتريت أحدث وأعقد 'طيارة' في العالم، بس قررت تسوقها زي ما بتسوق 'العجلة'.. وبدأت تشتكي إنها مش بتمشي، وإن صوتها عالي، وإنها معقدة!",
+    "english": "Imagine you bought the most advanced and complex 'airplane' in the world, but decided to drive it like you drive a 'bicycle'... and started complaining that it doesn't work, that it's too loud, and that it's complicated!"
+  },
+  "mainConcept": {
+    "arabic": "المشكلة أكيد مش في الطيارة.. المشكلة إنك رميت 'الكتالوج' وبتحاول تشغلها بالفهلوة. ولله المثل الأعلى.. الإنسان هو أعقد وأرقى 'ماكينة' في الكون.",
+    "english": "The problem is definitely not with the airplane... The problem is that you threw away the 'catalog' and are trying to operate it by guesswork. And to Allah belongs the highest example... The human being is the most complex and sophisticated 'machine' in the universe."
+  },
+  "analogies": [
+    {
+      "id": "human-machine",
+      "title": {
+        "arabic": "الإنسان = الماكينة المعجزة",
+        "english": "Human = The Miracle Machine"
+      },
+      "description": {
+        "arabic": "فيك جسد (Hardware)، وعقل (Software)، وروح (Operating System). بس للأسف، أغلبنا عايش حياته 'تجربة وخطأ'.",
+        "english": "You have a body (Hardware), a mind (Software), and a soul (Operating System). But unfortunately, most of us live our lives by 'trial and error'."
+      },
+      "example": {
+        "arabic": "بنجرب نعيش بقوانين المجتمع، بنجرب نعيش ورا الترند، بنجرب نعيش عشان نرضي الناس. والنتيجة؟ قلق (Anxiety)، اكتئاب (System Failure)، وإحساس دائم إن البطارية بتخلص بسرعة وأنت مش عارف ليه.",
+        "english": "We try living by society's rules, we try living following trends, we try living to please people. The result? Anxiety, depression (System Failure), and a constant feeling that the battery is draining fast and you don't know why."
+      }
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "arabic": "الإنسان هو أعقد ماكينة في الكون - جسد وعقل وروح",
+      "english": "The human is the most complex machine in the universe - body, mind, and soul"
+    },
+    {
+      "arabic": "معظمنا يعيش بالتجربة والخطأ بدلاً من اتباع الدليل",
+      "english": "Most of us live by trial and error instead of following the manual"
+    },
+    {
+      "arabic": "النتيجة: قلق، اكتئاب، وإحساس بالاستنزاف المستمر",
+      "english": "The result: anxiety, depression, and a feeling of constant depletion"
+    },
+    {
+      "arabic": "الحل: نفتح 'الكتالوج' سوا في رحلة 30 يوم",
+      "english": "The solution: We open 'The Catalog' together in a 30-day journey"
+    }
+  ],
+  "spiritual": {
+    "id": "spiritual-intro",
+    "title": {
+      "arabic": "لغة الروح",
+      "english": "Language of the Soul"
+    },
+    "content": {
+      "arabic": "في رحلة الـ 30 يوم دي، إحنا مش جايين نقول خطب ومواعظ تقليدية. إحنا جايين نفتح 'الكتالوج' سوا. هنفهم الدين بـ 3 لغات: لغة الروح، لغة العلم، ولغة الحياة.",
+      "english": "In this 30-day journey, we're not here to give traditional sermons and lectures. We're here to open 'The Catalog' together. We'll understand religion in 3 languages: the language of the soul, the language of science, and the language of life."
+    }
+  },
+  "scientific": {
+    "id": "scientific-intro",
+    "title": {
+      "arabic": "لغة العلم",
+      "english": "Language of Science"
+    },
+    "content": {
+      "arabic": "هنفهم ليه بنصلي؟ (مش عشان ربنا محتاج، بس عشان إحنا محتاجين نفصل ونشحن). ليه بنصوم؟ (مش عشان نجوع، بس عشان نرجع نمسك الدريكسيون ونتحكم). ليه بنطلع زكاة؟ (مش ضريبة، دي قانون الوفرة وتطوير المجتمع).",
+      "english": "We'll understand why we pray? (Not because Allah needs it, but because we need to disconnect and recharge). Why we fast? (Not to starve, but to regain control of the steering wheel). Why we give Zakat? (Not a tax, it's the law of abundance and community development)."
+    }
+  },
+  "practical": {
+    "id": "practical-intro",
+    "title": {
+      "arabic": "لغة الحياة",
+      "english": "Language of Life"
+    },
+    "content": {
+      "arabic": "استنونا كل يوم.. عشان نعيد اكتشاف الحياة. هنتعلم إزاي نستخدم نفسنا صح، ونفهم الحكمة وراء كل أمر ونهي، ونطبق ده في حياتنا اليومية.",
+      "english": "Join us every day... to rediscover life. We'll learn how to use ourselves correctly, understand the wisdom behind every command and prohibition, and apply this in our daily lives."
+    }
+  },
+  "practicalSteps": [
+    {
+      "id": "step-1",
+      "title": {
+        "arabic": "الخطوة الأولى",
+        "english": "First Step"
+      },
+      "action": {
+        "arabic": "اعترف إنك محتاج 'الكتالوج' - مش عيب إنك ما تعرفش كل حاجة",
+        "english": "Admit that you need 'The Catalog' - it's not shameful to not know everything"
+      },
+      "benefit": {
+        "arabic": "الاعتراف بالحاجة هو أول خطوة للتغيير الحقيقي",
+        "english": "Admitting the need is the first step to real change"
+      }
+    },
+    {
+      "id": "step-2",
+      "title": {
+        "arabic": "الخطوة الثانية",
+        "english": "Second Step"
+      },
+      "action": {
+        "arabic": "التزم بالرحلة - 30 يوم فقط لإعادة اكتشاف نفسك",
+        "english": "Commit to the journey - just 30 days to rediscover yourself"
+      },
+      "benefit": {
+        "arabic": "الالتزام يبني الزخم والتغيير المستدام",
+        "english": "Commitment builds momentum and sustainable change"
+      }
+    }
+  ],
+  "nextEntry": "day-1-manifesto"
+}

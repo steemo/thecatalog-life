@@ -1,0 +1,582 @@
+{
+  "id": 2,
+  "slug": "al-baqarah",
+  "name": {
+    "arabic": "سورة البقرة",
+    "english": "Surah Al-Baqarah",
+    "transliteration": "Al-Baqarah"
+  },
+  "metadata": {
+    "verses": 286,
+    "words": 6144,
+    "type": "medinan",
+    "juz": "1-3",
+    "order": 2
+  },
+  "goal": {
+    "academic": {
+      "arabic": "إعداد الأمة لعمارة الأرض والقيام بدين الله وبيان أقسام الناس في ذلك.",
+      "english": "Preparing the Ummah for building civilisation on earth and establishing Allah's religion, while clarifying the categories of people in this regard."
+    },
+    "psychological": {
+      "arabic": "بناء العمارة النفسية للإنسان المسلم من خلال أربعة أدوار: الجانب الرسالي، التسليم لله، التقوى، والإحسان - لحماية الصحة النفسية وسط الابتلاءات.",
+      "english": "Building the psychological structure of the Muslim through four pillars: purposeful living, surrender to Allah, God-consciousness, and excellence - to protect mental health amidst trials."
+    },
+    "summary": {
+      "arabic": "سورة البقرة هي سنام القرآن وأطول سوره، تجمع بين بناء الأمة الخارجي (الخلافة والأحكام) والبناء الداخلي (الصحة النفسية والروحية).",
+      "english": "Surah Al-Baqarah is the peak of the Quran and its longest chapter, combining external nation-building (succession and laws) with internal building (mental and spiritual health)."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة البقرة", "english": "The Cow" },
+      "reason": {
+        "arabic": "تعود لواقعة قتل في بني إسرائيل، حيث أمرهم الله على لسان موسى عليه السلام بذبح بقرة لكشف القاتل.",
+        "english": "Named after an incident involving Bani Israel, where Allah commanded them through Prophet Musa to slaughter a cow to reveal a murderer."
+      }
+    },
+    {
+      "id": "az-zahra",
+      "name": { "arabic": "الزهراء", "english": "The Radiant" },
+      "reason": {
+        "arabic": "النور والضياء",
+        "english": "Light and illumination"
+      }
+    },
+    {
+      "id": "sanam",
+      "name": { "arabic": "سنام القرآن", "english": "The Hump of the Quran" },
+      "reason": {
+        "arabic": "العلو والرفعة",
+        "english": "Elevation and nobility"
+      }
+    },
+    {
+      "id": "fustat",
+      "name": { "arabic": "فسطاط القرآن", "english": "The Tent of the Quran" },
+      "reason": {
+        "arabic": "الشمولية والاحتواء",
+        "english": "Comprehensiveness and encompassment"
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "expel-satan",
+      "title": { "arabic": "طرد الشيطان", "english": "Expelling Satan" },
+      "hadith": {
+        "arabic": "لا تجعلوا بيوتكم مقابر، إن الشيطان ينفر من البيت الذي تقرأ فيه سورة البقرة",
+        "english": "Do not make your houses like graveyards. Indeed, Satan flees from a house in which Surah Al-Baqarah is recited."
+      }
+    },
+    {
+      "id": "two-radiant",
+      "title": { "arabic": "الزهراوان", "english": "The Two Radiant Ones" },
+      "hadith": {
+        "arabic": "اقرأوا الزهراوين البقرة وآل عمران، فإنهما تأتيان يوم القيامة كأنهما غمامتان أو غيايتان أو فرقان من طير صواف تحاجان عن صاحبهما",
+        "english": "Recite the two radiant ones: Al-Baqarah and Aal-Imran. They will come on the Day of Judgment like two clouds, two shades, or two flocks of birds in ranks, defending their companion."
+      }
+    },
+    {
+      "id": "greatest-verse",
+      "title": { "arabic": "أعظم آية", "english": "Greatest Verse" },
+      "hadith": {
+        "arabic": "بها أعظم آية في القرآن وهى آية الكرسي (255)",
+        "english": "Contains the greatest verse in the Quran: Ayat Al-Kursi (verse 255)."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": { "arabic": "المقدمة", "english": "Introduction" },
+      "verses": "1-20",
+      "description": {
+        "arabic": "أصناف الناس (مؤمنون، كفار، منافقون)",
+        "english": "Categories of people (believers, disbelievers, hypocrites)"
+      }
+    },
+    {
+      "id": "succession",
+      "title": { "arabic": "الخلافة في الأرض", "english": "Succession on Earth" },
+      "verses": "21-39",
+      "description": {
+        "arabic": "قصة آدم عليه السلام",
+        "english": "Story of Prophet Adam (peace be upon him)"
+      }
+    },
+    {
+      "id": "bani-israel",
+      "title": { "arabic": "بنو إسرائيل", "english": "Bani Israel" },
+      "verses": "40-123",
+      "description": {
+        "arabic": "نموذج الاستخلاف الفاشل (للتعلم من أخطائهم)",
+        "english": "Model of failed succession (to learn from their mistakes)"
+      }
+    },
+    {
+      "id": "ibrahim",
+      "title": { "arabic": "إبراهيم عليه السلام", "english": "Prophet Ibrahim" },
+      "verses": "124-141",
+      "description": {
+        "arabic": "نموذج الاستخلاف الناجح (بناء الكعبة والابتلاء)",
+        "english": "Model of successful succession (building the Kaaba and trials)"
+      }
+    },
+    {
+      "id": "laws",
+      "title": { "arabic": "أحكام الأمة المستخلفة", "english": "Laws for the Successor Nation" },
+      "verses": "142-283",
+      "description": {
+        "arabic": "القبلة، الصبر، العبادات، المعاملات، والربا",
+        "english": "Qiblah, patience, worship, transactions, and usury"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": { "arabic": "الخاتمة", "english": "Conclusion" },
+      "verses": "284-286",
+      "description": {
+        "arabic": "دعاء الاستسلام والالتجاء لله",
+        "english": "Prayer of submission and seeking refuge in Allah"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "category": "Academic Themes",
+      "themes": [
+        {
+          "id": "categories",
+          "title": { "arabic": "أصناف الناس", "english": "Categories of People" },
+          "icon": "users",
+          "description": {
+            "arabic": "المؤمنون (4 آيات)، الكافرون (2 آيتان)، المنافقون (13 آية + مثلين)",
+            "english": "Believers (4 verses), Disbelievers (2 verses), Hypocrites (13 verses + two parables)"
+          }
+        },
+        {
+          "id": "succession-models",
+          "title": { "arabic": "نماذج الخلافة", "english": "Models of Succession" },
+          "icon": "crown",
+          "description": {
+            "arabic": "آدم (تاب وأناب)، بنو إسرائيل (سمعنا وعصينا)، إبراهيم (سمعنا وأطعنا)",
+            "english": "Adam (repented), Bani Israel (we hear and disobey), Ibrahim (we hear and obey)"
+          }
+        },
+        {
+          "id": "divine-laws",
+          "title": { "arabic": "التكاليف والأحكام", "english": "Divine Commands" },
+          "icon": "scale",
+          "description": {
+            "arabic": "الصلاة والصيام والحج، القصاص والوصية، النكاح والطلاق، المعاملات المالية",
+            "english": "Prayer, fasting, Hajj, retaliation, wills, marriage, divorce, financial transactions"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Psychological Pillars - The Four Floors",
+      "description": {
+        "arabic": "العمارة النفسية الأربعة لحماية الصحة النفسية وسط الابتلاءات",
+        "english": "The four-story psychological structure to protect mental health amidst trials"
+      },
+      "themes": [
+        {
+          "id": "pillar-purposeful",
+          "title": { "arabic": "الجانب الرسالي", "english": "Purposeful Living" },
+          "icon": "target",
+          "description": {
+            "arabic": "أن يكون في حياتك جانب رسالي/خيري/روحي بجانب الماديات - تشتغل عند ربنا ولو بجزء من وقتك ومهنتك وفلوسك",
+            "english": "Having a purposeful/charitable/spiritual dimension alongside material life - working for Allah with part of your time, profession, and wealth"
+          },
+          "verse": {
+            "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+            "english": "And when your Lord said to the angels: 'Indeed, I will make upon the earth a khalifah (successor)'"
+          },
+          "practical": {
+            "arabic": "دمج العمل الخيري في حياتك اليومية - سيستم واحد متناغم بين الدنيا والآخرة",
+            "english": "Integrate charitable work into daily life - one harmonious system between this world and the hereafter"
+          }
+        },
+        {
+          "id": "pillar-surrender",
+          "title": { "arabic": "التسليم لله", "english": "Surrender to Allah" },
+          "icon": "heart",
+          "description": {
+            "arabic": "قبول قدر الله بقلب راضٍ - أنا معاك يا رب، قدرك جميل - التسليم يقلل المقاومة فيوسع الوسع الداخلي",
+            "english": "Accepting Allah's decree with a content heart - I'm with You, O Lord, Your decree is beautiful - Surrender reduces resistance and expands inner capacity"
+          },
+          "verse": {
+            "arabic": "الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+            "english": "Those who, when disaster strikes them, say: 'Indeed we belong to Allah, and indeed to Him we will return'"
+          },
+          "practical": {
+            "arabic": "رفض القدر يزيد الألم (ألم المصيبة + ألم الغضب) - التسليم يخفف الحمل النفسي",
+            "english": "Rejecting decree doubles pain (pain of calamity + pain of anger) - Surrender lightens the psychological burden"
+          }
+        },
+        {
+          "id": "pillar-taqwa",
+          "title": { "arabic": "التقوى", "english": "God-Consciousness (Taqwa)" },
+          "icon": "shield",
+          "description": {
+            "arabic": "تقليل الفجوة بين ما تؤمن به من قيم وما تطبقه في سلوكك - ليس الكمال 100% بل فاتقوا الله ما استطعتم",
+            "english": "Reducing the gap between your values and your behavior - not 100% perfection but 'fear Allah as much as you can'"
+          },
+          "verse": {
+            "arabic": "فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ",
+            "english": "So fear Allah as much as you are able"
+          },
+          "practical": {
+            "arabic": "كلما كبرت الفجوة بين الظاهر والباطن زادت الهشاشة النفسية - التقوى تبني التماسك الداخلي",
+            "english": "The larger the gap between appearance and reality, the greater the psychological fragility - Taqwa builds internal coherence"
+          }
+        },
+        {
+          "id": "pillar-ihsan",
+          "title": { "arabic": "الإحسان", "english": "Excellence (Ihsan)" },
+          "icon": "star",
+          "description": {
+            "arabic": "أن تعبد الله كأنك تراه - إحساس دائم أن الله حاضر معك في كل خطوة - ربنا معايا وربنا يحب المحسنين",
+            "english": "To worship Allah as if you see Him - constant feeling that Allah is present with you in every step - My Lord is with me and Allah loves those who do good"
+          },
+          "verse": {
+            "arabic": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَالَّذِينَ هُم مُّحْسِنُونَ",
+            "english": "Indeed, Allah is with those who fear Him and those who are doers of good"
+          },
+          "practical": {
+            "arabic": "الحضور الرباني يعطي قوة نفسية مضاعفة - لا تحزن إن الله معنا، كلا إن معي ربي سيهدين",
+            "english": "Divine presence gives multiplied psychological strength - 'Do not grieve; indeed Allah is with us', 'No! Indeed, with me is my Lord; He will guide me'"
+          }
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "category": "General Lessons",
+      "lessons": [
+        {
+          "id": "perseverance",
+          "title": { "arabic": "الثبات على المنهج", "english": "Perseverance on the Path" },
+          "content": {
+            "arabic": "النجاح ليس في البدايات، وإنما العبرة بالخواتيم.",
+            "english": "Success is not in beginnings, but in endings."
+          }
+        },
+        {
+          "id": "taqwa",
+          "title": { "arabic": "التقوى شرط الانتفاع", "english": "Taqwa as Prerequisite" },
+          "content": {
+            "arabic": "التقوى هي شرط الانتفاع بالقرآن.",
+            "english": "God-consciousness is the condition for benefiting from the Quran."
+          }
+        },
+        {
+          "id": "internal-failure",
+          "title": { "arabic": "الفشل من الداخل", "english": "Failure from Within" },
+          "content": {
+            "arabic": "يبدأ الفشل من الداخل (التنازع والمعصية)، لا من قوة العدو.",
+            "english": "Failure begins internally (discord and disobedience), not from enemy strength."
+          }
+        },
+        {
+          "id": "wealth",
+          "title": { "arabic": "إدارة المال", "english": "Financial Management" },
+          "content": {
+            "arabic": "المال نعمة من الله وسياسة إدارته لابد أن تكون وفق منهج الله تعالى.",
+            "english": "Wealth is a blessing from Allah, and its management must align with Allah's methodology."
+          }
+        },
+        {
+          "id": "dua",
+          "title": { "arabic": "الدعاء عبادة", "english": "Supplication as Worship" },
+          "content": {
+            "arabic": "التعبد بالدعاء من أعظم ألوان التعبد.",
+            "english": "Worship through supplication is among the greatest forms of devotion."
+          }
+        }
+      ]
+    },
+    {
+      "category": "Story-Based Lessons",
+      "description": {
+        "arabic": "دروس عملية من القصص الثلاث الكبرى في السورة",
+        "english": "Practical lessons from the three major stories in the Surah"
+      },
+      "lessons": [
+        {
+          "id": "adam-thousand-doors",
+          "story": { "arabic": "قصة آدم", "english": "Story of Adam" },
+          "title": { "arabic": "ألف باب حلال", "english": "A Thousand Permissible Doors" },
+          "content": {
+            "arabic": "عندك ألف باب حلال، لا تذهب للباب الحرام الوحيد - شجرة محرمة واحدة وسط ألف شجرة.",
+            "english": "You have a thousand permissible doors, don't go to the one forbidden door - one prohibited tree among a thousand trees."
+          },
+          "application": {
+            "arabic": "أبواب الرزق الحلال الكثيرة مقابل طريق واحد للمال الحرام، أو استخدام الإنترنت في ألف منفعة وعدم اختياره لأقبح استخدام.",
+            "english": "Many doors of lawful provision versus one path of unlawful money, or using the internet for a thousand benefits instead of choosing its worst use."
+          }
+        },
+        {
+          "id": "adam-quick-repentance",
+          "story": { "arabic": "قصة آدم", "english": "Story of Adam" },
+          "title": { "arabic": "سرعة التوبة", "english": "Swift Repentance" },
+          "content": {
+            "arabic": "التوبة سهلة وسريعة، ولا مكان لجلد الذات المدمّر - فتلقى آدم من ربه كلمات فتاب عليه.",
+            "english": "Repentance is easy and swift, no place for destructive self-blame - 'Then Adam received from his Lord words, and He accepted his repentance.'"
+          },
+          "verse": {
+            "arabic": "فَتَلَقَّىٰ آدَمُ مِن رَّبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ",
+            "english": "Then Adam received from his Lord [some] words, and He accepted his repentance"
+          }
+        },
+        {
+          "id": "bani-israel-materialism",
+          "story": { "arabic": "قصة بني إسرائيل", "english": "Story of Bani Israel" },
+          "title": { "arabic": "الغرق في المادية", "english": "Drowning in Materialism" },
+          "content": {
+            "arabic": "المنّ والسلوى من السماء ويريدون فقط طعام الأرض - الغرق في المادية يقتل الجانب الرسالي.",
+            "english": "Manna and quails from heaven yet they only want earthly food - drowning in materialism kills the purposeful dimension."
+          },
+          "warning": {
+            "arabic": "حياة بلا رسالة = هشاشة نفسية عند أول ابتلاء",
+            "english": "Life without purpose = psychological fragility at the first trial"
+          }
+        },
+        {
+          "id": "bani-israel-no-surrender",
+          "story": { "arabic": "قصة بني إسرائيل", "english": "Story of Bani Israel" },
+          "title": { "arabic": "انعدام التسليم", "english": "Absence of Surrender" },
+          "content": {
+            "arabic": "لن نؤمن لك حتى نرى الله جهرة - العناد ورفض التسليم لله يزيد الألم النفسي.",
+            "english": "'We will not believe you until we see Allah outright' - Stubbornness and refusing to surrender to Allah increases psychological pain."
+          }
+        },
+        {
+          "id": "bani-israel-cow-details",
+          "story": { "arabic": "قصة بني إسرائيل", "english": "Story of Bani Israel" },
+          "title": { "arabic": "التفاصيل المبالغ فيها", "english": "Excessive Details" },
+          "content": {
+            "arabic": "تفاصيل مبالغ فيها في أمر ذبح البقرة - العناد والتعقيد بدلاً من البساطة والطاعة.",
+            "english": "Excessive details in the matter of slaughtering the cow - stubbornness and complication instead of simplicity and obedience."
+          },
+          "lesson": {
+            "arabic": "اذبحوا البقرة = اذبحوا المادية المفرطة في حياتكم",
+            "english": "'Slaughter the cow' = Slaughter excessive materialism in your lives"
+          }
+        },
+        {
+          "id": "ibrahim-purposeful",
+          "story": { "arabic": "قصة إبراهيم", "english": "Story of Ibrahim" },
+          "title": { "arabic": "الجانب الرسالي القوي", "english": "Strong Purposeful Dimension" },
+          "content": {
+            "arabic": "بناء الكعبة، الدعاء للأجيال القادمة - ربنا واجعلنا مسلمين لك ومن ذريتنا أمة مسلمة.",
+            "english": "Building the Kaaba, praying for future generations - 'Our Lord, make us Muslims [in submission] to You and from our descendants a Muslim nation.'"
+          }
+        },
+        {
+          "id": "ibrahim-expanded-capacity",
+          "story": { "arabic": "قصة إبراهيم", "english": "Story of Ibrahim" },
+          "title": { "arabic": "الاتساع للابتلاءات", "english": "Expanded Capacity for Trials" },
+          "content": {
+            "arabic": "اتسع للابتلاءات الصعبة لأنه ممتلئ برسالة - وإذ ابتلى إبراهيم ربه بكلمات فأتمهن (هجرة، نار، ذبح الابن).",
+            "english": "He had capacity for difficult trials because he was filled with purpose - 'And when Abraham was tried by his Lord with commands, he fulfilled them' (migration, fire, sacrifice of son)."
+          },
+          "principle": {
+            "arabic": "كلما كان الجانب الرسالي أقوى، كان الوسع الداخلي أكبر لتحمل الابتلاءات",
+            "english": "The stronger the purposeful dimension, the greater the inner capacity to bear trials"
+          }
+        },
+        {
+          "id": "ibrahim-complete-surrender",
+          "story": { "arabic": "قصة إبراهيم", "english": "Story of Ibrahim" },
+          "title": { "arabic": "التسليم الكامل", "english": "Complete Surrender" },
+          "content": {
+            "arabic": "إذ قال له ربه أسلم قال أسلمت لرب العالمين - قمة التسليم بلا تردد.",
+            "english": "'When his Lord said to him, \"Submit\", he said \"I have submitted to the Lord of the worlds\"' - Peak of surrender without hesitation."
+          }
+        },
+        {
+          "id": "shaytan-steps",
+          "story": { "arabic": "تحذير", "english": "Warning" },
+          "title": { "arabic": "خطوات الشيطان", "english": "Steps of Satan" },
+          "content": {
+            "arabic": "الشيطان لا يريد فقط إدخالك النار، بل تحطيمك نفسيًا - يعمل بخطوات لا مرة واحدة.",
+            "english": "Satan doesn't just want to put you in Hell, but to destroy you psychologically - he works in steps, not all at once."
+          },
+          "steps": {
+            "arabic": "يغرقك في الماديات والخوف من الفقر → يسرق الجانب الرسالي → يضعف التسليم → يهدم التقوى → يطفئ الإحسان",
+            "english": "Drowns you in materialism and fear of poverty → Steals purposeful dimension → Weakens surrender → Demolishes taqwa → Extinguishes ihsan"
+          },
+          "verse": {
+            "arabic": "وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ",
+            "english": "And do not follow the footsteps of Satan"
+          }
+        },
+        {
+          "id": "capacity-expansion",
+          "title": { "arabic": "توسيع الوسع", "english": "Expanding Inner Capacity" },
+          "content": {
+            "arabic": "لن يبتليك الله إلا في حدود وسعك - لا يكلف الله نفسًا إلا وسعها - والمشكلة أن الإنسان هو اللي يضيّق وسعه.",
+            "english": "Allah will not test you beyond your capacity - 'Allah does not burden a soul beyond its capacity' - The problem is that humans narrow their own capacity."
+          },
+          "solution": {
+            "arabic": "بناء العمارة النفسية الأربعة يوسع الوسع الداخلي فتستوعب الابتلاءات بدون انهيار",
+            "english": "Building the four psychological pillars expands inner capacity so you can absorb trials without collapse"
+          }
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "category": "Spiritual Gems",
+      "gems": [
+        {
+          "id": "unity",
+          "title": { "arabic": "وحدة الأصل", "english": "Unity of Origin" },
+          "content": {
+            "arabic": "﴿مِن نَّفْسٍ وَاحِدَةٍ﴾ - كل البشر خُلقوا من أصل واحد",
+            "english": "\"From a single soul\" - All humanity created from one origin"
+          }
+        },
+        {
+          "id": "consoling",
+          "title": { "arabic": "جبر الخواطر", "english": "Consoling Hearts" },
+          "content": {
+            "arabic": "﴿وَقُولُوا لَهُم قَوْلًا مَّعْرُوفًا﴾ - إعطاء \"ترضية\" للأقارب في المواريث",
+            "english": "\"And speak to them a kind word\" - Giving consolation to relatives in inheritance matters"
+          }
+        },
+        {
+          "id": "mercy",
+          "title": { "arabic": "رحمة التشريع", "english": "Mercy in Legislation" },
+          "content": {
+            "arabic": "﴿يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ﴾ - التشريع جاء للتيسير لا للتعجيز",
+            "english": "\"Allah wants to lighten for you\" - Legislation came for ease, not hardship"
+          }
+        },
+        {
+          "id": "justice",
+          "title": { "arabic": "العدل المطلق", "english": "Absolute Justice" },
+          "content": {
+            "arabic": "﴿إِنَّ اللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ﴾",
+            "english": "\"Indeed, Allah does not do injustice, even as much as an atom's weight\""
+          }
+        },
+        {
+          "id": "greeting",
+          "title": { "arabic": "التحية بأحسن منها", "english": "Better Greeting" },
+          "content": {
+            "arabic": "﴿فَحَيُّوا بِأَحْسَنَ مِنْهَا﴾ - الرقي في التعامل",
+            "english": "\"Then greet with better than it\" - Excellence in interaction"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Practical Gems - Immediate Relief",
+      "description": {
+        "arabic": "آيات للاستخدام الفوري عند الضيق والهم",
+        "english": "Verses for immediate use during distress and worry"
+      },
+      "gems": [
+        {
+          "id": "khawatim-1",
+          "verses": "284-286",
+          "title": { "arabic": "خواتيم البقرة - الدعاء الشامل", "english": "Closing Verses - Comprehensive Supplication" },
+          "content": {
+            "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ",
+            "english": "Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, do not lay upon us a burden like that which You laid upon those before us. Our Lord, do not burden us with that which we have no ability to bear"
+          },
+          "virtue": {
+            "arabic": "من قرأ هاتين الآيتين في ليلته كفتاه - تكفيه همّ هذه الليلة ووجعها، تكفيه همومه وديونه، تكفيه الشيطان والكوابيس والخوف",
+            "english": "Whoever recites these two verses at night, they will suffice him - They suffice him from the worry and pain of that night, from his worries and debts, from Satan, nightmares, and fear"
+          },
+          "when": {
+            "arabic": "قبل النوم إذا كنت خائفًا أو مهمومًا أو تشعر باحتراق داخلي وضغط نفسي أعلى من طاقتك",
+            "english": "Before sleep when you are fearful, worried, or feeling internal burnout and psychological pressure beyond your capacity"
+          },
+          "purpose": {
+            "arabic": "توسيع الوسع الداخلي حتى لا تشعر أن الضغط فوق طاقتك",
+            "english": "Expanding inner capacity so you don't feel pressure is beyond your ability"
+          }
+        },
+        {
+          "id": "ayat-kursi-protection",
+          "verses": "255",
+          "title": { "arabic": "آية الكرسي - الحماية الشاملة", "english": "Ayat Al-Kursi - Complete Protection" },
+          "content": {
+            "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+            "english": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of existence. Neither drowsiness overtakes Him nor sleep"
+          },
+          "virtue": {
+            "arabic": "أعظم آية في القرآن - من قرأها في ليلته لم يزل عليه من الله حافظ ولا يقربه شيطان حتى يصبح",
+            "english": "The greatest verse in the Quran - Whoever recites it at night will have a protector from Allah and no Satan will approach him until morning"
+          },
+          "when": {
+            "arabic": "بعد كل صلاة، قبل النوم، عند الخوف من أي شيء",
+            "english": "After every prayer, before sleep, when fearing anything"
+          }
+        },
+        {
+          "id": "khalifah-identity",
+          "verses": "30",
+          "title": { "arabic": "هويتك الأساسية", "english": "Your Core Identity" },
+          "content": {
+            "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً",
+            "english": "And when your Lord said to the angels, 'Indeed, I will make upon the earth a khalifah (successor)'"
+          },
+          "meaning": {
+            "arabic": "هويتك الأساسية: خليفة في الأرض - عندك رسالة إصلاح قبل اسمك ونوعك ووظيفتك",
+            "english": "Your core identity: khalifah on earth - You have a mission of reform before your name, gender, and job"
+          },
+          "application": {
+            "arabic": "كل ما تعمله في حياتك يجب أن يكون مرتبط برسالتك كخليفة - وإلا ستعيش فراغًا روحيًا",
+            "english": "Everything you do in life must be connected to your mission as khalifah - Otherwise you'll live in spiritual emptiness"
+          }
+        },
+        {
+          "id": "capacity-verse",
+          "verses": "286",
+          "title": { "arabic": "سعة الوسع", "english": "Capacity Expansion" },
+          "content": {
+            "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+            "english": "Allah does not burden a soul beyond its capacity"
+          },
+          "reminder": {
+            "arabic": "الله لن يبتليك فوق طاقتك - المشكلة أنك أنت اللي بتضيّق وسعك بالماديات والخوف وغياب الرسالة",
+            "english": "Allah will not test you beyond your ability - The problem is you narrow your own capacity with materialism, fear, and absence of purpose"
+          },
+          "solution": {
+            "arabic": "بناء العمارة النفسية الأربعة (رسالي، تسليم، تقوى، إحسان) يوسع وسعك الداخلي",
+            "english": "Building the four psychological pillars (purposeful, surrender, taqwa, ihsan) expands your inner capacity"
+          }
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "type": "previous",
+      "surahId": 1,
+      "surahSlug": "al-fatihah",
+      "description": {
+        "arabic": "الفاتحة: ﴿اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ﴾ - البقرة: ﴿ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ﴾",
+        "english": "Al-Fatihah: \"Guide us to the straight path\" - Al-Baqarah: \"This is the Book about which there is no doubt, a guidance for those conscious of Allah\""
+      }
+    },
+    {
+      "type": "next",
+      "surahId": 3,
+      "surahSlug": "aal-imran",
+      "description": {
+        "arabic": "البقرة تعطي المنهج، آل عمران تعلم كيف تثبت عليه",
+        "english": "Al-Baqarah gives the methodology, Aal-Imran teaches how to remain steadfast on it"
+      }
+    }
+  ]
+}

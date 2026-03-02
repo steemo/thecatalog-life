@@ -1,0 +1,14 @@
+# Quranic App - Robots.txt
+# Generated for search engine crawling
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /.git
+Disallow: /node_modules
+
+# Crawl delay (1 second between requests)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://quranic-app.com/sitemap.xml

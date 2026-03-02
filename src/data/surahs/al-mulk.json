@@ -1,0 +1,566 @@
+{
+  "id": 67,
+  "slug": "al-mulk",
+  "name": {
+    "arabic": "سورة الملك",
+    "english": "Surah Al-Mulk",
+    "transliteration": "Al-Mulk"
+  },
+  "metadata": {
+    "verses": 30,
+    "words": 337,
+    "type": "meccan",
+    "juz": "29",
+    "order": 67
+  },
+  "goal": {
+    "academic": {
+      "arabic": "بيان عظمة الله وملكه، وإثبات البعث والجزاء، وتخويف الكافرين وتبشير المؤمنين.",
+      "english": "Showing Allah's greatness and sovereignty, establishing resurrection and recompense, warning disbelievers and giving glad tidings to believers."
+    },
+    "psychological": {
+      "arabic": "المانعة والمنجية من الضيق والقلق - تمنع الهم والكرب من السيطرة على الإنسان، وتحميه من تقلبات الدنيا، وتمنح طمأنينة عالية قبل النوم.",
+      "english": "The Preventer and Savior from distress and anxiety - prevents worry and grief from controlling the person, protects from life's fluctuations, and grants high tranquility before sleep."
+    },
+    "summary": {
+      "arabic": "سورة الملك هي المانعة والمنجية - تُقرأ كل ليلة قبل النوم لتمنع الهم والكرب والخوف من المستقبل، وتشفع لصاحبها حتى يُغفر له، فتحميه من ظلمة القبر وظلمة النفس.",
+      "english": "Surah Al-Mulk is the Preventer and Savior - read every night before sleep to prevent worry, grief, and fear of the future, and intercedes for its companion until forgiven, protecting from grave's darkness and soul's darkness."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الملك", "english": "The Sovereignty" },
+      "reason": {
+        "arabic": "سميت بالملك لافتتاحها بقوله تعالى: تبارك الذي بيده الملك.",
+        "english": "Named after the opening: 'Blessed is He in whose hand is dominion.'"
+      }
+    },
+    {
+      "id": "al-maniaa",
+      "name": { "arabic": "المانعة", "english": "The Preventer" },
+      "reason": {
+        "arabic": "تسمى المانعة لأنها تمنع عذاب القبر وتمنع الهم والكرب من السيطرة على الإنسان.",
+        "english": "Called the Preventer because it prevents grave punishment and prevents worry and grief from controlling the person."
+      }
+    },
+    {
+      "id": "al-munjiya",
+      "name": { "arabic": "المنجية", "english": "The Savior" },
+      "reason": {
+        "arabic": "تسمى المنجية لأنها تنجي صاحبها من عذاب القبر وتشفع له حتى يُغفر له.",
+        "english": "Called the Savior because it saves its companion from grave punishment and intercedes until forgiven."
+      }
+    }
+  ]
+,
+  "virtues": [
+    {
+      "id": "preventer",
+      "title": { "arabic": "المانعة", "english": "The Preventer" },
+      "hadith": {
+        "arabic": "تسمى المانعة لأنها تمنع عذاب القبر وتمنع الهم والكرب من السيطرة على الإنسان.",
+        "english": "Called the Preventer because it prevents grave punishment and prevents worry and grief from controlling the person."
+      }
+    },
+    {
+      "id": "savior",
+      "title": { "arabic": "المنجية والشفيعة", "english": "The Savior and Intercessor" },
+      "hadith": {
+        "arabic": "هي المنجية تنجي من عذاب القبر، وتشفع لصاحبها حتى يُغفر له - من قرأها كل ليلة حُفظ من ظلمة القبر وظلمة النفس.",
+        "english": "It is the Savior that saves from grave punishment, and intercedes for its companion until forgiven - whoever reads it every night is protected from grave's darkness and soul's darkness."
+      }
+    },
+    {
+      "id": "nightly-protection",
+      "title": { "arabic": "الحماية الليلية", "english": "Nightly Protection" },
+      "hadith": {
+        "arabic": "تمنح طمأنينة عالية قبل النوم، مما يجعل العقل الباطن يعمل في حالة 'سكينة' بدلاً من القلق - نور في الظلمة.",
+        "english": "Grants high tranquility before sleep, making the subconscious work in 'serenity' state instead of anxiety - light in darkness."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "title": { "arabic": "المقدمة", "english": "Introduction" },
+      "verses": "1-5",
+      "description": {
+        "arabic": "تبارك الذي بيده الملك - عظمة الله وملكه",
+        "english": "'Blessed is He in whose hand is dominion' - Allah's greatness and sovereignty"
+      }
+    },
+    {
+      "id": "warning",
+      "title": { "arabic": "التخويف", "english": "Warning" },
+      "verses": "6-11",
+      "description": {
+        "arabic": "عذاب الكافرين وندمهم يوم القيامة",
+        "english": "Punishment of disbelievers and their regret on Judgment Day"
+      }
+    },
+    {
+      "id": "glad-tidings",
+      "title": { "arabic": "البشارة", "english": "Glad Tidings" },
+      "verses": "12",
+      "description": {
+        "arabic": "إن الذين يخشون ربهم بالغيب لهم مغفرة وأجر كبير",
+        "english": "'Indeed, those who fear their Lord unseen will have forgiveness and great reward'"
+      }
+    },
+    {
+      "id": "signs",
+      "title": { "arabic": "آيات القدرة", "english": "Signs of Power" },
+      "verses": "13-24",
+      "description": {
+        "arabic": "الأرض، الطير، الرزق - دلائل قدرة الله ورحمته",
+        "english": "Earth, birds, provision - proofs of Allah's power and mercy"
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": { "arabic": "الخاتمة", "english": "Conclusion" },
+      "verses": "25-30",
+      "description": {
+        "arabic": "قل إنما العلم عند الله - التسليم لله والتوكل عليه",
+        "english": "'Say, \"The knowledge is only with Allah\"' - submission to Allah and reliance on Him"
+      }
+    }
+  ]
+,
+  "themes": [
+    {
+      "category": "Academic Themes",
+      "themes": [
+        {
+          "id": "sovereignty",
+          "title": { "arabic": "الملك والقدرة", "english": "Sovereignty and Power" },
+          "icon": "Crown",
+          "description": {
+            "arabic": "تبارك الذي بيده الملك وهو على كل شيء قدير - الملك المطلق لله وحده",
+            "english": "'Blessed is He in whose hand is dominion, and He is over all things competent' - absolute sovereignty belongs to Allah alone"
+          }
+        },
+        {
+          "id": "death-life",
+          "title": { "arabic": "الموت والحياة", "english": "Death and Life" },
+          "icon": "Heart",
+          "description": {
+            "arabic": "الذي خلق الموت والحياة ليبلوكم أيكم أحسن عملاً - الحياة اختبار",
+            "english": "'Who created death and life to test you [as to] which of you is best in deed' - life is a test"
+          }
+        },
+        {
+          "id": "divine-protection",
+          "title": { "arabic": "الحماية الإلهية", "english": "Divine Protection" },
+          "icon": "Shield",
+          "description": {
+            "arabic": "أمن من في السماء أن يخسف بكم الأرض - الأمان من الله وحده",
+            "english": "'Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you' - security is from Allah alone"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Psychological Pillars - Protection from Anxiety",
+      "description": {
+        "arabic": "أربع قواعد للحماية من الهم والكرب والخوف من المستقبل",
+        "english": "Four principles for protection from worry, grief, and fear of the future"
+      },
+      "themes": [
+        {
+          "id": "pillar-security",
+          "floor": 1,
+          "title": { "arabic": "الأمان والحماية", "english": "Security and Protection" },
+          "icon": "Shield",
+          "description": {
+            "arabic": "الملك تمنع الهم والكرب من السيطرة على الإنسان، وتحميه من تقلبات الدنيا - تبارك الذي بيده الملك، فأنت في حماية الملك",
+            "english": "Al-Mulk prevents worry and grief from controlling the person, and protects from life's fluctuations - 'Blessed is He in whose hand is dominion', so you are under the King's protection"
+          },
+          "verse": {
+            "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "english": "Blessed is He in whose hand is dominion, and He is over all things competent"
+          },
+          "practical": {
+            "arabic": "عند الشعور بالخوف أو القلق، تذكر: الملك بيد الله، وأنت في حمايته - لا أحد يستطيع أن يضرك إلا بإذنه",
+            "english": "When feeling fear or anxiety, remember: dominion is in Allah's hand, and you are under His protection - no one can harm you except by His permission"
+          }
+        },
+        {
+          "id": "pillar-intercession",
+          "floor": 2,
+          "title": { "arabic": "الشفاعة والمغفرة", "english": "Intercession and Forgiveness" },
+          "icon": "Heart",
+          "description": {
+            "arabic": "الملك تشفع لصاحبها حتى يُغفر له، مما يرفع الأثقال النفسية (الذنوب) التي تعيق الرزق والراحة النفسية",
+            "english": "Al-Mulk intercedes for its companion until forgiven, lifting psychological burdens (sins) that hinder provision and psychological comfort"
+          },
+          "verse": {
+            "arabic": "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+            "english": "Indeed, those who fear their Lord unseen will have forgiveness and great reward"
+          },
+          "practical": {
+            "arabic": "الذنوب تثقل النفس وتسبب القلق - قراءة الملك يومياً تطلب المغفرة وترفع الأثقال",
+            "english": "Sins weigh down the soul and cause anxiety - reading Al-Mulk daily seeks forgiveness and lifts burdens"
+          }
+        }
+,
+        {
+          "id": "pillar-tranquility",
+          "floor": 3,
+          "title": { "arabic": "نور في الظلمة", "english": "Light in Darkness" },
+          "icon": "Sun",
+          "description": {
+            "arabic": "الملك تمنح طمأنينة عالية قبل النوم، مما يجعل العقل الباطن يعمل في حالة 'سكينة' بدلاً من القلق - نور يضيء ظلمة الليل وظلمة النفس",
+            "english": "Al-Mulk grants high tranquility before sleep, making the subconscious work in 'serenity' state instead of anxiety - light that illuminates night's darkness and soul's darkness"
+          },
+          "verse": {
+            "arabic": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ",
+            "english": "Or who is it that could provide for you if He withheld His provision?"
+          },
+          "practical": {
+            "arabic": "اقرأ الملك قبل النوم مباشرة - تنام بطمأنينة وتستيقظ بنفسية هادئة، العقل الباطن يعمل في سكينة طوال الليل",
+            "english": "Read Al-Mulk right before sleep - you sleep with tranquility and wake with calm psyche, subconscious works in serenity throughout the night"
+          }
+        },
+        {
+          "id": "pillar-trust",
+          "floor": 4,
+          "title": { "arabic": "التوكل والتسليم", "english": "Reliance and Submission" },
+          "icon": "Anchor",
+          "description": {
+            "arabic": "قل إنما العلم عند الله - التسليم الكامل لله يرفع القلق من المستقبل، فالله يعلم ما لا تعلم ويدبر ما لا تدبر",
+            "english": "'Say, \"The knowledge is only with Allah\"' - complete submission to Allah removes anxiety about the future, for Allah knows what you don't know and manages what you can't manage"
+          },
+          "verse": {
+            "arabic": "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
+            "english": "Say, 'The knowledge is only with Allah, and I am only a clear warner'"
+          },
+          "practical": {
+            "arabic": "عند القلق على المستقبل، قل: 'العلم عند الله' - أنت لا تعلم الغيب، فسلّم الأمر لمن يعلم",
+            "english": "When anxious about the future, say: 'The knowledge is with Allah' - you don't know the unseen, so submit the matter to the One who knows"
+          }
+        }
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "category": "General Lessons",
+      "lessons": [
+        {
+          "id": "nightly-reading",
+          "title": { "arabic": "القراءة الليلية", "english": "Nightly Reading" },
+          "content": {
+            "arabic": "من قرأ الملك كل ليلة حُفظ من عذاب القبر وحُفظ من الهم والكرب - القراءة قبل النوم مباشرة تمنح حماية وطمأنينة.",
+            "english": "Whoever reads Al-Mulk every night is protected from grave punishment and protected from worry and grief - reading right before sleep grants protection and tranquility."
+          }
+        },
+        {
+          "id": "life-test",
+          "title": { "arabic": "الحياة اختبار", "english": "Life is a Test" },
+          "content": {
+            "arabic": "الذي خلق الموت والحياة ليبلوكم أيكم أحسن عملاً - الحياة ليست للراحة بل للاختبار، فلا تقلق من الابتلاءات.",
+            "english": "'Who created death and life to test you [as to] which of you is best in deed' - life isn't for comfort but for testing, so don't worry about trials."
+          }
+        },
+        {
+          "id": "divine-sovereignty",
+          "title": { "arabic": "الملك لله", "english": "Sovereignty Belongs to Allah" },
+          "content": {
+            "arabic": "تبارك الذي بيده الملك - الملك المطلق لله وحده، فلا تخف من أحد ولا تذل نفسك لأحد.",
+            "english": "'Blessed is He in whose hand is dominion' - absolute sovereignty belongs to Allah alone, so don't fear anyone and don't humiliate yourself to anyone."
+          }
+        },
+        {
+          "id": "provision-security",
+          "title": { "arabic": "الرزق من الله", "english": "Provision from Allah" },
+          "content": {
+            "arabic": "أمن هذا الذي يرزقكم إن أمسك رزقه - الرزق من الله وحده، فلا تقلق على المستقبل.",
+            "english": "'Or who is it that could provide for you if He withheld His provision?' - provision is from Allah alone, so don't worry about the future."
+          }
+        },
+        {
+          "id": "knowledge-with-allah",
+          "title": { "arabic": "العلم عند الله", "english": "Knowledge with Allah" },
+          "content": {
+            "arabic": "قل إنما العلم عند الله - أنت لا تعلم الغيب، فسلّم الأمر لله وارتح من القلق.",
+            "english": "'Say, \"The knowledge is only with Allah\"' - you don't know the unseen, so submit the matter to Allah and rest from anxiety."
+          }
+        }
+      ]
+    },
+    {
+      "category": "Story-Based Lessons",
+      "description": {
+        "arabic": "دروس عملية من آيات السورة ومشاهدها",
+        "english": "Practical lessons from the Surah's verses and scenes"
+      },
+      "lessons": [
+        {
+          "id": "seven-heavens",
+          "story": { "arabic": "قصة الخلق", "english": "Story of Creation" },
+          "title": { "arabic": "السماوات السبع", "english": "Seven Heavens" },
+          "content": {
+            "arabic": "الذي خلق سبع سماوات طباقاً ما ترى في خلق الرحمن من تفاوت - الكون كله في نظام محكم، وحياتك كذلك في نظام محكم.",
+            "english": "'Who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency' - the entire universe is in perfect order, and your life is likewise in perfect order."
+          },
+          "comfort": {
+            "arabic": "إذا كان الكون كله في نظام محكم، فحياتك أيضاً في نظام محكم - لا عشوائية في قدر الله",
+            "english": "If the entire universe is in perfect order, your life is also in perfect order - no randomness in Allah's decree"
+          }
+        },
+        {
+          "id": "stars-missiles",
+          "story": { "arabic": "الحماية الإلهية", "english": "Divine Protection" },
+          "title": { "arabic": "النجوم رجوماً", "english": "Stars as Missiles" },
+          "content": {
+            "arabic": "وجعلناها رجوماً للشياطين - الله يحميك من الشياطين بالنجوم، فكيف لا يحميك من هموم الدنيا؟",
+            "english": "'And We have made them as missiles to drive away the devils' - Allah protects you from devils with stars, so how would He not protect you from worldly worries?"
+          },
+          "principle": {
+            "arabic": "الله الذي يحميك من الشياطين قادر على حمايتك من كل شر - ثق في حمايته",
+            "english": "Allah who protects you from devils is capable of protecting you from all evil - trust in His protection"
+          }
+        }
+,
+        {
+          "id": "disbelievers-regret",
+          "story": { "arabic": "تحذير", "english": "Warning" },
+          "title": { "arabic": "ندم الكافرين", "english": "Disbelievers' Regret" },
+          "content": {
+            "arabic": "وقالوا لو كنا نسمع أو نعقل ما كنا في أصحاب السعير - الندم بعد فوات الأوان، فاسمع الآن واعقل الآن.",
+            "english": "'And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze\"' - regret after it's too late, so listen now and reason now."
+          },
+          "warning": {
+            "arabic": "لا تؤجل التوبة والعمل الصالح - الندم بعد الموت لا ينفع",
+            "english": "Don't postpone repentance and good deeds - regret after death is useless"
+          }
+        },
+        {
+          "id": "believers-reward",
+          "story": { "arabic": "بشارة", "english": "Glad Tidings" },
+          "title": { "arabic": "جزاء المؤمنين", "english": "Believers' Reward" },
+          "content": {
+            "arabic": "إن الذين يخشون ربهم بالغيب لهم مغفرة وأجر كبير - الخشية بالغيب (بدون رقيب) تجلب المغفرة والأجر.",
+            "english": "'Indeed, those who fear their Lord unseen will have forgiveness and great reward' - fearing Allah unseen (without observer) brings forgiveness and reward."
+          },
+          "application": {
+            "arabic": "راقب الله في السر قبل العلن - الخشية بالغيب هي قمة التقوى",
+            "english": "Watch Allah in secret before public - fearing Allah unseen is the peak of taqwa"
+          }
+        },
+        {
+          "id": "earth-subdued",
+          "story": { "arabic": "الرزق", "english": "Provision" },
+          "title": { "arabic": "الأرض ذلول", "english": "Earth Subdued" },
+          "content": {
+            "arabic": "هو الذي جعل لكم الأرض ذلولاً فامشوا في مناكبها وكلوا من رزقه - الأرض مسخرة لك، فاسعَ بقوة.",
+            "english": "'It is He who made the earth tame for you - so walk among its slopes and eat of His provision' - earth is subdued for you, so strive powerfully."
+          },
+          "principle": {
+            "arabic": "الأرض مسخرة لرزقك - لا تقلق، فقط اسعَ بقوة والله يرزقك",
+            "english": "Earth is subdued for your provision - don't worry, just strive powerfully and Allah will provide"
+          }
+        },
+        {
+          "id": "birds-suspended",
+          "story": { "arabic": "آيات القدرة", "english": "Signs of Power" },
+          "title": { "arabic": "الطير صافات", "english": "Birds Suspended" },
+          "content": {
+            "arabic": "أولم يروا إلى الطير فوقهم صافات ويقبضن ما يمسكهن إلا الرحمن - الطير معلقة في الهواء بقدرة الله، وأنت معلق في الحياة بقدرة الله.",
+            "english": "'Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful' - birds suspended in air by Allah's power, and you are suspended in life by Allah's power."
+          },
+          "comfort": {
+            "arabic": "الله الذي يمسك الطير في الهواء يمسكك في الحياة - لن تسقط إلا بإذنه",
+            "english": "Allah who holds birds in air holds you in life - you won't fall except by His permission"
+          }
+        },
+        {
+          "id": "water-sinking",
+          "story": { "arabic": "تحذير", "english": "Warning" },
+          "title": { "arabic": "غور الماء", "english": "Water Sinking" },
+          "content": {
+            "arabic": "قل أرأيتم إن أصبح ماؤكم غوراً فمن يأتيكم بماء معين - لو غار الماء (أساس الحياة)، من يأتيك به إلا الله؟",
+            "english": "'Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\"' - if water (basis of life) sinks, who brings it except Allah?"
+          },
+          "lesson": {
+            "arabic": "كل شيء في حياتك من الله - الماء، الهواء، الصحة، الأمان - فلا تقلق، هو الذي يرزقك",
+            "english": "Everything in your life is from Allah - water, air, health, security - so don't worry, He is the one who provides"
+          }
+        }
+      ]
+    }
+  ],
+  "gems": [
+    {
+      "category": "Spiritual Gems",
+      "gems": [
+        {
+          "id": "blessed-sovereignty",
+          "title": { "arabic": "تبارك الملك", "english": "Blessed Sovereignty" },
+          "content": {
+            "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ - الملك المطلق لله، فأنت في حماية الملك",
+            "english": "'Blessed is He in whose hand is dominion' - absolute sovereignty belongs to Allah, so you are under the King's protection"
+          },
+          "verse": {
+            "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "english": "Blessed is He in whose hand is dominion, and He is over all things competent"
+          }
+        },
+        {
+          "id": "death-life-test",
+          "title": { "arabic": "الموت والحياة", "english": "Death and Life" },
+          "content": {
+            "arabic": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ - الحياة اختبار، فلا تقلق من الابتلاءات",
+            "english": "'Who created death and life to test you' - life is a test, so don't worry about trials"
+          },
+          "verse": {
+            "arabic": "الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا",
+            "english": "Who created death and life to test you [as to] which of you is best in deed"
+          }
+        },
+        {
+          "id": "believers-reward-gem",
+          "title": { "arabic": "جزاء الخاشعين", "english": "Reward of the Humble" },
+          "content": {
+            "arabic": "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ - الخشية بالغيب تجلب المغفرة",
+            "english": "'Indeed, those who fear their Lord unseen will have forgiveness and great reward' - fearing Allah unseen brings forgiveness"
+          },
+          "verse": {
+            "arabic": "إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُم بِالْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+            "english": "Indeed, those who fear their Lord unseen will have forgiveness and great reward"
+          }
+        },
+        {
+          "id": "knowledge-with-allah-gem",
+          "title": { "arabic": "العلم عند الله", "english": "Knowledge with Allah" },
+          "content": {
+            "arabic": "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ - سلّم الأمر لله وارتح من القلق على المستقبل",
+            "english": "'Say, \"The knowledge is only with Allah\"' - submit the matter to Allah and rest from anxiety about the future"
+          },
+          "verse": {
+            "arabic": "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
+            "english": "Say, 'The knowledge is only with Allah, and I am only a clear warner'"
+          }
+        }
+      ]
+    }
+,
+    {
+      "category": "Practical Gems",
+      "description": {
+        "arabic": "أدعية وتوجيهات عملية للحماية من القلق والهم",
+        "english": "Practical supplications and guidance for protection from anxiety and worry"
+      },
+      "gems": [
+        {
+          "id": "nightly-reading-practice",
+          "title": { "arabic": "القراءة الليلية", "english": "Nightly Reading Practice" },
+          "content": {
+            "arabic": "اقرأ سورة الملك كل ليلة قبل النوم مباشرة - من قرأها كل ليلة حُفظ من عذاب القبر وحُفظ من الهم والكرب",
+            "english": "Read Surah Al-Mulk every night right before sleep - whoever reads it every night is protected from grave punishment and protected from worry and grief"
+          },
+          "when": {
+            "arabic": "قبل النوم مباشرة - اجعلها آخر شيء تقرأه قبل أن تنام",
+            "english": "Right before sleep - make it the last thing you read before sleeping"
+          },
+          "purpose": {
+            "arabic": "تمنح طمأنينة عالية قبل النوم، مما يجعل العقل الباطن يعمل في حالة 'سكينة' بدلاً من القلق طوال الليل",
+            "english": "Grants high tranquility before sleep, making the subconscious work in 'serenity' state instead of anxiety throughout the night"
+          }
+        },
+        {
+          "id": "protection-dua",
+          "title": { "arabic": "دعاء الحماية", "english": "Protection Supplication" },
+          "content": {
+            "arabic": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال",
+            "english": "O Allah, I seek refuge in You from worry and grief, from incapacity and laziness, from cowardice and miserliness, and from being overcome by debt and overpowered by men"
+          },
+          "when": {
+            "arabic": "عند الشعور بالقلق أو الخوف من المستقبل",
+            "english": "When feeling anxiety or fear about the future"
+          },
+          "connection": {
+            "arabic": "يُقرأ بعد سورة الملك لتعزيز الحماية من الهم والكرب",
+            "english": "Recited after Surah Al-Mulk to strengthen protection from worry and grief"
+          }
+        },
+        {
+          "id": "sovereignty-reminder",
+          "title": { "arabic": "تذكير الملك", "english": "Sovereignty Reminder" },
+          "content": {
+            "arabic": "عند الشعور بالخوف أو القلق، ردد: 'تبارك الذي بيده الملك' - الملك بيد الله، وأنت في حمايته، لا أحد يستطيع أن يضرك إلا بإذنه",
+            "english": "When feeling fear or anxiety, repeat: 'Blessed is He in whose hand is dominion' - Dominion is in Allah's hand, and you are under His protection, no one can harm you except by His permission"
+          },
+          "verse": {
+            "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+            "english": "Blessed is He in whose hand is dominion, and He is over all things competent"
+          },
+          "when": {
+            "arabic": "عند الخوف من أي شيء - مرض، فقر، ظلم، فشل",
+            "english": "When fearing anything - illness, poverty, injustice, failure"
+          }
+        },
+        {
+          "id": "knowledge-with-allah-practice",
+          "title": { "arabic": "تمرين التسليم", "english": "Surrender Exercise" },
+          "content": {
+            "arabic": "عند القلق على المستقبل، قل: 'قل إنما العلم عند الله' - أنت لا تعلم الغيب، فسلّم الأمر لمن يعلم وارتح من القلق",
+            "english": "When anxious about the future, say: 'Say, \"The knowledge is only with Allah\"' - you don't know the unseen, so submit the matter to the One who knows and rest from anxiety"
+          },
+          "verse": {
+            "arabic": "قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ",
+            "english": "Say, 'The knowledge is only with Allah, and I am only a clear warner'"
+          },
+          "practical": {
+            "arabic": "كرر هذه الآية 7 مرات عند الشعور بالقلق على المستقبل - التسليم يرفع القلق",
+            "english": "Repeat this verse 7 times when feeling anxious about the future - surrender removes anxiety"
+          }
+        },
+        {
+          "id": "provision-trust",
+          "title": { "arabic": "الثقة في الرزق", "english": "Trust in Provision" },
+          "content": {
+            "arabic": "عند القلق على الرزق، تذكر: 'أمن هذا الذي يرزقكم إن أمسك رزقه' - الرزق من الله وحده، فلا تقلق على المستقبل",
+            "english": "When worried about provision, remember: 'Or who is it that could provide for you if He withheld His provision?' - provision is from Allah alone, so don't worry about the future"
+          },
+          "verse": {
+            "arabic": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ",
+            "english": "Or who is it that could provide for you if He withheld His provision?"
+          },
+          "when": {
+            "arabic": "عند الخوف من الفقر أو فقدان الوظيفة أو نقص المال",
+            "english": "When fearing poverty, job loss, or lack of money"
+          }
+        },
+        {
+          "id": "tranquility-before-sleep",
+          "title": { "arabic": "طمأنينة النوم", "english": "Sleep Tranquility" },
+          "content": {
+            "arabic": "اقرأ الملك قبل النوم مباشرة - تنام بطمأنينة وتستيقظ بنفسية هادئة، العقل الباطن يعمل في سكينة طوال الليل بدلاً من القلق",
+            "english": "Read Al-Mulk right before sleep - you sleep with tranquility and wake with calm psyche, subconscious works in serenity throughout the night instead of anxiety"
+          },
+          "benefit": {
+            "arabic": "نور في الظلمة - تضيء ظلمة الليل وظلمة النفس، فتنام بسلام وتستيقظ بطاقة إيجابية",
+            "english": "Light in darkness - illuminates night's darkness and soul's darkness, so you sleep in peace and wake with positive energy"
+          }
+        },
+        {
+          "id": "weekly-commitment",
+          "title": { "arabic": "الالتزام الأسبوعي", "english": "Weekly Commitment" },
+          "content": {
+            "arabic": "اجعل قراءة الملك عادة يومية لمدة أسبوع كامل - ستلاحظ تغيراً واضحاً في مستوى القلق والطمأنينة",
+            "english": "Make reading Al-Mulk a daily habit for a full week - you'll notice a clear change in anxiety level and tranquility"
+          },
+          "challenge": {
+            "arabic": "تحدي 7 أيام: اقرأ الملك كل ليلة لمدة أسبوع وراقب التغيير في نفسيتك",
+            "english": "7-day challenge: Read Al-Mulk every night for a week and observe the change in your psyche"
+          }
+        }
+      ]
+    }
+  ],
+  "pillars": [],
+  "connections": []
+}
