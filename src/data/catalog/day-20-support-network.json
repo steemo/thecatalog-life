@@ -14,7 +14,15 @@
     "day": 20,
     "type": "concept",
     "readTime": 12,
-    "tags": ["family-ties", "relationships", "loneliness", "social-capital", "harvard-study", "longevity", "support-network"]
+    "tags": [
+      { "arabic": "صلة-الرحم", "english": "family-ties" },
+      { "arabic": "العلاقات", "english": "relationships" },
+      { "arabic": "الوحدة", "english": "loneliness" },
+      { "arabic": "رأس-المال-الاجتماعي", "english": "social-capital" },
+      { "arabic": "دراسة-هارفارد", "english": "harvard-study" },
+      { "arabic": "طول-العمر", "english": "longevity" },
+      { "arabic": "شبكة-الدعم", "english": "support-network" }
+    ]
   },
   "hook": {
     "arabic": "في ثقافتنا الحديثة، بنمجد جداً فكرة 'الرجل العصامي' أو الذئب المنفرد اللي عايش لوحده، مبيحتاجش لحد، وناجح بذراعه.\n\nبس العلم الحديث و'الكتالوج' بيأكدوا إن الفكرة دي 'وهم قاتل'.\n\nالإنسان كائن اجتماعي. مخك متصمم إنه يتغذى على التواصل. لو عشت لوحدك، أو قطعت علاقاتك، مخك بيبدأ يدخل في حالة طوارئ، وبيفرز هرمونات توتر بتدمر مناعتك حرفياً.\n\nدراسات حديثة أثبتت إن 'الوحدة' خطر على الصحة يعادل تدخين 15 سيجارة في اليوم!",

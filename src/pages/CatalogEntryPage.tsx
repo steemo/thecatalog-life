@@ -167,13 +167,13 @@ export default function CatalogEntryPage() {
                 <Clock className="w-4 h-4" />
                 {entry.metadata.readTime} {minLabel}
               </span>
-              {entry.metadata.tags.map((tag) => (
+              {entry.metadata.tags.map((tag, idx) => (
                 <span
-                  key={tag}
+                  key={`tag-${idx}`}
                   className="px-4 py-2 rounded-full bg-white/20 backdrop-blur-sm text-sm font-medium flex items-center gap-2"
                 >
                   <Tag className="w-4 h-4" />
-                  {tag}
+                  {useText(tag)}
                 </span>
               ))}
             </div>

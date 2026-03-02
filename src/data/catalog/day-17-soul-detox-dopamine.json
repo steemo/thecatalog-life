@@ -14,7 +14,15 @@
     "day": 17,
     "type": "concept",
     "readTime": 11,
-    "tags": ["dopamine", "detox", "social-media", "inputs", "firewall", "senses-fasting", "garbage-in-garbage-out"]
+    "tags": [
+      { "arabic": "الدوبامين", "english": "dopamine" },
+      { "arabic": "التخلص-من-السموم", "english": "detox" },
+      { "arabic": "وسائل-التواصل", "english": "social-media" },
+      { "arabic": "المدخلات", "english": "inputs" },
+      { "arabic": "الجدار-الناري", "english": "firewall" },
+      { "arabic": "صيام-الحواس", "english": "senses-fasting" },
+      { "arabic": "القمامة-تدخل-قمامة-تخرج", "english": "garbage-in-garbage-out" }
+    ]
   },
   "hook": {
     "arabic": "في عالم البرمجة، فيه قاعدة ذهبية بتقول: 'بيانات غلط تدخل، نتايج غلط تطلع'. يعني لو دخلت للكمبيوتر بيانات غلط، هيطلعلك نتايج غلط مهما كان المعالج قوي.\n\nولله المثل الأعلى.. تعال نطبق القاعدة دي على 'الماكينة البشرية' في رمضان.",

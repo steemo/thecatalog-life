@@ -14,7 +14,14 @@
     "day": 7,
     "type": "concept",
     "readTime": 10,
-    "tags": ["qadar", "anxiety", "overthinking", "trust", "surrender", "control"]
+    "tags": [
+      { "arabic": "القدر", "english": "qadar" },
+      { "arabic": "القلق", "english": "anxiety" },
+      { "arabic": "التفكير-الزائد", "english": "overthinking" },
+      { "arabic": "الثقة", "english": "trust" },
+      { "arabic": "التسليم", "english": "surrender" },
+      { "arabic": "السيطرة", "english": "control" }
+    ]
   },
   "hook": {
     "arabic": "لو سألنا دكاترة الطب النفسي: 'إيه أكتر مرض بيعاني منه شباب الجيل ده؟' الإجابة القاطعة هتكون: القلق والتفكير الزائد. عقولنا مابتبطلش شغل.. خايفين من بكرة، مرعوبين على الشغل، بنحسب خطواتنا مليون مرة، ولما حاجة تبوظ بنجلد نفسنا: 'لو كنت عملت كذا، ماكانش حصل كذا!'",

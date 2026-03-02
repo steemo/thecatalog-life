@@ -14,7 +14,14 @@
     "day": 11,
     "type": "concept",
     "readTime": 10,
-    "tags": ["body-language", "sujood", "rukoo", "ego", "humility", "prayer-movements"]
+    "tags": [
+      { "arabic": "لغة-الجسد", "english": "body-language" },
+      { "arabic": "السجود", "english": "sujood" },
+      { "arabic": "الركوع", "english": "rukoo" },
+      { "arabic": "الأنا", "english": "ego" },
+      { "arabic": "التواضع", "english": "humility" },
+      { "arabic": "حركات-الصلاة", "english": "prayer-movements" }
+    ]
   },
   "hook": {
     "arabic": "في علم النفس والتواصل، بيقولوا إن 55% من رسالتك بتوصل للناس عن طريق 'لغة جسدك'، مش كلامك! يعني لو أنا قلتلك: 'أنا بحترمك جداً'، بس وأنا بقولها كنت باصص في الموبايل وحاطط رجل على رجل.. عقلك الباطن هيكدب كلامي فوراً ويصدق لغة جسدي.",

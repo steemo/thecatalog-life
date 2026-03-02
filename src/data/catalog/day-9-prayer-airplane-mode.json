@@ -14,7 +14,14 @@
     "day": 9,
     "type": "practice",
     "readTime": 10,
-    "tags": ["prayer", "salah", "airplane-mode", "disconnect", "reconnect", "reframing"]
+    "tags": [
+      { "arabic": "الصلاة", "english": "prayer" },
+      { "arabic": "الصلاة", "english": "salah" },
+      { "arabic": "وضع-الطيران", "english": "airplane-mode" },
+      { "arabic": "الانفصال", "english": "disconnect" },
+      { "arabic": "إعادة-الاتصال", "english": "reconnect" },
+      { "arabic": "إعادة-التأطير", "english": "reframing" }
+    ]
   },
   "hook": {
     "arabic": "تخيل لو مسكت موبايلك، فتحت كل التطبيقات في نفس الوقت، شغلت فيديو بجودة 4K، وفتحت الـ GPS، وعمال تستقبل رسايل ومكالمات ورا بعض من غير توقف. إيه اللي هيحصل للموبايل بعد ساعتين؟ هيسخن جداً، هيهنج، والبطارية هتخلص في ثواني. الحل السحري في اللحظة دي مش إنك تكسر الموبايل.. الحل إنك تنزل الستارة وتدوس على زرار 'وضع الطيران'. بتفصل كل الشبكات عشان الجهاز يبرد ويرجع لوعيه.",

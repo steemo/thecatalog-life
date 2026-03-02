@@ -14,7 +14,14 @@
     "day": 14,
     "type": "concept",
     "readTime": 11,
-    "tags": ["duaa", "supplication", "therapy", "vulnerability", "emotional-release", "talk-therapy"]
+    "tags": [
+      { "arabic": "الدعاء", "english": "duaa" },
+      { "arabic": "الدعاء", "english": "supplication" },
+      { "arabic": "العلاج", "english": "therapy" },
+      { "arabic": "الضعف", "english": "vulnerability" },
+      { "arabic": "التحرر-العاطفي", "english": "emotional-release" },
+      { "arabic": "العلاج-بالكلام", "english": "talk-therapy" }
+    ]
   },
   "hook": {
     "arabic": "في علم النفس الحديث، اكتشفوا إن أكبر سبب للأمراض النفسية والجسدية هو 'الكبت'. إحنا بنكبت مشاعرنا، بنكبت مخاوفنا، وبنلبس طول اليوم 'قناع القوة' قدام الناس. بتقول 'أنا تمام' وأنت من جواك بتنهار. المشكلة إن مفيش حد تقدر تحكيله كل 'سوادك' وضعفك من غير ما تخاف إنه يحكم عليك، أو يفضحك، أو يزهق منك.",

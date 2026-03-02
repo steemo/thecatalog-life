@@ -14,7 +14,13 @@
     "day": 10,
     "type": "concept",
     "readTime": 10,
-    "tags": ["prayer-timing", "circadian-rhythm", "time-blocking", "energy", "biology"]
+    "tags": [
+      { "arabic": "مواقيت-الصلاة", "english": "prayer-timing" },
+      { "arabic": "الإيقاع-اليومي", "english": "circadian-rhythm" },
+      { "arabic": "تقسيم-الوقت", "english": "time-blocking" },
+      { "arabic": "الطاقة", "english": "energy" },
+      { "arabic": "البيولوجيا", "english": "biology" }
+    ]
   },
   "hook": {
     "arabic": "تخيل إنك رحت لدكتور وكتبلك مضاد حيوي تاخده 'كل 8 ساعات'. ينفع تقول للدكتور: 'بص يا دكتور، أنا يومي زحمة وبنسى، فممكن أبلع الـ 3 حبايات مع بعض بالليل قبل ما أنام وأخلص؟' الدكتور هيقولك إنت كده بتدمر جسمك! الفكرة مش إنك تبلع الدوا وخلاص، الفكرة إن 'المادة الفعالة' تفضل موجودة في دمك بنسبة معينة على مدار اليوم كله عشان تحارب البكتيريا.",

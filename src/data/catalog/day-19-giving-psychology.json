@@ -14,7 +14,16 @@
     "day": 19,
     "type": "concept",
     "readTime": 11,
-    "tags": ["giving", "charity", "helpers-high", "dopamine", "oxytocin", "serotonin", "happiness", "neuroscience"]
+    "tags": [
+      { "arabic": "العطاء", "english": "giving" },
+      { "arabic": "الصدقة", "english": "charity" },
+      { "arabic": "نشوة-المساعدة", "english": "helpers-high" },
+      { "arabic": "الدوبامين", "english": "dopamine" },
+      { "arabic": "الأوكسيتوسين", "english": "oxytocin" },
+      { "arabic": "السيروتونين", "english": "serotonin" },
+      { "arabic": "السعادة", "english": "happiness" },
+      { "arabic": "علم-الأعصاب", "english": "neuroscience" }
+    ]
   },
   "hook": {
     "arabic": "لو سألتك: 'مين المستفيد الأكبر في عملية الصدقة؟ الفقير اللي خد الفلوس، ولا الغني اللي دفعها؟'\n\nالمنطق بيقول الفقير هو المستفيد، لأنه سد احتياجه. والغني خسر جزء من ماله.\n\nلكن 'الكتالوج' وعلم الأعصاب عندهم رأي تاني خالص وصادم: أنت لما بتدي، أنت بتعمل معروف في نفسك قبل ما تعمله في الفقير.",

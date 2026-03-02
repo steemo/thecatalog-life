@@ -14,7 +14,15 @@
     "day": 18,
     "type": "concept",
     "readTime": 11,
-    "tags": ["zakat", "charity", "detachment", "abundance-mindset", "scarcity", "money", "purification"]
+    "tags": [
+      { "arabic": "الزكاة", "english": "zakat" },
+      { "arabic": "الصدقة", "english": "charity" },
+      { "arabic": "التخلي", "english": "detachment" },
+      { "arabic": "عقلية-الوفرة", "english": "abundance-mindset" },
+      { "arabic": "الندرة", "english": "scarcity" },
+      { "arabic": "المال", "english": "money" },
+      { "arabic": "التطهير", "english": "purification" }
+    ]
   },
   "hook": {
     "arabic": "في علم الرياضيات، المعادلة واضحة ومبتكدبش: لو معاك 1000 جنيه، وطلعت منهم 25 جنيه.. الباقي هيكون 975 جنيه. يعني فلوسك 'نقصت'.\n\nلكن في 'الكتالوج'، المعادلة مختلفة تماماً وصادمة للمنطق المادي: (مانقص مال من صدقة).. بل تزده، بل تزده.\n\nإزاي؟ هل ده كلام 'تنمية بشرية' عشان يطيب خاطرنا؟ ولا دي حقيقة كونية إحنا مش شايفينها؟",

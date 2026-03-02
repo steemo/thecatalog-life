@@ -14,7 +14,13 @@
     "day": 4,
     "type": "concept",
     "readTime": 10,
-    "tags": ["five-pillars", "ecosystem", "balance", "resources", "system"]
+    "tags": [
+      { "arabic": "الأركان-الخمسة", "english": "five-pillars" },
+      { "arabic": "النظام-البيئي", "english": "ecosystem" },
+      { "arabic": "التوازن", "english": "balance" },
+      { "arabic": "الموارد", "english": "resources" },
+      { "arabic": "النظام", "english": "system" }
+    ]
   },
   "hook": {
     "arabic": "كلنا حافظين من وإحنا أطفال حديث: 'بُني الإسلام على خمس'. بنسمعها ونسمّعها في المدرسة، بس هل سألت نفسك في مرة: ليه التشكيلة دي بالذات؟ ليه مش 4 وليه مش 6؟ ليه ربنا ما خلاش 'الصدق' أو 'بر الوالدين' من الأركان الأساسية اللي بيتبني عليها الدين؟",

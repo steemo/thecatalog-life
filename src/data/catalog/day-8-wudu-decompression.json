@@ -14,7 +14,14 @@
     "day": 8,
     "type": "practice",
     "readTime": 9,
-    "tags": ["wudu", "ablution", "transition", "reset", "mindfulness", "preparation"]
+    "tags": [
+      { "arabic": "الوضوء", "english": "wudu" },
+      { "arabic": "الطهارة", "english": "ablution" },
+      { "arabic": "الانتقال", "english": "transition" },
+      { "arabic": "إعادة-الضبط", "english": "reset" },
+      { "arabic": "اليقظة", "english": "mindfulness" },
+      { "arabic": "التحضير", "english": "preparation" }
+    ]
   },
   "hook": {
     "arabic": "سؤال منطقي جداً بييجي في بال أي حد: 'أنا لسه طالع من الشاور، وجسمي نضيف جداً وريحتي حلوة، ليه برضه لازم أتوضى عشان أصلي؟' لو كان الهدف من الوضوء هو 'النظافة البدنية' بس، كان الشاور كفاية جداً، وكانت النظافة بالصابون والكحول هتبقى أفضل.",

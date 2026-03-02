@@ -14,7 +14,13 @@
     "day": 3,
     "type": "concept",
     "readTime": 8,
-    "tags": ["prayer", "al-ghani", "connection", "belonging", "reframing"]
+    "tags": [
+      { "arabic": "الصلاة", "english": "prayer" },
+      { "arabic": "الغني", "english": "al-ghani" },
+      { "arabic": "الاتصال", "english": "connection" },
+      { "arabic": "الانتماء", "english": "belonging" },
+      { "arabic": "إعادة-التأطير", "english": "reframing" }
+    ]
   },
   "hook": {
     "arabic": "خلينا نكون صُرحاء.. في سؤال بيعدي على دماغ كتير مننا، بس بنستغفر ونخاف نكمله: 'ربنا خالق الكون العظيم ده كله، والمجرات، والنجوم.. هيفرق معاه في إيه ركعتين بصليهم في أوضتي؟ هو ربنا محتاج عبادتي؟'",

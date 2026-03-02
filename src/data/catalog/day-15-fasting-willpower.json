@@ -14,7 +14,14 @@
     "day": 15,
     "type": "concept",
     "readTime": 11,
-    "tags": ["fasting", "willpower", "self-control", "delayed-gratification", "independence", "taqwa"]
+    "tags": [
+      { "arabic": "الصيام", "english": "fasting" },
+      { "arabic": "قوة-الإرادة", "english": "willpower" },
+      { "arabic": "ضبط-النفس", "english": "self-control" },
+      { "arabic": "تأجيل-الإشباع", "english": "delayed-gratification" },
+      { "arabic": "الاستقلالية", "english": "independence" },
+      { "arabic": "التقوى", "english": "taqwa" }
+    ]
   },
   "hook": {
     "arabic": "عمرك شفت حد 'مدمن' قهوة لو ماشربش الفنجان بتاعه الصبح بيتحول لوحش وممكن يتخانق مع دبان وشه؟ أو حد 'مدمن' سكر لو ماكلش حاجة حلوة بيحس إنه مهبط ومش قادر يركز؟ أو حد 'مدمن' سوشيال ميديا لو النت قطع بيحس إنه تايه؟",

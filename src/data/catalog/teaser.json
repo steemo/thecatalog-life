@@ -14,7 +14,11 @@
     "day": 0,
     "type": "teaser",
     "readTime": 3,
-    "tags": ["introduction", "metaphor", "awakening"]
+    "tags": [
+      { "arabic": "المقدمة", "english": "introduction" },
+      { "arabic": "الاستعارة", "english": "metaphor" },
+      { "arabic": "الصحوة", "english": "awakening" }
+    ]
   },
   "hook": {
     "arabic": "تخيل لو اشتريت أحدث وأعقد 'طيارة' في العالم، بس قررت تسوقها زي ما بتسوق 'العجلة'.. وبدأت تشتكي إنها مش بتمشي، وإن صوتها عالي، وإنها معقدة!",

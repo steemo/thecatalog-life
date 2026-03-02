@@ -194,12 +194,12 @@ export default function CatalogPage() {
 
                             {/* Tags */}
                             <div className="flex flex-wrap gap-2 mb-4">
-                              {entry.metadata.tags.slice(0, 3).map((tag) => (
+                              {entry.metadata.tags.slice(0, 3).map((tag, idx) => (
                                 <span
-                                  key={tag}
+                                  key={`${entry.id}-tag-${idx}`}
                                   className="px-3 py-1 rounded-full bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 text-xs font-medium"
                                 >
-                                  {tag}
+                                  {useText(tag)}
                                 </span>
                               ))}
                             </div>

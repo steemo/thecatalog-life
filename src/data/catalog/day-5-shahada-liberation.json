@@ -14,7 +14,14 @@
     "day": 5,
     "type": "concept",
     "readTime": 9,
-    "tags": ["shahada", "freedom", "idols", "worship", "liberation", "immunity"]
+    "tags": [
+      { "arabic": "الشهادة", "english": "shahada" },
+      { "arabic": "الحرية", "english": "freedom" },
+      { "arabic": "الأصنام", "english": "idols" },
+      { "arabic": "العبادة", "english": "worship" },
+      { "arabic": "التحرر", "english": "liberation" },
+      { "arabic": "المناعة", "english": "immunity" }
+    ]
   },
   "hook": {
     "arabic": "زمان، وإحنا بنقرأ قصص التاريخ، كنا بنستغرب جداً ونقول: 'إزاي الناس دي كانت بتعبد أصنام من عجوة وحجارة؟ إزاي كانوا بالسذاجة دي؟'. وبنحس بانتصار داخلي إن إحنا جيل واعي، ومستحيل نعمل كدة.",

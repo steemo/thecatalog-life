@@ -14,7 +14,15 @@
     "day": 13,
     "type": "concept",
     "readTime": 11,
-    "tags": ["khushoo", "mindfulness", "focus", "attention", "distraction", "autopilot", "present-moment"]
+    "tags": [
+      { "arabic": "الخشوع", "english": "khushoo" },
+      { "arabic": "اليقظة-الذهنية", "english": "mindfulness" },
+      { "arabic": "التركيز", "english": "focus" },
+      { "arabic": "الانتباه", "english": "attention" },
+      { "arabic": "التشتت", "english": "distraction" },
+      { "arabic": "الطيار-الآلي", "english": "autopilot" },
+      { "arabic": "اللحظة-الحالية", "english": "present-moment" }
+    ]
   },
   "hook": {
     "arabic": "خلينا نعترف بحقيقة كلنا بنمر بيها: أنت ممكن تبقى مركز جداً وأنت بتتفرج على فيلم، أو بتلعب بلايستيشن، أو بتسكرول على تيك توك.. بس أول ما تقف على السجادة وتقول 'الله أكبر'، فجأة دماغك بتفتح مليون ملف! تفتكر الإيميل اللي مبعتوش، والكلمة اللي ضايقتك من زميلك من 3 سنين، ومكان الحاجة اللي كنت مضيعها.",

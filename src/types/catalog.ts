@@ -16,7 +16,7 @@ export interface CatalogMetadata {
   day: number; // 0 for teaser, 1-30 for days
   type: 'teaser' | 'manifesto' | 'practice' | 'concept';
   readTime: number; // minutes
-  tags: string[];
+  tags: BilingualText[];
 }
 
 export interface CatalogSection {

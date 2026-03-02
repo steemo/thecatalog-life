@@ -14,7 +14,14 @@
     "day": 12,
     "type": "concept",
     "readTime": 11,
-    "tags": ["fatiha", "affirmations", "subconscious", "gratitude", "gps", "dialogue-with-allah"]
+    "tags": [
+      { "arabic": "الفاتحة", "english": "fatiha" },
+      { "arabic": "التأكيدات", "english": "affirmations" },
+      { "arabic": "اللاوعي", "english": "subconscious" },
+      { "arabic": "الامتنان", "english": "gratitude" },
+      { "arabic": "نظام-الملاحة", "english": "gps" },
+      { "arabic": "الحوار-مع-الله", "english": "dialogue-with-allah" }
+    ]
   },
   "hook": {
     "arabic": "لو مسكت أي كتاب من كتب التطوير الذاتي الحديثة، هتلاقيهم بيتكلموا عن سحر حاجة اسمها 'التوكيدات الإيجابية'. بيقولك: عشان تغير قناعاتك وتبرمج عقلك الباطن للنجاح، لازم تقف قدام المراية كل يوم الصبح وتكرر جمل معينة بصوت مسموع زي: 'أنا قوي، أنا أقدر، أنا ممتن لحياتي'. التكرار بيخلق مسارات عصبية جديدة في المخ ويغير سلوكك.",

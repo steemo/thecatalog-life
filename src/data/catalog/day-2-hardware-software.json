@@ -14,7 +14,12 @@
     "day": 2,
     "type": "concept",
     "readTime": 7,
-    "tags": ["body-soul", "duality", "balance", "self-understanding"]
+    "tags": [
+      { "arabic": "الجسد-والروح", "english": "body-soul" },
+      { "arabic": "الثنائية", "english": "duality" },
+      { "arabic": "التوازن", "english": "balance" },
+      { "arabic": "فهم-الذات", "english": "self-understanding" }
+    ]
   },
   "hook": {
     "arabic": "عمرك سألت نفسك: 'أنا ليه متناقض كدة؟' ساعات بتبقى عايز تطير من الحماس، تصلي، تنجح، وتكسر الدنيا.. وساعات تانية بتبقى عايز تنام، تاكل، تكسر القواعد، وما تعملش أي حاجة مفيدة. بتحس إن جواك 'شخصين' عكس بعض. واحد ملاك وواحد شيطان.",

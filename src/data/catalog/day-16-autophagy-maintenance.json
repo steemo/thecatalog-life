@@ -14,7 +14,15 @@
     "day": 16,
     "type": "concept",
     "readTime": 11,
-    "tags": ["autophagy", "fasting-science", "cell-renewal", "nobel-prize", "insulin", "growth-hormone", "maintenance"]
+    "tags": [
+      { "arabic": "الالتهام-الذاتي", "english": "autophagy" },
+      { "arabic": "علم-الصيام", "english": "fasting-science" },
+      { "arabic": "تجديد-الخلايا", "english": "cell-renewal" },
+      { "arabic": "جائزة-نوبل", "english": "nobel-prize" },
+      { "arabic": "الأنسولين", "english": "insulin" },
+      { "arabic": "هرمون-النمو", "english": "growth-hormone" },
+      { "arabic": "الصيانة", "english": "maintenance" }
+    ]
   },
   "hook": {
     "arabic": "تخيل لو عندك مصنع شغال 24 ساعة، 7 أيام في الأسبوع، بقاله 20 سنة مبيقفش لحظة واحدة للصيانة. المكن بيتراب، والزبالة بتتكوم في الممرات، وكفاءة الإنتاج بتقل، والمصنع بيقرب من الانفجار.\n\nده بالظبط حال جسمك لما بتاكل طول اليوم (فطار، غداء، عشاء، سناكس). الجهاز الهضمي والمناعي مطحونين في هضم الطعام وتنظيفه، ومفيش وقت يلتفتوا لترميم 'المصنع' نفسه.",
