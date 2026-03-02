@@ -6,11 +6,11 @@
 
 import { motion } from 'framer-motion';
 import { Sparkles } from 'lucide-react';
-import type { Gem } from '@/types/surah';
+import type { Gem, GemCategory } from '@/types/surah';
 import { useText } from '@/lib/store';
 
 interface SurahGemsProps {
-  gems: Gem[];
+  gems: Gem[] | GemCategory[] | any[];
 }
 
 export default function SurahGems({ gems }: SurahGemsProps) {

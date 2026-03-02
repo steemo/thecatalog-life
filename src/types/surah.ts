@@ -67,6 +67,13 @@ export interface Gem {
   content: BilingualText;
 }
 
+/** Gem category with nested gems */
+export interface GemCategory {
+  category: string;
+  description?: BilingualText;
+  gems: Gem[];
+}
+
 /** Pillar of steadfastness (specific to Aal-Imran) */
 export interface Pillar {
   id: string;
@@ -89,6 +96,13 @@ export interface SurahGoal {
   summary: BilingualText;
 }
 
+/** Theme category with nested themes */
+export interface ThemeCategory {
+  category: string;
+  description?: BilingualText;
+  themes: Theme[];
+}
+
 /** Complete Surah data structure */
 export interface Surah {
   id: number;
@@ -99,13 +113,13 @@ export interface Surah {
     transliteration: string;
   };
   metadata: SurahMetadata;
-  goal: SurahGoal;
+  goal: SurahGoal | BilingualText; // Support both formats
   names: SurahName[];
   virtues: Virtue[];
   sections: Section[];
-  themes: Theme[];
-  lessons: Lesson[];
-  gems: Gem[];
+  themes: Theme[] | ThemeCategory[] | any[]; // Support multiple formats
+  lessons: Lesson[] | any[]; // Support nested lesson structures
+  gems: Gem[] | GemCategory[] | any[]; // Support nested gem structures
   pillars?: Pillar[]; // Optional - only some Surahs have this
   connections: Connection[];
 }
@@ -120,7 +134,7 @@ export interface SurahCard {
     transliteration: string;
   };
   metadata: SurahMetadata;
-  goal: SurahGoal;
+  goal: SurahGoal | BilingualText; // Support both formats
 }
 
 /** Language type */

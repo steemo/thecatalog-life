@@ -6,11 +6,11 @@
 
 import { motion } from 'framer-motion';
 import * as Icons from 'lucide-react';
-import type { Theme } from '@/types/surah';
+import type { Theme, ThemeCategory } from '@/types/surah';
 import { useText } from '@/lib/store';
 
 interface SurahThemesProps {
-  themes: Theme[];
+  themes: Theme[] | ThemeCategory[] | any[];
 }
 
 export default function SurahThemes({ themes }: SurahThemesProps) {
