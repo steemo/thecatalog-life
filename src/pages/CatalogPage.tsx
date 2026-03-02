@@ -26,12 +26,21 @@ function CatalogEntryCard({ entry, index }: { entry: CatalogCard; index: number 
   const subtitleText = useText(entry.subtitle || { arabic: '', english: '' });
   const hookText = useText(entry.hook);
   
-  // Pre-render all tag texts (always 3 tags, pad with empty if needed)
-  const tags = entry.metadata.tags.slice(0, 3);
+  // Pre-render all possible tag texts (max 8 tags across all entries)
+  // Always call 8 hooks to ensure consistent hook count
+  const tags = entry.metadata.tags;
   const tag0Text = useText(tags[0] || { arabic: '', english: '' });
   const tag1Text = useText(tags[1] || { arabic: '', english: '' });
   const tag2Text = useText(tags[2] || { arabic: '', english: '' });
-  const allTagTexts = [tag0Text, tag1Text, tag2Text].slice(0, tags.length);
+  // Call remaining hooks but don't use them (to maintain consistent hook count)
+  useText(tags[3] || { arabic: '', english: '' });
+  useText(tags[4] || { arabic: '', english: '' });
+  useText(tags[5] || { arabic: '', english: '' });
+  useText(tags[6] || { arabic: '', english: '' });
+  useText(tags[7] || { arabic: '', english: '' });
+  
+  // Only use the first 3 for display
+  const displayTags = [tag0Text, tag1Text, tag2Text].slice(0, Math.min(3, tags.length));
 
   const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
   const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
@@ -109,7 +118,7 @@ function CatalogEntryCard({ entry, index }: { entry: CatalogCard; index: number 
 
               {/* Tags */}
               <div className="flex flex-wrap gap-2 mb-4">
-                {allTagTexts.map((tagText, idx) => (
+                {displayTags.map((tagText, idx) => (
                   <span
                     key={`${entry.id}-tag-${idx}`}
                     className="px-3 py-1 rounded-full bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 text-xs font-medium"
