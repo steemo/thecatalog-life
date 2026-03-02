@@ -14,6 +14,117 @@ import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
 import { getCatalogCards } from '@/data/catalog';
 import { useText } from '@/lib/store';
+import type { CatalogCard } from '@/types/catalog';
+
+// Separate component to handle hooks properly
+function CatalogEntryCard({ entry, index }: { entry: CatalogCard; index: number }) {
+  const isTeaser = entry.day === 0;
+  const isEven = index % 2 === 0;
+
+  // Call all hooks unconditionally at the top level
+  const titleText = useText(entry.title);
+  const subtitleText = useText(entry.subtitle || { arabic: '', english: '' });
+  const hookText = useText(entry.hook);
+  const allTagTexts = entry.metadata.tags.slice(0, 3).map(tag => useText(tag));
+
+  const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
+  const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
+  const minLabel = useText({ arabic: 'دقيقة', english: 'min' });
+  const startLabel = useText({ arabic: 'ابدأ الرحلة', english: 'Start Journey' });
+
+  return (
+    <motion.div
+      initial={{ opacity: 0, x: isEven ? -50 : 50 }}
+      whileInView={{ opacity: 1, x: 0 }}
+      viewport={{ once: true, margin: "-100px" }}
+      transition={{ duration: 0.5, delay: index * 0.05 }}
+      className="relative"
+    >
+      <Link to={`/catalog/${entry.slug}`} className="block group">
+        <div className="flex items-start gap-6 md:gap-8">
+          {/* Day Number Circle */}
+          <motion.div
+            whileHover={{ scale: 1.1, rotate: 5 }}
+            className="flex-shrink-0 relative z-10"
+          >
+            <div className={`w-16 h-16 rounded-2xl flex items-center justify-center font-bold text-white shadow-lg transition-all duration-300 ${
+              isTeaser
+                ? 'bg-gradient-to-br from-accent-500 to-accent-600 group-hover:shadow-accent-500/50'
+                : 'bg-gradient-to-br from-primary-500 to-primary-600 group-hover:shadow-primary-500/50'
+            }`}>
+              {isTeaser ? (
+                <Sparkles className="w-7 h-7" />
+              ) : (
+                <span className="text-2xl">{entry.day}</span>
+              )}
+            </div>
+          </motion.div>
+
+          {/* Card Content */}
+          <motion.div
+            whileHover={{ y: -4 }}
+            className="flex-1 bg-white dark:bg-slate-800 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border-2 border-transparent group-hover:border-primary-500 dark:group-hover:border-primary-400"
+          >
+            {/* Card Header with Gradient */}
+            <div className={`p-6 ${
+              isTeaser
+                ? 'bg-gradient-to-br from-accent-500 to-accent-600'
+                : 'bg-gradient-to-br from-primary-500 to-primary-600'
+            } text-white`}>
+              <div className="flex items-center justify-between mb-3">
+                <div className="flex items-center gap-2 text-sm font-medium bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full">
+                  <Calendar className="w-4 h-4" />
+                  <span>
+                    {isTeaser ? teaserLabel : `${dayLabel} ${entry.day}`}
+                  </span>
+                </div>
+                <div className="flex items-center gap-1 text-sm bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full">
+                  <Clock className="w-4 h-4" />
+                  <span>{entry.metadata.readTime} {minLabel}</span>
+                </div>
+              </div>
+              
+              <h3 className="text-2xl sm:text-3xl font-bold mb-2 font-arabic group-hover:scale-105 transition-transform">
+                {titleText}
+              </h3>
+              
+              {entry.subtitle && (
+                <p className="text-white/90 text-base">
+                  {subtitleText}
+                </p>
+              )}
+            </div>
+
+            {/* Card Body */}
+            <div className="p-6">
+              <p className="text-slate-600 dark:text-slate-300 leading-relaxed mb-4 line-clamp-3">
+                {hookText}
+              </p>
+
+              {/* Tags */}
+              <div className="flex flex-wrap gap-2 mb-4">
+                {allTagTexts.map((tagText, idx) => (
+                  <span
+                    key={`${entry.id}-tag-${idx}`}
+                    className="px-3 py-1 rounded-full bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 text-xs font-medium"
+                  >
+                    {tagText}
+                  </span>
+                ))}
+              </div>
+
+              {/* Read More Button */}
+              <div className="flex items-center gap-2 text-primary-600 dark:text-primary-400 font-bold group-hover:gap-3 transition-all">
+                <span>{startLabel}</span>
+                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+          </motion.div>
+        </div>
+      </Link>
+    </motion.div>
+  );
+}
 
 export default function CatalogPage() {
   const catalogCards = getCatalogCards();
@@ -31,26 +142,6 @@ export default function CatalogPage() {
   const pageSubtitle = useText({
     arabic: 'رحلة 30 يوم لفهم دينك',
     english: '30-Day Journey to Understand Your Religion',
-  });
-
-  const dayLabel = useText({
-    arabic: 'اليوم',
-    english: 'Day',
-  });
-
-  const teaserLabel = useText({
-    arabic: 'تشويق',
-    english: 'Teaser',
-  });
-
-  const minLabel = useText({
-    arabic: 'دقيقة',
-    english: 'min',
-  });
-
-  const startLabel = useText({
-    arabic: 'ابدأ الرحلة',
-    english: 'Start Journey',
   });
 
   return (
@@ -115,107 +206,9 @@ export default function CatalogPage() {
 
             {/* Timeline Entries */}
             <div className="space-y-8">
-              {catalogCards.map((entry, index) => {
-                const isTeaser = entry.day === 0;
-                const isEven = index % 2 === 0;
-
-                return (
-                  <motion.div
-                    key={entry.id}
-                    initial={{ opacity: 0, x: isEven ? -50 : 50 }}
-                    whileInView={{ opacity: 1, x: 0 }}
-                    viewport={{ once: true, margin: "-100px" }}
-                    transition={{ duration: 0.5, delay: index * 0.05 }}
-                    className="relative"
-                  >
-                    <Link
-                      to={`/catalog/${entry.slug}`}
-                      className="block group"
-                    >
-                      <div className="flex items-start gap-6 md:gap-8">
-                        {/* Day Number Circle */}
-                        <motion.div
-                          whileHover={{ scale: 1.1, rotate: 5 }}
-                          className="flex-shrink-0 relative z-10"
-                        >
-                          <div className={`w-16 h-16 rounded-2xl flex items-center justify-center font-bold text-white shadow-lg transition-all duration-300 ${
-                            isTeaser
-                              ? 'bg-gradient-to-br from-accent-500 to-accent-600 group-hover:shadow-accent-500/50'
-                              : 'bg-gradient-to-br from-primary-500 to-primary-600 group-hover:shadow-primary-500/50'
-                          }`}>
-                            {isTeaser ? (
-                              <Sparkles className="w-7 h-7" />
-                            ) : (
-                              <span className="text-2xl">{entry.day}</span>
-                            )}
-                          </div>
-                        </motion.div>
-
-                        {/* Card Content */}
-                        <motion.div
-                          whileHover={{ y: -4 }}
-                          className="flex-1 bg-white dark:bg-slate-800 rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border-2 border-transparent group-hover:border-primary-500 dark:group-hover:border-primary-400"
-                        >
-                          {/* Card Header with Gradient */}
-                          <div className={`p-6 ${
-                            isTeaser
-                              ? 'bg-gradient-to-br from-accent-500 to-accent-600'
-                              : 'bg-gradient-to-br from-primary-500 to-primary-600'
-                          } text-white`}>
-                            <div className="flex items-center justify-between mb-3">
-                              <div className="flex items-center gap-2 text-sm font-medium bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full">
-                                <Calendar className="w-4 h-4" />
-                                <span>
-                                  {isTeaser ? teaserLabel : `${dayLabel} ${entry.day}`}
-                                </span>
-                              </div>
-                              <div className="flex items-center gap-1 text-sm bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full">
-                                <Clock className="w-4 h-4" />
-                                <span>{entry.metadata.readTime} {minLabel}</span>
-                              </div>
-                            </div>
-                            
-                            <h3 className="text-2xl sm:text-3xl font-bold mb-2 font-arabic group-hover:scale-105 transition-transform">
-                              {useText(entry.title)}
-                            </h3>
-                            
-                            {entry.subtitle && (
-                              <p className="text-white/90 text-base">
-                                {useText(entry.subtitle)}
-                              </p>
-                            )}
-                          </div>
-
-                          {/* Card Body */}
-                          <div className="p-6">
-                            <p className="text-slate-600 dark:text-slate-300 leading-relaxed mb-4 line-clamp-3">
-                              {useText(entry.hook)}
-                            </p>
-
-                            {/* Tags */}
-                            <div className="flex flex-wrap gap-2 mb-4">
-                              {entry.metadata.tags.slice(0, 3).map((tag, idx) => (
-                                <span
-                                  key={`${entry.id}-tag-${idx}`}
-                                  className="px-3 py-1 rounded-full bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 text-xs font-medium"
-                                >
-                                  {useText(tag)}
-                                </span>
-                              ))}
-                            </div>
-
-                            {/* Read More Button */}
-                            <div className="flex items-center gap-2 text-primary-600 dark:text-primary-400 font-bold group-hover:gap-3 transition-all">
-                              <span>{startLabel}</span>
-                              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-                            </div>
-                          </div>
-                        </motion.div>
-                      </div>
-                    </Link>
-                  </motion.div>
-                );
-              })}
+              {catalogCards.map((entry, index) => (
+                <CatalogEntryCard key={entry.id} entry={entry} index={index} />
+              ))}
             </div>
           </div>
         </div>
