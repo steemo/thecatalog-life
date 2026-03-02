@@ -5,6 +5,7 @@
  */
 
 import { useParams, Navigate } from 'react-router-dom';
+import { useEffect } from 'react';
 import { getSurahBySlug } from '@/data';
 import Head from '../shared/Head';
 import SurahHero from './SurahHero';
@@ -15,6 +16,11 @@ import SurahGems from './SurahGems';
 
 export default function SurahPage() {
   const { slug } = useParams<{ slug: string }>();
+
+  // Scroll to top when page loads or slug changes
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [slug]);
 
   if (!slug) {
     return <Navigate to="/" replace />;

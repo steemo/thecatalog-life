@@ -7,7 +7,7 @@
  *     Browse and search all Quranic Surahs with filtering.
  */
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Search } from 'lucide-react';
 import { useText } from '@/lib/store';
 import { getSurahCards } from '@/data';
@@ -17,6 +17,11 @@ import SurahGrid from '@/features/home/SurahGrid';
 export default function SurahsPage() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filterType, setFilterType] = useState<'all' | 'meccan' | 'medinan'>('all');
+
+  // Scroll to top when page loads
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   const surahs = getSurahCards();
 

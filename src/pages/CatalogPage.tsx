@@ -11,11 +11,17 @@
 import { motion } from 'framer-motion';
 import { BookOpen, Calendar, Clock, ArrowRight, Sparkles } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { useEffect } from 'react';
 import { getCatalogCards } from '@/data/catalog';
 import { useText } from '@/lib/store';
 
 export default function CatalogPage() {
   const catalogCards = getCatalogCards();
+
+  // Scroll to top when page loads
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   const pageTitle = useText({
     arabic: 'الكتالوج للحياة',

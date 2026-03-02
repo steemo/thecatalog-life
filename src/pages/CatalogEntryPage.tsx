@@ -23,6 +23,11 @@ function BilingualContent({ text }: { text: BilingualText }) {
 
 export default function CatalogEntryPage() {
   const { slug } = useParams<{ slug: string }>();
+
+  // Scroll to top when page loads
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [slug]); // Re-scroll when slug changes
   const direction = useDirection();
   const entry = slug ? getCatalogBySlug(slug) : undefined;
 
