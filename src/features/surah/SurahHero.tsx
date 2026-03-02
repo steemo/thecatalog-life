@@ -17,7 +17,6 @@ interface SurahHeroProps {
 export default function SurahHero({ surah }: SurahHeroProps) {
   const direction = useDirection();
   const surahName = useText(surah.name);
-  const goal = useText(surah.goal);
   
   const typeLabel = useText({
     arabic: surah.metadata.type === 'meccan' ? 'مكية' : 'مدنية',

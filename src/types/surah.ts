@@ -82,6 +82,13 @@ export interface Connection {
   description: BilingualText;
 }
 
+/** Surah goal structure with academic, psychological, and summary */
+export interface SurahGoal {
+  academic: BilingualText;
+  psychological: BilingualText;
+  summary: BilingualText;
+}
+
 /** Complete Surah data structure */
 export interface Surah {
   id: number;
@@ -92,7 +99,7 @@ export interface Surah {
     transliteration: string;
   };
   metadata: SurahMetadata;
-  goal: BilingualText;
+  goal: SurahGoal;
   names: SurahName[];
   virtues: Virtue[];
   sections: Section[];
@@ -113,7 +120,7 @@ export interface SurahCard {
     transliteration: string;
   };
   metadata: SurahMetadata;
-  goal: BilingualText;
+  goal: SurahGoal;
 }
 
 /** Language type */
