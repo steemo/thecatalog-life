@@ -150,6 +150,11 @@ export default function CatalogPage() {
     english: '30-Day Journey to Understand Your Religion',
   });
 
+  const introText = useText({
+    arabic: 'تخيل لو اشتريت أحدث طيارة في العالم، بس قررت تسوقها زي العجلة... المشكلة مش في الطيارة، المشكلة إنك رميت الكتالوج. ولله المثل الأعلى.. الإنسان هو أعقد ماكينة في الكون، والدين هو الكتالوج.',
+    english: 'Imagine you bought the most advanced airplane in the world, but decided to drive it like a bicycle... The problem is not with the airplane, the problem is you threw away the catalog. And to Allah belongs the highest example... The human is the most complex machine in the universe, and religion is the catalog.',
+  });
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-slate-100 to-slate-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
       {/* Hero Section */}
@@ -192,10 +197,7 @@ export default function CatalogPage() {
               className="bg-white/10 backdrop-blur-md rounded-3xl p-8 border border-white/20 max-w-3xl mx-auto"
             >
               <p className="text-white/90 leading-relaxed text-lg">
-                {useText({
-                  arabic: 'تخيل لو اشتريت أحدث طيارة في العالم، بس قررت تسوقها زي العجلة... المشكلة مش في الطيارة، المشكلة إنك رميت الكتالوج. ولله المثل الأعلى.. الإنسان هو أعقد ماكينة في الكون، والدين هو الكتالوج.',
-                  english: 'Imagine you bought the most advanced airplane in the world, but decided to drive it like a bicycle... The problem is not with the airplane, the problem is you threw away the catalog. And to Allah belongs the highest example... The human is the most complex machine in the universe, and religion is the catalog.',
-                })}
+                {introText}
               </p>
             </motion.div>
           </motion.div>
