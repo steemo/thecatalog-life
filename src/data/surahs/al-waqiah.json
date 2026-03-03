@@ -353,20 +353,12 @@
           "id": "musa-provision-dua",
           "title": { "arabic": "دعاء موسى للرزق", "english": "Musa's Provision Supplication" },
           "content": {
-            "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ - دعاء يجمع بين الحمد والافتقار",
-            "english": "'My Lord, indeed I am, for whatever good You would send down to me, in need' - supplication combining gratitude and need"
+            "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ - دعاء يجمع بين الحمد والافتقار. يُستخدم عند الضيق المالي أو إغلاق أبواب الرزق. الحمد: اعتراف بالنعم الحالية | الافتقار: إعلان الاحتياج لعطاء الله الجديد | النتيجة: فتح أبواب رزق جديدة.",
+            "english": "'My Lord, indeed I am, for whatever good You would send down to me, in need' - supplication combining gratitude and need. Used during financial hardship or closure of provision doors. Gratitude: acknowledging current blessings | Need: declaring need for Allah's new provision | Result: opening new provision doors."
           },
           "verse": {
             "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
             "english": "My Lord, indeed I am, for whatever good You would send down to me, in need"
-          },
-          "when": {
-            "arabic": "عند الضيق المالي أو إغلاق أبواب الرزق",
-            "english": "During financial hardship or closure of provision doors"
-          },
-          "purpose": {
-            "arabic": "الحمد: اعتراف بالنعم الحالية | الافتقار: إعلان الاحتياج لعطاء الله الجديد | النتيجة: فتح أبواب رزق جديدة",
-            "english": "Gratitude: acknowledging current blessings | Need: declaring need for Allah's new provision | Result: opening new provision doors"
           }
         }
 ,
@@ -374,64 +366,32 @@
           "id": "daily-recitation",
           "title": { "arabic": "القراءة اليومية", "english": "Daily Recitation" },
           "content": {
-            "arabic": "من قرأ سورة الواقعة كل ليلة لم تصبه فاقة أبدًا - الفقر هنا نفسي قبل أن يكون ماديًا، فالقراءة اليومية تبني الغنى الداخلي",
-            "english": "'Whoever recites Surah Al-Waqi'ah every night will never be afflicted by poverty' - poverty here is psychological before material, daily recitation builds inner wealth"
-          },
-          "when": {
-            "arabic": "كل ليلة قبل النوم - اجعلها عادة يومية",
-            "english": "Every night before sleep - make it a daily habit"
-          },
-          "purpose": {
-            "arabic": "بناء الغنى النفسي التراكمي - كل قراءة تضيف طبقة من الثقة والطمأنينة",
-            "english": "Building cumulative psychological wealth - each recitation adds a layer of confidence and tranquility"
+            "arabic": "من قرأ سورة الواقعة كل ليلة لم تصبه فاقة أبدًا - الفقر هنا نفسي قبل أن يكون ماديًا، فالقراءة اليومية تبني الغنى الداخلي. اقرأها كل ليلة قبل النوم واجعلها عادة يومية. بناء الغنى النفسي التراكمي - كل قراءة تضيف طبقة من الثقة والطمأنينة.",
+            "english": "'Whoever recites Surah Al-Waqi'ah every night will never be afflicted by poverty' - poverty here is psychological before material, daily recitation builds inner wealth. Read it every night before sleep and make it a daily habit. Building cumulative psychological wealth - each recitation adds a layer of confidence and tranquility."
           }
         },
         {
           "id": "abundance-awareness-exercise",
           "title": { "arabic": "تمرين الوعي بالوفرة", "english": "Abundance Awareness Exercise" },
           "content": {
-            "arabic": "كل يوم، اكتب 5 نعم مجانية حولك (ماء، هواء، شمس، صحة، أمان) - درّب عقلك على رؤية الوفرة لا النقص",
-            "english": "Every day, write 5 free blessings around you (water, air, sun, health, safety) - train your mind to see abundance not lack"
-          },
-          "when": {
-            "arabic": "صباحًا بعد الاستيقاظ أو مساءً قبل النوم",
-            "english": "Morning after waking or evening before sleep"
-          },
-          "purpose": {
-            "arabic": "تحويل العقل من عقلية الفقر (رؤية النقص) إلى عقلية الغنى (رؤية الوفرة)",
-            "english": "Transforming the mind from poverty mindset (seeing lack) to wealth mindset (seeing abundance)"
+            "arabic": "كل يوم، اكتب 5 نعم مجانية حولك (ماء، هواء، شمس، صحة، أمان) - درّب عقلك على رؤية الوفرة لا النقص. مارس هذا التمرين صباحًا بعد الاستيقاظ أو مساءً قبل النوم. تحويل العقل من عقلية الفقر (رؤية النقص) إلى عقلية الغنى (رؤية الوفرة).",
+            "english": "Every day, write 5 free blessings around you (water, air, sun, health, safety) - train your mind to see abundance not lack. Practice this exercise morning after waking or evening before sleep. Transforming the mind from poverty mindset (seeing lack) to wealth mindset (seeing abundance)."
           }
         },
         {
           "id": "self-image-change",
           "title": { "arabic": "تغيير الصورة الذاتية", "english": "Self-Image Change" },
           "content": {
-            "arabic": "بدل ما تقول 'أنا فقير'، قل 'أنا ابن الغني الكريم' - ربك غني كريم، فأنت ابن غني",
-            "english": "Instead of saying 'I am poor', say 'I am the child of the Rich Generous' - your Lord is Rich and Generous, so you are the child of the Rich"
-          },
-          "when": {
-            "arabic": "عند الشعور بالفقر أو النقص أو الخوف من المستقبل",
-            "english": "When feeling poverty, lack, or fear of the future"
-          },
-          "purpose": {
-            "arabic": "تغيير الصورة الذاتية من 'فقير محتاج' إلى 'ابن غني كريم' - الصورة الذاتية تحدد السلوك",
-            "english": "Changing self-image from 'poor needy' to 'child of Rich Generous' - self-image determines behavior"
+            "arabic": "بدل ما تقول 'أنا فقير'، قل 'أنا ابن الغني الكريم' - ربك غني كريم، فأنت ابن غني. استخدم هذا عند الشعور بالفقر أو النقص أو الخوف من المستقبل. تغيير الصورة الذاتية من 'فقير محتاج' إلى 'ابن غني كريم' - الصورة الذاتية تحدد السلوك.",
+            "english": "Instead of saying 'I am poor', say 'I am the child of the Rich Generous' - your Lord is Rich and Generous, so you are the child of the Rich. Use this when feeling poverty, lack, or fear of the future. Changing self-image from 'poor needy' to 'child of Rich Generous' - self-image determines behavior."
           }
         },
         {
           "id": "paradise-visualization",
           "title": { "arabic": "تصور الجنة", "english": "Paradise Visualization" },
           "content": {
-            "arabic": "اقرأ آيات الجنة في الواقعة وتخيل التفاصيل: السدر، الطلح، الظل، الماء، الفاكهة - غناك المستقبلي مضمون 100%",
-            "english": "Read Paradise verses in Al-Waqi'ah and imagine the details: lote trees, banana trees, shade, water, fruit - your future wealth is 100% guaranteed"
-          },
-          "when": {
-            "arabic": "عند القلق على المستقبل أو الخوف من الفقر",
-            "english": "When worrying about the future or fearing poverty"
-          },
-          "purpose": {
-            "arabic": "تذكير بأن غناك المستقبلي في الآخرة مضمون، فلماذا القلق على الدنيا؟",
-            "english": "Reminder that your future wealth in the hereafter is guaranteed, so why worry about this world?"
+            "arabic": "اقرأ آيات الجنة في الواقعة وتخيل التفاصيل: السدر، الطلح، الظل، الماء، الفاكهة - غناك المستقبلي مضمون 100%. استخدم هذا عند القلق على المستقبل أو الخوف من الفقر. تذكير بأن غناك المستقبلي في الآخرة مضمون، فلماذا القلق على الدنيا؟",
+            "english": "Read Paradise verses in Al-Waqi'ah and imagine the details: lote trees, banana trees, shade, water, fruit - your future wealth is 100% guaranteed. Use this when worrying about the future or fearing poverty. Reminder that your future wealth in the hereafter is guaranteed, so why worry about this world?"
           }
         }
       ]
