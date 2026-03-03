@@ -579,8 +579,8 @@
             "english": "Nightly Reading Practice"
           },
           "content": {
-            "arabic": "اقرأ سورة الملك كل ليلة قبل النوم مباشرة - من قرأها كل ليلة حُفظ من عذاب القبر وحُفظ من الهم والكرب قبل النوم مباشرة - اجعلها آخر شيء تقرأه قبل أن تنام تمنح طمأنينة عالية قبل النوم، مما يجعل العقل الباطن يعمل في حالة 'سكينة' بدلاً من القلق طوال الليل",
-            "english": "Read Surah Al-Mulk every night right before sleep - whoever reads it every night is protected from grave punishment and protected from worry and grief Right before sleep - make it the last thing you read before sleeping Grants high tranquility before sleep, making the subconscious work in 'serenity' state instead of anxiety throughout the night"
+            "arabic": "اقرأ سورة الملك كل ليلة قبل النوم مباشرة - من قرأها كل ليلة حُفظ من عذاب القبر وحُفظ من الهم والكرب\n\nمتى تستخدمه: قبل النوم مباشرة - اجعلها آخر شيء تقرأه قبل أن تنام\n\nالهدف: تمنح طمأنينة عالية قبل النوم، مما يجعل العقل الباطن يعمل في حالة 'سكينة' بدلاً من القلق طوال الليل",
+            "english": "Read Surah Al-Mulk every night right before sleep - whoever reads it every night is protected from grave punishment and protected from worry and grief\n\nWhen to use: Right before sleep - make it the last thing you read before sleeping\n\nPurpose: Grants high tranquility before sleep, making the subconscious work in 'serenity' state instead of anxiety throughout the night"
           }
         },
         {
@@ -590,8 +590,8 @@
             "english": "Protection Supplication"
           },
           "content": {
-            "arabic": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال عند الشعور بالقلق أو الخوف من المستقبل",
-            "english": "O Allah, I seek refuge in You from worry and grief, from incapacity and laziness, from cowardice and miserliness, and from being overcome by debt and overpowered by men When feeling anxiety or fear about the future"
+            "arabic": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ بك من الجبن والبخل، وأعوذ بك من غلبة الدين وقهر الرجال\n\nمتى تستخدمه: عند الشعور بالقلق أو الخوف من المستقبل",
+            "english": "O Allah, I seek refuge in You from worry and grief, from incapacity and laziness, from cowardice and miserliness, and from being overcome by debt and overpowered by men\n\nWhen to use: When feeling anxiety or fear about the future"
           },
           "connection": {
             "arabic": "يُقرأ بعد سورة الملك لتعزيز الحماية من الهم والكرب",
@@ -605,8 +605,8 @@
             "english": "Sovereignty Reminder"
           },
           "content": {
-            "arabic": "عند الشعور بالخوف أو القلق، ردد: 'تبارك الذي بيده الملك' - الملك بيد الله، وأنت في حمايته، لا أحد يستطيع أن يضرك إلا بإذنه عند الخوف من أي شيء - مرض، فقر، ظلم، فشل",
-            "english": "When feeling fear or anxiety, repeat: 'Blessed is He in whose hand is dominion' - Dominion is in Allah's hand, and you are under His protection, no one can harm you except by His permission When fearing anything - illness, poverty, injustice, failure"
+            "arabic": "عند الشعور بالخوف أو القلق، ردد: 'تبارك الذي بيده الملك' - الملك بيد الله، وأنت في حمايته، لا أحد يستطيع أن يضرك إلا بإذنه\n\nمتى تستخدمه: عند الخوف من أي شيء - مرض، فقر، ظلم، فشل",
+            "english": "When feeling fear or anxiety, repeat: 'Blessed is He in whose hand is dominion' - Dominion is in Allah's hand, and you are under His protection, no one can harm you except by His permission\n\nWhen to use: When fearing anything - illness, poverty, injustice, failure"
           },
           "verse": {
             "arabic": "تَبَارَكَ الَّذِي بِيَدِهِ الْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
@@ -639,8 +639,8 @@
             "english": "Trust in Provision"
           },
           "content": {
-            "arabic": "عند القلق على الرزق، تذكر: 'أمن هذا الذي يرزقكم إن أمسك رزقه' - الرزق من الله وحده، فلا تقلق على المستقبل عند الخوف من الفقر أو فقدان الوظيفة أو نقص المال",
-            "english": "When worried about provision, remember: 'Or who is it that could provide for you if He withheld His provision?' - provision is from Allah alone, so don't worry about the future When fearing poverty, job loss, or lack of money"
+            "arabic": "عند القلق على الرزق، تذكر: 'أمن هذا الذي يرزقكم إن أمسك رزقه' - الرزق من الله وحده، فلا تقلق على المستقبل\n\nمتى تستخدمه: عند الخوف من الفقر أو فقدان الوظيفة أو نقص المال",
+            "english": "When worried about provision, remember: 'Or who is it that could provide for you if He withheld His provision?' - provision is from Allah alone, so don't worry about the future\n\nWhen to use: When fearing poverty, job loss, or lack of money"
           },
           "verse": {
             "arabic": "أَمَّنْ هَٰذَا الَّذِي يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ",

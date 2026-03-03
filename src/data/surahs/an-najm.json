@@ -510,8 +510,8 @@
             "english": "Blessed Landing Supplication"
           },
           "content": {
-            "arabic": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ عند كل 'عتبة' جديدة (وظيفة جديدة، زواج، سكن، بداية مشروع) ليبارك الله في الخطوة والقرار",
-            "english": "My Lord, let me land at a blessed landing place, and You are the best to accommodate [us] At every new 'threshold' (new job, marriage, home, project start) for Allah to bless the step and decision"
+            "arabic": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ\n\nمتى تستخدمه: عند كل 'عتبة' جديدة (وظيفة جديدة، زواج، سكن، بداية مشروع) ليبارك الله في الخطوة والقرار",
+            "english": "My Lord, let me land at a blessed landing place, and You are the best to accommodate [us]\n\nWhen to use: At every new 'threshold' (new job, marriage, home, project start) for Allah to bless the step and decision"
           },
           "story": {
             "arabic": "قاله سيدنا نوح عند نزوله من السفينة، وقاله النبي ﷺ عند دخوله المدينة",
@@ -525,8 +525,8 @@
             "english": "Focus on Striving Exercise"
           },
           "content": {
-            "arabic": "اكتب قائمة بما هو في يدك (دائرة السعي): وقتك، مهاراتك، مالك، علاقاتك - ثم ركز على الإحسان فيها، واترك النتائج لله عند الشعور بالإحباط من غياب النتائج - راجع: هل أنت محسن في دائرة السعي؟ فك التعلق بالنتائج والتركيز على ما هو في يدك - السعي والإحسان",
-            "english": "Write list of what's in your hand (circle of striving): your time, skills, money, relationships - then focus on excellence in them, and leave results to Allah When feeling frustrated from absence of results - review: are you excelling in circle of striving? Detaching from results and focusing on what's in your hand - striving and excellence"
+            "arabic": "اكتب قائمة بما هو في يدك (دائرة السعي): وقتك، مهاراتك، مالك، علاقاتك - ثم ركز على الإحسان فيها، واترك النتائج لله\n\nمتى تستخدمه: عند الشعور بالإحباط من غياب النتائج - راجع: هل أنت محسن في دائرة السعي؟\n\nالهدف: فك التعلق بالنتائج والتركيز على ما هو في يدك - السعي والإحسان",
+            "english": "Write list of what's in your hand (circle of striving): your time, skills, money, relationships - then focus on excellence in them, and leave results to Allah\n\nWhen to use: When feeling frustrated from absence of results - review: are you excelling in circle of striving?\n\nPurpose: Detaching from results and focusing on what's in your hand - striving and excellence"
           }
         },
         {
@@ -536,8 +536,8 @@
             "english": "Divine Sight Reminder"
           },
           "content": {
-            "arabic": "عندما تبذل مجهوداً ولا يقدره البشر، ردد: 'وأن سعيه سوف يرى' - الله يراني، سعيي مسجل ومقدر عنده عند الشعور بعدم التقدير أو الإهمال من البشر",
-            "english": "When you exert effort and humans don't appreciate it, repeat: 'And that his effort is going to be seen' - Allah sees me, my striving is recorded and valued by Him When feeling unappreciated or neglected by humans"
+            "arabic": "عندما تبذل مجهوداً ولا يقدره البشر، ردد: 'وأن سعيه سوف يرى' - الله يراني، سعيي مسجل ومقدر عنده\n\nمتى تستخدمه: عند الشعور بعدم التقدير أو الإهمال من البشر",
+            "english": "When you exert effort and humans don't appreciate it, repeat: 'And that his effort is going to be seen' - Allah sees me, my striving is recorded and valued by Him\n\nWhen to use: When feeling unappreciated or neglected by humans"
           },
           "comfort": {
             "arabic": "أنت لست وحدك - الله يرى كل سعيك وكل محاولاتك، حتى لو لم يرها البشر",
@@ -551,8 +551,8 @@
             "english": "Patience for Fullest Reward"
           },
           "content": {
-            "arabic": "لا تستعجل النتائج - ردد: 'ثم يجزاه الجزاء الأوفى' - الجزاء الأكمل يأتي في التوقيت الأنسب، قد يكون في الدنيا أو الآخرة عند الشعور بالاستعجال أو الإحباط من تأخر النتائج",
-            "english": "Don't rush results - repeat: 'Then he will be recompensed with the fullest recompense' - the most complete reward comes at the most suitable timing, may be in this world or the hereafter When feeling rushed or frustrated from delayed results"
+            "arabic": "لا تستعجل النتائج - ردد: 'ثم يجزاه الجزاء الأوفى' - الجزاء الأكمل يأتي في التوقيت الأنسب، قد يكون في الدنيا أو الآخرة\n\nمتى تستخدمه: عند الشعور بالاستعجال أو الإحباط من تأخر النتائج",
+            "english": "Don't rush results - repeat: 'Then he will be recompensed with the fullest recompense' - the most complete reward comes at the most suitable timing, may be in this world or the hereafter\n\nWhen to use: When feeling rushed or frustrated from delayed results"
           },
           "principle": {
             "arabic": "الجزاء الأوفى قد يأتي من حيث لا تحتسب - ثق في توقيت الله",
@@ -566,8 +566,8 @@
             "english": "Star Resilience"
           },
           "content": {
-            "arabic": "كن كالنجم: يستمر في مداره وتوهجه مهما كان الليل مظلماً، وحتى عندما يهوي لا ينطفئ نوره - لا ينطفئ حماسك وسعيك حتى لو تعثرت عند التعثر أو الفشل - تذكر: النجم لا ينطفئ حتى عندما يهوي",
-            "english": "Be like the star: continues in its orbit and glow no matter how dark the night, and even when it falls its light doesn't extinguish - your enthusiasm and striving don't extinguish even if you stumble When stumbling or failing - remember: the star doesn't extinguish even when it falls"
+            "arabic": "كن كالنجم: يستمر في مداره وتوهجه مهما كان الليل مظلماً، وحتى عندما يهوي لا ينطفئ نوره - لا ينطفئ حماسك وسعيك حتى لو تعثرت\n\nمتى تستخدمه: عند التعثر أو الفشل - تذكر: النجم لا ينطفئ حتى عندما يهوي",
+            "english": "Be like the star: continues in its orbit and glow no matter how dark the night, and even when it falls its light doesn't extinguish - your enthusiasm and striving don't extinguish even if you stumble\n\nWhen to use: When stumbling or failing - remember: the star doesn't extinguish even when it falls"
           }
         },
         {
@@ -577,8 +577,8 @@
             "english": "Prostration and Rest"
           },
           "content": {
-            "arabic": "فاسجدوا لله واعبدوا - السجود هو راحة نفسية واعتراف بأن المنتهى إلى الله، فاسجد واسترح من هم النتائج عند الشعور بالضغط النفسي من هم النتائج - اسجد واسترح الاعتراف بأن المنتهى إلى الله، فلا داعي للقلق - كل شيء بيده",
-            "english": "'So prostrate to Allah and worship [Him]' - prostration is psychological rest and acknowledgment that the finality is to Allah, so prostrate and rest from worry about results When feeling psychological pressure from worry about results - prostrate and rest Acknowledging that the finality is to Allah, so no need to worry - everything is in His hand"
+            "arabic": "فاسجدوا لله واعبدوا - السجود هو راحة نفسية واعتراف بأن المنتهى إلى الله، فاسجد واسترح من هم النتائج\n\nمتى تستخدمه: عند الشعور بالضغط النفسي من هم النتائج - اسجد واسترح\n\nالهدف: الاعتراف بأن المنتهى إلى الله، فلا داعي للقلق - كل شيء بيده",
+            "english": "'So prostrate to Allah and worship [Him]' - prostration is psychological rest and acknowledgment that the finality is to Allah, so prostrate and rest from worry about results\n\nWhen to use: When feeling psychological pressure from worry about results - prostrate and rest\n\nPurpose: Acknowledging that the finality is to Allah, so no need to worry - everything is in His hand"
           }
         },
         {
@@ -588,8 +588,8 @@
             "english": "Weekly Review"
           },
           "content": {
-            "arabic": "كل أسبوع، راجع: هل أنا محسن في دائرة السعي؟ هل أركز على ما في يدي أم أتعلق بالنتائج؟ - تصحيح المسار نهاية كل أسبوع - مراجعة دورية للتأكد من التركيز على السعي لا النتائج",
-            "english": "Every week, review: am I excelling in circle of striving? Am I focusing on what's in my hand or attached to results? - course correction End of every week - periodic review to ensure focus on striving not results"
+            "arabic": "كل أسبوع، راجع: هل أنا محسن في دائرة السعي؟ هل أركز على ما في يدي أم أتعلق بالنتائج؟ - تصحيح المسار\n\nمتى تستخدمه: نهاية كل أسبوع - مراجعة دورية للتأكد من التركيز على السعي لا النتائج",
+            "english": "Every week, review: am I excelling in circle of striving? Am I focusing on what's in my hand or attached to results? - course correction\n\nWhen to use: End of every week - periodic review to ensure focus on striving not results"
           },
           "challenge": {
             "arabic": "تحدي: اختر مجالاً واحداً تحسن فيه سعيك هذا الأسبوع، بغض النظر عن النتائج",
