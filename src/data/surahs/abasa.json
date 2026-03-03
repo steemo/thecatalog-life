@@ -1,0 +1,198 @@
+{
+  "id": 80,
+  "slug": "abasa",
+  "name": {
+    "arabic": "سورة عبس",
+    "english": "Surah Abasa",
+    "transliteration": "Abasa"
+  },
+  "metadata": {
+    "verses": 42,
+    "words": 133,
+    "type": "meccan",
+    "juz": "30",
+    "order": 80
+  },
+  "goal": {
+    "academic": {
+      "arabic": "تصحيح معايير التقييم البشري، وبيان أن التزكية عملية شخصية بين العبد وربه لا يعلمها إلا الله.",
+      "english": "Correcting human evaluation standards, and showing that purification is a personal process between the servant and his Lord known only to Allah."
+    },
+    "psychological": {
+      "arabic": "علاج الحكم على الناس بالظاهر - رسالة من الله: التزكية عملية شخصية جداً بينك وبين الله، لا يعلم ما يحدث في روحك إلا هو.",
+      "english": "Treating judging people by appearance - a message from Allah: purification is a very personal process between you and Allah, no one knows what happens in your soul except Him."
+    },
+    "summary": {
+      "arabic": "سورة عبس تؤكد أن التزكية عملية شخصية جداً بينك وبين الله - وما يدريك لعله يزكى. لا تحكم على الناس بالظاهر، فالله وحده يعلم من يتزكى.",
+      "english": "Surah Abasa confirms that purification is a very personal process between you and Allah - and what would make you perceive that perhaps he might be purified. Do not judge people by appearance, for Allah alone knows who is being purified."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة عبس", "english": "He Frowned" },
+      "reason": {
+        "arabic": "سميت بعبس لافتتاحها بعتاب النبي ﷺ حين عبس وتولى عن الأعمى.",
+        "english": "Named after the opening rebuke to the Prophet ﷺ when he frowned and turned away from the blind man."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "personal-purification",
+      "title": { "arabic": "التزكية الشخصية", "english": "Personal Purification" },
+      "hadith": {
+        "arabic": "سورة عبس تؤكد أن التزكية عملية شخصية جداً بينك وبين الله - لا يعلم ما يحدث في روحك إلا هو.",
+        "english": "Surah Abasa confirms that purification is a very personal process between you and Allah - no one knows what happens in your soul except Him."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "prophet-rebuke",
+      "title": { "arabic": "العتاب النبوي - عبس وتولى", "english": "Prophetic Rebuke - He Frowned and Turned Away" },
+      "verses": "1-10",
+      "description": {
+        "arabic": "عَبَسَ وَتَوَلَّىٰ * أَن جَاءَهُ الْأَعْمَىٰ * وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ * أَوْ يَذَّكَّرُ فَتَنفَعَهُ الذِّكْرَىٰ. عتاب إلهي للنبي ﷺ: عبس وتولى عن الأعمى (ابن أم مكتوم) لأنه كان مشغولاً بدعوة كبار قريش. الرسالة: وما يدريك لعله يزكى؟ التزكية عملية شخصية لا يعلمها إلا الله. لا تحكم على الناس بالظاهر.",
+        "english": "He frowned and turned away * Because there came to him the blind man * But what would make you perceive that perhaps he might be purified * Or be reminded and the remembrance would benefit him. Divine rebuke to the Prophet ﷺ: he frowned and turned away from the blind man (Ibn Umm Maktum) because he was busy calling the leaders of Quraysh. The message: and what would make you perceive that perhaps he might be purified? Purification is a personal process known only to Allah. Do not judge people by appearance."
+      }
+    },
+    {
+      "id": "wrong-priorities",
+      "title": { "arabic": "الأولويات الخاطئة - أما من استغنى", "english": "Wrong Priorities - As for He Who is Self-Sufficient" },
+      "verses": "5-10",
+      "description": {
+        "arabic": "أَمَّا مَنِ اسْتَغْنَىٰ * فَأَنتَ لَهُ تَصَدَّىٰ * وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ * وَأَمَّا مَن جَاءَكَ يَسْعَىٰ * وَهُوَ يَخْشَىٰ * فَأَنتَ عَنْهُ تَلَهَّىٰ. الغني المستغني تتصدى له، والفقير الخائش تتلهى عنه. الرسالة: الأولوية للراغب في التزكية، لا للغني الظاهر. التزكية أهم من المكانة الاجتماعية.",
+        "english": "As for he who is self-sufficient * To him you give attention * And not upon you if he will not be purified * But as for he who came to you striving * While he fears * From him you are distracted. The rich self-sufficient one you attend to, and the poor fearful one you are distracted from. The message: priority is for the one seeking purification, not the apparently rich. Purification is more important than social status."
+      }
+    },
+    {
+      "id": "quran-reminder",
+      "title": { "arabic": "القرآن تذكرة - كلا إنها تذكرة", "english": "Quran as Reminder - No! Indeed It is a Reminder" },
+      "verses": "11-16",
+      "description": {
+        "arabic": "كَلَّا إِنَّهَا تَذْكِرَةٌ * فَمَن شَاءَ ذَكَرَهُ * فِي صُحُفٍ مُّكَرَّمَةٍ * مَّرْفُوعَةٍ مُّطَهَّرَةٍ * بِأَيْدِي سَفَرَةٍ * كِرَامٍ بَرَرَةٍ. القرآن تذكرة لمن شاء أن يتذكر. من أراد التزكية، فالقرآن هو الطريق. القرآن في صحف مكرمة مرفوعة مطهرة، بأيدي ملائكة كرام بررة.",
+        "english": "No! Indeed, it is a reminder * So whoever wills may remember it * In honored sheets * Exalted and purified * By the hands of messenger-angels * Noble and dutiful. The Quran is a reminder for whoever wills to remember. Whoever wants purification, the Quran is the path. The Quran is in honored, exalted, purified sheets, by the hands of noble, dutiful angels."
+      }
+    },
+    {
+      "id": "human-ingratitude",
+      "title": { "arabic": "كفران الإنسان - قتل الإنسان ما أكفره", "english": "Human Ingratitude - Cursed is Man, How Ungrateful" },
+      "verses": "17-23",
+      "description": {
+        "arabic": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ * مِنْ أَيِّ شَيْءٍ خَلَقَهُ * مِن نُّطْفَةٍ خَلَقَهُ فَقَدَّرَهُ * ثُمَّ السَّبِيلَ يَسَّرَهُ. الإنسان كفور رغم نعم الله: خلقه من نطفة، قدره، يسر له السبيل. الرسالة: تذكر نعم الله عليك، وزكِّ نفسك شكراً له.",
+        "english": "Cursed is man; how ungrateful is he * From what substance did He create him * From a sperm-drop He created him and destined for him * Then He eased the way for him. Man is ungrateful despite Allah's blessings: He created him from a sperm-drop, destined him, eased the way for him. The message: remember Allah's blessings upon you, and purify yourself in gratitude to Him."
+      }
+    },
+    {
+      "id": "day-judgment",
+      "title": { "arabic": "يوم القيامة - يوم يفر المرء من أخيه", "english": "Day of Judgment - Day Man Will Flee from His Brother" },
+      "verses": "33-42",
+      "description": {
+        "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ * يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ * وَأُمِّهِ وَأَبِيهِ * وَصَاحِبَتِهِ وَبَنِيهِ * لِكُلِّ امْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ. يوم القيامة يفر المرء من أقرب الناس إليه. كل إنسان مشغول بنفسه. الرسالة: التزكية عملية شخصية، ولن ينفعك أحد يوم القيامة إلا عملك.",
+        "english": "But when there comes the Deafening Blast * On the Day a man will flee from his brother * And his mother and his father * And his wife and his children * For every man, that Day, will be a matter adequate for him. On the Day of Judgment, man will flee from his closest people. Every person is preoccupied with himself. The message: purification is a personal process, and no one will benefit you on Judgment Day except your deeds."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "personal-purification",
+      "title": { "arabic": "التزكية الشخصية", "english": "Personal Purification" },
+      "icon": "User",
+      "description": {
+        "arabic": "وما يدريك لعله يزكى - التزكية عملية شخصية بينك وبين الله لا يعلمها إلا هو",
+        "english": "And what would make you perceive that perhaps he might be purified - purification is a personal process between you and Allah known only to Him"
+      }
+    },
+    {
+      "id": "dont-judge-appearance",
+      "title": { "arabic": "لا تحكم بالظاهر", "english": "Do Not Judge by Appearance" },
+      "icon": "Eye",
+      "description": {
+        "arabic": "لا تحكم على الناس بالظاهر - الله وحده يعلم من يتزكى",
+        "english": "Do not judge people by appearance - Allah alone knows who is being purified"
+      }
+    },
+    {
+      "id": "quran-path",
+      "title": { "arabic": "القرآن طريق التزكية", "english": "Quran is Path to Purification" },
+      "icon": "BookOpen",
+      "description": {
+        "arabic": "كلا إنها تذكرة - القرآن هو الطريق لمن أراد التزكية",
+        "english": "No! Indeed it is a reminder - Quran is the path for whoever wants purification"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "personal-process",
+      "title": { "arabic": "التزكية عملية شخصية", "english": "Purification is Personal Process" },
+      "content": {
+        "arabic": "وما يدريك لعله يزكى - التزكية عملية شخصية جداً بينك وبين الله. لا يعلم ما يحدث في روحك إلا هو. لا تحكم على الناس بالظاهر، فالله وحده يعلم من يتزكى.",
+        "english": "And what would make you perceive that perhaps he might be purified - purification is a very personal process between you and Allah. No one knows what happens in your soul except Him. Do not judge people by appearance, for Allah alone knows who is being purified."
+      }
+    },
+    {
+      "id": "priority-seeker",
+      "title": { "arabic": "الأولوية للراغب في التزكية", "english": "Priority for Purification Seeker" },
+      "content": {
+        "arabic": "أما من استغنى فأنت له تصدى، وأما من جاءك يسعى وهو يخشى فأنت عنه تلهى. الرسالة: الأولوية للراغب في التزكية، لا للغني الظاهر. التزكية أهم من المكانة الاجتماعية.",
+        "english": "As for he who is self-sufficient, to him you give attention, but as for he who came to you striving while he fears, from him you are distracted. The message: priority is for the one seeking purification, not the apparently rich. Purification is more important than social status."
+      }
+    },
+    {
+      "id": "quran-reminder",
+      "title": { "arabic": "القرآن تذكرة", "english": "Quran is Reminder" },
+      "content": {
+        "arabic": "كلا إنها تذكرة فمن شاء ذكره - القرآن تذكرة لمن شاء أن يتذكر. من أراد التزكية، فالقرآن هو الطريق. القرآن في صحف مكرمة مرفوعة مطهرة.",
+        "english": "No! Indeed, it is a reminder, so whoever wills may remember it - the Quran is a reminder for whoever wills to remember. Whoever wants purification, the Quran is the path. The Quran is in honored, exalted, purified sheets."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "perhaps-purified",
+      "title": { "arabic": "لعله يزكى", "english": "Perhaps He Might Be Purified" },
+      "content": {
+        "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ - وما يدريك؟ التزكية عملية شخصية جداً بينك وبين الله. لا يعلم ما يحدث في روحك إلا هو. لا تحكم على الناس بالظاهر، فالله وحده يعلم من يتزكى.",
+        "english": "And what would make you perceive that perhaps he might be purified - and what would make you perceive? Purification is a very personal process between you and Allah. No one knows what happens in your soul except Him. Do not judge people by appearance, for Allah alone knows who is being purified."
+      }
+    },
+    {
+      "id": "quran-reminder",
+      "title": { "arabic": "إنها تذكرة", "english": "It is a Reminder" },
+      "content": {
+        "arabic": "كَلَّا إِنَّهَا تَذْكِرَةٌ * فَمَن شَاءَ ذَكَرَهُ - القرآن تذكرة لمن شاء أن يتذكر. من أراد التزكية، فالقرآن هو الطريق. القرآن في صحف مكرمة مرفوعة مطهرة، بأيدي ملائكة كرام بررة.",
+        "english": "No! Indeed, it is a reminder * So whoever wills may remember it - the Quran is a reminder for whoever wills to remember. Whoever wants purification, the Quran is the path. The Quran is in honored, exalted, purified sheets, by the hands of noble, dutiful angels."
+      }
+    },
+    {
+      "id": "man-ungrateful",
+      "title": { "arabic": "ما أكفره", "english": "How Ungrateful" },
+      "content": {
+        "arabic": "قُتِلَ الْإِنسَانُ مَا أَكْفَرَهُ - الإنسان كفور رغم نعم الله: خلقه من نطفة، قدره، يسر له السبيل. الرسالة: تذكر نعم الله عليك، وزكِّ نفسك شكراً له.",
+        "english": "Cursed is man; how ungrateful is he - man is ungrateful despite Allah's blessings: He created him from a sperm-drop, destined him, eased the way for him. The message: remember Allah's blessings upon you, and purify yourself in gratitude to Him."
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "related",
+      "surahId": 91,
+      "surahSlug": "ash-shams",
+      "description": {
+        "arabic": "الشمس تؤكد أهمية التزكية، وعبس توضح أن التزكية عملية شخصية بينك وبين الله",
+        "english": "Ash-Shams confirms importance of purification, Abasa clarifies that purification is a personal process between you and Allah"
+      }
+    },
+    {
+      "type": "related",
+      "surahId": 92,
+      "surahSlug": "al-layl",
+      "description": {
+        "arabic": "عبس توضح أن التزكية شخصية، والليل يضع الخطة العملية للتيسير",
+        "english": "Abasa clarifies that purification is personal, Al-Layl provides practical plan for facilitation"
+      }
+    }
+  ]
+}

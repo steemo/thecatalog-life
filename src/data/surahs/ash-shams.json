@@ -1,0 +1,180 @@
+{
+  "id": 91,
+  "slug": "ash-shams",
+  "name": {
+    "arabic": "سورة الشمس",
+    "english": "Surah Ash-Shams",
+    "transliteration": "Ash-Shams"
+  },
+  "metadata": {
+    "verses": 15,
+    "words": 54,
+    "type": "meccan",
+    "juz": "30",
+    "order": 91
+  },
+  "goal": {
+    "academic": {
+      "arabic": "بيان أهمية تزكية النفس وتطهيرها، وأن الفلاح مرتبط بالتزكية والخسران مرتبط بالتدسية.",
+      "english": "Explaining the importance of purifying and growing the soul, and that success is linked to purification while loss is linked to corruption."
+    },
+    "psychological": {
+      "arabic": "علاج الجمود الحياتي - رسالة من الله: طور نفسك روحياً (تزكية) تتطور حياتك مادياً. التزكية هي المفتاح للترقية الحياتية.",
+      "english": "Treating life stagnation - a message from Allah: develop yourself spiritually (tazkiyah) and your life will develop materially. Purification is the key to life advancement."
+    },
+    "summary": {
+      "arabic": "سورة الشمس هي دستور التزكية - أقسم الله 11 قسماً (أطول قسم في القرآن) ليؤكد: قد أفلح من زكاها. التزكية الروحية هي المفتاح للترقية الحياتية.",
+      "english": "Surah Ash-Shams is the constitution of purification - Allah swore 11 oaths (longest oath in Quran) to confirm: he has succeeded who purifies it. Spiritual purification is the key to life advancement."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الشمس", "english": "The Sun" },
+      "reason": {
+        "arabic": "سميت بالشمس لافتتاحها بالقسم بالشمس وضحاها.",
+        "english": "Named after the opening oath by the sun and its brightness."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "success-formula",
+      "title": { "arabic": "معادلة الفلاح", "english": "Success Formula" },
+      "hadith": {
+        "arabic": "سورة الشمس تحتوي على أطول قسم في القرآن (11 قسماً) ليؤكد معادلة واحدة: قد أفلح من زكاها - التزكية هي المفتاح للفلاح.",
+        "english": "Surah Ash-Shams contains the longest oath in Quran (11 oaths) to confirm one equation: he has succeeded who purifies it - purification is the key to success."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "eleven-oaths",
+      "title": { "arabic": "أحد عشر قسماً - عظمة النتيجة", "english": "Eleven Oaths - Greatness of Result" },
+      "verses": "1-8",
+      "description": {
+        "arabic": "وَالشَّمْسِ وَضُحَاهَا * وَالْقَمَرِ إِذَا تَلَاهَا * وَالنَّهَارِ إِذَا جَلَّاهَا * وَاللَّيْلِ إِذَا يَغْشَاهَا * وَالسَّمَاءِ وَمَا بَنَاهَا * وَالْأَرْضِ وَمَا طَحَاهَا * وَنَفْسٍ وَمَا سَوَّاهَا * فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا. أحد عشر قسماً (أطول قسم في القرآن) ليدلك على عظمة النتيجة. الله يقسم بالشمس، القمر، النهار، الليل، السماء، الأرض، والنفس - كل هذا ليؤكد حقيقة واحدة.",
+        "english": "By the sun and its brightness * And the moon when it follows it * And the day when it displays it * And the night when it covers it * And the sky and He who constructed it * And the earth and He who spread it * And the soul and He who proportioned it * And inspired it with discernment of its wickedness and its righteousness. Eleven oaths (longest oath in Quran) to show you the greatness of the result. Allah swears by sun, moon, day, night, sky, earth, and soul - all this to confirm one truth."
+      }
+    },
+    {
+      "id": "success-failure",
+      "title": { "arabic": "الفلاح والخسران - معادلة التزكية", "english": "Success and Failure - Purification Equation" },
+      "verses": "9-10",
+      "description": {
+        "arabic": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا * وَقَدْ خَابَ مَنْ دَسَّاهَا. المعادلة: من زكى نفسه (طورها، نماها، حسنها) أفلح في الدنيا والآخرة. ومن دساها (أهملها، لوثها، أخفى جمالها) خاب وخسر. التزكية هي المفتاح للفلاح.",
+        "english": "He has succeeded who purifies it * And he has failed who corrupts it. The equation: whoever purifies his soul (develops it, grows it, improves it) succeeds in this world and the Hereafter. And whoever corrupts it (neglects it, pollutes it, hides its beauty) fails and loses. Purification is the key to success."
+      }
+    },
+    {
+      "id": "thamud-example",
+      "title": { "arabic": "قصة ثمود - نموذج التدسية", "english": "Story of Thamud - Model of Corruption" },
+      "verses": "11-15",
+      "description": {
+        "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا * إِذِ انْبَعَثَ أَشْقَاهَا * فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا * فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا * وَلَا يَخَافُ عُقْبَاهَا. قصة ثمود مثال عملي على التدسية: قوم أهملوا تزكية أنفسهم، فطغوا وكذبوا وعقروا الناقة. النتيجة: الدمار. من لا يزكي نفسه، يدمر نفسه.",
+        "english": "Thamud denied by reason of their transgression * When the most wretched of them was sent forth * And the messenger of Allah said to them: The she-camel of Allah and her drink * But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal * And He does not fear the consequence. Story of Thamud is a practical example of corruption: people who neglected purifying themselves, so they transgressed, denied, and hamstrung the she-camel. Result: destruction. One who does not purify himself, destroys himself."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "spiritual-upgrade",
+      "title": { "arabic": "الترقية الروحية", "english": "Spiritual Upgrade" },
+      "icon": "TrendingUp",
+      "description": {
+        "arabic": "طور نفسك روحياً (تزكية) تتطور حياتك مادياً - التزكية هي المفتاح للترقية الحياتية",
+        "english": "Develop yourself spiritually (tazkiyah) and your life will develop materially - purification is the key to life advancement"
+      }
+    },
+    {
+      "id": "success-linked-purification",
+      "title": { "arabic": "الفلاح مرتبط بالتزكية", "english": "Success Linked to Purification" },
+      "icon": "Award",
+      "description": {
+        "arabic": "قد أفلح من زكاها - الفلاح في الدنيا والآخرة مرتبط بتزكية النفس",
+        "english": "He has succeeded who purifies it - success in this world and Hereafter is linked to soul purification"
+      }
+    },
+    {
+      "id": "greatest-oath",
+      "title": { "arabic": "أعظم قسم", "english": "Greatest Oath" },
+      "icon": "Sun",
+      "description": {
+        "arabic": "11 قسماً (أطول قسم في القرآن) ليدلك على عظمة النتيجة",
+        "english": "11 oaths (longest oath in Quran) to show you the greatness of the result"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "tazkiyah-key",
+      "title": { "arabic": "التزكية هي المفتاح", "english": "Purification is the Key" },
+      "content": {
+        "arabic": "إذا تعطلت الترقية من الخارج (كارير، زواج، مال)، ألم يحن الوقت للترقية من الداخل؟ التزكية الروحية هي المفتاح للترقية الحياتية. طور نفسك روحياً، تتطور حياتك مادياً.",
+        "english": "If external advancement is stuck (career, marriage, money), isn't it time for internal advancement? Spiritual purification is the key to life advancement. Develop yourself spiritually, your life will develop materially."
+      }
+    },
+    {
+      "id": "tazkiyah-meaning",
+      "title": { "arabic": "معنى التزكية", "english": "Meaning of Purification" },
+      "content": {
+        "arabic": "التزكية في اللغة تعني النماء والزيادة والتحسين المستمر. ليست مجرد تطهير، بل هي Upgrade لروحك. تزكية النفس تزيد من قيمتك ونضجك، وبالتالي تتفتح لك أبواب كانت مغلقة.",
+        "english": "Tazkiyah in language means growth, increase, and continuous improvement. Not just purification, but an Upgrade for your soul. Soul purification increases your value and maturity, thus doors that were closed open for you."
+      }
+    },
+    {
+      "id": "greatest-oath-meaning",
+      "title": { "arabic": "عظمة القسم", "english": "Greatness of Oath" },
+      "content": {
+        "arabic": "أحد عشر قسماً (أطول قسم في القرآن) ليدلك على عظمة النتيجة. الله يقسم بالشمس، القمر، النهار، الليل، السماء، الأرض، والنفس - كل هذا ليؤكد: قد أفلح من زكاها. القسم العظيم يدل على عظمة المقسوم عليه.",
+        "english": "Eleven oaths (longest oath in Quran) to show you the greatness of the result. Allah swears by sun, moon, day, night, sky, earth, and soul - all this to confirm: he has succeeded who purifies it. The great oath indicates the greatness of what is sworn upon."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "succeeded-who-purifies",
+      "title": { "arabic": "قد أفلح من زكاها", "english": "He Has Succeeded Who Purifies It" },
+      "content": {
+        "arabic": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا - المعادلة الإلهية: من زكى نفسه (طورها، نماها، حسنها) أفلح في الدنيا والآخرة. الفلاح يشمل مكاسب الدنيا والآخرة معاً. التزكية هي المفتاح للفلاح.",
+        "english": "He has succeeded who purifies it - the divine equation: whoever purifies his soul (develops it, grows it, improves it) succeeds in this world and the Hereafter. Success includes gains of this world and Hereafter together. Purification is the key to success."
+      }
+    },
+    {
+      "id": "failed-who-corrupts",
+      "title": { "arabic": "قد خاب من دساها", "english": "He Has Failed Who Corrupts It" },
+      "content": {
+        "arabic": "وَقَدْ خَابَ مَنْ دَسَّاهَا - من دسى نفسه (أهملها، لوثها، أخفى جمالها) خاب وخسر. التدسية هي إهمال التزكية. من لا يطور نفسه روحياً، يتعطل في حياته مادياً.",
+        "english": "And he has failed who corrupts it - whoever corrupts his soul (neglects it, pollutes it, hides its beauty) fails and loses. Corruption is neglecting purification. One who does not develop himself spiritually, stagnates in his life materially."
+      }
+    },
+    {
+      "id": "eleven-oaths",
+      "title": { "arabic": "أحد عشر قسماً", "english": "Eleven Oaths" },
+      "content": {
+        "arabic": "وَالشَّمْسِ وَضُحَاهَا... أحد عشر قسماً (أطول قسم في القرآن) ليدلك على عظمة النتيجة. الله يقسم بأعظم مخلوقاته (الشمس، القمر، السماء، الأرض، النفس) ليؤكد حقيقة واحدة: التزكية هي المفتاح للفلاح.",
+        "english": "By the sun and its brightness... eleven oaths (longest oath in Quran) to show you the greatness of the result. Allah swears by His greatest creations (sun, moon, sky, earth, soul) to confirm one truth: purification is the key to success."
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "related",
+      "surahId": 80,
+      "surahSlug": "abasa",
+      "description": {
+        "arabic": "الشمس تؤكد أهمية التزكية، وعبس توضح أن التزكية عملية شخصية بينك وبين الله",
+        "english": "Ash-Shams confirms importance of purification, Abasa clarifies that purification is a personal process between you and Allah"
+      }
+    },
+    {
+      "type": "related",
+      "surahId": 92,
+      "surahSlug": "al-layl",
+      "description": {
+        "arabic": "الشمس تؤكد أهمية التزكية، والليل يضع الخطة العملية للتيسير",
+        "english": "Ash-Shams confirms importance of purification, Al-Layl provides practical plan for facilitation"
+      }
+    }
+  ]
+}

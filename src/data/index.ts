@@ -22,7 +22,10 @@ import adhDhariyat from './surahs/adh-dhariyat.json';
 import anNajm from './surahs/an-najm.json';
 import alWaqiah from './surahs/al-waqiah.json';
 import alMulk from './surahs/al-mulk.json';
+import abasa from './surahs/abasa.json';
 import alBalad from './surahs/al-balad.json';
+import ashShams from './surahs/ash-shams.json';
+import alLayl from './surahs/al-layl.json';
 import adDuha from './surahs/ad-duha.json';
 import ashSharh from './surahs/ash-sharh.json';
 import atTakathur from './surahs/at-takathur.json';
@@ -42,7 +45,10 @@ export const surahs: Surah[] = [
   anNajm as Surah,
   alWaqiah as Surah,
   alMulk as Surah,
+  abasa as Surah,
   alBalad as Surah,
+  ashShams as Surah,
+  alLayl as Surah,
   adDuha as Surah,
   ashSharh as Surah,
   atTakathur as Surah,
