@@ -1,0 +1,180 @@
+{
+  "id": 102,
+  "slug": "at-takathur",
+  "name": {
+    "arabic": "سورة التكاثر",
+    "english": "Surah At-Takathur",
+    "transliteration": "At-Takathur"
+  },
+  "metadata": {
+    "verses": 8,
+    "words": 28,
+    "type": "meccan",
+    "juz": "30",
+    "order": 102
+  },
+  "goal": {
+    "academic": {
+      "arabic": "تحذير من الانشغال بالتكاثر في الأموال والأولاد عن ذكر الله والعمل للآخرة.",
+      "english": "Warning against being distracted by rivalry in wealth and children from remembering Allah and working for the Hereafter."
+    },
+    "psychological": {
+      "arabic": "علاج إدمان التملك والمقارنة - رسالة من الله: التكاثر الزائف يلهيك عن الكوثر الحقيقي.",
+      "english": "Treating addiction to ownership and comparison - a message from Allah: false accumulation distracts you from true abundance."
+    },
+    "summary": {
+      "arabic": "سورة التكاثر هي إنذار من الانشغال بجمع الأموال (التكاثر الزائف) عن فعل الخير (الكوثر الحقيقي). المقابر هي نهاية التكاثر، والجنة هي نهاية الكوثر.",
+      "english": "Surah At-Takathur is a warning against being distracted by accumulating wealth (false accumulation) from doing good (true abundance). Graves are the end of accumulation, Paradise is the end of abundance."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة التكاثر", "english": "The Rivalry in Worldly Increase" },
+      "reason": {
+        "arabic": "سميت بالتكاثر لذكر التكاثر في الأموال والأولاد الذي يلهي عن ذكر الله.",
+        "english": "Named after the rivalry in wealth and children that distracts from remembering Allah."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "wake-up-call",
+      "title": { "arabic": "صيحة الإنذار", "english": "Wake-Up Call" },
+      "hadith": {
+        "arabic": "سورة التكاثر تحذر من الانشغال بالتكاثر الزائف عن الكوثر الحقيقي - المقابر هي نهاية التكاثر.",
+        "english": "Surah At-Takathur warns against being distracted by false accumulation from true abundance - graves are the end of accumulation."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "distraction-warning",
+      "title": { "arabic": "الإلهاء بالتكاثر - حتى زرتم المقابر", "english": "Distraction by Accumulation - Until You Visit the Graves" },
+      "verses": "1-2",
+      "description": {
+        "arabic": "أَلْهَاكُمُ التَّكَاثُرُ * حَتَّىٰ زُرْتُمُ الْمَقَابِرَ. التكاثر (المنافسة في جمع الأموال والأولاد) يلهيك عن الكوثر (كثرة الخير). المقابر هي نهاية التكاثر - تذهب بلا شيء.",
+        "english": "Competition in worldly increase diverts you * Until you visit the graves. At-Takathur (rivalry in accumulating wealth and children) distracts you from Al-Kawthar (abundance of good). Graves are the end of accumulation - you leave with nothing."
+      }
+    },
+    {
+      "id": "certainty-knowledge",
+      "title": { "arabic": "علم اليقين - سوف تعلمون", "english": "Knowledge of Certainty - You Will Know" },
+      "verses": "3-5",
+      "description": {
+        "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ * ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ * كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ. ثلاث مرات: سوف تعلمون. إنذار متكرر: لو كنت تعلم علم اليقين، لما انشغلت بالتكاثر الزائف.",
+        "english": "No! You will know * Then no! You will know * No! If you only knew with knowledge of certainty. Three times: you will know. Repeated warning: if you knew with certainty, you would not be distracted by false accumulation."
+      }
+    },
+    {
+      "id": "hellfire-vision",
+      "title": { "arabic": "رؤية الجحيم - لترون الجحيم", "english": "Vision of Hellfire - You Will See Hellfire" },
+      "verses": "6-7",
+      "description": {
+        "arabic": "لَتَرَوُنَّ الْجَحِيمَ * ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ. سترون الجحيم رؤية اليقين. نهاية من انشغل بالتكاثر الزائف عن الكوثر الحقيقي.",
+        "english": "You will surely see Hellfire * Then you will surely see it with the eye of certainty. You will see Hellfire with certainty. The end of those distracted by false accumulation from true abundance."
+      }
+    },
+    {
+      "id": "accountability-question",
+      "title": { "arabic": "السؤال عن النعيم - لتسألن يومئذ عن النعيم", "english": "Question About Blessings - You Will Be Asked About Blessings" },
+      "verses": "8",
+      "description": {
+        "arabic": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ. سيسألك الله: ماذا فعلت بالنعم التي أعطيتك؟ هل كثّرت خيرك (كوثر) أم كثّرت مالك (تكاثر)؟",
+        "english": "Then you will surely be asked that Day about pleasure. Allah will ask you: what did you do with the blessings I gave you? Did you multiply your good (Kawthar) or multiply your wealth (Takathur)?"
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "false-accumulation",
+      "title": { "arabic": "التكاثر الزائف", "english": "False Accumulation" },
+      "icon": "TrendingUp",
+      "description": {
+        "arabic": "الانشغال بجمع الأموال والمقارنة مع الآخرين - إدمان التملك",
+        "english": "Being distracted by accumulating wealth and comparing with others - addiction to ownership"
+      }
+    },
+    {
+      "id": "grave-reality",
+      "title": { "arabic": "حقيقة المقابر", "english": "Reality of Graves" },
+      "icon": "Skull",
+      "description": {
+        "arabic": "المقابر هي نهاية التكاثر - تذهب بلا شيء",
+        "english": "Graves are the end of accumulation - you leave with nothing"
+      }
+    },
+    {
+      "id": "blessing-accountability",
+      "title": { "arabic": "المساءلة عن النعم", "english": "Accountability for Blessings" },
+      "icon": "Scale",
+      "description": {
+        "arabic": "سيسألك الله: ماذا فعلت بالنعم؟ هل كثّرت خيرك أم مالك؟",
+        "english": "Allah will ask you: what did you do with blessings? Did you multiply your good or your wealth?"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "takathur-vs-kawthar",
+      "title": { "arabic": "التكاثر مقابل الكوثر", "english": "Takathur Versus Kawthar" },
+      "content": {
+        "arabic": "التكاثر (كثرة المال) يلهيك عن الكوثر (كثرة الخير). الأول يفنى في المقابر، والثاني يبقى في الجنة. اختر: هل تريد تكاثراً زائفاً أم كوثراً حقيقياً؟",
+        "english": "At-Takathur (abundance of wealth) distracts you from Al-Kawthar (abundance of good). The first perishes in graves, the second remains in Paradise. Choose: do you want false accumulation or true abundance?"
+      }
+    },
+    {
+      "id": "grave-reminder",
+      "title": { "arabic": "تذكير المقابر", "english": "Grave Reminder" },
+      "content": {
+        "arabic": "حتى زرتم المقابر - المقابر هي نهاية التكاثر. كل ما جمعته من أموال وممتلكات سيبقى خلفك. الوحيد الذي يذهب معك هو عملك الصالح.",
+        "english": "Until you visit the graves - graves are the end of accumulation. All the wealth and possessions you accumulated will stay behind. The only thing that goes with you is your good deeds."
+      }
+    },
+    {
+      "id": "blessing-question",
+      "title": { "arabic": "سؤال النعيم", "english": "Question of Blessings" },
+      "content": {
+        "arabic": "لتسألن يومئذ عن النعيم - سيسألك الله عن كل نعمة: الصحة، المال، الوقت، العلم. هل استخدمتها في الخير (كوثر) أم في التكاثر الزائف؟",
+        "english": "You will be asked about blessings - Allah will ask you about every blessing: health, wealth, time, knowledge. Did you use them for good (Kawthar) or for false accumulation?"
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "distraction-warning",
+      "title": { "arabic": "ألهاكم التكاثر", "english": "Distracted by Accumulation" },
+      "content": {
+        "arabic": "أَلْهَاكُمُ التَّكَاثُرُ - التكاثر يلهيك عن الكوثر. المنافسة في جمع الأموال تلهيك عن فعل الخير. الانشغال بالتملك يلهيك عن العطاء. هذا هو الإدمان الحقيقي.",
+        "english": "Competition in worldly increase diverts you - At-Takathur distracts you from Al-Kawthar. Rivalry in accumulating wealth distracts you from doing good. Being busy with ownership distracts you from giving. This is the real addiction."
+      }
+    },
+    {
+      "id": "grave-visit",
+      "title": { "arabic": "حتى زرتم المقابر", "english": "Until You Visit Graves" },
+      "content": {
+        "arabic": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ - المقابر هي نهاية التكاثر. كل ما جمعته سيبقى خلفك. الوحيد الذي يذهب معك هو عملك. زيارة المقابر تذكير: الدنيا مؤقتة، والآخرة دائمة.",
+        "english": "Until you visit the graves - graves are the end of accumulation. All you accumulated will stay behind. The only thing that goes with you is your deeds. Visiting graves is a reminder: this world is temporary, the Hereafter is permanent."
+      }
+    },
+    {
+      "id": "certainty-knowledge",
+      "title": { "arabic": "علم اليقين", "english": "Knowledge of Certainty" },
+      "content": {
+        "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ - لو كنت تعلم علم اليقين أن الدنيا مؤقتة والآخرة دائمة، لما انشغلت بالتكاثر الزائف. اليقين يغير السلوك.",
+        "english": "No! If you only knew with knowledge of certainty - if you knew with certainty that this world is temporary and the Hereafter is permanent, you would not be distracted by false accumulation. Certainty changes behaviour."
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "related",
+      "surahId": 108,
+      "surahSlug": "al-kawthar",
+      "description": {
+        "arabic": "التكاثر (كثرة المال) مقابل الكوثر (كثرة الخير) - الأول يفنى والثاني يبقى",
+        "english": "At-Takathur (abundance of wealth) versus Al-Kawthar (abundance of good) - the first perishes, the second remains"
+      }
+    }
+  ]
+}

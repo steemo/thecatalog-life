@@ -1,0 +1,207 @@
+{
+  "id": 107,
+  "slug": "al-maun",
+  "name": {
+    "arabic": "سورة الماعون",
+    "english": "Surah Al-Ma'un",
+    "transliteration": "Al-Ma'un"
+  },
+  "metadata": {
+    "verses": 7,
+    "words": 25,
+    "type": "meccan",
+    "juz": "30",
+    "order": 107
+  },
+  "goal": {
+    "academic": {
+      "arabic": "فضح الانفصام في التدين - من يصلي ولكن أخلاقه سيئة ويمنع المساعدة عن الناس.",
+      "english": "Exposing the disconnect in religiosity - those who pray but have bad character and withhold help from people."
+    },
+    "psychological": {
+      "arabic": "علاج التدين الشكلي - رسالة من الله: الصلاة التي لا تنهى عن البخل ولا تحث على إطعام المسكين هي صلاة ساهية عن معناها.",
+      "english": "Treating superficial religiosity - a message from Allah: prayer that does not prevent stinginess nor encourage feeding the poor is prayer heedless of its meaning."
+    },
+  "summary": {
+      "arabic": "سورة الماعون توبخ الانفصام في التدين - من يصلي ولكن يدع اليتيم ولا يحض على طعام المسكين ويمنع الماعون. الصلاة الحقيقية تدفعك للعطاء، وإلا فهي صلاة ساهية.",
+      "english": "Surah Al-Ma'un rebukes the disconnect in religiosity - those who pray but push away the orphan, do not encourage feeding the poor, and withhold small kindnesses. True prayer drives you to give, otherwise it is heedless prayer."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الماعون", "english": "The Small Kindnesses" },
+      "reason": {
+        "arabic": "سميت بالماعون لذكر منع الماعون (المساعدات الصغيرة) في آخر السورة.",
+        "english": "Named after withholding Al-Ma'un (small kindnesses) mentioned at the end of the surah."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "true-religion",
+      "title": { "arabic": "التدين الحقيقي", "english": "True Religiosity" },
+      "hadith": {
+        "arabic": "سورة الماعون تفضح الانفصام في التدين - الصلاة الحقيقية تدفعك للعطاء والرحمة، وإلا فهي صلاة ساهية عن معناها.",
+        "english": "Surah Al-Ma'un exposes the disconnect in religiosity - true prayer drives you to give and show mercy, otherwise it is prayer heedless of its meaning."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "religion-denier",
+      "title": { "arabic": "المكذب بالدين - أرأيت الذي يكذب بالدين", "english": "The Religion Denier - Have You Seen the One Who Denies Religion" },
+      "verses": "1",
+      "description": {
+        "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ. من هو المكذب بالدين؟ ليس من ينكر وجود الله فقط، بل من يصلي ولكن أخلاقه سيئة. التكذيب بالدين هو الانفصام بين العبادة والأخلاق.",
+        "english": "Have you seen the one who denies the religion? Who is the religion denier? Not only one who denies Allah's existence, but one who prays yet has bad character. Denying religion is the disconnect between worship and character."
+      }
+    },
+    {
+      "id": "orphan-treatment",
+      "title": { "arabic": "دع اليتيم - فذلك الذي يدع اليتيم", "english": "Pushing Away the Orphan - That is the One Who Pushes Away the Orphan" },
+      "verses": "2",
+      "description": {
+        "arabic": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ. المكذب بالدين هو من يدع اليتيم (يدفعه بقسوة). اليتيم هو أضعف الناس، فإذا كنت قاسياً معه، فأنت مكذب بالدين حتى لو صليت.",
+        "english": "That is the one who pushes away the orphan. The religion denier is one who pushes away the orphan (harshly). The orphan is the weakest of people, so if you are harsh with him, you deny religion even if you pray."
+      }
+    },
+    {
+      "id": "feeding-poor",
+      "title": { "arabic": "إطعام المسكين - ولا يحض على طعام المسكين", "english": "Feeding the Poor - And Does Not Encourage Feeding the Poor" },
+      "verses": "3",
+      "description": {
+        "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ. لا يطعم المسكين ولا يحض غيره على إطعامه. البخل الفردي والجماعي. التدين الحقيقي يدفعك لإطعام الجائع، وإلا فهو تدين زائف.",
+        "english": "And does not encourage feeding the poor. Does not feed the poor nor encourage others to feed them. Individual and collective stinginess. True religiosity drives you to feed the hungry, otherwise it is false religiosity."
+      }
+    },
+    {
+      "id": "heedless-prayer",
+      "title": { "arabic": "الصلاة الساهية - فويل للمصلين الذين هم عن صلاتهم ساهون", "english": "Heedless Prayer - Woe to Those Who Pray Yet Are Heedless of Their Prayer" },
+      "verses": "4-5",
+      "description": {
+        "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ * الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ. ويل للمصلين الساهين - من يصلي ولكن صلاته لا تنهاه عن البخل ولا تحثه على الرحمة. الصلاة الحقيقية تغير السلوك، وإلا فهي مجرد حركات.",
+        "english": "Woe to those who pray * Who are heedless of their prayer. Woe to the heedless prayers - those who pray but their prayer does not prevent them from stinginess nor encourage them to show mercy. True prayer changes behaviour, otherwise it is just movements."
+      }
+    },
+    {
+      "id": "showing-off",
+      "title": { "arabic": "الرياء - الذين هم يراءون", "english": "Showing Off - Those Who Make a Show" },
+      "verses": "6",
+      "description": {
+        "arabic": "الَّذِينَ هُمْ يُرَاءُونَ. يصلون ليراهم الناس، لا لله. التدين الاستعراضي. الصلاة للناس، والقلب خالٍ من الرحمة. هذا هو النفاق.",
+        "english": "Those who make a show. They pray for people to see them, not for Allah. Performative religiosity. Prayer for people, while the heart is empty of mercy. This is hypocrisy."
+      }
+    },
+    {
+      "id": "withholding-maun",
+      "title": { "arabic": "منع الماعون - ويمنعون الماعون", "english": "Withholding Small Kindnesses - And Withhold Small Kindnesses" },
+      "verses": "7",
+      "description": {
+        "arabic": "وَيَمْنَعُونَ الْمَاعُونَ. الماعون هو المساعدات الصغيرة (قلم، ملح، كوب ماء). من يمنع الماعون هو من يصلي ولكن قلبه بخيل. التدين الحقيقي يظهر في التفاصيل الصغيرة.",
+        "english": "And withhold small kindnesses. Al-Ma'un is small help (pen, salt, cup of water). One who withholds Al-Ma'un is one who prays but has a stingy heart. True religiosity shows in small details."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "worship-character-disconnect",
+      "title": { "arabic": "الانفصام بين العبادة والأخلاق", "english": "Disconnect Between Worship and Character" },
+      "icon": "AlertTriangle",
+      "description": {
+        "arabic": "من يصلي ولكن أخلاقه سيئة - التدين الشكلي الزائف",
+        "english": "Those who pray but have bad character - false superficial religiosity"
+      }
+    },
+    {
+      "id": "true-prayer-impact",
+      "title": { "arabic": "الصلاة الحقيقية تغير السلوك", "english": "True Prayer Changes Behaviour" },
+      "icon": "Zap",
+      "description": {
+        "arabic": "الصلاة التي لا تدفعك للرحمة والعطاء هي صلاة ساهية",
+        "english": "Prayer that does not drive you to mercy and giving is heedless prayer"
+      }
+    },
+    {
+      "id": "small-kindnesses",
+      "title": { "arabic": "أهمية التفاصيل الصغيرة", "english": "Importance of Small Details" },
+      "icon": "Heart",
+      "description": {
+        "arabic": "التدين الحقيقي يظهر في المساعدات الصغيرة (الماعون)",
+        "english": "True religiosity shows in small kindnesses (Al-Ma'un)"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "prayer-must-change-you",
+      "title": { "arabic": "الصلاة يجب أن تغيرك", "english": "Prayer Must Change You" },
+      "content": {
+        "arabic": "الصلاة الحقيقية تدفعك للرحمة والعطاء. إذا كنت تصلي ولكن قلبك بخيل وأخلاقك سيئة، فصلاتك ساهية عن معناها. الصلاة ليست مجرد حركات، بل هي تغيير للسلوك.",
+        "english": "True prayer drives you to mercy and giving. If you pray but your heart is stingy and your character is bad, your prayer is heedless of its meaning. Prayer is not just movements, but a change in behaviour."
+      }
+    },
+    {
+      "id": "religion-is-character",
+      "title": { "arabic": "الدين هو الأخلاق", "english": "Religion is Character" },
+      "content": {
+        "arabic": "المكذب بالدين ليس من ينكر وجود الله فقط، بل من يصلي ولكن يدع اليتيم ولا يطعم المسكين. التدين الحقيقي هو الأخلاق، وإلا فهو نفاق.",
+        "english": "The religion denier is not only one who denies Allah's existence, but one who prays yet pushes away the orphan and does not feed the poor. True religiosity is character, otherwise it is hypocrisy."
+      }
+    },
+    {
+      "id": "small-matters",
+      "title": { "arabic": "التفاصيل الصغيرة تكشف الحقيقة", "english": "Small Details Reveal Truth" },
+      "content": {
+        "arabic": "الماعون (المساعدات الصغيرة) يكشف حقيقة قلبك. من يمنع قلماً أو كوب ماء، قلبه بخيل حتى لو صلى. التدين الحقيقي يظهر في التفاصيل الصغيرة، لا في الاستعراض الكبير.",
+        "english": "Al-Ma'un (small kindnesses) reveals the truth of your heart. One who withholds a pen or cup of water has a stingy heart even if he prays. True religiosity shows in small details, not in grand displays."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "religion-denier",
+      "title": { "arabic": "المكذب بالدين", "english": "The Religion Denier" },
+      "content": {
+        "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ - المكذب بالدين ليس الملحد فقط، بل من يصلي ولكن أخلاقه سيئة. الانفصام بين العبادة والأخلاق هو التكذيب الحقيقي بالدين.",
+        "english": "Have you seen the one who denies the religion - the religion denier is not only the atheist, but one who prays yet has bad character. The disconnect between worship and character is the true denial of religion."
+      }
+    },
+    {
+      "id": "heedless-prayers",
+      "title": { "arabic": "الصلاة الساهية", "english": "Heedless Prayer" },
+      "content": {
+        "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ * الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ - ويل للمصلين الساهين عن معنى صلاتهم. الصلاة التي لا تنهى عن البخل ولا تحث على الرحمة هي صلاة ساهية. الصلاة الحقيقية تغير السلوك.",
+        "english": "Woe to those who pray * Who are heedless of their prayer - woe to those who pray yet are heedless of the meaning of their prayer. Prayer that does not prevent stinginess nor encourage mercy is heedless prayer. True prayer changes behaviour."
+      }
+    },
+    {
+      "id": "withholding-maun",
+      "title": { "arabic": "منع الماعون", "english": "Withholding Small Kindnesses" },
+      "content": {
+        "arabic": "وَيَمْنَعُونَ الْمَاعُونَ - الماعون هو المساعدات الصغيرة. من يمنع الماعون يكشف حقيقة قلبه البخيل. التدين الحقيقي يظهر في التفاصيل الصغيرة: قلم، ملح، كوب ماء، كلمة طيبة.",
+        "english": "And withhold small kindnesses - Al-Ma'un is small help. One who withholds Al-Ma'un reveals the truth of his stingy heart. True religiosity shows in small details: pen, salt, cup of water, kind word."
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "related",
+      "surahId": 108,
+      "surahSlug": "al-kawthar",
+      "description": {
+        "arabic": "الكوثر يدعو للعطاء، والماعون يوضح أن العطاء يبدأ من التفاصيل الصغيرة",
+        "english": "Al-Kawthar calls for giving, Al-Ma'un clarifies that giving starts with small details"
+      }
+    },
+    {
+      "type": "related",
+      "surahId": 90,
+      "surahSlug": "al-balad",
+      "description": {
+        "arabic": "الماعون توبخ من لا يعطي، والبلد تدعو لاقتحام العقبة بالعطاء",
+        "english": "Al-Ma'un rebukes those who do not give, Al-Balad calls to break through the obstacle by giving"
+      }
+    }
+  ]
+}

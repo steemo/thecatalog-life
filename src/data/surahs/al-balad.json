@@ -1,0 +1,206 @@
+{
+  "id": 90,
+  "slug": "al-balad",
+  "name": {
+    "arabic": "سورة البلد",
+    "english": "Surah Al-Balad",
+    "transliteration": "Al-Balad"
+  },
+  "metadata": {
+    "verses": 20,
+    "words": 82,
+    "type": "meccan",
+    "juz": "30",
+    "order": 90
+  },
+  "goal": {
+    "academic": {
+      "arabic": "الدعوة لاقتحام العقبة (كسر حاجز الأنانية) من خلال فك الرقاب، إطعام اليتامى، والتواصي بالمرحمة.",
+      "english": "Calling to break through the obstacle (breaking the barrier of selfishness) through freeing slaves, feeding orphans, and enjoining mercy."
+    },
+    "psychological": {
+      "arabic": "علاج الأنانية والبخل - رسالة من الله: اقتحم حاجز النفس البخيلة بالعطاء، وكن من أهل اليمين.",
+      "english": "Treating selfishness and stinginess - a message from Allah: break through the barrier of the stingy self by giving, and be among the people of the right."
+    },
+    "summary": {
+      "arabic": "سورة البلد تدعوك لكسر الأنانية (اقتحام العقبة) من خلال فك الرقاب، إطعام اليتامى، والتواصي بالمرحمة. ابدأ ببلدك وأهلك، واجعل العطاء طريقك لأهل اليمين.",
+      "english": "Surah Al-Balad calls you to break selfishness (breaking through the obstacle) through freeing slaves, feeding orphans, and enjoining mercy. Start with your city and people, and make giving your path to the people of the right."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة البلد", "english": "The City" },
+      "reason": {
+        "arabic": "سميت بالبلد لافتتاحها بالقسم بالبلد (مكة المكرمة).",
+        "english": "Named after the opening oath by the city (Makkah)."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "breaking-obstacle",
+      "title": { "arabic": "اقتحام العقبة", "english": "Breaking Through the Obstacle" },
+      "hadith": {
+        "arabic": "سورة البلد تدعو لاقتحام العقبة (كسر حاجز الأنانية) من خلال العطاء والرحمة - ابدأ ببلدك وأهلك.",
+        "english": "Surah Al-Balad calls to break through the obstacle (breaking the barrier of selfishness) through giving and mercy - start with your city and people."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "city-oath",
+      "title": { "arabic": "القسم بالبلد - لا أقسم بهذا البلد", "english": "Oath by the City - I Swear by This City" },
+      "verses": "1-2",
+      "description": {
+        "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ * وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ. الله يقسم بمكة (البلد) وأنت حل فيها يا محمد. الرسالة: ابدأ بمكانك، ببلدك، بأهلك. العطاء يبدأ من المحيط القريب.",
+        "english": "I swear by this city * And you are free in this city. Allah swears by Makkah (the city) and you are free in it, O Muhammad. The message: start with your place, your city, your people. Giving starts from the close circle."
+      }
+    },
+    {
+      "id": "human-struggle",
+      "title": { "arabic": "الإنسان في كبد - لقد خلقنا الإنسان في كبد", "english": "Human in Hardship - We Created Man in Hardship" },
+      "verses": "4",
+      "description": {
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ. خلقنا الإنسان في كبد (مشقة وجهد). الحياة صعبة، والطريق شاق. لكن العطاء هو الذي يخفف الكبد ويحول المشقة لمعنى.",
+        "english": "We have certainly created man in hardship. We created man in hardship (struggle and effort). Life is difficult, and the path is hard. But giving is what eases hardship and turns struggle into meaning."
+      }
+    },
+    {
+      "id": "obstacle-challenge",
+      "title": { "arabic": "اقتحام العقبة - فلا اقتحم العقبة", "english": "Breaking the Obstacle - But He Has Not Broken Through the Obstacle" },
+      "verses": "11-12",
+      "description": {
+        "arabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ * وَمَا أَدْرَاكَ مَا الْعَقَبَةُ. لم يقتحم العقبة - لم يكسر حاجز الأنانية والبخل. العقبة هي النفس البخيلة التي تمنعك من العطاء. اقتحمها!",
+        "english": "But he has not broken through the obstacle * And what can make you know what the obstacle is? He did not break through the obstacle - did not break the barrier of selfishness and stinginess. The obstacle is the stingy self that prevents you from giving. Break through it!"
+      }
+    },
+    {
+      "id": "three-actions",
+      "title": { "arabic": "ثلاثة أفعال للعطاء - فك رقبة، إطعام، تواصي", "english": "Three Actions of Giving - Free, Feed, Enjoin" },
+      "verses": "13-17",
+      "description": {
+        "arabic": "فَكُّ رَقَبَةٍ * أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ * يَتِيمًا ذَا مَقْرَبَةٍ * أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ * ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ. ثلاثة أفعال لاقتحام العقبة: (1) فك رقبة (تحرير إنسان من عبودية)، (2) إطعام يتيم أو مسكين في يوم جوع، (3) التواصي بالصبر والمرحمة. العطاء الفردي والجماعي.",
+        "english": "Freeing a slave * Or feeding on a day of severe hunger * An orphan of near relationship * Or a needy person in misery * And then being among those who believed and advised each other to patience and advised each other to compassion. Three actions to break through the obstacle: (1) free a slave (liberate a human from bondage), (2) feed an orphan or needy person on a day of hunger, (3) enjoin patience and compassion. Individual and collective giving."
+      }
+    },
+    {
+      "id": "two-groups",
+      "title": { "arabic": "فريقان - أصحاب الميمنة وأصحاب المشأمة", "english": "Two Groups - People of the Right and People of the Left" },
+      "verses": "18-20",
+      "description": {
+        "arabic": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ * وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ * عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ. فريقان: أصحاب الميمنة (من اقتحموا العقبة بالعطاء) وأصحاب المشأمة (من بخلوا وانشغلوا بأنفسهم). اختر فريقك.",
+        "english": "Those are the companions of the right * But they who disbelieved in Our signs - those are the companions of the left * Over them will be fire closed in. Two groups: people of the right (those who broke through the obstacle by giving) and people of the left (those who were stingy and preoccupied with themselves). Choose your group."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "breaking-selfishness",
+      "title": { "arabic": "كسر الأنانية", "english": "Breaking Selfishness" },
+      "icon": "Mountain",
+      "description": {
+        "arabic": "اقتحام العقبة - كسر حاجز النفس البخيلة بالعطاء",
+        "english": "Breaking through the obstacle - breaking the barrier of the stingy self by giving"
+      }
+    },
+    {
+      "id": "start-local",
+      "title": { "arabic": "ابدأ ببلدك", "english": "Start with Your City" },
+      "icon": "Home",
+      "description": {
+        "arabic": "العطاء يبدأ من المحيط القريب - بلدك، أهلك، جيرانك",
+        "english": "Giving starts from the close circle - your city, your people, your neighbours"
+      }
+    },
+    {
+      "id": "collective-mercy",
+      "title": { "arabic": "التواصي بالمرحمة", "english": "Enjoining Compassion" },
+      "icon": "Users",
+      "description": {
+        "arabic": "العطاء الجماعي - تواصوا بالصبر والمرحمة معاً",
+        "english": "Collective giving - enjoin patience and compassion together"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "break-through-obstacle",
+      "title": { "arabic": "اقتحم العقبة", "english": "Break Through the Obstacle" },
+      "content": {
+        "arabic": "العقبة هي حاجز الأنانية والبخل داخلك. اقتحمها بالعطاء: حرر إنساناً من عبودية (دين، فقر، جهل)، أطعم يتيماً أو مسكيناً، وتواصى مع الناس بالمرحمة. هذا هو الطريق لأهل اليمين.",
+        "english": "The obstacle is the barrier of selfishness and stinginess within you. Break through it by giving: free a human from bondage (debt, poverty, ignorance), feed an orphan or needy person, and enjoin compassion with people. This is the path to the people of the right."
+      }
+    },
+    {
+      "id": "start-with-your-city",
+      "title": { "arabic": "ابدأ ببلدك", "english": "Start with Your City" },
+      "content": {
+        "arabic": "لا أقسم بهذا البلد - الله يقسم بمكة ويقول للنبي: ابدأ ببلدك. الرسالة: العطاء يبدأ من المحيط القريب. ابدأ بأهلك، جيرانك، بلدك. لا تنتظر المشاريع الكبيرة، ابدأ من حولك.",
+        "english": "I swear by this city - Allah swears by Makkah and tells the Prophet: start with your city. The message: giving starts from the close circle. Start with your family, neighbours, city. Don't wait for big projects, start around you."
+      }
+    },
+    {
+      "id": "collective-compassion",
+      "title": { "arabic": "التواصي بالمرحمة", "english": "Enjoining Compassion" },
+      "content": {
+        "arabic": "ثم كان من الذين آمنوا وتواصوا بالصبر وتواصوا بالمرحمة - العطاء ليس فردياً فقط، بل جماعي. تواصوا معاً بالصبر والمرحمة. اصنعوا ثقافة العطاء في مجتمعكم.",
+        "english": "And then being among those who believed and advised each other to patience and advised each other to compassion - giving is not only individual, but collective. Enjoin patience and compassion together. Create a culture of giving in your community."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "city-oath",
+      "title": { "arabic": "لا أقسم بهذا البلد", "english": "I Swear by This City" },
+      "content": {
+        "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ - الله يقسم بمكة (البلد) ويقول: ابدأ ببلدك. العطاء يبدأ من المحيط القريب. لا تنتظر المشاريع الكبيرة، ابدأ من حولك: أهلك، جيرانك، بلدك.",
+        "english": "I swear by this city - Allah swears by Makkah (the city) and says: start with your city. Giving starts from the close circle. Don't wait for big projects, start around you: your family, neighbours, city."
+      }
+    },
+    {
+      "id": "man-in-hardship",
+      "title": { "arabic": "الإنسان في كبد", "english": "Man in Hardship" },
+      "content": {
+        "arabic": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي كَبَدٍ - الحياة صعبة، والطريق شاق. لكن العطاء هو الذي يخفف الكبد ويحول المشقة لمعنى. من يعطي يجد راحة في قلبه رغم المشقة.",
+        "english": "We have certainly created man in hardship - life is difficult, and the path is hard. But giving is what eases hardship and turns struggle into meaning. One who gives finds peace in his heart despite hardship."
+      }
+    },
+    {
+      "id": "break-obstacle",
+      "title": { "arabic": "فلا اقتحم العقبة", "english": "But He Has Not Broken Through" },
+      "content": {
+        "arabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ - لم يقتحم العقبة، لم يكسر حاجز الأنانية. العقبة هي النفس البخيلة التي تمنعك من العطاء. اقتحمها بفك رقبة، إطعام يتيم، والتواصي بالمرحمة.",
+        "english": "But he has not broken through the obstacle - he did not break through the obstacle, did not break the barrier of selfishness. The obstacle is the stingy self that prevents you from giving. Break through it by freeing a slave, feeding an orphan, and enjoining compassion."
+      }
+    },
+    {
+      "id": "enjoin-compassion",
+      "title": { "arabic": "تواصوا بالمرحمة", "english": "Enjoin Compassion" },
+      "content": {
+        "arabic": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ - العطاء الجماعي. تواصوا معاً بالصبر والمرحمة. اصنعوا ثقافة العطاء في مجتمعكم. الرحمة ليست فردية فقط، بل جماعية.",
+        "english": "And then being among those who believed and advised each other to patience and advised each other to compassion - collective giving. Enjoin patience and compassion together. Create a culture of giving in your community. Mercy is not only individual, but collective."
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "related",
+      "surahId": 108,
+      "surahSlug": "al-kawthar",
+      "description": {
+        "arabic": "الكوثر يدعو للعطاء، والبلد توضح كيف تقتحم العقبة بالعطاء",
+        "english": "Al-Kawthar calls for giving, Al-Balad clarifies how to break through the obstacle by giving"
+      }
+    },
+    {
+      "type": "related",
+      "surahId": 107,
+      "surahSlug": "al-maun",
+      "description": {
+        "arabic": "الماعون توبخ من لا يعطي، والبلد تدعو لاقتحام العقبة بالعطاء",
+        "english": "Al-Ma'un rebukes those who do not give, Al-Balad calls to break through the obstacle by giving"
+      }
+    }
+  ]
+}

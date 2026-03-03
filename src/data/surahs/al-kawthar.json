@@ -1,0 +1,180 @@
+{
+  "id": 108,
+  "slug": "al-kawthar",
+  "name": {
+    "arabic": "سورة الكوثر",
+    "english": "Surah Al-Kawthar",
+    "transliteration": "Al-Kawthar"
+  },
+  "metadata": {
+    "verses": 3,
+    "words": 10,
+    "type": "meccan",
+    "juz": "30",
+    "order": 108
+  },
+  "goal": {
+    "academic": {
+      "arabic": "تسلية النبي ﷺ وتبشيره بالخير الكثير في الدنيا والآخرة، ورد على من عابوه بانقطاع نسله.",
+      "english": "Consoling the Prophet ﷺ and giving him glad tidings of abundant good in this world and the Hereafter, responding to those who mocked him for having no male heirs."
+    },
+    "psychological": {
+      "arabic": "علاج الشعور بالنقص والحرمان - رسالة من الله: أعطيتك الكثير، فكثّر خيرك في الدنيا ليجري نهرك في الجنة.",
+      "english": "Treating feelings of inadequacy and deprivation - a message from Allah: I have given you abundance, so multiply your good in this world for your river to flow in Paradise."
+    },
+    "summary": {
+      "arabic": "سورة الكوثر هي دستور العطاء - الكوثر ليس فقط نهراً في الجنة، بل هو كثرة الخير في الدنيا. كثّر خيرك هنا ليجري نهرك هناك.",
+      "english": "Surah Al-Kawthar is the constitution of giving - Al-Kawthar is not just a river in Paradise, but abundance of good in this world. Multiply your good here for your river to flow there."
+    }
+  },
+  "names": [
+    {
+      "id": "primary",
+      "name": { "arabic": "سورة الكوثر", "english": "The Abundance" },
+      "reason": {
+        "arabic": "سميت بالكوثر لذكر نهر الكوثر في الجنة، وهو أيضاً كثرة الخير.",
+        "english": "Named after the river Al-Kawthar in Paradise, which also means abundance of good."
+      }
+    }
+  ],
+  "virtues": [
+    {
+      "id": "river-of-good",
+      "title": { "arabic": "نهر الخير", "english": "River of Good" },
+      "hadith": {
+        "arabic": "الكوثر نهر في الجنة حافتاه من ذهب، ومجراه على الدر والياقوت، وهو أيضاً كثرة الخير في الدنيا.",
+        "english": "Al-Kawthar is a river in Paradise whose banks are of gold, flowing over pearls and rubies, and it is also abundance of good in this world."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "divine-gift",
+      "title": { "arabic": "العطاء الإلهي - إنا أعطيناك الكوثر", "english": "Divine Gift - We Have Given You Abundance" },
+      "verses": "1",
+      "description": {
+        "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ. الكوثر هو نهر في الجنة وأيضاً كثرة الخير في الدنيا. الرسالة: أعطيتك الكثير، فكثّر خيرك في الدنيا ليجري نهرك في الجنة.",
+        "english": "Indeed, We have granted you Al-Kawthar. Al-Kawthar is a river in Paradise and also abundance of good in this world. The message: I have given you abundance, so multiply your good in this world for your river to flow in Paradise."
+      }
+    },
+    {
+      "id": "worship-sacrifice",
+      "title": { "arabic": "الصلاة والنحر - الوقود والعطاء", "english": "Prayer and Sacrifice - Fuel and Giving" },
+      "verses": "2",
+      "description": {
+        "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ. الصلاة هي الوقود الذي يدفعك للعطاء (النحر). الصلاة تملأ روحك، والعطاء يفرغ يدك لتمتلئ من جديد. دورة لا تنتهي.",
+        "english": "So pray to your Lord and sacrifice. Prayer is the fuel that drives you to give (sacrifice). Prayer fills your soul, and giving empties your hand to be filled again. An endless cycle."
+      }
+    },
+    {
+      "id": "enemy-cut-off",
+      "title": { "arabic": "الأبتر الحقيقي - من لا خير فيه", "english": "The Truly Cut Off - One Without Good" },
+      "verses": "3",
+      "description": {
+        "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ. الأبتر ليس من لا ولد له، بل من لا خير فيه. من لا يعطي، من لا يترك أثراً، من ينقطع ذكره بموته. أما من يعطي فذكره يبقى.",
+        "english": "Indeed, your enemy is the one cut off. The cut-off one is not he who has no children, but he who has no good. One who does not give, who leaves no impact, whose memory ends with his death. But one who gives, his memory remains."
+      }
+    }
+  ],
+  "themes": [
+    {
+      "id": "abundance-mindset",
+      "title": { "arabic": "عقلية الوفرة", "english": "Abundance Mindset" },
+      "icon": "Droplets",
+      "description": {
+        "arabic": "الله أعطاك الكثير - كسر وهم المحدودية والشح",
+        "english": "Allah has given you abundance - breaking the illusion of scarcity and stinginess"
+      }
+    },
+    {
+      "id": "prayer-fuel",
+      "title": { "arabic": "الصلاة وقود العطاء", "english": "Prayer as Fuel for Giving" },
+      "icon": "Zap",
+      "description": {
+        "arabic": "الصلاة تملأ روحك لتدفعك للعطاء - دورة لا تنتهي",
+        "english": "Prayer fills your soul to drive you to give - an endless cycle"
+      }
+    },
+    {
+      "id": "legacy-through-good",
+      "title": { "arabic": "الخلود بالخير", "english": "Immortality Through Good" },
+      "icon": "Infinity",
+      "description": {
+        "arabic": "من يعطي لا ينقطع ذكره - الخير هو الذرية الحقيقية",
+        "english": "One who gives, his memory never ends - good deeds are the true legacy"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "multiply-good",
+      "title": { "arabic": "كثّر خيرك", "english": "Multiply Your Good" },
+      "content": {
+        "arabic": "الكوثر يعني كثرة الخير. الرسالة: كثّر خيرك في الدنيا (صدقة، كلمة طيبة، مساعدة) ليجري نهرك في الجنة. العطاء في الدنيا هو الاستثمار في الآخرة.",
+        "english": "Al-Kawthar means abundance of good. The message: multiply your good in this world (charity, kind words, help) for your river to flow in Paradise. Giving in this world is investment in the Hereafter."
+      }
+    },
+    {
+      "id": "prayer-drives-giving",
+      "title": { "arabic": "الصلاة تدفع للعطاء", "english": "Prayer Drives Giving" },
+      "content": {
+        "arabic": "فصلّ لربك وانحر - الصلاة هي الوقود الذي يدفعك للعطاء. كان النبي ﷺ أجود ما يكون في رمضان حين يدارسه جبريل القرآن. القرآن والصلاة هما المحرك الأكبر للخير.",
+        "english": "So pray to your Lord and sacrifice - prayer is the fuel that drives you to give. The Prophet ﷺ was most generous in Ramadan when Jibreel would study the Quran with him. Quran and prayer are the greatest drivers of good."
+      }
+    },
+    {
+      "id": "true-legacy",
+      "title": { "arabic": "الذرية الحقيقية", "english": "True Legacy" },
+      "content": {
+        "arabic": "الأبتر الحقيقي ليس من لا ولد له، بل من لا خير فيه. من يعطي لا ينقطع ذكره. الكلمة الطيبة، الصدقة الجارية، العلم النافع - هذه هي الذرية الحقيقية التي تبقى بعدك.",
+        "english": "The truly cut-off one is not he who has no children, but he who has no good. One who gives, his memory never ends. Kind words, ongoing charity, beneficial knowledge - these are the true legacy that remains after you."
+      }
+    }
+  ],
+  "gems": [
+    {
+      "id": "we-gave-you",
+      "title": { "arabic": "إنا أعطيناك", "english": "We Have Given You" },
+      "content": {
+        "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ - الله يقول: أنا أعطيتك الكثير. كسر وهم المحدودية. أنت لست فقيراً، أنت غني بعطاء الله. والغني الحقيقي هو من يعطي.",
+        "english": "Indeed, We have granted you Al-Kawthar - Allah says: I have given you abundance. Breaking the illusion of scarcity. You are not poor, you are rich with Allah's giving. And the truly rich one is he who gives."
+      }
+    },
+    {
+      "id": "pray-and-sacrifice",
+      "title": { "arabic": "فصلّ وانحر", "english": "Pray and Sacrifice" },
+      "content": {
+        "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ - الصلاة تملأ روحك، والعطاء يفرغ يدك لتمتلئ من جديد. دورة لا تنتهي. الصلاة هي الوقود، والعطاء هو الحركة. بدون وقود، لا حركة.",
+        "english": "So pray to your Lord and sacrifice - prayer fills your soul, and giving empties your hand to be filled again. An endless cycle. Prayer is the fuel, giving is the movement. Without fuel, no movement."
+      }
+    },
+    {
+      "id": "enemy-cut-off",
+      "title": { "arabic": "شانئك هو الأبتر", "english": "Your Enemy is Cut Off" },
+      "content": {
+        "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ - من لا يعطي هو الأبتر الحقيقي. من ينقطع ذكره بموته. أما من يعطي، فذكره يبقى. الخير هو الذرية الحقيقية.",
+        "english": "Indeed, your enemy is the one cut off - one who does not give is the truly cut-off. One whose memory ends with his death. But one who gives, his memory remains. Good deeds are the true legacy."
+      }
+    }
+  ],
+  "connections": [
+    {
+      "type": "related",
+      "surahId": 102,
+      "surahSlug": "at-takathur",
+      "description": {
+        "arabic": "الكوثر (كثرة الخير) مقابل التكاثر (كثرة المال) - الأول يبقى والثاني يفنى",
+        "english": "Al-Kawthar (abundance of good) versus At-Takathur (abundance of wealth) - the first remains, the second perishes"
+      }
+    },
+    {
+      "type": "related",
+      "surahId": 107,
+      "surahSlug": "al-maun",
+      "description": {
+        "arabic": "الكوثر يدعو للعطاء، والماعون يوضح أنواع العطاء العملية",
+        "english": "Al-Kawthar calls for giving, Al-Ma'un clarifies practical types of giving"
+      }
+    }
+  ]
+}

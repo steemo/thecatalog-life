@@ -22,8 +22,12 @@ import adhDhariyat from './surahs/adh-dhariyat.json';
 import anNajm from './surahs/an-najm.json';
 import alWaqiah from './surahs/al-waqiah.json';
 import alMulk from './surahs/al-mulk.json';
+import alBalad from './surahs/al-balad.json';
 import adDuha from './surahs/ad-duha.json';
 import ashSharh from './surahs/ash-sharh.json';
+import atTakathur from './surahs/at-takathur.json';
+import alMaun from './surahs/al-maun.json';
+import alKawthar from './surahs/al-kawthar.json';
 
 /** All Surahs data */
 export const surahs: Surah[] = [
@@ -38,8 +42,12 @@ export const surahs: Surah[] = [
   anNajm as Surah,
   alWaqiah as Surah,
   alMulk as Surah,
+  alBalad as Surah,
   adDuha as Surah,
   ashSharh as Surah,
+  atTakathur as Surah,
+  alMaun as Surah,
+  alKawthar as Surah,
 ];
 
 /** Get all Surahs as cards (for grid display) */
