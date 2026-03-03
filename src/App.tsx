@@ -6,6 +6,7 @@
 
 import { useEffect } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { useAppStore, useDirection } from './lib/store';
 import { usePerformance } from './hooks';
 import Layout from './features/shared/Layout';
@@ -50,6 +51,7 @@ function App() {
           <Route path="catalog/:slug" element={<CatalogEntryPage />} />
         </Route>
       </Routes>
+      <SpeedInsights />
     </BrowserRouter>
   );
 }
