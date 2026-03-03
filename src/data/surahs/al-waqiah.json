@@ -137,74 +137,38 @@
       "themes": [
         {
           "id": "pillar-abundance-awareness",
-          "floor": 1,
-          "title": { "arabic": "الوعي بالوفرة", "english": "Abundance Awareness" },
+          "title": { "arabic": "الأساس الأول: الوعي بالوفرة", "english": "First Foundation: Abundance Awareness" },
           "icon": "Eye",
           "description": {
-            "arabic": "أفرأيتم الماء الذي تشربون، أفرأيتم ما تحرثون، أفرأيتم النار - تكرار 'أفرأيتم' لإيقاظ الوعي بالنعم المحيطة بك",
-            "english": "'Have you seen the water you drink, have you seen what you sow, have you seen the fire' - repetition of 'have you seen' to awaken awareness of blessings surrounding you"
-          },
-          "verse": {
-            "arabic": "أَفَرَأَيْتُمُ الْمَاءَ الَّذِي تَشْرَبُونَ",
-            "english": "Have you seen the water that you drink?"
-          },
-          "practical": {
-            "arabic": "عقلية الفقر ترى النقص، عقلية الغنى ترى الوفرة - درّب عقلك على رؤية النعم لا النقص",
-            "english": "Poverty mindset sees lack, wealth mindset sees abundance - train your mind to see blessings not lack"
+            "arabic": "أفرأيتم الماء الذي تشربون، أفرأيتم ما تحرثون، أفرأيتم النار - تكرار 'أفرأيتم' لإيقاظ الوعي بالنعم المحيطة بك. عقلية الفقر ترى النقص، عقلية الغنى ترى الوفرة - درّب عقلك على رؤية النعم لا النقص.",
+            "english": "'Have you seen the water you drink, have you seen what you sow, have you seen the fire' - repetition of 'have you seen' to awaken awareness of blessings surrounding you. Poverty mindset sees lack, wealth mindset sees abundance - train your mind to see blessings not lack."
           }
         },
         {
           "id": "pillar-generous-lord",
-          "floor": 2,
-          "title": { "arabic": "رب كريم غني", "english": "Generous Rich Lord" },
+          "title": { "arabic": "الأساس الثاني: رب كريم غني", "english": "Second Foundation: Generous Rich Lord" },
           "icon": "Gift",
           "description": {
-            "arabic": "مشاهد الجنة المفصلة (سدر، طلح، ظل، ماء، فاكهة) - الله غني كريم يعطي بسخاء، فلماذا تخاف الفقر؟",
-            "english": "Detailed Paradise scenes (lote trees, banana trees, shade, water, fruit) - Allah is Rich and Generous who gives abundantly, so why fear poverty?"
-          },
-          "verse": {
-            "arabic": "فِي سِدْرٍ مَّخْضُودٍ ۝ وَطَلْحٍ مَّنضُودٍ ۝ وَظِلٍّ مَّمْدُودٍ ۝ وَمَاءٍ مَّسْكُوبٍ ۝ وَفَاكِهَةٍ كَثِيرَةٍ",
-            "english": "Among lote trees with thorns removed. And banana trees layered [with fruit]. And shade extended. And water poured out. And fruit, abundant"
-          },
-          "practical": {
-            "arabic": "إذا كان ربك غني كريم، فأنت ابن غني - غيّر صورتك الذاتية من 'فقير' إلى 'ابن الغني الكريم'",
-            "english": "If your Lord is Rich and Generous, then you are the child of the Rich - change your self-image from 'poor' to 'child of the Rich Generous'"
+            "arabic": "مشاهد الجنة المفصلة (سدر، طلح، ظل، ماء، فاكهة) - الله غني كريم يعطي بسخاء، فلماذا تخاف الفقر؟ إذا كان ربك غني كريم، فأنت ابن غني - غيّر صورتك الذاتية من 'فقير' إلى 'ابن الغني الكريم'.",
+            "english": "Detailed Paradise scenes (lote trees, banana trees, shade, water, fruit) - Allah is Rich and Generous who gives abundantly, so why fear poverty? If your Lord is Rich and Generous, then you are the child of the Rich - change your self-image from 'poor' to 'child of the Rich Generous'."
           }
         },
         {
           "id": "pillar-future-wealth",
-          "floor": 3,
-          "title": { "arabic": "الغنى المستقبلي المضمون", "english": "Guaranteed Future Wealth" },
+          "title": { "arabic": "الأساس الثالث: الغنى المستقبلي المضمون", "english": "Third Foundation: Guaranteed Future Wealth" },
           "icon": "TrendingUp",
           "description": {
-            "arabic": "مشاهد الجنة التفصيلية - غناك المستقبلي في الآخرة مضمون 100%، فلماذا القلق على الدنيا؟",
-            "english": "Detailed Paradise scenes - your future wealth in the hereafter is 100% guaranteed, so why worry about this world?"
-          },
-          "verse": {
-            "arabic": "وَأَصْحَابُ الْيَمِينِ مَا أَصْحَابُ الْيَمِينِ ۝ فِي سِدْرٍ مَّخْضُودٍ",
-            "english": "The companions of the right - what are the companions of the right? [They will be] among lote trees with thorns removed"
-          },
-          "practical": {
-            "arabic": "من يقرأها يدرك سعة نعم الله (الدنيوية والأخروية) فيمتلئ غنىً داخليًا - الغنى النفسي يسبق الغنى المادي",
-            "english": "Whoever reads it realizes the vastness of Allah's blessings (worldly and hereafter) and fills with inner wealth - psychological wealth precedes material wealth"
+            "arabic": "مشاهد الجنة التفصيلية - غناك المستقبلي في الآخرة مضمون 100%، فلماذا القلق على الدنيا؟ من يقرأها يدرك سعة نعم الله (الدنيوية والأخروية) فيمتلئ غنىً داخليًا - الغنى النفسي يسبق الغنى المادي.",
+            "english": "Detailed Paradise scenes - your future wealth in the hereafter is 100% guaranteed, so why worry about this world? Whoever reads it realizes the vastness of Allah's blessings (worldly and hereafter) and fills with inner wealth - psychological wealth precedes material wealth."
           }
         },
         {
           "id": "pillar-intelligent-movement",
-          "floor": 4,
-          "title": { "arabic": "الحركة الذكية", "english": "Intelligent Movement" },
+          "title": { "arabic": "الأساس الرابع: الحركة الذكية", "english": "Fourth Foundation: Intelligent Movement" },
           "icon": "Brain",
           "description": {
-            "arabic": "النفسية الغنية المطمئنة هي التي تملك القدرة على الحركة وصناعة المال بذكاء وبدون ارتباك - الفقير نفسيًا يتخبط، الغني نفسيًا يتحرك بثقة",
-            "english": "The wealthy tranquil psyche possesses the ability to move and create wealth intelligently without confusion - the psychologically poor flounders, the psychologically wealthy moves with confidence"
-          },
-          "verse": {
-            "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
-            "english": "We have decreed death among you, and We are not to be outdone"
-          },
-          "practical": {
-            "arabic": "الغنى النفسي = ثقة + هدوء + ذكاء في الحركة - الفقر النفسي = خوف + ارتباك + قرارات متسرعة",
-            "english": "Psychological wealth = confidence + calm + intelligent movement - psychological poverty = fear + confusion + hasty decisions"
+            "arabic": "النفسية الغنية المطمئنة هي التي تملك القدرة على الحركة وصناعة المال بذكاء وبدون ارتباك - الفقير نفسيًا يتخبط، الغني نفسيًا يتحرك بثقة. الغنى النفسي = ثقة + هدوء + ذكاء في الحركة - الفقر النفسي = خوف + ارتباك + قرارات متسرعة.",
+            "english": "The wealthy tranquil psyche possesses the ability to move and create wealth intelligently without confusion - the psychologically poor flounders, the psychologically wealthy moves with confidence. Psychological wealth = confidence + calm + intelligent movement - psychological poverty = fear + confusion + hasty decisions."
           }
         }
       ]
@@ -266,94 +230,58 @@
       "lessons": [
         {
           "id": "foremost-category",
-          "story": "Categories",
           "title": { "arabic": "السابقون المقربون", "english": "The Foremost Brought Near" },
           "content": {
-            "arabic": "والسابقون السابقون * أولئك المقربون - الفئة الأولى: سبقوا في الخيرات فقُربوا من الله، ونعيمهم أعظم.",
-            "english": "'And the foremost are the foremost. Those are the ones brought near' - the first category: they raced in good deeds so were brought near to Allah, and their bliss is greatest."
-          },
-          "principle": {
-            "arabic": "السبق في الخيرات يفتح أبواب القرب من الله والرزق المضاعف - لا تكن من المتأخرين",
-            "english": "Racing in good deeds opens doors of nearness to Allah and multiplied provision - don't be among the laggards"
+            "arabic": "والسابقون السابقون * أولئك المقربون - الفئة الأولى: سبقوا في الخيرات فقُربوا من الله، ونعيمهم أعظم. السبق في الخيرات يفتح أبواب القرب من الله والرزق المضاعف - لا تكن من المتأخرين.",
+            "english": "'And the foremost are the foremost. Those are the ones brought near' - the first category: they raced in good deeds so were brought near to Allah, and their bliss is greatest. Racing in good deeds opens doors of nearness to Allah and multiplied provision - don't be among the laggards."
           }
         },
         {
           "id": "right-companions",
-          "story": "Categories",
           "title": { "arabic": "أصحاب اليمين", "english": "Companions of the Right" },
           "content": {
-            "arabic": "وأصحاب اليمين ما أصحاب اليمين - الفئة الثانية: الناجون، نعيمهم عظيم لكن أقل من السابقين.",
-            "english": "'And the companions of the right - what are the companions of the right?' - the second category: the saved, their bliss is great but less than the foremost."
-          },
-          "lesson": {
-            "arabic": "النجاة مضمونة لأصحاب اليمين، لكن السبق أفضل - اسعَ للدرجات العليا",
-            "english": "Salvation is guaranteed for companions of the right, but racing is better - strive for higher ranks"
+            "arabic": "وأصحاب اليمين ما أصحاب اليمين - الفئة الثانية: الناجون، نعيمهم عظيم لكن أقل من السابقين. النجاة مضمونة لأصحاب اليمين، لكن السبق أفضل - اسعَ للدرجات العليا.",
+            "english": "'And the companions of the right - what are the companions of the right?' - the second category: the saved, their bliss is great but less than the foremost. Salvation is guaranteed for companions of the right, but racing is better - strive for higher ranks."
           }
-        }
-,
+        },
         {
           "id": "left-companions",
-          "story": "Categories",
           "title": { "arabic": "أصحاب الشمال", "english": "Companions of the Left" },
           "content": {
-            "arabic": "وأصحاب الشمال ما أصحاب الشمال * في سموم وحميم - الفئة الثالثة: الهالكون، عذابهم شديد.",
-            "english": "'And the companions of the left - what are the companions of the left? [They will be] in scorching fire and scalding water' - the third category: the doomed, their punishment is severe."
-          },
-          "warning": {
-            "arabic": "الإعراض عن الله والكفر بنعمه يؤدي للهلاك - احذر من عقلية الكفران",
-            "english": "Turning away from Allah and ingratitude for His blessings leads to doom - beware of ingratitude mindset"
+            "arabic": "وأصحاب الشمال ما أصحاب الشمال * في سموم وحميم - الفئة الثالثة: الهالكون، عذابهم شديد. الإعراض عن الله والكفر بنعمه يؤدي للهلاك - احذر من عقلية الكفران.",
+            "english": "'And the companions of the left - what are the companions of the left? [They will be] in scorching fire and scalding water' - the third category: the doomed, their punishment is severe. Turning away from Allah and ingratitude for His blessings leads to doom - beware of ingratitude mindset."
           }
         },
         {
           "id": "water-blessing",
-          "story": "Worldly Signs",
           "title": { "arabic": "نعمة الماء", "english": "Water Blessing" },
           "content": {
-            "arabic": "أفرأيتم الماء الذي تشربون * أأنتم أنزلتموه من المزن أم نحن المنزلون - تذكير بنعمة الماء التي لا تُقدر.",
-            "english": "'Have you seen the water that you drink? Is it you who brought it down from the clouds, or is it We who bring it down?' - reminder of the invaluable water blessing."
-          },
-          "application": {
-            "arabic": "الماء متاح مجانًا، لكن لو انقطع لدفعت كل مالك - درّب عقلك على رؤية قيمة النعم المجانية",
-            "english": "Water is available for free, but if it stopped you'd pay all your money - train your mind to see the value of free blessings"
+            "arabic": "أفرأيتم الماء الذي تشربون * أأنتم أنزلتموه من المزن أم نحن المنزلون - تذكير بنعمة الماء التي لا تُقدر. الماء متاح مجانًا، لكن لو انقطع لدفعت كل مالك - درّب عقلك على رؤية قيمة النعم المجانية.",
+            "english": "'Have you seen the water that you drink? Is it you who brought it down from the clouds, or is it We who bring it down?' - reminder of the invaluable water blessing. Water is available for free, but if it stopped you'd pay all your money - train your mind to see the value of free blessings."
           }
         },
         {
           "id": "crops-blessing",
-          "story": "Worldly Signs",
           "title": { "arabic": "نعمة الزرع", "english": "Crops Blessing" },
           "content": {
-            "arabic": "أفرأيتم ما تحرثون * أأنتم تزرعونه أم نحن الزارعون - أنت تزرع لكن الله هو الذي ينبت.",
-            "english": "'Have you seen that [seed] which you sow? Is it you who makes it grow, or are We the grower?' - you sow but Allah is the one who makes it grow."
-          },
-          "principle": {
-            "arabic": "السعي مطلوب (تحرثون) لكن النتيجة من الله (نحن الزارعون) - اسعَ وتوكل",
-            "english": "Striving is required (you sow) but the result is from Allah (We are the grower) - strive and rely"
+            "arabic": "أفرأيتم ما تحرثون * أأنتم تزرعونه أم نحن الزارعون - أنت تزرع لكن الله هو الذي ينبت. السعي مطلوب (تحرثون) لكن النتيجة من الله (نحن الزارعون) - اسعَ وتوكل.",
+            "english": "'Have you seen that [seed] which you sow? Is it you who makes it grow, or are We the grower?' - you sow but Allah is the one who makes it grow. Striving is required (you sow) but the result is from Allah (We are the grower) - strive and rely."
           }
         },
         {
           "id": "fire-blessing",
-          "story": "Worldly Signs",
           "title": { "arabic": "نعمة النار", "english": "Fire Blessing" },
           "content": {
-            "arabic": "أفرأيتم النار التي تورون * أأنتم أنشأتم شجرتها أم نحن المنشئون - النار من الشجر الأخضر، معجزة يومية.",
-            "english": "'Have you seen the fire that you ignite? Is it you who produced its tree, or are We the producer?' - fire from green tree, a daily miracle."
-          },
-          "lesson": {
-            "arabic": "النعم المحيطة بك معجزات يومية - الوعي بها يبني الغنى النفسي",
-            "english": "Blessings surrounding you are daily miracles - awareness of them builds psychological wealth"
+            "arabic": "أفرأيتم النار التي تورون * أأنتم أنشأتم شجرتها أم نحن المنشئون - النار من الشجر الأخضر، معجزة يومية. النعم المحيطة بك معجزات يومية - الوعي بها يبني الغنى النفسي.",
+            "english": "'Have you seen the fire that you ignite? Is it you who produced its tree, or are We the producer?' - fire from green tree, a daily miracle. Blessings surrounding you are daily miracles - awareness of them builds psychological wealth."
           }
         },
         {
           "id": "paradise-details",
-          "story": "Paradise",
           "title": { "arabic": "تفاصيل الجنة", "english": "Paradise Details" },
           "content": {
-            "arabic": "في سدر مخضود وطلح منضود وظل ممدود وماء مسكوب وفاكهة كثيرة - وصف تفصيلي لإيقاظ الشوق والغنى النفسي.",
-            "english": "'Among lote trees with thorns removed, and banana trees layered, and shade extended, and water poured out, and fruit, abundant' - detailed description to awaken longing and psychological wealth."
-          },
-          "purpose": {
-            "arabic": "كلما قرأت تفاصيل الجنة، امتلأت غنىً داخليًا - غناك المستقبلي مضمون 100%",
-            "english": "The more you read Paradise details, the more you fill with inner wealth - your future wealth is 100% guaranteed"
+            "arabic": "في سدر مخضود وطلح منضود وظل ممدود وماء مسكوب وفاكهة كثيرة - وصف تفصيلي لإيقاظ الشوق والغنى النفسي. كلما قرأت تفاصيل الجنة، امتلأت غنىً داخليًا - غناك المستقبلي مضمون 100%.",
+            "english": "'Among lote trees with thorns removed, and banana trees layered, and shade extended, and water poured out, and fruit, abundant' - detailed description to awaken longing and psychological wealth. The more you read Paradise details, the more you fill with inner wealth - your future wealth is 100% guaranteed."
           }
         }
       ]
