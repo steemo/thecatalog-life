@@ -30,7 +30,10 @@
   "names": [
     {
       "id": "primary",
-      "name": { "arabic": "سورة النحل", "english": "The Bee" },
+      "name": {
+        "arabic": "سورة النحل",
+        "english": "The Bee"
+      },
       "reason": {
         "arabic": "سميت بالنحل لذكر قصة النحل فيها وما فيها من عجائب الإلهام الرباني والإنتاج النافع.",
         "english": "Named after the bee for mentioning the bee's story and its wonders of divine inspiration and beneficial production."
@@ -38,18 +41,23 @@
     },
     {
       "id": "an-niam",
-      "name": { "arabic": "سورة النعم", "english": "The Blessings" },
+      "name": {
+        "arabic": "سورة النعم",
+        "english": "The Blessings"
+      },
       "reason": {
         "arabic": "لكثرة ذكر نعم الله فيها على الإنسان.",
         "english": "For the abundance of Allah's blessings mentioned upon humanity."
       }
     }
-  ]
-,
+  ],
   "virtues": [
     {
       "id": "gratitude",
-      "title": { "arabic": "سورة الشكر", "english": "Surah of Gratitude" },
+      "title": {
+        "arabic": "سورة الشكر",
+        "english": "Surah of Gratitude"
+      },
       "hadith": {
         "arabic": "سورة النحل تُعلّم الشكر والاعتراف بنعم الله، وهي مفتاح زيادة الرزق: لئن شكرتم لأزيدنكم.",
         "english": "Surah An-Nahl teaches gratitude and recognition of Allah's blessings, which is the key to increasing provision: 'If you are grateful, I will surely increase you.'"
@@ -57,7 +65,10 @@
     },
     {
       "id": "talent-discovery",
-      "title": { "arabic": "اكتشاف المواهب", "english": "Talent Discovery" },
+      "title": {
+        "arabic": "اكتشاف المواهب",
+        "english": "Talent Discovery"
+      },
       "hadith": {
         "arabic": "النحلة ألهمها الله موهبتها، وكذلك كل إنسان عنده موهبة خاصة ألهمه الله بها - اكتشفها واستثمرها.",
         "english": "The bee was inspired by Allah with its talent, and likewise every human has a special talent Allah inspired them with - discover and invest in it."
@@ -67,7 +78,10 @@
   "sections": [
     {
       "id": "intro",
-      "title": { "arabic": "المقدمة", "english": "Introduction" },
+      "title": {
+        "arabic": "المقدمة",
+        "english": "Introduction"
+      },
       "verses": "1-9",
       "description": {
         "arabic": "أتى أمر الله فلا تستعجلوه - الرزق آتٍ لا محالة",
@@ -76,7 +90,10 @@
     },
     {
       "id": "blessings",
-      "title": { "arabic": "نعم الله", "english": "Allah's Blessings" },
+      "title": {
+        "arabic": "نعم الله",
+        "english": "Allah's Blessings"
+      },
       "verses": "10-83",
       "description": {
         "arabic": "السماء، الأرض، الأنعام، النحل، الثمرات - كل شيء مسخر لرزقك",
@@ -85,7 +102,10 @@
     },
     {
       "id": "bee-story",
-      "title": { "arabic": "قصة النحل", "english": "The Bee's Story" },
+      "title": {
+        "arabic": "قصة النحل",
+        "english": "The Bee's Story"
+      },
       "verses": "68-69",
       "description": {
         "arabic": "نموذج عملي لتنمية المواهب والإنتاج النافع",
@@ -94,7 +114,10 @@
     },
     {
       "id": "gratitude",
-      "title": { "arabic": "الشكر والكفر", "english": "Gratitude and Ingratitude" },
+      "title": {
+        "arabic": "الشكر والكفر",
+        "english": "Gratitude and Ingratitude"
+      },
       "verses": "84-111",
       "description": {
         "arabic": "الشكر يزيد النعم، والكفر يُذهبها",
@@ -103,22 +126,27 @@
     },
     {
       "id": "conclusion",
-      "title": { "arabic": "الخاتمة", "english": "Conclusion" },
+      "title": {
+        "arabic": "الخاتمة",
+        "english": "Conclusion"
+      },
       "verses": "112-128",
       "description": {
         "arabic": "مثل القرية التي كفرت بأنعم الله فأذاقها الله لباس الجوع والخوف",
         "english": "Example of the city that was ungrateful for Allah's blessings, so Allah made it taste hunger and fear"
       }
     }
-  ]
-,
+  ],
   "themes": [
     {
       "category": "Academic Themes",
       "themes": [
         {
           "id": "divine-blessings",
-          "title": { "arabic": "نعم الله", "english": "Divine Blessings" },
+          "title": {
+            "arabic": "نعم الله",
+            "english": "Divine Blessings"
+          },
           "icon": "Gift",
           "description": {
             "arabic": "وإن تعدوا نعمة الله لا تحصوها - النعم لا تُعد ولا تُحصى، وكلها مسخرة لرزقك",
@@ -127,7 +155,10 @@
         },
         {
           "id": "gratitude-increase",
-          "title": { "arabic": "الشكر يزيد", "english": "Gratitude Increases" },
+          "title": {
+            "arabic": "الشكر يزيد",
+            "english": "Gratitude Increases"
+          },
           "icon": "TrendingUp",
           "description": {
             "arabic": "لئن شكرتم لأزيدنكم - الشكر هو المحرك للزيادة، وبدونه يتوقف تدفق النعم",
@@ -136,7 +167,10 @@
         },
         {
           "id": "divine-inspiration",
-          "title": { "arabic": "الإلهام الرباني", "english": "Divine Inspiration" },
+          "title": {
+            "arabic": "الإلهام الرباني",
+            "english": "Divine Inspiration"
+          },
           "icon": "Lightbulb",
           "description": {
             "arabic": "وأوحى ربك إلى النحل - الله يلهم كل مخلوق بموهبته الخاصة، والإنسان أولى بهذا الإلهام",
@@ -155,7 +189,10 @@
         {
           "id": "pillar-discover",
           "floor": 1,
-          "title": { "arabic": "اكتشاف الموهبة", "english": "Discover Your Talent" },
+          "title": {
+            "arabic": "اكتشاف الموهبة",
+            "english": "Discover Your Talent"
+          },
           "icon": "Search",
           "description": {
             "arabic": "وأوحى ربك إلى النحل - الله ألهم النحلة موهبتها (صناعة العسل)، وكذلك ألهمك موهبتك الخاصة - اكتشفها",
@@ -169,12 +206,14 @@
             "arabic": "موهبتك هي ما تحبه + تجيده + ينفع الناس - ابحث عن التقاطع بين هذه الثلاثة",
             "english": "Your talent is what you love + excel at + benefits people - search for the intersection of these three"
           }
-        }
-,
+        },
         {
           "id": "pillar-foundation",
           "floor": 2,
-          "title": { "arabic": "التأسيس والتدريب", "english": "Foundation and Training" },
+          "title": {
+            "arabic": "التأسيس والتدريب",
+            "english": "Foundation and Training"
+          },
           "icon": "Building",
           "description": {
             "arabic": "أن اتخذي من الجبال بيوتًا - النحلة تبني بيتها أولاً (التأسيس)، وكذلك أنت محتاج تأسيس قوي: تعليم، تدريب، ممارسة",
@@ -192,7 +231,10 @@
         {
           "id": "pillar-seek-all",
           "floor": 3,
-          "title": { "arabic": "السعي في كل الاتجاهات", "english": "Seek in All Directions" },
+          "title": {
+            "arabic": "السعي في كل الاتجاهات",
+            "english": "Seek in All Directions"
+          },
           "icon": "Compass",
           "description": {
             "arabic": "ثم كلي من كل الثمرات - النحلة تأكل من كل أنواع الزهور، لا تحصر نفسها في نوع واحد - وأنت كذلك: نوّع مصادرك وفرصك",
@@ -210,7 +252,10 @@
         {
           "id": "pillar-produce",
           "floor": 4,
-          "title": { "arabic": "إنتاج نافع للناس", "english": "Beneficial Production for People" },
+          "title": {
+            "arabic": "إنتاج نافع للناس",
+            "english": "Beneficial Production for People"
+          },
           "icon": "Package",
           "description": {
             "arabic": "يخرج من بطونها شراب مختلف ألوانه فيه شفاء للناس - المنتج النهائي يجب أن ينفع الناس ويحل مشاكلهم",
@@ -227,15 +272,17 @@
         }
       ]
     }
-  ]
-,
+  ],
   "lessons": [
     {
       "category": "General Lessons",
       "lessons": [
         {
           "id": "provision-guaranteed",
-          "title": { "arabic": "الرزق مضمون", "english": "Provision is Guaranteed" },
+          "title": {
+            "arabic": "الرزق مضمون",
+            "english": "Provision is Guaranteed"
+          },
           "content": {
             "arabic": "رزقك مكتوب ومضمون عند الله 100%، وهذا اليقين هدفه أن تسعى بقلب مطمئن ونفسية هادئة، فالسعي حركة بدن لا قلق قلب.",
             "english": "Your provision is written and guaranteed by Allah 100%, and this certainty aims for you to strive with a tranquil heart and calm psyche, for striving is bodily movement not heart anxiety."
@@ -243,7 +290,10 @@
         },
         {
           "id": "provision-from-allah",
-          "title": { "arabic": "الرزق من الله وحده", "english": "Provision from Allah Alone" },
+          "title": {
+            "arabic": "الرزق من الله وحده",
+            "english": "Provision from Allah Alone"
+          },
           "content": {
             "arabic": "لا يذكر الرزق في القرآن إلا مقترنًا بلفظ الجلالة 'الله'، لترسيخ حقيقة أن 'المنبع' واحد، فلا يذل الإنسان نفسه لبشر من أجل رزقه.",
             "english": "Provision is never mentioned in the Quran except coupled with the name 'Allah', to establish the truth that 'the source' is one, so humans don't humiliate themselves to people for their provision."
@@ -251,7 +301,10 @@
         },
         {
           "id": "strong-striving",
-          "title": { "arabic": "قوة السعي", "english": "Strength of Striving" },
+          "title": {
+            "arabic": "قوة السعي",
+            "english": "Strength of Striving"
+          },
           "content": {
             "arabic": "يطلب القرآن السعي بقوة (فامشوا في مناكبها، ضرب في الأرض)؛ فبقدر قوة السعي المادي، تفتح أبواب الرزق المقدر.",
             "english": "The Quran demands striving with strength (walk in its paths, travel through the land); to the extent of material striving strength, doors of destined provision open."
@@ -259,7 +312,10 @@
         },
         {
           "id": "gratitude-increases",
-          "title": { "arabic": "الشكر يزيد", "english": "Gratitude Increases" },
+          "title": {
+            "arabic": "الشكر يزيد",
+            "english": "Gratitude Increases"
+          },
           "content": {
             "arabic": "لئن شكرتم لأزيدنكم - الشكر هو المحرك للزيادة؛ وبدونه يتوقف تدفق النعم.",
             "english": "'If you are grateful, I will surely increase you' - gratitude is the engine of increase; without it the flow of blessings stops."
@@ -267,7 +323,10 @@
         },
         {
           "id": "blockers",
-          "title": { "arabic": "موانع الأرزاق", "english": "Provision Blockers" },
+          "title": {
+            "arabic": "موانع الأرزاق",
+            "english": "Provision Blockers"
+          },
           "content": {
             "arabic": "ثلاثة موانع تمنع الأرزاق: عدم تقوى الله (الذنوب تعطل الرزق)، عدم شكر النعمة (يوقف الزيادة)، حسد الناس (اعتراض على تقسيم الرزاق).",
             "english": "Three blockers prevent provision: lack of taqwa (sins block provision), lack of gratitude (stops increase), envying people (objecting to the Provider's distribution)."
@@ -285,7 +344,10 @@
         {
           "id": "bee-inspiration",
           "story": "Bee",
-          "title": { "arabic": "الإلهام الرباني", "english": "Divine Inspiration" },
+          "title": {
+            "arabic": "الإلهام الرباني",
+            "english": "Divine Inspiration"
+          },
           "content": {
             "arabic": "وأوحى ربك إلى النحل - الله ألهم النحلة موهبتها، وكذلك ألهمك موهبتك الخاصة - لا تقلد الآخرين، اكتشف ما ألهمك الله به.",
             "english": "'And your Lord inspired to the bee' - Allah inspired the bee with its talent, and likewise inspired you with your special talent - don't imitate others, discover what Allah inspired you with."
@@ -298,7 +360,10 @@
         {
           "id": "bee-home",
           "story": "Bee",
-          "title": { "arabic": "بناء البيت أولاً", "english": "Build the Home First" },
+          "title": {
+            "arabic": "بناء البيت أولاً",
+            "english": "Build the Home First"
+          },
           "content": {
             "arabic": "أن اتخذي من الجبال بيوتًا - النحلة تبني بيتها أولاً قبل الإنتاج - وأنت محتاج تأسيس قوي: تعليم، تدريب، ممارسة.",
             "english": "'Take for yourself among the mountains, houses' - the bee builds its home first before production - and you need strong foundation: education, training, practice."
@@ -307,12 +372,14 @@
             "arabic": "لا تستعجل الإنتاج قبل التأسيس - الفشل غالبًا سببه ضعف التأسيس لا ضعف الموهبة",
             "english": "Don't rush production before foundation - failure is often due to weak foundation not weak talent"
           }
-        }
-,
+        },
         {
           "id": "bee-all-fruits",
           "story": "Bee",
-          "title": { "arabic": "من كل الثمرات", "english": "From All Fruits" },
+          "title": {
+            "arabic": "من كل الثمرات",
+            "english": "From All Fruits"
+          },
           "content": {
             "arabic": "ثم كلي من كل الثمرات - النحلة لا تحصر نفسها في نوع واحد من الزهور - نوّع مصادرك وفرصك ولا تنتظر فرصة واحدة.",
             "english": "'Then eat from all the fruits' - the bee doesn't limit itself to one type of flower - diversify your sources and opportunities and don't wait for one opportunity."
@@ -325,7 +392,10 @@
         {
           "id": "bee-healing",
           "story": "Bee",
-          "title": { "arabic": "فيه شفاء للناس", "english": "Healing for People" },
+          "title": {
+            "arabic": "فيه شفاء للناس",
+            "english": "Healing for People"
+          },
           "content": {
             "arabic": "يخرج من بطونها شراب مختلف ألوانه فيه شفاء للناس - المنتج النهائي يجب أن ينفع الناس ويحل مشاكلهم الحقيقية.",
             "english": "'There emerges from their bellies a drink, varying in colors, in which there is healing for people' - the final product must benefit people and solve their real problems."
@@ -338,7 +408,10 @@
         {
           "id": "ungrateful-city",
           "story": "Warning",
-          "title": { "arabic": "القرية الكافرة", "english": "The Ungrateful City" },
+          "title": {
+            "arabic": "القرية الكافرة",
+            "english": "The Ungrateful City"
+          },
           "content": {
             "arabic": "وضرب الله مثلاً قرية كانت آمنة مطمئنة يأتيها رزقها رغدًا من كل مكان فكفرت بأنعم الله فأذاقها الله لباس الجوع والخوف.",
             "english": "'And Allah presents an example: a city which was safe and secure, its provision coming to it in abundance from every location, but it denied the favors of Allah. So Allah made it taste the envelopment of hunger and fear.'"
@@ -351,7 +424,10 @@
         {
           "id": "patience-reward",
           "story": "Ibrahim",
-          "title": { "arabic": "جزاء الصابرين", "english": "Reward of the Patient" },
+          "title": {
+            "arabic": "جزاء الصابرين",
+            "english": "Reward of the Patient"
+          },
           "content": {
             "arabic": "ثم إن ربك للذين هاجروا من بعد ما فتنوا ثم جاهدوا وصبروا إن ربك من بعدها لغفور رحيم - الصبر على الإغلاق يُكافأ بفتح مضاعف.",
             "english": "'Then, indeed your Lord, to those who emigrated after they had been compelled [to renounce their religion] and thereafter fought [for the cause of Allah] and were patient, indeed your Lord, after that, is Forgiving and Merciful' - patience during closure is rewarded with multiplied opening."
@@ -359,15 +435,17 @@
         }
       ]
     }
-  ]
-,
+  ],
   "gems": [
     {
       "category": "Spiritual Gems",
       "gems": [
         {
           "id": "countless-blessings",
-          "title": { "arabic": "النعم لا تُحصى", "english": "Countless Blessings" },
+          "title": {
+            "arabic": "النعم لا تُحصى",
+            "english": "Countless Blessings"
+          },
           "content": {
             "arabic": "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا - النعم لا تُعد ولا تُحصى، وكلها مسخرة لرزقك",
             "english": "'And if you should count the favors of Allah, you could not enumerate them' - blessings are countless, all subjugated for your provision"
@@ -379,7 +457,10 @@
         },
         {
           "id": "gratitude-formula",
-          "title": { "arabic": "معادلة الزيادة", "english": "The Increase Formula" },
+          "title": {
+            "arabic": "معادلة الزيادة",
+            "english": "The Increase Formula"
+          },
           "content": {
             "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ - الشكر هو المحرك للزيادة، وبدونه يتوقف تدفق النعم",
             "english": "'If you are grateful, I will surely increase you' - gratitude is the engine of increase, without it the flow of blessings stops"
@@ -391,7 +472,10 @@
         },
         {
           "id": "lawful-provision",
-          "title": { "arabic": "الحلال الطيب", "english": "Lawful and Good" },
+          "title": {
+            "arabic": "الحلال الطيب",
+            "english": "Lawful and Good"
+          },
           "content": {
             "arabic": "فَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا - الرزق الحقيقي هو الحلال الطيب، لا المال الحرام",
             "english": "'Then eat of what Allah has provided for you [which is] lawful and good' - real provision is lawful and good, not unlawful money"
@@ -403,7 +487,10 @@
         },
         {
           "id": "allah-provides",
-          "title": { "arabic": "الله يرزق", "english": "Allah Provides" },
+          "title": {
+            "arabic": "الله يرزق",
+            "english": "Allah Provides"
+          },
           "content": {
             "arabic": "وَاللَّهُ يَرْزُقُ مَن يَشَاءُ بِغَيْرِ حِسَابٍ - الله يرزق من يشاء بغير حساب، لا تحصر رزقك في الأسباب المرئية",
             "english": "'And Allah provides for whom He wills without account' - Allah provides for whom He wills without limit, don't restrict your provision to visible means"
@@ -420,63 +507,50 @@
       "gems": [
         {
           "id": "musa-provision-dua",
-          "title": { "arabic": "دعاء موسى للرزق", "english": "Musa's Provision Supplication" },
+          "title": {
+            "arabic": "دعاء موسى للرزق",
+            "english": "Musa's Provision Supplication"
+          },
           "content": {
-            "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ - دعاء يجمع بين الحمد (لما أنزلت) والافتقار (فقير)",
-            "english": "'My Lord, indeed I am, for whatever good You would send down to me, in need' - supplication combining gratitude (for what You sent down) and need (I am in need)"
+            "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ - دعاء يجمع بين الحمد (لما أنزلت) والافتقار (فقير) عند الضيق المالي أو إغلاق أبواب الرزق - يُكرر بانتظام في لحظات الحاجة 1) الحمد: اعتراف بالنعم الحالية | 2) الافتقار: إعلان الاحتياج لعطاء الله الجديد | 3) النتيجة: فتح أبواب رزق جديدة",
+            "english": "'My Lord, indeed I am, for whatever good You would send down to me, in need' - supplication combining gratitude (for what You sent down) and need (I am in need) During financial hardship or closure of provision doors - repeat regularly in moments of need 1) Gratitude: acknowledging current blessings | 2) Need: declaring need for Allah's new provision | 3) Result: opening new provision doors"
           },
           "verse": {
             "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
             "english": "My Lord, indeed I am, for whatever good You would send down to me, in need"
-          },
-          "when": {
-            "arabic": "عند الضيق المالي أو إغلاق أبواب الرزق - يُكرر بانتظام في لحظات الحاجة",
-            "english": "During financial hardship or closure of provision doors - repeat regularly in moments of need"
-          },
-          "purpose": {
-            "arabic": "1) الحمد: اعتراف بالنعم الحالية | 2) الافتقار: إعلان الاحتياج لعطاء الله الجديد | 3) النتيجة: فتح أبواب رزق جديدة",
-            "english": "1) Gratitude: acknowledging current blessings | 2) Need: declaring need for Allah's new provision | 3) Result: opening new provision doors"
           }
-        }
-,
+        },
         {
           "id": "talent-discovery-exercise",
-          "title": { "arabic": "تمرين اكتشاف الموهبة", "english": "Talent Discovery Exercise" },
-          "content": {
-            "arabic": "اكتب إجابات لثلاثة أسئلة: 1) ما الذي تحبه وتستمتع به؟ 2) ما الذي تجيده أو يمكنك تعلمه؟ 3) ما الذي ينفع الناس ويحل مشاكلهم؟ - موهبتك في التقاطع بين الثلاثة",
-            "english": "Write answers to three questions: 1) What do you love and enjoy? 2) What are you good at or can learn? 3) What benefits people and solves their problems? - Your talent is at the intersection of the three"
+          "title": {
+            "arabic": "تمرين اكتشاف الموهبة",
+            "english": "Talent Discovery Exercise"
           },
-          "when": {
-            "arabic": "عند الشعور بالتيه أو عدم معرفة اتجاهك المهني",
-            "english": "When feeling lost or not knowing your professional direction"
+          "content": {
+            "arabic": "اكتب إجابات لثلاثة أسئلة: 1) ما الذي تحبه وتستمتع به؟ 2) ما الذي تجيده أو يمكنك تعلمه؟ 3) ما الذي ينفع الناس ويحل مشاكلهم؟ - موهبتك في التقاطع بين الثلاثة عند الشعور بالتيه أو عدم معرفة اتجاهك المهني",
+            "english": "Write answers to three questions: 1) What do you love and enjoy? 2) What are you good at or can learn? 3) What benefits people and solves their problems? - Your talent is at the intersection of the three When feeling lost or not knowing your professional direction"
           }
         },
         {
           "id": "gratitude-journal",
-          "title": { "arabic": "دفتر الشكر اليومي", "english": "Daily Gratitude Journal" },
+          "title": {
+            "arabic": "دفتر الشكر اليومي",
+            "english": "Daily Gratitude Journal"
+          },
           "content": {
-            "arabic": "اكتب كل يوم 3 نعم جديدة تشكر الله عليها - الشكر يزيد النعم ويفتح أبواب الرزق المغلقة",
-            "english": "Write every day 3 new blessings you're grateful to Allah for - gratitude increases blessings and opens closed provision doors"
-          },
-          "when": {
-            "arabic": "يوميًا قبل النوم أو بعد صلاة الفجر",
-            "english": "Daily before sleep or after Fajr prayer"
-          },
-          "purpose": {
-            "arabic": "تدريب العقل على رؤية النعم لا النقص - تفعيل معادلة: لئن شكرتم لأزيدنكم",
-            "english": "Training the mind to see blessings not lack - activating the formula: if you are grateful, I will increase you"
+            "arabic": "اكتب كل يوم 3 نعم جديدة تشكر الله عليها - الشكر يزيد النعم ويفتح أبواب الرزق المغلقة يوميًا قبل النوم أو بعد صلاة الفجر تدريب العقل على رؤية النعم لا النقص - تفعيل معادلة: لئن شكرتم لأزيدنكم",
+            "english": "Write every day 3 new blessings you're grateful to Allah for - gratitude increases blessings and opens closed provision doors Daily before sleep or after Fajr prayer Training the mind to see blessings not lack - activating the formula: if you are grateful, I will increase you"
           }
         },
         {
           "id": "diversify-sources",
-          "title": { "arabic": "تنويع المصادر", "english": "Diversify Sources" },
-          "content": {
-            "arabic": "ثم كلي من كل الثمرات - لا تعتمد على مصدر رزق واحد: نوّع بين وظيفة، فريلانس، مشروع، استثمار، مهارة إضافية",
-            "english": "'Then eat from all the fruits' - don't depend on one provision source: diversify between job, freelance, project, investment, additional skill"
+          "title": {
+            "arabic": "تنويع المصادر",
+            "english": "Diversify Sources"
           },
-          "when": {
-            "arabic": "عند التخطيط المهني أو الشعور بعدم الأمان المالي",
-            "english": "When career planning or feeling financial insecurity"
+          "content": {
+            "arabic": "ثم كلي من كل الثمرات - لا تعتمد على مصدر رزق واحد: نوّع بين وظيفة، فريلانس، مشروع، استثمار، مهارة إضافية عند التخطيط المهني أو الشعور بعدم الأمان المالي",
+            "english": "'Then eat from all the fruits' - don't depend on one provision source: diversify between job, freelance, project, investment, additional skill When career planning or feeling financial insecurity"
           }
         }
       ]

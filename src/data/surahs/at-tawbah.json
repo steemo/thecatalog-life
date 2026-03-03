@@ -30,7 +30,10 @@
   "names": [
     {
       "id": "primary",
-      "name": { "arabic": "سورة التوبة", "english": "The Repentance" },
+      "name": {
+        "arabic": "سورة التوبة",
+        "english": "The Repentance"
+      },
       "reason": {
         "arabic": "سميت بالتوبة لأن الله فتح فيها باب التوبة لأشد الأعداء (المشركين والمنافقين)، فكيف لا يقبل توبة المسلم المقصر؟",
         "english": "Named Repentance because Allah opened the door of repentance in it for the worst enemies (polytheists and hypocrites), so how would He not accept the repentance of a negligent Muslim?"
@@ -38,7 +41,10 @@
     },
     {
       "id": "al-fadihah",
-      "name": { "arabic": "الفاضحة", "english": "The Exposer" },
+      "name": {
+        "arabic": "الفاضحة",
+        "english": "The Exposer"
+      },
       "reason": {
         "arabic": "تسمى الفاضحة لأنها كشفت المنافقين وفضحت أعداء الله والمتخاذلين.",
         "english": "Called the Exposer because it exposed hypocrites and revealed Allah's enemies and those who shirk responsibility."
@@ -46,7 +52,10 @@
     },
     {
       "id": "al-baraah",
-      "name": { "arabic": "البراءة", "english": "The Disavowal" },
+      "name": {
+        "arabic": "البراءة",
+        "english": "The Disavowal"
+      },
       "reason": {
         "arabic": "تسمى البراءة لافتتاحها بالبراءة من المشركين: 'براءة من الله ورسوله'.",
         "english": "Called Disavowal for opening with disavowal from polytheists: 'A declaration of disassociation from Allah and His Messenger'."
@@ -56,7 +65,10 @@
   "virtues": [
     {
       "id": "time-machine",
-      "title": { "arabic": "آلة الزمن", "english": "Time Machine" },
+      "title": {
+        "arabic": "آلة الزمن",
+        "english": "Time Machine"
+      },
       "hadith": {
         "arabic": "التوبة هي الوسيلة الوحيدة لمسح أخطاء الماضي التي لا يمكن لأي إنسان تغييرها مادياً - بالندم، يُمحى الذنب في اللحظة.",
         "english": "Repentance is the only means to erase past mistakes that no human can physically change - through regret, the sin is erased in the moment."
@@ -64,7 +76,10 @@
     },
     {
       "id": "universal-repentance",
-      "title": { "arabic": "التوبة للجميع", "english": "Repentance for All" },
+      "title": {
+        "arabic": "التوبة للجميع",
+        "english": "Repentance for All"
+      },
       "hadith": {
         "arabic": "السورة تأتي في الثلث الأخير من القرآن وفي الثلث الأخير من رمضان، لتقول إن التوبة مطلوبة في البداية، وفي المنتصف، وفي الختام.",
         "english": "The Surah comes in the last third of the Quran and the last third of Ramadan, to say that repentance is required at the beginning, middle, and end."
@@ -72,7 +87,10 @@
     },
     {
       "id": "compassionate-ending",
-      "title": { "arabic": "الختام الرحيم", "english": "Compassionate Ending" },
+      "title": {
+        "arabic": "الختام الرحيم",
+        "english": "Compassionate Ending"
+      },
       "hadith": {
         "arabic": "بعد كل التحذيرات، تختم السورة بلمسة حانية: 'لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رؤوف رحيم'.",
         "english": "After all warnings, the Surah ends with a tender touch: 'There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful'."
@@ -82,7 +100,10 @@
   "sections": [
     {
       "id": "disavowal",
-      "title": { "arabic": "البراءة من المشركين", "english": "Disavowal from Polytheists" },
+      "title": {
+        "arabic": "البراءة من المشركين",
+        "english": "Disavowal from Polytheists"
+      },
       "verses": "1-37",
       "description": {
         "arabic": "براءة من الله ورسوله - إعلان نهاية العهود مع المشركين",
@@ -91,7 +112,10 @@
     },
     {
       "id": "hypocrites",
-      "title": { "arabic": "فضح المنافقين", "english": "Exposing Hypocrites" },
+      "title": {
+        "arabic": "فضح المنافقين",
+        "english": "Exposing Hypocrites"
+      },
       "verses": "38-72",
       "description": {
         "arabic": "كشف المنافقين الذين تخلفوا عن الجهاد وأولي الطول الذين قعدوا",
@@ -100,7 +124,10 @@
     },
     {
       "id": "believers-repentance",
-      "title": { "arabic": "توبة المؤمنين", "english": "Believers' Repentance" },
+      "title": {
+        "arabic": "توبة المؤمنين",
+        "english": "Believers' Repentance"
+      },
       "verses": "73-99",
       "description": {
         "arabic": "توبة الثلاثة الذين خُلفوا ودعوة المؤمنين لإعادة ترتيب الأولويات",
@@ -109,7 +136,10 @@
     },
     {
       "id": "priorities",
-      "title": { "arabic": "إعادة ترتيب الأولويات", "english": "Reordering Priorities" },
+      "title": {
+        "arabic": "إعادة ترتيب الأولويات",
+        "english": "Reordering Priorities"
+      },
       "verses": "100-118",
       "description": {
         "arabic": "قل إن كان آباؤكم وأبناؤكم... أحب إليكم من الله - وضع الله في مركز الحياة",
@@ -118,7 +148,10 @@
     },
     {
       "id": "conclusion",
-      "title": { "arabic": "الخاتمة الرحيمة", "english": "Merciful Conclusion" },
+      "title": {
+        "arabic": "الخاتمة الرحيمة",
+        "english": "Merciful Conclusion"
+      },
       "verses": "119-129",
       "description": {
         "arabic": "لقد جاءكم رسول من أنفسكم... رؤوف رحيم - الرأفة والرحمة بعد الشدة",
@@ -132,7 +165,10 @@
       "themes": [
         {
           "id": "disavowal-polytheists",
-          "title": { "arabic": "البراءة من المشركين", "english": "Disavowal from Polytheists" },
+          "title": {
+            "arabic": "البراءة من المشركين",
+            "english": "Disavowal from Polytheists"
+          },
           "icon": "Shield",
           "description": {
             "arabic": "براءة من الله ورسوله إلى الذين عاهدتم من المشركين - إعلان نهاية العهود مع من نقضوا",
@@ -141,7 +177,10 @@
         },
         {
           "id": "exposing-hypocrites",
-          "title": { "arabic": "فضح المنافقين", "english": "Exposing Hypocrites" },
+          "title": {
+            "arabic": "فضح المنافقين",
+            "english": "Exposing Hypocrites"
+          },
           "icon": "Eye",
           "description": {
             "arabic": "كشف المنافقين الذين تخلفوا عن الجهاد وأظهروا الإيمان وأبطنوا الكفر",
@@ -150,7 +189,10 @@
         },
         {
           "id": "jihad-rulings",
-          "title": { "arabic": "أحكام الجهاد", "english": "Jihad Rulings" },
+          "title": {
+            "arabic": "أحكام الجهاد",
+            "english": "Jihad Rulings"
+          },
           "icon": "Sword",
           "description": {
             "arabic": "بيان أحكام الجهاد والنفير في سبيل الله وذم القاعدين بلا عذر",
@@ -158,8 +200,7 @@
           }
         }
       ]
-    }
-,
+    },
     {
       "category": "Psychological Pillars - Repentance as Transformation",
       "description": {
@@ -170,7 +211,10 @@
         {
           "id": "pillar-past",
           "floor": 1,
-          "title": { "arabic": "تغيير الماضي بالندم", "english": "Changing the Past Through Regret" },
+          "title": {
+            "arabic": "تغيير الماضي بالندم",
+            "english": "Changing the Past Through Regret"
+          },
           "icon": "Rewind",
           "description": {
             "arabic": "التوبة هي الوسيلة الوحيدة لمسح أخطاء الماضي التي لا يمكن لأي إنسان تغييرها مادياً - بالندم، يُمحى الذنب في اللحظة",
@@ -188,7 +232,10 @@
         {
           "id": "pillar-present",
           "floor": 2,
-          "title": { "arabic": "إصلاح الحاضر بالإقلاع", "english": "Fixing the Present Through Cessation" },
+          "title": {
+            "arabic": "إصلاح الحاضر بالإقلاع",
+            "english": "Fixing the Present Through Cessation"
+          },
           "icon": "StopCircle",
           "description": {
             "arabic": "التوقف الفوري عن الذنب في الحاضر - قرار حاسم بترك المعصية الآن، لا غداً ولا بعد رمضان",
@@ -206,7 +253,10 @@
         {
           "id": "pillar-future",
           "floor": 3,
-          "title": { "arabic": "ضمان المستقبل بالعزم", "english": "Securing the Future Through Resolve" },
+          "title": {
+            "arabic": "ضمان المستقبل بالعزم",
+            "english": "Securing the Future Through Resolve"
+          },
           "icon": "TrendingUp",
           "description": {
             "arabic": "العزم الصادق على عدم العودة للذنب في المستقبل - وعد مع الله بأنك لن تعود، وإن عدت فستتوب فوراً",
@@ -224,7 +274,10 @@
         {
           "id": "pillar-priorities",
           "floor": 4,
-          "title": { "arabic": "إعادة ترتيب الأولويات", "english": "Reordering Priorities" },
+          "title": {
+            "arabic": "إعادة ترتيب الأولويات",
+            "english": "Reordering Priorities"
+          },
           "icon": "List",
           "description": {
             "arabic": "وضع الله في مركز الحياة - التوبة من تأخير الله في قائمة الأولويات، حتى لو كانت الأشياء الأخرى حلالاً",
@@ -248,7 +301,10 @@
       "lessons": [
         {
           "id": "repentance-anytime",
-          "title": { "arabic": "التوبة في أي وقت", "english": "Repentance Anytime" },
+          "title": {
+            "arabic": "التوبة في أي وقت",
+            "english": "Repentance Anytime"
+          },
           "content": {
             "arabic": "السورة تأتي في الثلث الأخير من القرآن وفي الثلث الأخير من رمضان، لتقول إن التوبة مطلوبة في البداية، وفي المنتصف، وفي الختام - لا تقل 'فات الأوان'.",
             "english": "The Surah comes in the last third of the Quran and the last third of Ramadan, to say that repentance is required at the beginning, middle, and end - don't say 'it's too late'."
@@ -256,7 +312,10 @@
         },
         {
           "id": "repentance-for-enemies",
-          "title": { "arabic": "التوبة لأشد الأعداء", "english": "Repentance for Worst Enemies" },
+          "title": {
+            "arabic": "التوبة لأشد الأعداء",
+            "english": "Repentance for Worst Enemies"
+          },
           "content": {
             "arabic": "فتح الله باب التوبة لمن حاربوا النبي ﷺ وآذوا المؤمنين (المشركين والمنافقين) - إذا كان الله يقبل توبة هؤلاء، فكيف لا يقبل توبتك أنت كمسلم مقصر؟",
             "english": "Allah opened the door of repentance for those who fought the Prophet ﷺ and harmed believers (polytheists and hypocrites) - if Allah accepts their repentance, how would He not accept yours as a negligent Muslim?"
@@ -264,7 +323,10 @@
         },
         {
           "id": "facilitate-repentance",
-          "title": { "arabic": "تسهيل التوبة للآخرين", "english": "Facilitating Repentance for Others" },
+          "title": {
+            "arabic": "تسهيل التوبة للآخرين",
+            "english": "Facilitating Repentance for Others"
+          },
           "content": {
             "arabic": "توجيه للمؤمنين بأن يساعدوا الناس على العودة لله، ولا ينفروهم، ويهيئوا لهم مناخاً آمناً للتغيير - لا تكن عقبة في طريق توبة أحد.",
             "english": "Guidance for believers to help people return to Allah, not repel them, and create a safe climate for change - don't be an obstacle in anyone's path to repentance."
@@ -272,7 +334,10 @@
         },
         {
           "id": "believers-sins",
-          "title": { "arabic": "ذنوب المؤمنين الخفية", "english": "Hidden Sins of Believers" },
+          "title": {
+            "arabic": "ذنوب المؤمنين الخفية",
+            "english": "Hidden Sins of Believers"
+          },
           "content": {
             "arabic": "التوبة ليست من المعاصي فقط، بل من ذنوب خفية يقع فيها المؤمنون: تأخير الله في الأولويات، الأنانية والقعود، الرضا بالخوالف.",
             "english": "Repentance isn't just from sins, but from hidden transgressions believers fall into: delaying Allah in priorities, selfishness and sitting back, being content with staying behind."
@@ -280,7 +345,10 @@
         },
         {
           "id": "three-conditions",
-          "title": { "arabic": "شروط التوبة الثلاثة", "english": "Three Conditions of Repentance" },
+          "title": {
+            "arabic": "شروط التوبة الثلاثة",
+            "english": "Three Conditions of Repentance"
+          },
           "content": {
             "arabic": "التوبة عمل قلبي لا يحتاج مجهوداً بدنياً: الندم (عاطفة)، الإقلاع (قرار)، العزم (وعد) - ثلاث خطوات بسيطة تمحو الذنوب.",
             "english": "Repentance is heart's work that doesn't need physical effort: regret (emotion), cessation (decision), resolve (promise) - three simple steps erase sins."
@@ -288,7 +356,10 @@
         },
         {
           "id": "compassionate-ending",
-          "title": { "arabic": "الختام الرحيم", "english": "Compassionate Ending" },
+          "title": {
+            "arabic": "الختام الرحيم",
+            "english": "Compassionate Ending"
+          },
           "content": {
             "arabic": "بعد كل التحذيرات، تختم السورة بلمسة حانية: 'لقد جاءكم رسول من أنفسكم عزيز عليه ما عنتم حريص عليكم بالمؤمنين رؤوف رحيم' - الله يريد توبتك لا هلاكك.",
             "english": "After all warnings, the Surah ends with tender touch: 'There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful' - Allah wants your repentance, not your destruction."
@@ -306,7 +377,10 @@
         {
           "id": "three-left-behind",
           "story": "Three Who Were Left Behind",
-          "title": { "arabic": "الثلاثة الذين خُلفوا", "english": "The Three Who Were Left Behind" },
+          "title": {
+            "arabic": "الثلاثة الذين خُلفوا",
+            "english": "The Three Who Were Left Behind"
+          },
           "content": {
             "arabic": "كعب بن مالك ومرارة بن الربيع وهلال بن أمية تخلفوا عن غزوة تبوك بلا عذر - ضاقت عليهم الأرض بما رحبت حتى تاب الله عليهم",
             "english": "Ka'b ibn Malik, Murarah ibn Rabi', and Hilal ibn Umayyah stayed behind from Tabuk expedition without excuse - the earth became constrained for them despite its vastness until Allah accepted their repentance"
@@ -323,7 +397,10 @@
         {
           "id": "eight-priorities",
           "story": "Eight Beloved Things",
-          "title": { "arabic": "الثمانية المحبوبة", "english": "Eight Beloved Things" },
+          "title": {
+            "arabic": "الثمانية المحبوبة",
+            "english": "Eight Beloved Things"
+          },
           "content": {
             "arabic": "الآية 24 تضع 8 أشياء محببة للنفس (آباء، أبناء، إخوان، أزواج، عشيرة، أموال، تجارة، مساكن) - كلها حلال، لكن المشكلة إذا صارت 'أحب إليكم من الله ورسوله'",
             "english": "Verse 24 lists 8 things beloved to the soul (fathers, sons, brothers, wives, relatives, wealth, commerce, dwellings) - all permissible, but the problem is if they become 'more beloved to you than Allah and His Messenger'"
@@ -332,12 +409,14 @@
             "arabic": "راجع قائمة أولوياتك: هل الله في المركز؟ أم أن هذه الثمانية أصبحت أحب إليك من الله؟ التوبة هنا هي إعادة الله لمركز حياتك",
             "english": "Review your priority list: Is Allah at the centre? Or have these eight become more beloved to you than Allah? Repentance here is returning Allah to the centre of your life"
           }
-        }
-,
+        },
         {
           "id": "heaviness-earth",
           "story": "Heaviness to Earth",
-          "title": { "arabic": "التثاقل إلى الأرض", "english": "Heaviness to Earth" },
+          "title": {
+            "arabic": "التثاقل إلى الأرض",
+            "english": "Heaviness to Earth"
+          },
           "content": {
             "arabic": "يا أيها الذين آمنوا ما لكم إذا قيل لكم انفروا في سبيل الله اثّاقلتم إلى الأرض - التوبة من العيش للنفس فقط دون تقديم نفع للدين أو الوطن أو الناس",
             "english": "'O you who have believed, what is [the matter] with you that, when you are told to go forth in the cause of Allah, you adhere heavily to the earth?' - repenting from living for self only without providing benefit to religion, nation, or people"
@@ -350,7 +429,10 @@
         {
           "id": "those-with-means",
           "story": "Those with Means",
-          "title": { "arabic": "أولو الطول", "english": "Those with Means" },
+          "title": {
+            "arabic": "أولو الطول",
+            "english": "Those with Means"
+          },
           "content": {
             "arabic": "السورة توبخ 'أولي الطول' (أصحاب الإمكانيات) الذين يطلبون الإذن بالقعود - الرضا بالخوالف بينما الآخرون يبذلون جهدهم",
             "english": "The Surah rebukes 'those with means' (those with capabilities) who ask permission to sit back - being content with staying behind while others exert their efforts"
@@ -363,7 +445,10 @@
         {
           "id": "hypocrites-excuses",
           "story": "Hypocrites",
-          "title": { "arabic": "أعذار المنافقين", "english": "Hypocrites' Excuses" },
+          "title": {
+            "arabic": "أعذار المنافقين",
+            "english": "Hypocrites' Excuses"
+          },
           "content": {
             "arabic": "المنافقون اعتذروا بأعذار واهية (المرض، الحر، الخوف) - الله فضحهم وكشف كذبهم",
             "english": "Hypocrites made flimsy excuses (illness, heat, fear) - Allah exposed them and revealed their lies"
@@ -376,7 +461,10 @@
         {
           "id": "mosque-harm",
           "story": "Mosque of Harm",
-          "title": { "arabic": "مسجد الضرار", "english": "Mosque of Harm" },
+          "title": {
+            "arabic": "مسجد الضرار",
+            "english": "Mosque of Harm"
+          },
           "content": {
             "arabic": "المنافقون بنوا مسجداً ضراراً وكفراً وتفريقاً بين المؤمنين - الله أمر بهدمه لأن النية كانت فاسدة",
             "english": "Hypocrites built a mosque for harm, disbelief, and division among believers - Allah commanded its demolition because the intention was corrupt"
@@ -389,7 +477,10 @@
         {
           "id": "adam-dua",
           "story": "Adam's Supplication",
-          "title": { "arabic": "دعاء آدم", "english": "Adam's Supplication" },
+          "title": {
+            "arabic": "دعاء آدم",
+            "english": "Adam's Supplication"
+          },
           "content": {
             "arabic": "ربنا ظلمنا أنفسنا وإن لم تغفر لنا وترحمنا لنكونن من الخاسرين - دعاء سيدنا آدم الذي تلقاه من ربه ليتوب عليه",
             "english": "'Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers' - Prophet Adam's supplication that he received from his Lord to repent"
@@ -408,7 +499,10 @@
       "gems": [
         {
           "id": "repentance-accepted",
-          "title": { "arabic": "قبول التوبة", "english": "Acceptance of Repentance" },
+          "title": {
+            "arabic": "قبول التوبة",
+            "english": "Acceptance of Repentance"
+          },
           "content": {
             "arabic": "ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوا - الله يتوب عليك أولاً ليعينك على التوبة، فلا تيأس",
             "english": "'Then He turned to them so they could repent' - Allah turns to you first to help you repent, so don't despair"
@@ -420,7 +514,10 @@
         },
         {
           "id": "prophet-compassion",
-          "title": { "arabic": "رأفة النبي", "english": "Prophet's Compassion" },
+          "title": {
+            "arabic": "رأفة النبي",
+            "english": "Prophet's Compassion"
+          },
           "content": {
             "arabic": "لَقَدْ جَاءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِالْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ - النبي ﷺ حريص على توبتك ونجاتك",
             "english": "'There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you and to the believers is kind and merciful' - the Prophet ﷺ is keen on your repentance and salvation"
@@ -432,7 +529,10 @@
         },
         {
           "id": "allah-sufficient",
-          "title": { "arabic": "حسبنا الله", "english": "Allah is Sufficient" },
+          "title": {
+            "arabic": "حسبنا الله",
+            "english": "Allah is Sufficient"
+          },
           "content": {
             "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ - الله كافيك في كل أمورك، فتوكل عليه وتب إليه",
             "english": "'Sufficient for us is Allah, and [He is] the best Disposer of affairs' - Allah is sufficient for you in all your matters, so rely on Him and repent to Him"
@@ -444,7 +544,10 @@
         },
         {
           "id": "priority-verse",
-          "title": { "arabic": "آية الأولويات", "english": "Priorities Verse" },
+          "title": {
+            "arabic": "آية الأولويات",
+            "english": "Priorities Verse"
+          },
           "content": {
             "arabic": "قُلْ إِن كَانَ آبَاؤُكُمْ... أَحَبَّ إِلَيْكُم مِّنَ اللَّهِ وَرَسُولِهِ - راجع أولوياتك: هل الله في المركز؟",
             "english": "'Say, if your fathers... are more beloved to you than Allah and His Messenger' - review your priorities: is Allah at the centre?"
@@ -465,30 +568,24 @@
       "gems": [
         {
           "id": "adam-repentance-dua",
-          "title": { "arabic": "دعاء آدم للتوبة", "english": "Adam's Repentance Supplication" },
+          "title": {
+            "arabic": "دعاء آدم للتوبة",
+            "english": "Adam's Repentance Supplication"
+          },
           "content": {
-            "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
-            "english": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers"
-          },
-          "when": {
-            "arabic": "عند الشعور بالذنب والتقصير - دعاء سيدنا آدم الذي تلقاه من ربه ليتوب عليه",
-            "english": "When feeling guilt and shortcoming - Prophet Adam's supplication that he received from his Lord to repent"
-          },
-          "purpose": {
-            "arabic": "الاعتراف الصادق بالذنب وطلب المغفرة - الكلمات الصادقة تفتح أبواب المغفرة فوراً",
-            "english": "Sincere acknowledgment of sin and request for forgiveness - sincere words open doors of forgiveness immediately"
+            "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ عند الشعور بالذنب والتقصير - دعاء سيدنا آدم الذي تلقاه من ربه ليتوب عليه الاعتراف الصادق بالذنب وطلب المغفرة - الكلمات الصادقة تفتح أبواب المغفرة فوراً",
+            "english": "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers When feeling guilt and shortcoming - Prophet Adam's supplication that he received from his Lord to repent Sincere acknowledgment of sin and request for forgiveness - sincere words open doors of forgiveness immediately"
           }
         },
         {
           "id": "three-steps-practice",
-          "title": { "arabic": "تمرين الخطوات الثلاث", "english": "Three Steps Exercise" },
-          "content": {
-            "arabic": "التوبة عمل قلبي بسيط: 1) ندم (حزن قلبي على التقصير)، 2) إقلاع (توقف فوري الآن)، 3) عزم (نية صادقة بعدم العودة)",
-            "english": "Repentance is simple heart work: 1) Regret (heart's sorrow for shortcoming), 2) Cessation (immediate stop now), 3) Resolve (sincere intention not to return)"
+          "title": {
+            "arabic": "تمرين الخطوات الثلاث",
+            "english": "Three Steps Exercise"
           },
-          "when": {
-            "arabic": "عند الوقوع في أي ذنب - لا تؤجل التوبة، افعلها فوراً",
-            "english": "When falling into any sin - don't postpone repentance, do it immediately"
+          "content": {
+            "arabic": "التوبة عمل قلبي بسيط: 1) ندم (حزن قلبي على التقصير)، 2) إقلاع (توقف فوري الآن)، 3) عزم (نية صادقة بعدم العودة) عند الوقوع في أي ذنب - لا تؤجل التوبة، افعلها فوراً",
+            "english": "Repentance is simple heart work: 1) Regret (heart's sorrow for shortcoming), 2) Cessation (immediate stop now), 3) Resolve (sincere intention not to return) When falling into any sin - don't postpone repentance, do it immediately"
           },
           "practical": {
             "arabic": "اجلس في مكان هادئ، استحضر الذنب، اشعر بالندم، قرر التوقف الآن، اعزم على عدم العودة - ثلاث دقائق تمحو الذنوب",
@@ -497,42 +594,35 @@
         },
         {
           "id": "priorities-review",
-          "title": { "arabic": "مراجعة الأولويات", "english": "Priorities Review" },
+          "title": {
+            "arabic": "مراجعة الأولويات",
+            "english": "Priorities Review"
+          },
           "content": {
-            "arabic": "اكتب قائمة بأولوياتك الحقيقية (ما تقضي فيه وقتك ومالك وتفكيرك) - ثم راجع: هل الله في المركز؟ أم أن الثمانية (عائلة، مال، عمل، راحة...) أصبحت أحب إليك من الله؟",
-            "english": "Write list of your real priorities (what you spend your time, money, and thoughts on) - then review: is Allah at the centre? Or have the eight (family, money, work, comfort...) become more beloved to you than Allah?"
-          },
-          "when": {
-            "arabic": "مرة كل شهر أو في نهاية رمضان - مراجعة دورية للأولويات",
-            "english": "Once every month or at end of Ramadan - periodic review of priorities"
-          },
-          "purpose": {
-            "arabic": "إعادة الله لمركز الحياة - التوبة من تأخير الله في قائمة الأولويات",
-            "english": "Returning Allah to centre of life - repenting from delaying Allah in priority list"
+            "arabic": "اكتب قائمة بأولوياتك الحقيقية (ما تقضي فيه وقتك ومالك وتفكيرك) - ثم راجع: هل الله في المركز؟ أم أن الثمانية (عائلة، مال، عمل، راحة...) أصبحت أحب إليك من الله؟ مرة كل شهر أو في نهاية رمضان - مراجعة دورية للأولويات إعادة الله لمركز الحياة - التوبة من تأخير الله في قائمة الأولويات",
+            "english": "Write list of your real priorities (what you spend your time, money, and thoughts on) - then review: is Allah at the centre? Or have the eight (family, money, work, comfort...) become more beloved to you than Allah? Once every month or at end of Ramadan - periodic review of priorities Returning Allah to centre of life - repenting from delaying Allah in priority list"
           }
         },
         {
           "id": "effectiveness-check",
-          "title": { "arabic": "فحص الفعالية", "english": "Effectiveness Check" },
-          "content": {
-            "arabic": "اسأل نفسك: هل أنا 'فعال' أم 'قاعد'? هل أقدم نفعاً للدين والوطن والناس، أم أعيش لنفسي فقط؟ - التوبة من التثاقل إلى الأرض",
-            "english": "Ask yourself: am I 'effective' or 'sitting back'? Do I provide benefit to religion, nation, and people, or do I live for myself only? - repenting from heaviness to earth"
+          "title": {
+            "arabic": "فحص الفعالية",
+            "english": "Effectiveness Check"
           },
-          "when": {
-            "arabic": "عند الشعور بالكسل أو الأنانية - تذكر: 'ما لكم إذا قيل لكم انفروا في سبيل الله اثّاقلتم إلى الأرض'",
-            "english": "When feeling lazy or selfish - remember: 'What is [the matter] with you that, when you are told to go forth in the cause of Allah, you adhere heavily to the earth?'"
+          "content": {
+            "arabic": "اسأل نفسك: هل أنا 'فعال' أم 'قاعد'? هل أقدم نفعاً للدين والوطن والناس، أم أعيش لنفسي فقط؟ - التوبة من التثاقل إلى الأرض عند الشعور بالكسل أو الأنانية - تذكر: 'ما لكم إذا قيل لكم انفروا في سبيل الله اثّاقلتم إلى الأرض'",
+            "english": "Ask yourself: am I 'effective' or 'sitting back'? Do I provide benefit to religion, nation, and people, or do I live for myself only? - repenting from heaviness to earth When feeling lazy or selfish - remember: 'What is [the matter] with you that, when you are told to go forth in the cause of Allah, you adhere heavily to the earth?'"
           }
         },
         {
           "id": "means-responsibility",
-          "title": { "arabic": "مسؤولية أولي الطول", "english": "Responsibility of Those with Means" },
-          "content": {
-            "arabic": "إذا كان عندك إمكانيات (مال، علم، وقت، مهارة، منصب)، فالقعود عن العطاء ذنب يحتاج توبة - استخدم نعم الله في خدمة الناس",
-            "english": "If you have capabilities (money, knowledge, time, skill, position), sitting back from giving is a sin that needs repentance - use Allah's blessings in serving people"
+          "title": {
+            "arabic": "مسؤولية أولي الطول",
+            "english": "Responsibility of Those with Means"
           },
-          "when": {
-            "arabic": "عند امتلاك أي إمكانية أو نعمة - تذكر أنها أمانة ومسؤولية",
-            "english": "When possessing any capability or blessing - remember it's a trust and responsibility"
+          "content": {
+            "arabic": "إذا كان عندك إمكانيات (مال، علم، وقت، مهارة، منصب)، فالقعود عن العطاء ذنب يحتاج توبة - استخدم نعم الله في خدمة الناس عند امتلاك أي إمكانية أو نعمة - تذكر أنها أمانة ومسؤولية",
+            "english": "If you have capabilities (money, knowledge, time, skill, position), sitting back from giving is a sin that needs repentance - use Allah's blessings in serving people When possessing any capability or blessing - remember it's a trust and responsibility"
           },
           "challenge": {
             "arabic": "تحدي: اختر مجالاً واحداً تخدم فيه الناس بإمكانياتك هذا الشهر",
@@ -541,14 +631,13 @@
         },
         {
           "id": "facilitate-others-repentance",
-          "title": { "arabic": "تسهيل توبة الآخرين", "english": "Facilitating Others' Repentance" },
-          "content": {
-            "arabic": "ساعد الناس على العودة لله، ولا تنفرهم، وهيئ لهم مناخاً آمناً للتغيير - لا تكن عقبة في طريق توبة أحد بالتوبيخ أو التشهير",
-            "english": "Help people return to Allah, don't repel them, and create safe climate for change - don't be obstacle in anyone's path to repentance through rebuke or shaming"
+          "title": {
+            "arabic": "تسهيل توبة الآخرين",
+            "english": "Facilitating Others' Repentance"
           },
-          "when": {
-            "arabic": "عند رؤية شخص يريد التوبة أو التغيير - كن معيناً لا معوقاً",
-            "english": "When seeing someone wanting to repent or change - be helper not hindrance"
+          "content": {
+            "arabic": "ساعد الناس على العودة لله، ولا تنفرهم، وهيئ لهم مناخاً آمناً للتغيير - لا تكن عقبة في طريق توبة أحد بالتوبيخ أو التشهير عند رؤية شخص يريد التوبة أو التغيير - كن معيناً لا معوقاً",
+            "english": "Help people return to Allah, don't repel them, and create safe climate for change - don't be obstacle in anyone's path to repentance through rebuke or shaming When seeing someone wanting to repent or change - be helper not hindrance"
           },
           "principle": {
             "arabic": "الله فتح باب التوبة لأشد الأعداء، فكيف تغلقه أنت في وجه أخيك المسلم؟",
@@ -557,14 +646,13 @@
         },
         {
           "id": "immediate-repentance",
-          "title": { "arabic": "التوبة الفورية", "english": "Immediate Repentance" },
-          "content": {
-            "arabic": "لا تؤجل التوبة - قل الآن: 'أستغفر الله وأتوب إليه' - التوبة لا تحتاج استعداداً أو وقتاً خاصاً، فقط قرار قلبي فوري",
-            "english": "Don't postpone repentance - say now: 'I seek Allah's forgiveness and repent to Him' - repentance doesn't need preparation or special time, just immediate heart decision"
+          "title": {
+            "arabic": "التوبة الفورية",
+            "english": "Immediate Repentance"
           },
-          "when": {
-            "arabic": "فوراً بعد أي ذنب - لا تنتظر رمضان أو الجمعة أو وقتاً خاصاً",
-            "english": "Immediately after any sin - don't wait for Ramadan or Friday or special time"
+          "content": {
+            "arabic": "لا تؤجل التوبة - قل الآن: 'أستغفر الله وأتوب إليه' - التوبة لا تحتاج استعداداً أو وقتاً خاصاً، فقط قرار قلبي فوري فوراً بعد أي ذنب - لا تنتظر رمضان أو الجمعة أو وقتاً خاصاً",
+            "english": "Don't postpone repentance - say now: 'I seek Allah's forgiveness and repent to Him' - repentance doesn't need preparation or special time, just immediate heart decision Immediately after any sin - don't wait for Ramadan or Friday or special time"
           },
           "reminder": {
             "arabic": "السورة تأتي في الثلث الأخير لتقول: التوبة مطلوبة في البداية والمنتصف والختام - لا تقل 'فات الأوان'",

@@ -30,7 +30,10 @@
   "names": [
     {
       "id": "primary",
-      "name": { "arabic": "سورة النجم", "english": "The Star" },
+      "name": {
+        "arabic": "سورة النجم",
+        "english": "The Star"
+      },
       "reason": {
         "arabic": "سميت بالنجم لافتتاحها بالقسم: 'والنجم إذا هوى' - النجم يستمر في مداره وتوهجه مهما كان الليل مظلماً، وحتى عندما يهوي لا ينطفئ نوره.",
         "english": "Named after the opening oath: 'By the star when it descends' - the star continues in its orbit and glow no matter how dark the night, and even when it falls, its light doesn't extinguish."
@@ -40,7 +43,10 @@
   "virtues": [
     {
       "id": "striving-standard",
-      "title": { "arabic": "معيار السعي", "english": "Striving Standard" },
+      "title": {
+        "arabic": "معيار السعي",
+        "english": "Striving Standard"
+      },
       "hadith": {
         "arabic": "قيمتك عند الله هي 'سعيك' (عرقك، تفكيرك، سهرك، محاولاتك) وليست النتيجة - الله يحاسبك على ما هو في يدك (السعي)، ولا يحاسبك على ما هو بيد القدر (النتيجة).",
         "english": "Your value with Allah is your 'striving' (your sweat, thinking, staying up, attempts) not the result - Allah holds you accountable for what's in your hand (striving), not for what's in destiny's hand (result)."
@@ -48,7 +54,10 @@
     },
     {
       "id": "seen-by-allah",
-      "title": { "arabic": "مرئي عند الله", "english": "Seen by Allah" },
+      "title": {
+        "arabic": "مرئي عند الله",
+        "english": "Seen by Allah"
+      },
       "hadith": {
         "arabic": "أنت 'مرئي' ومقدر عند الله حتى لو لم يرك البشر أو يقدروا شغلك - السعي لا يضيع أبداً.",
         "english": "You are 'seen' and valued by Allah even if humans don't see you or appreciate your work - striving never goes to waste."
@@ -56,7 +65,10 @@
     },
     {
       "id": "fullest-reward",
-      "title": { "arabic": "الجزاء الأوفى", "english": "Fullest Reward" },
+      "title": {
+        "arabic": "الجزاء الأوفى",
+        "english": "Fullest Reward"
+      },
       "hadith": {
         "arabic": "الوعد بالجزاء 'الأوفى' (الأكمل) الذي سيأتي في توقيت الله لا في توقيتك أنت - استمر في السعي، والجزاء قد يأتي من حيث لا تحتسب.",
         "english": "Promise of the 'fullest' (most complete) reward that will come in Allah's timing not yours - continue striving, and the reward may come from where you don't expect."
@@ -66,7 +78,10 @@
   "sections": [
     {
       "id": "miraj",
-      "title": { "arabic": "رحلة المعراج", "english": "Mi'raj Journey" },
+      "title": {
+        "arabic": "رحلة المعراج",
+        "english": "Mi'raj Journey"
+      },
       "verses": "1-18",
       "description": {
         "arabic": "والنجم إذا هوى - لقد رأى من آيات ربه الكبرى",
@@ -75,7 +90,10 @@
     },
     {
       "id": "idols",
-      "title": { "arabic": "إبطال عبادة الأصنام", "english": "Refuting Idol Worship" },
+      "title": {
+        "arabic": "إبطال عبادة الأصنام",
+        "english": "Refuting Idol Worship"
+      },
       "verses": "19-32",
       "description": {
         "arabic": "أفرأيتم اللات والعزى - إن هي إلا أسماء سميتموها",
@@ -84,7 +102,10 @@
     },
     {
       "id": "striving-verses",
-      "title": { "arabic": "آيات السعي", "english": "Striving Verses" },
+      "title": {
+        "arabic": "آيات السعي",
+        "english": "Striving Verses"
+      },
       "verses": "33-41",
       "description": {
         "arabic": "وأن ليس للإنسان إلا ما سعى - وأن سعيه سوف يرى - ثم يجزاه الجزاء الأوفى",
@@ -93,7 +114,10 @@
     },
     {
       "id": "divine-power",
-      "title": { "arabic": "قدرة الله", "english": "Allah's Power" },
+      "title": {
+        "arabic": "قدرة الله",
+        "english": "Allah's Power"
+      },
       "verses": "42-55",
       "description": {
         "arabic": "وأن إلى ربك المنتهى - وأنه هو أضحك وأبكى",
@@ -102,7 +126,10 @@
     },
     {
       "id": "conclusion",
-      "title": { "arabic": "الخاتمة", "english": "Conclusion" },
+      "title": {
+        "arabic": "الخاتمة",
+        "english": "Conclusion"
+      },
       "verses": "56-62",
       "description": {
         "arabic": "فاسجدوا لله واعبدوا - دعوة للسجود والعبادة",
@@ -116,7 +143,10 @@
       "themes": [
         {
           "id": "miraj-journey",
-          "title": { "arabic": "رحلة المعراج", "english": "Mi'raj Journey" },
+          "title": {
+            "arabic": "رحلة المعراج",
+            "english": "Mi'raj Journey"
+          },
           "icon": "TrendingUp",
           "description": {
             "arabic": "لقد رأى من آيات ربه الكبرى - رحلة النبي ﷺ إلى السماوات العلى",
@@ -125,7 +155,10 @@
         },
         {
           "id": "revelation-truth",
-          "title": { "arabic": "صدق الوحي", "english": "Truthfulness of Revelation" },
+          "title": {
+            "arabic": "صدق الوحي",
+            "english": "Truthfulness of Revelation"
+          },
           "icon": "Book",
           "description": {
             "arabic": "ما ضل صاحبكم وما غوى * وما ينطق عن الهوى - إثبات صدق الرسالة",
@@ -134,7 +167,10 @@
         },
         {
           "id": "ultimate-destination",
-          "title": { "arabic": "المنتهى إلى الله", "english": "Ultimate Destination to Allah" },
+          "title": {
+            "arabic": "المنتهى إلى الله",
+            "english": "Ultimate Destination to Allah"
+          },
           "icon": "Target",
           "description": {
             "arabic": "وأن إلى ربك المنتهى - كل شيء يرجع إلى الله في النهاية",
@@ -142,8 +178,7 @@
           }
         }
       ]
-    }
-,
+    },
     {
       "category": "Psychological Pillars - Liberation from Achievement Trap",
       "description": {
@@ -154,7 +189,10 @@
         {
           "id": "pillar-striving-value",
           "floor": 1,
-          "title": { "arabic": "قيمتك في السعي لا الإنجاز", "english": "Your Value is in Striving Not Achievement" },
+          "title": {
+            "arabic": "قيمتك في السعي لا الإنجاز",
+            "english": "Your Value is in Striving Not Achievement"
+          },
           "icon": "Activity",
           "description": {
             "arabic": "وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَى - قيمتك عند الله هي 'سعيك' (عرقك، تفكيرك، سهرك، محاولاتك) وليست النتيجة - الله يحاسبك على ما هو في يدك (السعي)، ولا يحاسبك على ما هو بيد القدر (النتيجة)",
@@ -172,7 +210,10 @@
         {
           "id": "pillar-seen-by-allah",
           "floor": 2,
-          "title": { "arabic": "سعيك مرئي عند الله", "english": "Your Striving is Seen by Allah" },
+          "title": {
+            "arabic": "سعيك مرئي عند الله",
+            "english": "Your Striving is Seen by Allah"
+          },
           "icon": "Eye",
           "description": {
             "arabic": "وَأَنَّ سَعْيَهُ سَوْفَ يُرَى - أنت 'مرئي' ومقدر عند الله حتى لو لم يرك البشر أو يقدروا شغلك - السعي لا يضيع أبداً",
@@ -190,7 +231,10 @@
         {
           "id": "pillar-fullest-reward",
           "floor": 3,
-          "title": { "arabic": "الجزاء الأوفى في توقيت الله", "english": "Fullest Reward in Allah's Timing" },
+          "title": {
+            "arabic": "الجزاء الأوفى في توقيت الله",
+            "english": "Fullest Reward in Allah's Timing"
+          },
           "icon": "Award",
           "description": {
             "arabic": "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَى - الوعد بالجزاء 'الأوفى' (الأكمل) الذي سيأتي في توقيت الله لا في توقيتك أنت - استمر في السعي، والجزاء قد يأتي من حيث لا تحتسب",
@@ -214,7 +258,10 @@
       "lessons": [
         {
           "id": "achievement-trap",
-          "title": { "arabic": "فخ الإنجاز", "english": "Achievement Trap" },
+          "title": {
+            "arabic": "فخ الإنجاز",
+            "english": "Achievement Trap"
+          },
           "content": {
             "arabic": "عالم البشر يقيمك بناءً على 'نتائجك' (كم معك من المال؟ كم عدد المتابعين؟ ما هو منصبك؟) - هذا المعيار مجهد لأن الإنجاز غالباً ما يكون بطيئاً، معقداً، وغير مضمون.",
             "english": "Human world evaluates you based on your 'results' (how much money do you have? how many followers? what's your position?) - this standard is exhausting because achievement is often slow, complex, and not guaranteed."
@@ -222,7 +269,10 @@
         },
         {
           "id": "internal-burnout",
-          "title": { "arabic": "الاحتراق الداخلي", "english": "Internal Burnout" },
+          "title": {
+            "arabic": "الاحتراق الداخلي",
+            "english": "Internal Burnout"
+          },
           "content": {
             "arabic": "عندما تبذل مجهوداً جباراً ولا تجد النتيجة المرجوة (مثل زوجة أفنت عمرها لزوجها ثم تخلى عنها، أو موظف بنى شركة ثم طُرد منها)، يحدث الإحباط واليأس لأن قيمتك في نظرك ارتبطت بالنتيجة فقط.",
             "english": "When you exert tremendous effort and don't find the desired result (like a wife who spent her life for her husband then he abandoned her, or an employee who built a company then was fired), frustration and despair occur because your value in your view was tied to the result only."
@@ -230,7 +280,10 @@
         },
         {
           "id": "quranic-solution",
-          "title": { "arabic": "الحل القرآني", "english": "Quranic Solution" },
+          "title": {
+            "arabic": "الحل القرآني",
+            "english": "Quranic Solution"
+          },
           "content": {
             "arabic": "الدستور الثلاثي (آيات السعي) هي 'حقنة فيتامينات' ضد الإحباط: 1) قيمتك في السعي لا الإنجاز، 2) سعيك مرئي عند الله، 3) الجزاء الأوفى آتٍ في توقيت الله.",
             "english": "The triple constitution (striving verses) is a 'vitamin injection' against frustration: 1) your value is in striving not achievement, 2) your striving is seen by Allah, 3) the fullest reward is coming in Allah's timing."
@@ -238,7 +291,10 @@
         },
         {
           "id": "focus-circles",
-          "title": { "arabic": "دائرة السعي ودائرة النتائج", "english": "Circle of Striving and Circle of Results" },
+          "title": {
+            "arabic": "دائرة السعي ودائرة النتائج",
+            "english": "Circle of Striving and Circle of Results"
+          },
           "content": {
             "arabic": "ركز على 'دائرة السعي' الخاصة بك (ما في يدك)، وأحسن فيها، واترك 'دائرة النتائج' (ما بيد الله) لخالق الكون - فك التعلق بالنتائج.",
             "english": "Focus on your 'circle of striving' (what's in your hand), excel in it, and leave the 'circle of results' (what's in Allah's hand) to the Creator of the universe - detach from results."
@@ -246,7 +302,10 @@
         },
         {
           "id": "star-symbolism",
-          "title": { "arabic": "رمزية النجم", "english": "Star Symbolism" },
+          "title": {
+            "arabic": "رمزية النجم",
+            "english": "Star Symbolism"
+          },
           "content": {
             "arabic": "النجم يستمر في مداره وتوهجه مهما كان الليل مظلماً، وحتى عندما 'يهوي' لا ينطفئ نوره - كن كالنجم؛ لا ينطفئ حماسك وسعيك حتى لو تعثرت.",
             "english": "The star continues in its orbit and glow no matter how dark the night, and even when it 'falls' its light doesn't extinguish - be like the star; your enthusiasm and striving don't extinguish even if you stumble."
@@ -254,7 +313,10 @@
         },
         {
           "id": "ultimate-destination",
-          "title": { "arabic": "المنتهى إلى الله", "english": "Ultimate Destination to Allah" },
+          "title": {
+            "arabic": "المنتهى إلى الله",
+            "english": "Ultimate Destination to Allah"
+          },
           "content": {
             "arabic": "وأن إلى ربك المنتهى - كل شيء يرجع إلى الله في النهاية، فاسجد لله واعبد - دعوة للراحة النفسية والاعتراف بأن المنتهى إلى الله.",
             "english": "'And that to your Lord is the finality' - everything returns to Allah in the end, so prostrate to Allah and worship - call for psychological rest and acknowledgment that the finality is to Allah."
@@ -272,7 +334,10 @@
         {
           "id": "miraj-after-striving",
           "story": "Mi'raj",
-          "title": { "arabic": "المعراج بعد السعي", "english": "Mi'raj After Striving" },
+          "title": {
+            "arabic": "المعراج بعد السعي",
+            "english": "Mi'raj After Striving"
+          },
           "content": {
             "arabic": "جاء المعراج بعد 10 سنوات من 'السعي' في مكة دون 'إنجاز' ملموس (عدد المسلمين كان قليلاً جداً) - رسالة للنبي ﷺ: استمر في السعي رغم غياب النتائج",
             "english": "Mi'raj came after 10 years of 'striving' in Makkah without tangible 'achievement' (number of Muslims was very small) - message to the Prophet ﷺ: continue striving despite absence of results"
@@ -281,12 +346,14 @@
             "arabic": "لأن النبي استمر في السعي رغم غياب النتائج، كافأه الله بالمعراج؛ وهو تكريم لم يصل إليه بشر - استمر في السعي، والجزاء قد يأتي من حيث لا تحتسب",
             "english": "Because the Prophet continued striving despite absence of results, Allah rewarded him with Mi'raj; an honour no human reached - continue striving, and the reward may come from where you don't expect"
           }
-        }
-,
+        },
         {
           "id": "taif-incident",
           "story": "Taif",
-          "title": { "arabic": "حادثة الطائف", "english": "Taif Incident" },
+          "title": {
+            "arabic": "حادثة الطائف",
+            "english": "Taif Incident"
+          },
           "content": {
             "arabic": "سعى النبي ﷺ وذهب للطائف مشياً (100 كم) وبذل أقصى جهده، فكانت النتيجة الدنيوية 'صفراً' (رُفض وضُرب بالحجارة) - لكن الله كافأه بالمعراج",
             "english": "The Prophet ﷺ strived and went to Taif walking (100 km) and exerted his utmost effort, so the worldly result was 'zero' (rejected and stoned) - but Allah rewarded him with Mi'raj"
@@ -299,7 +366,10 @@
         {
           "id": "hajar-striving",
           "story": "Hajar",
-          "title": { "arabic": "سعي هاجر", "english": "Hajar's Striving" },
+          "title": {
+            "arabic": "سعي هاجر",
+            "english": "Hajar's Striving"
+          },
           "content": {
             "arabic": "ركن السعي في الحج: تخليداً لفعل السيدة هاجر التي كانت تسعى بين الصفا والمروة وهي لا ترى ماءً، لكنها لم تتوقف - الماء (النتيجة) خرج من مكان لم تكن تسعى فيه (تحت قدم إسماعيل)",
             "english": "Sa'i pillar in Hajj: commemorating Lady Hajar's action who was striving between Safa and Marwa while not seeing water, but she didn't stop - water (result) came out from a place she wasn't striving in (under Ismail's foot)"
@@ -312,7 +382,10 @@
         {
           "id": "ten-years-makkah",
           "story": "Makkah Period",
-          "title": { "arabic": "عشر سنوات في مكة", "english": "Ten Years in Makkah" },
+          "title": {
+            "arabic": "عشر سنوات في مكة",
+            "english": "Ten Years in Makkah"
+          },
           "content": {
             "arabic": "10 سنوات من السعي في مكة دون إنجاز ملموس (عدد المسلمين كان قليلاً جداً) - لكن النبي ﷺ لم يتوقف عن السعي",
             "english": "10 years of striving in Makkah without tangible achievement (number of Muslims was very small) - but the Prophet ﷺ didn't stop striving"
@@ -325,7 +398,10 @@
         {
           "id": "wife-example",
           "story": "Modern Example",
-          "title": { "arabic": "مثال الزوجة", "english": "Wife Example" },
+          "title": {
+            "arabic": "مثال الزوجة",
+            "english": "Wife Example"
+          },
           "content": {
             "arabic": "زوجة أفنت عمرها لزوجها (سعي) ثم تخلى عنها (نتيجة صفر) - قيمتها عند الله هي سعيها، لا النتيجة التي بيد القدر",
             "english": "Wife who spent her life for her husband (striving) then he abandoned her (zero result) - her value with Allah is her striving, not the result which is in destiny's hand"
@@ -338,7 +414,10 @@
         {
           "id": "employee-example",
           "story": "Modern Example",
-          "title": { "arabic": "مثال الموظف", "english": "Employee Example" },
+          "title": {
+            "arabic": "مثال الموظف",
+            "english": "Employee Example"
+          },
           "content": {
             "arabic": "موظف بنى شركة (سعي) ثم طُرد منها (نتيجة صفر) - قيمته عند الله هي سعيه وإحسانه، لا النتيجة",
             "english": "Employee who built a company (striving) then was fired (zero result) - his value with Allah is his striving and excellence, not the result"
@@ -357,7 +436,10 @@
       "gems": [
         {
           "id": "striving-verse",
-          "title": { "arabic": "آية السعي", "english": "Striving Verse" },
+          "title": {
+            "arabic": "آية السعي",
+            "english": "Striving Verse"
+          },
           "content": {
             "arabic": "وَأَنْ لَيْسَ لِلْإِنْسَانِ إِلَّا مَا سَعَى - قيمتك عند الله هي سعيك، لا النتيجة",
             "english": "'And that there is not for man except that [good] for which he strives' - your value with Allah is your striving, not the result"
@@ -369,7 +451,10 @@
         },
         {
           "id": "seen-verse",
-          "title": { "arabic": "آية الرؤية", "english": "Seen Verse" },
+          "title": {
+            "arabic": "آية الرؤية",
+            "english": "Seen Verse"
+          },
           "content": {
             "arabic": "وَأَنَّ سَعْيَهُ سَوْفَ يُرَى - أنت مرئي ومقدر عند الله حتى لو لم يرك البشر",
             "english": "'And that his effort is going to be seen' - you are seen and valued by Allah even if humans don't see you"
@@ -381,7 +466,10 @@
         },
         {
           "id": "fullest-reward-verse",
-          "title": { "arabic": "آية الجزاء الأوفى", "english": "Fullest Reward Verse" },
+          "title": {
+            "arabic": "آية الجزاء الأوفى",
+            "english": "Fullest Reward Verse"
+          },
           "content": {
             "arabic": "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَى - الجزاء الأكمل آتٍ في توقيت الله",
             "english": "'Then he will be recompensed with the fullest recompense' - the most complete reward is coming in Allah's timing"
@@ -393,7 +481,10 @@
         },
         {
           "id": "ultimate-destination-verse",
-          "title": { "arabic": "آية المنتهى", "english": "Ultimate Destination Verse" },
+          "title": {
+            "arabic": "آية المنتهى",
+            "english": "Ultimate Destination Verse"
+          },
           "content": {
             "arabic": "وَأَنَّ إِلَىٰ رَبِّكَ الْمُنتَهَىٰ - كل شيء يرجع إلى الله في النهاية، فاسترح",
             "english": "'And that to your Lord is the finality' - everything returns to Allah in the end, so rest"
@@ -414,14 +505,13 @@
       "gems": [
         {
           "id": "blessed-landing-dua",
-          "title": { "arabic": "دعاء المنزل المبارك", "english": "Blessed Landing Supplication" },
-          "content": {
-            "arabic": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ",
-            "english": "My Lord, let me land at a blessed landing place, and You are the best to accommodate [us]"
+          "title": {
+            "arabic": "دعاء المنزل المبارك",
+            "english": "Blessed Landing Supplication"
           },
-          "when": {
-            "arabic": "عند كل 'عتبة' جديدة (وظيفة جديدة، زواج، سكن، بداية مشروع) ليبارك الله في الخطوة والقرار",
-            "english": "At every new 'threshold' (new job, marriage, home, project start) for Allah to bless the step and decision"
+          "content": {
+            "arabic": "رَبِّ أَنْزِلْنِي مُنْزَلًا مُبَارَكًا وَأَنْتَ خَيْرُ الْمُنْزِلِينَ عند كل 'عتبة' جديدة (وظيفة جديدة، زواج، سكن، بداية مشروع) ليبارك الله في الخطوة والقرار",
+            "english": "My Lord, let me land at a blessed landing place, and You are the best to accommodate [us] At every new 'threshold' (new job, marriage, home, project start) for Allah to bless the step and decision"
           },
           "story": {
             "arabic": "قاله سيدنا نوح عند نزوله من السفينة، وقاله النبي ﷺ عند دخوله المدينة",
@@ -430,30 +520,24 @@
         },
         {
           "id": "focus-striving-exercise",
-          "title": { "arabic": "تمرين التركيز على السعي", "english": "Focus on Striving Exercise" },
+          "title": {
+            "arabic": "تمرين التركيز على السعي",
+            "english": "Focus on Striving Exercise"
+          },
           "content": {
-            "arabic": "اكتب قائمة بما هو في يدك (دائرة السعي): وقتك، مهاراتك، مالك، علاقاتك - ثم ركز على الإحسان فيها، واترك النتائج لله",
-            "english": "Write list of what's in your hand (circle of striving): your time, skills, money, relationships - then focus on excellence in them, and leave results to Allah"
-          },
-          "when": {
-            "arabic": "عند الشعور بالإحباط من غياب النتائج - راجع: هل أنت محسن في دائرة السعي؟",
-            "english": "When feeling frustrated from absence of results - review: are you excelling in circle of striving?"
-          },
-          "purpose": {
-            "arabic": "فك التعلق بالنتائج والتركيز على ما هو في يدك - السعي والإحسان",
-            "english": "Detaching from results and focusing on what's in your hand - striving and excellence"
+            "arabic": "اكتب قائمة بما هو في يدك (دائرة السعي): وقتك، مهاراتك، مالك، علاقاتك - ثم ركز على الإحسان فيها، واترك النتائج لله عند الشعور بالإحباط من غياب النتائج - راجع: هل أنت محسن في دائرة السعي؟ فك التعلق بالنتائج والتركيز على ما هو في يدك - السعي والإحسان",
+            "english": "Write list of what's in your hand (circle of striving): your time, skills, money, relationships - then focus on excellence in them, and leave results to Allah When feeling frustrated from absence of results - review: are you excelling in circle of striving? Detaching from results and focusing on what's in your hand - striving and excellence"
           }
         },
         {
           "id": "seen-by-allah-reminder",
-          "title": { "arabic": "تذكير الرؤية الإلهية", "english": "Divine Sight Reminder" },
-          "content": {
-            "arabic": "عندما تبذل مجهوداً ولا يقدره البشر، ردد: 'وأن سعيه سوف يرى' - الله يراني، سعيي مسجل ومقدر عنده",
-            "english": "When you exert effort and humans don't appreciate it, repeat: 'And that his effort is going to be seen' - Allah sees me, my striving is recorded and valued by Him"
+          "title": {
+            "arabic": "تذكير الرؤية الإلهية",
+            "english": "Divine Sight Reminder"
           },
-          "when": {
-            "arabic": "عند الشعور بعدم التقدير أو الإهمال من البشر",
-            "english": "When feeling unappreciated or neglected by humans"
+          "content": {
+            "arabic": "عندما تبذل مجهوداً ولا يقدره البشر، ردد: 'وأن سعيه سوف يرى' - الله يراني، سعيي مسجل ومقدر عنده عند الشعور بعدم التقدير أو الإهمال من البشر",
+            "english": "When you exert effort and humans don't appreciate it, repeat: 'And that his effort is going to be seen' - Allah sees me, my striving is recorded and valued by Him When feeling unappreciated or neglected by humans"
           },
           "comfort": {
             "arabic": "أنت لست وحدك - الله يرى كل سعيك وكل محاولاتك، حتى لو لم يرها البشر",
@@ -462,14 +546,13 @@
         },
         {
           "id": "fullest-reward-patience",
-          "title": { "arabic": "صبر الجزاء الأوفى", "english": "Patience for Fullest Reward" },
-          "content": {
-            "arabic": "لا تستعجل النتائج - ردد: 'ثم يجزاه الجزاء الأوفى' - الجزاء الأكمل يأتي في التوقيت الأنسب، قد يكون في الدنيا أو الآخرة",
-            "english": "Don't rush results - repeat: 'Then he will be recompensed with the fullest recompense' - the most complete reward comes at the most suitable timing, may be in this world or the hereafter"
+          "title": {
+            "arabic": "صبر الجزاء الأوفى",
+            "english": "Patience for Fullest Reward"
           },
-          "when": {
-            "arabic": "عند الشعور بالاستعجال أو الإحباط من تأخر النتائج",
-            "english": "When feeling rushed or frustrated from delayed results"
+          "content": {
+            "arabic": "لا تستعجل النتائج - ردد: 'ثم يجزاه الجزاء الأوفى' - الجزاء الأكمل يأتي في التوقيت الأنسب، قد يكون في الدنيا أو الآخرة عند الشعور بالاستعجال أو الإحباط من تأخر النتائج",
+            "english": "Don't rush results - repeat: 'Then he will be recompensed with the fullest recompense' - the most complete reward comes at the most suitable timing, may be in this world or the hereafter When feeling rushed or frustrated from delayed results"
           },
           "principle": {
             "arabic": "الجزاء الأوفى قد يأتي من حيث لا تحتسب - ثق في توقيت الله",
@@ -478,42 +561,35 @@
         },
         {
           "id": "star-resilience",
-          "title": { "arabic": "صمود النجم", "english": "Star Resilience" },
-          "content": {
-            "arabic": "كن كالنجم: يستمر في مداره وتوهجه مهما كان الليل مظلماً، وحتى عندما يهوي لا ينطفئ نوره - لا ينطفئ حماسك وسعيك حتى لو تعثرت",
-            "english": "Be like the star: continues in its orbit and glow no matter how dark the night, and even when it falls its light doesn't extinguish - your enthusiasm and striving don't extinguish even if you stumble"
+          "title": {
+            "arabic": "صمود النجم",
+            "english": "Star Resilience"
           },
-          "when": {
-            "arabic": "عند التعثر أو الفشل - تذكر: النجم لا ينطفئ حتى عندما يهوي",
-            "english": "When stumbling or failing - remember: the star doesn't extinguish even when it falls"
+          "content": {
+            "arabic": "كن كالنجم: يستمر في مداره وتوهجه مهما كان الليل مظلماً، وحتى عندما يهوي لا ينطفئ نوره - لا ينطفئ حماسك وسعيك حتى لو تعثرت عند التعثر أو الفشل - تذكر: النجم لا ينطفئ حتى عندما يهوي",
+            "english": "Be like the star: continues in its orbit and glow no matter how dark the night, and even when it falls its light doesn't extinguish - your enthusiasm and striving don't extinguish even if you stumble When stumbling or failing - remember: the star doesn't extinguish even when it falls"
           }
         },
         {
           "id": "prostration-rest",
-          "title": { "arabic": "السجود والراحة", "english": "Prostration and Rest" },
+          "title": {
+            "arabic": "السجود والراحة",
+            "english": "Prostration and Rest"
+          },
           "content": {
-            "arabic": "فاسجدوا لله واعبدوا - السجود هو راحة نفسية واعتراف بأن المنتهى إلى الله، فاسجد واسترح من هم النتائج",
-            "english": "'So prostrate to Allah and worship [Him]' - prostration is psychological rest and acknowledgment that the finality is to Allah, so prostrate and rest from worry about results"
-          },
-          "when": {
-            "arabic": "عند الشعور بالضغط النفسي من هم النتائج - اسجد واسترح",
-            "english": "When feeling psychological pressure from worry about results - prostrate and rest"
-          },
-          "purpose": {
-            "arabic": "الاعتراف بأن المنتهى إلى الله، فلا داعي للقلق - كل شيء بيده",
-            "english": "Acknowledging that the finality is to Allah, so no need to worry - everything is in His hand"
+            "arabic": "فاسجدوا لله واعبدوا - السجود هو راحة نفسية واعتراف بأن المنتهى إلى الله، فاسجد واسترح من هم النتائج عند الشعور بالضغط النفسي من هم النتائج - اسجد واسترح الاعتراف بأن المنتهى إلى الله، فلا داعي للقلق - كل شيء بيده",
+            "english": "'So prostrate to Allah and worship [Him]' - prostration is psychological rest and acknowledgment that the finality is to Allah, so prostrate and rest from worry about results When feeling psychological pressure from worry about results - prostrate and rest Acknowledging that the finality is to Allah, so no need to worry - everything is in His hand"
           }
         },
         {
           "id": "weekly-review",
-          "title": { "arabic": "المراجعة الأسبوعية", "english": "Weekly Review" },
-          "content": {
-            "arabic": "كل أسبوع، راجع: هل أنا محسن في دائرة السعي؟ هل أركز على ما في يدي أم أتعلق بالنتائج؟ - تصحيح المسار",
-            "english": "Every week, review: am I excelling in circle of striving? Am I focusing on what's in my hand or attached to results? - course correction"
+          "title": {
+            "arabic": "المراجعة الأسبوعية",
+            "english": "Weekly Review"
           },
-          "when": {
-            "arabic": "نهاية كل أسبوع - مراجعة دورية للتأكد من التركيز على السعي لا النتائج",
-            "english": "End of every week - periodic review to ensure focus on striving not results"
+          "content": {
+            "arabic": "كل أسبوع، راجع: هل أنا محسن في دائرة السعي؟ هل أركز على ما في يدي أم أتعلق بالنتائج؟ - تصحيح المسار نهاية كل أسبوع - مراجعة دورية للتأكد من التركيز على السعي لا النتائج",
+            "english": "Every week, review: am I excelling in circle of striving? Am I focusing on what's in my hand or attached to results? - course correction End of every week - periodic review to ensure focus on striving not results"
           },
           "challenge": {
             "arabic": "تحدي: اختر مجالاً واحداً تحسن فيه سعيك هذا الأسبوع، بغض النظر عن النتائج",
