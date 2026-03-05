@@ -60,6 +60,13 @@ export default function Header() {
               <BookOpen className="w-4 h-4" />
               {catalogLabel}
             </Link>
+            <Link
+              to="/sources"
+              className="px-4 py-2 rounded-lg text-neutral-700 dark:text-neutral-300 hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors font-medium flex items-center gap-2"
+            >
+              <span>📚</span>
+              {useText({ arabic: 'المصادر', english: 'Sources' })}
+            </Link>
           </nav>
 
           {/* Actions */}

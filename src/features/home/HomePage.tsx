@@ -310,6 +310,71 @@ export default function HomePage() {
             </div>
           </div>
         </motion.div>
+
+        {/* Built on Scholarship Banner */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.8 }}
+          className="mt-16 max-w-5xl mx-auto"
+        >
+          <div className="bg-gradient-to-r from-primary-600 via-primary-700 to-primary-800 rounded-3xl p-8 sm:p-12 text-white overflow-hidden relative">
+            {/* Background Pattern */}
+            <div className="absolute inset-0 opacity-10">
+              <div
+                style={{
+                  backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='1'%3E%3Ccircle cx='30' cy='30' r='2'/%3E%3Ccircle cx='0' cy='0' r='2'/%3E%3Ccircle cx='60' cy='0' r='2'/%3E%3Ccircle cx='0' cy='60' r='2'/%3E%3Ccircle cx='60' cy='60' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
+                }}
+                className="absolute inset-0"
+              />
+            </div>
+
+            <div className="relative z-10">
+              <div className="flex items-center justify-center gap-3 mb-6">
+                <span className="text-4xl">🏛️</span>
+                <h3 className="text-3xl sm:text-4xl font-bold font-arabic">
+                  {useText({
+                    arabic: 'مبني على أساس علمي',
+                    english: 'Built on Scholarship',
+                  })}
+                </h3>
+              </div>
+
+              <p className="text-lg text-white/90 mb-8 text-center max-w-3xl mx-auto">
+                {useText({
+                  arabic: 'الكتالوج ليس من اختراعنا - إنه مبني على أساس متين من العلماء والباحثين. كل يوم مدعوم بمصادر موثوقة من الدين الإسلامي، علم النفس، الطب، والاجتماع.',
+                  english: 'The Catalog is not our invention - it\'s built on a solid foundation of scholars and researchers. Every day is backed by credible sources from Islamic theology, psychology, medicine, and sociology.',
+                })}
+              </p>
+
+              {/* Category Icons */}
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
+                {[
+                  { icon: '📖', label: useText({ arabic: 'الدين', english: 'Islamic' }) },
+                  { icon: '🧠', label: useText({ arabic: 'النفس', english: 'Psychology' }) },
+                  { icon: '⚕️', label: useText({ arabic: 'الطب', english: 'Medical' }) },
+                  { icon: '👥', label: useText({ arabic: 'الاجتماع', english: 'Sociology' }) },
+                ].map((category, idx) => (
+                  <div key={idx} className="bg-white/10 backdrop-blur-sm rounded-xl p-4 text-center">
+                    <div className="text-3xl mb-2">{category.icon}</div>
+                    <p className="text-sm font-medium">{category.label}</p>
+                  </div>
+                ))}
+              </div>
+
+              {/* CTA Button */}
+              <div className="flex justify-center">
+                <Link
+                  to="/sources"
+                  className="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-white text-primary-700 font-bold hover:bg-white/90 transition-colors shadow-lg"
+                >
+                  {useText({ arabic: 'اطلع على المصادر', english: 'View Sources' })}
+                  <ArrowRight className="w-5 h-5" />
+                </Link>
+              </div>
+            </div>
+          </div>
+        </motion.div>
       </div>
     </div>
   );

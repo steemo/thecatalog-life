@@ -15,6 +15,7 @@ import SurahsPage from './pages/SurahsPage';
 import SurahPage from './features/surah/SurahPage';
 import CatalogPage from './pages/CatalogPage';
 import CatalogEntryPage from './pages/CatalogEntryPage';
+import SourcesPage from './pages/SourcesPage';
 
 function App() {
   const theme = useAppStore((state) => state.theme);
@@ -49,6 +50,7 @@ function App() {
           <Route path="surah/:slug" element={<SurahPage />} />
           <Route path="catalog" element={<CatalogPage />} />
           <Route path="catalog/:slug" element={<CatalogEntryPage />} />
+          <Route path="sources" element={<SourcesPage />} />
         </Route>
       </Routes>
       <SpeedInsights />
