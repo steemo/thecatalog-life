@@ -5,11 +5,12 @@
  */
 
 import { Link } from 'react-router-dom';
-import { Moon, Sun, Languages, BookOpen } from 'lucide-react';
+import { Moon, Sun, BookOpen } from 'lucide-react';
 import { useAppStore, useText } from '@/lib/store';
+import LanguageSelector from './LanguageSelector';
 
 export default function Header() {
-  const { theme, language, toggleTheme, toggleLanguage } = useAppStore();
+  const { theme, toggleTheme } = useAppStore();
   
   const title = useText({
     arabic: 'الكتالوج',
@@ -71,17 +72,8 @@ export default function Header() {
 
           {/* Actions */}
           <div className="flex items-center gap-2">
-            {/* Language Toggle */}
-            <button
-              onClick={toggleLanguage}
-              className="btn-ghost p-2 rounded-lg"
-              aria-label={language === 'ar' ? 'Switch to English' : 'التبديل إلى العربية'}
-            >
-              <Languages className="w-5 h-5" />
-              <span className="sr-only">
-                {language === 'ar' ? 'Switch to English' : 'التبديل إلى العربية'}
-              </span>
-            </button>
+            {/* Language Selector */}
+            <LanguageSelector />
 
             {/* Theme Toggle */}
             <button

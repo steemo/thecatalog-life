@@ -10,15 +10,16 @@
 
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
-import type { Language, ThemeMode } from '../types/surah';
+import type { ThemeMode } from '../types/surah';
+import type { LanguageCode } from '../config/languages';
 
 interface AppState {
   // State
-  language: Language;
+  language: LanguageCode;
   theme: ThemeMode;
 
   // Actions
-  setLanguage: (lang: Language) => void;
+  setLanguage: (lang: LanguageCode) => void;
   setTheme: (theme: ThemeMode) => void;
   toggleTheme: () => void;
   toggleLanguage: () => void;
