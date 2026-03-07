@@ -35,6 +35,7 @@ import day20SupportNetwork from './day-20-support-network.json';
 import day21LaylatAlQadr from './day-21-laylat-al-qadr.json';
 import day22HajjComfortZone from './day-22-hajj-comfort-zone.json';
 import day23ProhibitionsFirewall from './day-23-prohibitions-firewall.json';
+import day24ReadCriticalThinking from './day-24-read-critical-thinking.json';
 
 /** All Catalog entries */
 export const catalogEntries: CatalogEntry[] = [
@@ -62,6 +63,7 @@ export const catalogEntries: CatalogEntry[] = [
   day21LaylatAlQadr as CatalogEntry,
   day22HajjComfortZone as CatalogEntry,
   day23ProhibitionsFirewall as CatalogEntry,
+  day24ReadCriticalThinking as CatalogEntry,
 ];
 
 /** Get all Catalog entries as cards (for grid display) */
