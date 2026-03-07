@@ -16,58 +16,91 @@ import Head from '../shared/Head';
 
 export default function HomePage() {
   const heroTitle = useText({
-    arabic: 'نظام التشغيل الروحي الكامل',
-    english: 'Your Complete Spiritual Operating System',
+    ar: 'نظام التشغيل الروحي الكامل',
+    en: 'Your Complete Spiritual Operating System',
+    ur: 'آپ کا مکمل روحانی آپریٹنگ سسٹم',
+    fr: '',
+    es: '',
   });
 
   const heroSubtitle = useText({
-    arabic: 'رحلتان متكاملتان لفهم دينك وشفاء نفسك',
-    english: 'Two complementary journeys to understand your religion and heal your soul',
+    ar: 'رحلتان متكاملتان لفهم دينك وشفاء نفسك',
+    en: 'Two complementary journeys to understand your religion and heal your soul',
+    ur: 'اپنے دین کو سمجھنے اور اپنی روح کو شفا دینے کے لیے دو مکمل سفر',
+    fr: '',
+    es: '',
   });
 
   const fabricTitle = useText({
-    arabic: 'النسيج القرآني',
-    english: 'Quranic Fabric',
+    ar: 'النسيج القرآني',
+    en: 'Quranic Fabric',
+    ur: 'قرآنی تانا بانا',
+    fr: '',
+    es: '',
   });
 
   const fabricTagline = useText({
-    arabic: 'الشفاء النفسي من خلال السور',
-    english: 'Psychological Healing Through Surahs',
+    ar: 'الشفاء النفسي من خلال السور',
+    en: 'Psychological Healing Through Surahs',
+    ur: 'سورتوں کے ذریعے نفسیاتی شفا',
+    fr: '',
+    es: '',
   });
 
   const fabricDesc = useText({
-    arabic: 'كل سورة تعالج قضية نفسية محددة. غوص عميق في مشاكل الحياة مع حلول روحية مستهدفة.',
-    english: 'Each Surah addresses a specific psychological issue. Deep dive into life problems with targeted spiritual solutions.',
+    ar: 'كل سورة تعالج قضية نفسية محددة. غوص عميق في مشاكل الحياة مع حلول روحية مستهدفة.',
+    en: 'Each Surah addresses a specific psychological issue. Deep dive into life problems with targeted spiritual solutions.',
+    ur: 'ہر سورت ایک مخصوص نفسیاتی مسئلے کو حل کرتی ہے۔ زندگی کے مسائل میں گہرائی سے جائیں ہدف شدہ روحانی حل کے ساتھ۔',
+    fr: '',
+    es: '',
   });
 
   const catalogTitle = useText({
-    arabic: 'الكتالوج',
-    english: 'The Catalog',
+    ar: 'الكتالوج',
+    en: 'The Catalog',
+    ur: 'کیٹلاگ',
+    fr: '',
+    es: '',
   });
 
   const catalogTagline = useText({
-    arabic: 'رحلة 30 يوم لفهم دينك',
-    english: '30-Day Journey to Understand Your Religion',
+    ar: 'رحلة 30 يوم لفهم دينك',
+    en: '30-Day Journey to Understand Your Religion',
+    ur: '30 دن کا سفر اپنے دین کو سمجھنے کے لیے',
+    fr: '',
+    es: '',
   });
 
   const catalogDesc = useText({
-    arabic: 'الدين كدليل استخدام للإنسان. فهم عملي وعصري للممارسات الإسلامية بلغة جيلك.',
-    english: 'Religion as user manual for humans. Practical, modern understanding of Islamic practices in your generation\'s language.',
+    ar: 'الدين كدليل استخدام للإنسان. فهم عملي وعصري للممارسات الإسلامية بلغة جيلك.',
+    en: 'Religion as user manual for humans. Practical, modern understanding of Islamic practices in your generation\'s language.',
+    ur: 'دین انسان کے لیے صارف دستی کے طور پر۔ اسلامی طریقوں کی عملی، جدید سمجھ آپ کی نسل کی زبان میں۔',
+    fr: '',
+    es: '',
   });
 
   const whyBothTitle = useText({
-    arabic: 'لماذا الاثنان معاً؟',
-    english: 'Why Both Together?',
+    ar: 'لماذا الاثنان معاً؟',
+    en: 'Why Both Together?',
+    ur: 'دونوں ایک ساتھ کیوں؟',
+    fr: '',
+    es: '',
   });
 
   const exploreBtn = useText({
-    arabic: 'استكشف السور',
-    english: 'Explore Surahs',
+    ar: 'استكشف السور',
+    en: 'Explore Surahs',
+    ur: 'سورتیں دریافت کریں',
+    fr: '',
+    es: '',
   });
 
   const startJourneyBtn = useText({
-    arabic: 'ابدأ الرحلة',
-    english: 'Start Journey',
+    ar: 'ابدأ الرحلة',
+    en: 'Start Journey',
+    ur: 'سفر شروع کریں',
+    fr: '',
+    es: '',
   });
 
   return (
@@ -184,8 +217,11 @@ export default function HomePage() {
                       </div>
                       <p className="text-slate-700 dark:text-slate-300">
                         {useText({
-                          arabic: 'عمق عمودي - كل سورة تعالج مشكلة محددة',
-                          english: 'Vertical Depth - Each Surah addresses a specific problem',
+                          ar: 'عمق عمودي - كل سورة تعالج مشكلة محددة',
+                          en: 'Vertical Depth - Each Surah addresses a specific problem',
+                          ur: 'عمودی گہرائی - ہر سورت ایک مخصوص مسئلے کو حل کرتی ہے',
+                          fr: '',
+                          es: '',
                         })}
                       </p>
                     </div>
@@ -195,8 +231,11 @@ export default function HomePage() {
                       </div>
                       <p className="text-slate-700 dark:text-slate-300">
                         {useText({
-                          arabic: 'حلول روحية مستهدفة للقلق، الإحباط، الخوف، والمزيد',
-                          english: 'Targeted spiritual solutions for anxiety, frustration, fear, and more',
+                          ar: 'حلول روحية مستهدفة للقلق، الإحباط، الخوف، والمزيد',
+                          en: 'Targeted spiritual solutions for anxiety, frustration, fear, and more',
+                          ur: 'پریشانی، مایوسی، خوف اور مزید کے لیے ہدف شدہ روحانی حل',
+                          fr: '',
+                          es: '',
                         })}
                       </p>
                     </div>
@@ -249,8 +288,11 @@ export default function HomePage() {
                       </div>
                       <p className="text-slate-700 dark:text-slate-300">
                         {useText({
-                          arabic: 'اتساع أفقي - أساس شامل للدين',
-                          english: 'Horizontal Breadth - Comprehensive foundation of religion',
+                          ar: 'اتساع أفقي - أساس شامل للدين',
+                          en: 'Horizontal Breadth - Comprehensive foundation of religion',
+                          ur: 'افقی وسعت - دین کی جامع بنیاد',
+                          fr: '',
+                          es: '',
                         })}
                       </p>
                     </div>
@@ -260,8 +302,11 @@ export default function HomePage() {
                       </div>
                       <p className="text-slate-700 dark:text-slate-300">
                         {useText({
-                          arabic: 'أمثلة تقنية عصرية - الصلاة كمحطة شحن، غض البصر كحماية الذاكرة',
-                          english: 'Modern tech analogies - Prayer as charging station, lowering gaze as memory protection',
+                          ar: 'أمثلة تقنية عصرية - الصلاة كمحطة شحن، غض البصر كحماية الذاكرة',
+                          en: 'Modern tech analogies - Prayer as charging station, lowering gaze as memory protection',
+                          ur: 'جدید ٹیکنالوجی کی مثالیں - نماز چارجنگ سٹیشن کے طور پر، نظر نیچی رکھنا میموری کی حفاظت کے طور پر',
+                          fr: '',
+                          es: '',
                         })}
                       </p>
                     </div>
@@ -291,20 +336,29 @@ export default function HomePage() {
             <div className="space-y-4 text-lg text-slate-700 dark:text-slate-300 leading-relaxed">
               <p>
                 {useText({
-                  arabic: '🎯 النسيج القرآني = عمق عمودي (حلول مستهدفة لمشاكل محددة)',
-                  english: '🎯 Quranic Fabric = Vertical Depth (targeted solutions for specific problems)',
+                  ar: '🎯 النسيج القرآني = عمق عمودي (حلول مستهدفة لمشاكل محددة)',
+                  en: '🎯 Quranic Fabric = Vertical Depth (targeted solutions for specific problems)',
+                  ur: '🎯 قرآنی تانا بانا = عمودی گہرائی (مخصوص مسائل کے لیے ہدف شدہ حل)',
+                  fr: '',
+                  es: '',
                 })}
               </p>
               <p>
                 {useText({
-                  arabic: '📚 الكتالوج = اتساع أفقي (أساس شامل للدين)',
-                  english: '📚 The Catalog = Horizontal Breadth (comprehensive foundation of religion)',
+                  ar: '📚 الكتالوج = اتساع أفقي (أساس شامل للدين)',
+                  en: '📚 The Catalog = Horizontal Breadth (comprehensive foundation of religion)',
+                  ur: '📚 کیٹلاگ = افقی وسعت (دین کی جامع بنیاد)',
+                  fr: '',
+                  es: '',
                 })}
               </p>
               <p className="text-xl font-bold text-primary-600 dark:text-primary-400 pt-4">
                 {useText({
-                  arabic: 'معاً = نظام التشغيل الروحي الكامل',
-                  english: 'Together = Complete Spiritual Operating System',
+                  ar: 'معاً = نظام التشغيل الروحي الكامل',
+                  en: 'Together = Complete Spiritual Operating System',
+                  ur: 'ایک ساتھ = مکمل روحانی آپریٹنگ سسٹم',
+                  fr: '',
+                  es: '',
                 })}
               </p>
             </div>
@@ -334,26 +388,32 @@ export default function HomePage() {
                 <span className="text-4xl">🏛️</span>
                 <h3 className="text-3xl sm:text-4xl font-bold font-arabic">
                   {useText({
-                    arabic: 'مبني على أساس علمي',
-                    english: 'Built on Scholarship',
+                    ar: 'مبني على أساس علمي',
+                    en: 'Built on Scholarship',
+                    ur: 'علمی بنیاد پر تعمیر شدہ',
+                    fr: '',
+                    es: '',
                   })}
                 </h3>
               </div>
 
               <p className="text-lg text-white/90 mb-8 text-center max-w-3xl mx-auto">
                 {useText({
-                  arabic: 'الكتالوج ليس من اختراعنا - إنه مبني على أساس متين من العلماء والباحثين. كل يوم مدعوم بمصادر موثوقة من الدين الإسلامي، علم النفس، الطب، والاجتماع.',
-                  english: 'The Catalog is not our invention - it\'s built on a solid foundation of scholars and researchers. Every day is backed by credible sources from Islamic theology, psychology, medicine, and sociology.',
+                  ar: 'الكتالوج ليس من اختراعنا - إنه مبني على أساس متين من العلماء والباحثين. كل يوم مدعوم بمصادر موثوقة من الدين الإسلامي، علم النفس، الطب، والاجتماع.',
+                  en: 'The Catalog is not our invention - it\'s built on a solid foundation of scholars and researchers. Every day is backed by credible sources from Islamic theology, psychology, medicine, and sociology.',
+                  ur: 'کیٹلاگ ہماری ایجاد نہیں ہے - یہ علماء اور محققین کی مضبوط بنیاد پر تعمیر شدہ ہے۔ ہر دن اسلامی الہیات، نفسیات، طب اور سماجیات سے قابل اعتماد ذرائع سے تائید یافتہ ہے۔',
+                  fr: '',
+                  es: '',
                 })}
               </p>
 
               {/* Category Icons */}
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
                 {[
-                  { icon: '📖', label: useText({ arabic: 'الدين', english: 'Islamic' }) },
-                  { icon: '🧠', label: useText({ arabic: 'النفس', english: 'Psychology' }) },
-                  { icon: '⚕️', label: useText({ arabic: 'الطب', english: 'Medical' }) },
-                  { icon: '👥', label: useText({ arabic: 'الاجتماع', english: 'Sociology' }) },
+                  { icon: '📖', label: useText({ ar: 'الدين', en: 'Islamic', ur: 'اسلامی', fr: '', es: '' }) },
+                  { icon: '🧠', label: useText({ ar: 'النفس', en: 'Psychology', ur: 'نفسیات', fr: '', es: '' }) },
+                  { icon: '⚕️', label: useText({ ar: 'الطب', en: 'Medical', ur: 'طبی', fr: '', es: '' }) },
+                  { icon: '👥', label: useText({ ar: 'الاجتماع', en: 'Sociology', ur: 'سماجیات', fr: '', es: '' }) },
                 ].map((category, idx) => (
                   <div key={idx} className="bg-white/10 backdrop-blur-sm rounded-xl p-4 text-center">
                     <div className="text-3xl mb-2">{category.icon}</div>
@@ -368,7 +428,7 @@ export default function HomePage() {
                   to="/sources"
                   className="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-white text-primary-700 font-bold hover:bg-white/90 transition-colors shadow-lg"
                 >
-                  {useText({ arabic: 'اطلع على المصادر', english: 'View Sources' })}
+                  {useText({ ar: 'اطلع على المصادر', en: 'View Sources', ur: 'ذرائع دیکھیں', fr: '', es: '' })}
                   <ArrowRight className="w-5 h-5" />
                 </Link>
               </div>
