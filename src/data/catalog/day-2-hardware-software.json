@@ -7,8 +7,8 @@
     "english": "Why Do I Feel Like Two People Are Fighting Inside Me?"
   },
   "subtitle": {
-    "arabic": "الهاردوير والسوفتوير - أنت مين؟",
-    "english": "Hardware and Software - Who Are You?"
+    "arabic": "الجسد والروح - أنت مين؟",
+    "english": "Body and Soul - Who Are You?"
   },
   "metadata": {
     "day": 2,
@@ -26,15 +26,15 @@
     "english": "Have you ever asked yourself: 'Why am I so contradictory?' Sometimes you want to fly with enthusiasm, pray, succeed, and conquer the world... and other times you just want to sleep, eat, break the rules, and do nothing useful. You feel like there are 'two people' inside you, complete opposites. One angel and one devil."
   },
   "mainConcept": {
-    "arabic": "أحب أطمنك.. دي مش 'شيزوفرينيا' ولا انفصام.. ده 'التصميم الطبيعي' بتاعك. عشان تفهم نفسك، لازم تفكك الماكينة دي وتشوف هي متجمعة إزاي.",
-    "english": "I want to reassure you... this is not 'schizophrenia' or split personality... this is your 'natural design'. To understand yourself, you need to disassemble this machine and see how it's put together."
+    "arabic": "أحب أطمنك.. دي مش 'انفصام في الشخصية' ولا مرض نفسي.. ده 'التصميم الطبيعي' بتاعك. عشان تفهم نفسك، لازم تفكك هذا الكائن وتشوف هي متجمعة إزاي.",
+    "english": "I want to reassure you... this is not 'split personality' or mental illness... this is your 'natural design'. To understand yourself, you need to disassemble this being and see how it's put together."
   },
   "sections": [
     {
       "id": "hardware-body",
       "title": {
-        "arabic": "1. الهاردوير: الطين",
-        "english": "1. Hardware: The Clay"
+        "arabic": "1. الجسد: الطين",
+        "english": "1. Body: The Clay"
       },
       "content": {
         "arabic": "ربنا خلق جسمك من 'طين' (مادة الأرض).\n\nصفاته: الثقل، الجاذبية الأرضية، الكسل.\n\nاحتياجاته: أكل، شرب، نوم، جنس، راحة.\n\nهدفه: البقاء. زيه زي أي كائن حي تاني.",
@@ -44,8 +44,8 @@
     {
       "id": "software-soul",
       "title": {
-        "arabic": "2. السوفتوير: الروح",
-        "english": "2. Software: The Soul"
+        "arabic": "2. الروح: النفخة الإلهية",
+        "english": "2. Soul: The Divine Breath"
       },
       "content": {
         "arabic": "بعد ما سوّى الجسم، ربنا نفخ فيه 'من روحه'.\n\nصفاته: الخفّة، الصعود، السمو.\n\nاحتياجاته: المعنى، الاتصال بالخالق، القيمة، الخلود.\n\nهدفه: الارتقاء.",
@@ -55,12 +55,12 @@
     {
       "id": "the-glitch",
       "title": {
-        "arabic": "الخناقة بتحصل فين؟",
+        "arabic": "الصراع بتحصل فين؟",
         "english": "Where Does the Conflict Happen?"
       },
       "content": {
-        "arabic": "المشكلة بتبدأ لما نركز كل مجهودنا وفلوسنا ووقتنا عشان نطور 'الهاردوير' بس. بناكل أحسن أكل، بنلبس براندات، بنروح الجيم (وده كله جميل ومطلوب).. بس في المقابل، 'السوفتوير' مهمل تماماً!\n\nالروح مخنوقة، محبوسة جوه قفص الطين، جعانة 'معنى'.\n\nوالنتيجة؟ حالة مشهورة جداً في علم النفس وفي حياتنا اليومية: تلاقي حد عنده كل أسباب السعادة المادية (فلوس، منصب، صحة)، ومع ذلك حاسس بـ 'فراغ داخلي مرعب' واكتئاب مش مفهوم.\n\nالسبب بسيط: السوفتوير ضارب. أنت بتأكل الجسم أكل غالي، بس مجوّع الروح.",
-        "english": "The problem starts when we focus all our effort, money, and time on developing the 'hardware' only. We eat the best food, wear brands, go to the gym (and all of this is good and required)... but in return, the 'software' is completely neglected!\n\nThe soul is suffocated, imprisoned inside the clay cage, starving for 'meaning'.\n\nThe result? A very famous condition in psychology and in our daily lives: you find someone who has all the material reasons for happiness (money, position, health), yet feels a 'terrifying inner emptiness' and unexplained depression.\n\nThe reason is simple: The software is broken. You're feeding the body expensive food, but starving the soul."
+        "arabic": "المشكلة بتبدأ لما نركز كل مجهودنا وفلوسنا ووقتنا عشان نطور 'الجسد' بس. بناكل أحسن أكل، بنلبس براندات، بنروح الجيم (وده كله جميل ومطلوب).. بس في المقابل، 'الروح' مهملة تماماً!\n\nالروح مخنوقة، محبوسة جوه قفص الطين، جعانة 'معنى'.\n\nوالنتيجة؟ حالة مشهورة جداً في علم النفس وفي حياتنا اليومية: تلاقي حد عنده كل أسباب السعادة المادية (فلوس، منصب، صحة)، ومع ذلك حاسس بـ 'فراغ داخلي مرعب' واكتئاب مش مفهوم.\n\nالسبب بسيط: الروح ضارة. أنت بتأكل الجسد أكل غالي، بس مجوّع الروح.",
+        "english": "The problem starts when we focus all our effort, money, and time on developing the 'body' only. We eat the best food, wear brands, go to the gym (and all of this is good and required)... but in return, the 'soul' is completely neglected!\n\nThe soul is suffocated, imprisoned inside the clay cage, starving for 'meaning'.\n\nThe result? A very famous condition in psychology and in our daily lives: you find someone who has all the material reasons for happiness (money, position, health), yet feels a 'terrifying inner emptiness' and unexplained depression.\n\nThe reason is simple: The soul is broken. You're feeding the body expensive food, but starving the soul."
       }
     },
     {
@@ -70,8 +70,8 @@
         "english": "The Solution in 'The Catalog': Smart Balance"
       },
       "content": {
-        "arabic": "الإسلام هو النظام الوحيد اللي احترم 'الجزئين' دول بعبقرية.\n\nما قالكش 'موت جسمك' زي الرهبان (عشان الهاردوير ما يبوظش).\n\nوما قالكش 'عيش لشهوتك' زي الحيوانات (عشان السوفتوير ما يتدمرش).\n\nهو عملك نظام:\n• تاكل وتشرب وتتجوز.. (حق الهاردوير).\n• بس تصلي وتصوم وتتصدق.. (حق السوفتوير).",
-        "english": "Islam is the only system that respected 'both parts' with genius.\n\nIt didn't tell you 'kill your body' like monks (so the hardware doesn't break).\n\nAnd it didn't tell you 'live for your desires' like animals (so the software doesn't get destroyed).\n\nIt created a system for you:\n• Eat, drink, and marry... (hardware's right).\n• But pray, fast, and give charity... (software's right)."
+        "arabic": "الإسلام هو النظام الوحيد اللي احترم 'الجزئين' دول بعبقرية.\n\nما قالكش 'موت جسمك' زي الرهبان (عشان الجسد ما يبوظش).\n\nوما قالكش 'عيش لشهوتك' زي الحيوانات (عشان الروح ما تتدمرش).\n\nهو عملك نظام:\n• تاكل وتشرب وتتجوز.. (حق الجسد).\n• بس تصلي وتصوم وتتصدق.. (حق الروح).",
+        "english": "Islam is the only system that respected 'both parts' with genius.\n\nIt didn't tell you 'kill your body' like monks (so the body doesn't break).\n\nAnd it didn't tell you 'live for your desires' like animals (so the soul doesn't get destroyed).\n\nIt created a system for you:\n• Eat, drink, and marry... (body's right).\n• But pray, fast, and give charity... (soul's right)."
       }
     },
     {
@@ -98,8 +98,8 @@
         "english": "You feel like there are 'two people' inside you, complete opposites. One angel and one devil."
       },
       "example": {
-        "arabic": "دي مش 'شيزوفرينيا' ولا انفصام.. ده 'التصميم الطبيعي' بتاعك. الصراع بين الجسد والروح.",
-        "english": "This is not 'schizophrenia' or split personality... this is your 'natural design'. The struggle between body and soul."
+        "arabic": "دي مش 'انفصام في الشخصية' ولا مرض نفسي.. ده 'التصميم الطبيعي' بتاعك. الصراع بين الجسد والروح.",
+        "english": "This is not 'split personality' or mental illness... this is your 'natural design'. The struggle between body and soul."
       }
     },
     {
@@ -124,12 +124,12 @@
         "english": "The Soul's Signal"
       },
       "description": {
-        "arabic": "لما دوشة الجسم بتهدأ، الروح بتبدأ تتنفس وتستقبل الإشارة بشكل أوضح.",
-        "english": "When the body's noise quiets down, the soul starts to breathe and receive the signal more clearly."
+        "arabic": "لما دوشة الجسد بتهدأ، الروح بتبدأ تتنفس وتستقبل الرسالة بشكل أوضح.",
+        "english": "When the body's noise quiets down, the soul starts to breathe and receive the message more clearly."
       },
       "example": {
-        "arabic": "في رمضان، ربنا بيخليك تحرم 'الهاردوير' من الأكل والشرب عشان 'صوت الروح' يعلى.",
-        "english": "In Ramadan, Allah makes you deprive the 'hardware' of food and drink so the 'voice of the soul' gets louder."
+        "arabic": "في رمضان، ربنا بيخليك تحرم 'الجسد' من الأكل والشرب عشان 'صوت الروح' يعلى.",
+        "english": "In Ramadan, Allah makes you deprive the 'body' of food and drink so the 'voice of the soul' gets louder."
       }
     }
   ],
@@ -157,10 +157,10 @@
   ],
   "practicalSteps": [
     {
-      "id": "feed-software",
+      "id": "feed-soul",
       "title": {
-        "arabic": "أطعم السوفتوير",
-        "english": "Feed the Software"
+        "arabic": "أطعم الروح",
+        "english": "Feed the Soul"
       },
       "action": {
         "arabic": "اعمل حاجة واحدة بس النهاردة مالهاش أي 'مصلحة مادية'. حاجة محدش يشوفها غير ربنا.",
@@ -197,8 +197,8 @@
         "english": "Read two pages of Quran with focus (not to finish your portion, but to understand a message)"
       },
       "benefit": {
-        "arabic": "القراءة بتركيز تفتح قناة الاتصال بين الروح والخالق",
-        "english": "Focused reading opens the communication channel between the soul and the Creator"
+        "arabic": "القراءة بتركيز تفتح باب التواصل بين الروح والخالق",
+        "english": "Focused reading opens the communication door between the soul and the Creator"
       }
     },
     {
@@ -218,12 +218,12 @@
     }
   ],
   "dailyAction": {
-    "arabic": "النهاردة، إحنا عايزين نأكل 'السوفتوير' وجبة دسمة، زي ما فطّرنا 'الهاردوير'.\n\nالتحدي: اعمل حاجة واحدة بس النهاردة مالهاش أي 'مصلحة مادية'. حاجة محدش يشوفها غير ربنا.\n\n• تصدق بمبلغ بسيط أونلاين وأنت قاعد لوحدك.\n• أو اقرأ صفحتين قرآن بتركيز (مش عشان تخلص الورد، عشان تفهم رسالة).\n• أو طول في السجود دقيقة زيادة وقول لربنا: 'أنا جاي أشحن روحي يا رب'.",
-    "english": "Today, we want to feed the 'software' a hearty meal, just like we fed the 'hardware'.\n\nThe challenge: Do just one thing today that has no 'material benefit'. Something that only Allah sees.\n\n• Give a small amount of charity online while you're sitting alone.\n• Or read two pages of Quran with focus (not to finish your portion, but to understand a message).\n• Or extend your prostration for an extra minute and say to your Lord: 'I came to recharge my soul, O Lord'."
+    "arabic": "النهاردة، إحنا عايزين نأكل 'الروح' وجبة دسمة، زي ما فطّرنا 'الجسد'.\n\nالتحدي: اعمل حاجة واحدة بس النهاردة مالهاش أي 'مصلحة مادية'. حاجة محدش يشوفها غير ربنا.\n\n• تصدق بمبلغ بسيط أونلاين وأنت قاعد لوحدك.\n• أو اقرأ صفحتين قرآن بتركيز (مش عشان تخلص الورد، عشان تفهم رسالة).\n• أو طول في السجود دقيقة زيادة وقول لربنا: 'أنا جاي أشحن روحي يا رب'.",
+    "english": "Today, we want to feed the 'soul' a hearty meal, just like we fed the 'body'.\n\nThe challenge: Do just one thing today that has no 'material benefit'. Something that only Allah sees.\n\n• Give a small amount of charity online while you're sitting alone.\n• Or read two pages of Quran with focus (not to finish your portion, but to understand a message).\n• Or extend your prostration for an extra minute and say to your Lord: 'I came to recharge my soul, O Lord'."
   },
   "conclusion": {
-    "arabic": "الخلاصة: أنت مش 'جسم' عنده روح.. أنت 'روح' لابسة جسم عشان تمتحن بيه في الدنيا. صراعك الداخلي ده دليل صحة مش دليل مرض؛ ده دليل إن 'السوفتوير' بتاعك لسه شغال وبيحاول يشدك لفوق رغم جاذبية الطين.",
-    "english": "Conclusion: You're not a 'body' that has a soul... You're a 'soul' wearing a body to be tested with it in this world. Your internal struggle is a sign of health not illness; it's proof that your 'software' is still working and trying to pull you upward despite the gravity of clay."
+    "arabic": "الخلاصة: أنت مش 'جسم' عنده روح.. أنت 'روح' لابسة جسم عشان تمتحن بيه في الدنيا. صراعك الداخلي ده دليل صحة مش دليل مرض؛ ده دليل إن 'الروح' بتاعك لسه شغالة وبتحاول تشدك لفوق رغم جاذبية الطين.",
+    "english": "Conclusion: You're not a 'body' that has a soul... You're a 'soul' wearing a body to be tested with it in this world. Your internal struggle is a sign of health not illness; it's proof that your 'soul' is still working and trying to pull you upward despite the gravity of clay."
   },
   "prevEntry": "day-1-manifesto",
   "nextEntry": "day-3-does-allah-need-prayer"
