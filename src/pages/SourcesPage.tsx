@@ -25,18 +25,27 @@ export default function SourcesPage() {
   }, []);
 
   const pageTitle = useText({
-    arabic: 'المصادر والمراجع',
-    english: 'Sources & References',
+    ar: 'المصادر والمراجع',
+    en: 'Sources & References',
+    ur: 'ذرائع اور حوالہ جات',
+    fr: '',
+    es: '',
   });
 
   const pageSubtitle = useText({
-    arabic: 'الأساس العلمي والأكاديمي للكتالوج',
-    english: 'The Academic Foundation of The Catalog',
+    ar: 'الأساس العلمي والأكاديمي للكتالوج',
+    en: 'The Academic Foundation of The Catalog',
+    ur: 'کیٹلاگ کی علمی اور تعلیمی بنیاد',
+    fr: '',
+    es: '',
   });
 
   const introText = useText({
-    arabic: 'الكتالوج ليس من اختراعنا - إنه مبني على أساس متين من العلماء والباحثين والعلماء. كل يوم، كل فكرة، كل تحدي مدعوم بمصادر موثوقة من أربع مجالات: الدين الإسلامي، علم النفس، الطب، والاجتماع.',
-    english: 'The Catalog is not our invention - it\'s built on a solid foundation of scholars, researchers, and scientists. Every day, every idea, every challenge is backed by credible sources from four fields: Islamic theology, psychology, medicine, and sociology.',
+    ar: 'الكتالوج ليس من اختراعنا - إنه مبني على أساس متين من العلماء والباحثين والعلماء. كل يوم، كل فكرة، كل تحدي مدعوم بمصادر موثوقة من أربع مجالات: الدين الإسلامي، علم النفس، الطب، والاجتماع.',
+    en: 'The Catalog is not our invention - it\'s built on a solid foundation of scholars, researchers, and scientists. Every day, every idea, every challenge is backed by credible sources from four fields: Islamic theology, psychology, medicine, and sociology.',
+    ur: 'کیٹلاگ ہماری ایجاد نہیں ہے - یہ علماء، محققین اور سائنسدانوں کی مضبوط بنیاد پر تعمیر شدہ ہے۔ ہر دن، ہر خیال، ہر چیلنج چار شعبوں سے قابل اعتماد ذرائع سے تائید یافتہ ہے: اسلامی الہیات، نفسیات، طب اور سماجیات۔',
+    fr: '',
+    es: '',
   });
 
   const renderSourceCard = (source: Source, index: number) => (
@@ -71,7 +80,7 @@ export default function SourcesPage() {
       {/* Key Insight */}
       <div className="bg-primary-50 dark:bg-primary-900/20 rounded-xl p-4 mb-4 border-l-4 border-primary-500">
         <p className="text-sm font-semibold text-primary-900 dark:text-primary-100 mb-1">
-          {useText({ arabic: 'الفكرة الأساسية:', english: 'Key Insight:' })}
+          {useText({ ar: 'الفكرة الأساسية:', en: 'Key Insight:', ur: 'اہم نکتہ:', fr: '', es: '' })}
         </p>
         <p className="text-slate-700 dark:text-slate-300 text-sm">
           {language === 'ar' ? source.keyInsight.arabic : source.keyInsight.english}
@@ -81,14 +90,14 @@ export default function SourcesPage() {
       {/* Used in Days */}
       <div className="flex flex-wrap gap-2">
         <span className="text-xs font-semibold text-slate-600 dark:text-slate-400">
-          {useText({ arabic: 'مستخدم في:', english: 'Used in:' })}
+          {useText({ ar: 'مستخدم في:', en: 'Used in:', ur: 'میں استعمال:', fr: '', es: '' })}
         </span>
         {source.usedInDays.map((day) => (
           <span
             key={day}
             className="px-3 py-1 rounded-full bg-slate-100 dark:bg-slate-700 text-xs font-medium text-slate-700 dark:text-slate-300"
           >
-            {useText({ arabic: `اليوم ${day}`, english: `Day ${day}` })}
+            {useText({ ar: `اليوم ${day}`, en: `Day ${day}`, ur: `دن ${day}`, fr: '', es: '' })}
           </span>
         ))}
       </div>
@@ -179,9 +188,9 @@ export default function SourcesPage() {
                   </h2>
                   <p className="text-slate-600 dark:text-slate-400 mt-1">
                     {sourcesByCategory[category].length}{' '}
-                    {useText({ arabic: 'مصدر', english: 'source' })}
+                    {useText({ ar: 'مصدر', en: 'source', ur: 'ذریعہ', fr: '', es: '' })}
                     {sourcesByCategory[category].length > 1 &&
-                      (language === 'ar' ? '' : 's')}
+                      (language === 'ar' || language === 'ur' ? '' : 's')}
                   </p>
                 </div>
               </div>
@@ -208,19 +217,19 @@ export default function SourcesPage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
               {
-                label: useText({ arabic: 'إجمالي المصادر', english: 'Total Sources' }),
+                label: useText({ ar: 'إجمالي المصادر', en: 'Total Sources', ur: 'کل ذرائع', fr: '', es: '' }),
                 value: catalogSources.length,
               },
               {
-                label: useText({ arabic: 'أيام الكتالوج', english: 'Catalog Days' }),
+                label: useText({ ar: 'أيام الكتالوج', en: 'Catalog Days', ur: 'کیٹلاگ کے دن', fr: '', es: '' }),
                 value: 23,
               },
               {
-                label: useText({ arabic: 'مجالات البحث', english: 'Research Fields' }),
+                label: useText({ ar: 'مجالات البحث', en: 'Research Fields', ur: 'تحقیق کے شعبے', fr: '', es: '' }),
                 value: 4,
               },
               {
-                label: useText({ arabic: 'سنوات البحث', english: 'Years of Research' }),
+                label: useText({ ar: 'سنوات البحث', en: 'Years of Research', ur: 'تحقیق کے سال', fr: '', es: '' }),
                 value: '80+',
               },
             ].map((stat, index) => (
@@ -248,21 +257,27 @@ export default function SourcesPage() {
         >
           <h3 className="text-2xl font-bold mb-4">
             {useText({
-              arabic: 'جاهز لبدء الرحلة؟',
-              english: 'Ready to Start Your Journey?',
+              ar: 'جاهز لبدء الرحلة؟',
+              en: 'Ready to Start Your Journey?',
+              ur: 'سفر شروع کرنے کے لیے تیار ہیں؟',
+              fr: '',
+              es: '',
             })}
           </h3>
           <p className="text-white/90 mb-6">
             {useText({
-              arabic: 'الآن بعد أن تعرفت على المصادر، ابدأ رحلتك مع الكتالوج',
-              english: 'Now that you know the sources, start your journey with The Catalog',
+              ar: 'الآن بعد أن تعرفت على المصادر، ابدأ رحلتك مع الكتالوج',
+              en: 'Now that you know the sources, start your journey with The Catalog',
+              ur: 'اب جب آپ ذرائع کو جانتے ہیں، کیٹلاگ کے ساتھ اپنا سفر شروع کریں',
+              fr: '',
+              es: '',
             })}
           </p>
           <a
             href="/catalog"
             className="inline-flex items-center gap-2 px-8 py-3 rounded-xl bg-white text-primary-600 font-bold hover:bg-white/90 transition-colors"
           >
-            {useText({ arabic: 'ابدأ الآن', english: 'Start Now' })}
+            {useText({ ar: 'ابدأ الآن', en: 'Start Now', ur: 'ابھی شروع کریں', fr: '', es: '' })}
             {direction === 'rtl' ? (
               <ArrowLeft className="w-5 h-5" />
             ) : (
