@@ -1,17 +1,18 @@
 /**
- * Table of Contents - Sticky Sidebar Navigation
+ * Table of Contents - Collapsible Dropdown Navigation
  * Created by: Tiko Abousteit
- * Date: 5 March 2026
+ * Date: 7 March 2026
  *
  * Description:
- *     Sticky sidebar showing all catalog days with quick navigation.
+ *     Compact collapsible dropdown showing all 23 catalog days.
  *     Highlights current day based on scroll position.
- *     Responsive: sidebar on desktop, drawer on mobile.
+ *     Sticky positioning that moves with scroll.
+ *     Responsive: dropdown on desktop, drawer on mobile.
  */
 
 import { useEffect, useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronUp, Menu, X, Home } from 'lucide-react';
+import { ChevronUp, Menu, X, Home, ChevronDown } from 'lucide-react';
 import { useText, useDirection } from '@/lib/store';
 import { getCatalogCards } from '@/data/catalog';
 import { useNavigate } from 'react-router-dom';
@@ -19,16 +20,19 @@ import { useNavigate } from 'react-router-dom';
 export default function TableOfContents() {
   const [currentDay, setCurrentDay] = useState<number | null>(null);
   const [isOpen, setIsOpen] = useState(false);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const direction = useDirection();
   const navigate = useNavigate();
   const catalogCards = getCatalogCards();
   const rafRef = useRef<number | null>(null);
+  const dropdownRef = useRef<HTMLDivElement>(null);
 
   const tocLabel = useText({ arabic: 'جدول المحتويات', english: 'Table of Contents' });
   const backToTopLabel = useText({ arabic: 'العودة للأعلى', english: 'Back to Top' });
   const homeLabel = useText({ arabic: 'الرئيسية', english: 'Home' });
   const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
   const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
+  const ofLabel = useText({ arabic: 'من', english: 'of' });
 
   // Track scroll position to highlight current day with debouncing
   useEffect(() => {
@@ -80,70 +84,107 @@ export default function TableOfContents() {
     setIsOpen(false);
   };
 
-  // Desktop Sidebar
-  const DesktopSidebar = () => (
+  // Desktop Dropdown (Compact)
+  const DesktopDropdown = () => (
     <motion.div
-      initial={{ opacity: 0, x: direction === 'rtl' ? -50 : 50 }}
-      animate={{ opacity: 1, x: 0 }}
+      initial={{ opacity: 0, y: -20 }}
+      animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className={`hidden lg:flex fixed top-32 ${
+      className={`hidden lg:block fixed top-32 ${
         direction === 'rtl' ? 'left-6' : 'right-6'
-      } w-64 flex-col gap-4 max-h-[calc(100vh-200px)] overflow-y-auto z-40`}
+      } z-40`}
+      ref={dropdownRef}
     >
-      {/* Home Button */}
-      <motion.button
-        whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
-        onClick={goHome}
-        className="w-full px-4 py-3 rounded-xl bg-accent-500 hover:bg-accent-600 text-white font-bold transition-colors flex items-center justify-center gap-2 shadow-lg"
-      >
-        <Home className="w-5 h-5" />
-        {homeLabel}
-      </motion.button>
-
-      {/* Back to Top Button */}
-      <motion.button
-        whileHover={{ scale: 1.05 }}
-        whileTap={{ scale: 0.95 }}
-        onClick={scrollToTop}
-        className="w-full px-4 py-3 rounded-xl bg-primary-500 hover:bg-primary-600 text-white font-bold transition-colors flex items-center justify-center gap-2 shadow-lg"
-      >
-        <ChevronUp className="w-5 h-5" />
-        {backToTopLabel}
-      </motion.button>
-
-      {/* Days List */}
+      {/* Compact Dropdown Container */}
       <div className="bg-white dark:bg-slate-800 rounded-2xl shadow-lg border border-slate-200 dark:border-slate-700 overflow-hidden">
-        <div className="px-4 py-3 bg-gradient-to-r from-primary-500 to-primary-600 text-white font-bold text-sm">
-          {tocLabel}
-        </div>
+        {/* Dropdown Header/Button */}
+        <motion.button
+          whileHover={{ scale: 1.02 }}
+          whileTap={{ scale: 0.98 }}
+          onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+          className="w-full px-6 py-4 flex items-center justify-between bg-gradient-to-r from-primary-500 to-primary-600 text-white font-bold hover:from-primary-600 hover:to-primary-700 transition-all"
+        >
+          <div className="flex items-center gap-3">
+            <span className="text-sm">
+              {currentDay === 0 ? teaserLabel : currentDay ? `${dayLabel} ${currentDay}` : tocLabel}
+            </span>
+            {currentDay && currentDay !== 0 && (
+              <span className="text-xs bg-white/20 px-2 py-1 rounded-full">
+                {currentDay} {ofLabel} 23
+              </span>
+            )}
+          </div>
+          <motion.div
+            animate={{ rotate: isDropdownOpen ? 180 : 0 }}
+            transition={{ duration: 0.3 }}
+          >
+            <ChevronDown className="w-5 h-5" />
+          </motion.div>
+        </motion.button>
 
-        <div className="divide-y divide-slate-200 dark:divide-slate-700">
-          {catalogCards.map((entry) => (
-            <motion.button
-              key={entry.id}
-              whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
-              onClick={() => scrollToDay(entry.day)}
-              className={`w-full px-4 py-3 text-sm font-medium transition-all text-left ${
-                currentDay === entry.day
-                  ? 'bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 border-l-4 border-primary-500'
-                  : 'text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700/50'
-              }`}
+        {/* Dropdown Content */}
+        <AnimatePresence>
+          {isDropdownOpen && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: 'auto' }}
+              exit={{ opacity: 0, height: 0 }}
+              transition={{ duration: 0.3 }}
+              className="max-h-96 overflow-y-auto bg-white dark:bg-slate-800"
             >
-              <div className="flex items-center justify-between">
-                <span>
-                  {entry.day === 0 ? teaserLabel : `${dayLabel} ${entry.day}`}
-                </span>
-                {currentDay === entry.day && (
-                  <motion.div
-                    layoutId="indicator"
-                    className="w-2 h-2 rounded-full bg-primary-500"
-                  />
-                )}
+              {/* Home Button */}
+              <motion.button
+                whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
+                onClick={goHome}
+                className="w-full px-6 py-3 text-left text-sm font-medium text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors flex items-center gap-2 border-b border-slate-200 dark:border-slate-700"
+              >
+                <Home className="w-4 h-4" />
+                {homeLabel}
+              </motion.button>
+
+              {/* Back to Top Button */}
+              <motion.button
+                whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
+                onClick={scrollToTop}
+                className="w-full px-6 py-3 text-left text-sm font-medium text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors flex items-center gap-2 border-b border-slate-200 dark:border-slate-700"
+              >
+                <ChevronUp className="w-4 h-4" />
+                {backToTopLabel}
+              </motion.button>
+
+              {/* Days List */}
+              <div className="divide-y divide-slate-200 dark:divide-slate-700">
+                {catalogCards.map((entry) => (
+                  <motion.button
+                    key={entry.id}
+                    whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
+                    onClick={() => {
+                      scrollToDay(entry.day);
+                      setIsDropdownOpen(false);
+                    }}
+                    className={`w-full px-6 py-3 text-sm font-medium transition-all text-left ${
+                      currentDay === entry.day
+                        ? 'bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400 border-l-4 border-primary-500'
+                        : 'text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700/50'
+                    }`}
+                  >
+                    <div className="flex items-center justify-between">
+                      <span>
+                        {entry.day === 0 ? teaserLabel : `${dayLabel} ${entry.day}`}
+                      </span>
+                      {currentDay === entry.day && (
+                        <motion.div
+                          layoutId="indicator"
+                          className="w-2 h-2 rounded-full bg-primary-500"
+                        />
+                      )}
+                    </div>
+                  </motion.button>
+                ))}
               </div>
-            </motion.button>
-          ))}
-        </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </motion.div>
   );
@@ -275,7 +316,7 @@ export default function TableOfContents() {
 
   return (
     <>
-      <DesktopSidebar />
+      <DesktopDropdown />
       <MobileDrawer />
     </>
   );
