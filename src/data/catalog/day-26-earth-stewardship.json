@@ -5,14 +5,14 @@
   "title": {
     "ar": "إعمار الأرض - كيف تحول روتينك لعبادة؟",
     "en": "Stewardship of the Earth - How to Transform Your Routine into Worship",
-    "ur": "",
+    "ur": "زمین کی نگہداشت - اپنی روزمرہ کو عبادت میں کیسے تبدیل کریں؟",
     "fr": "",
     "es": ""
   },
   "subtitle": {
     "ar": "حاسس إن الشغل سارقك من ربنا؟ (سر العداد المخفي)",
     "en": "Does Work Feel Like It's Stealing You from Your Creator? (The Secret of the Hidden Counter)",
-    "ur": "",
+    "ur": "کیا کام آپ کو اپنے خالق سے چرا رہا ہے؟ (پوشیدہ عداد کا راز)",
     "fr": "",
     "es": ""
   },
@@ -21,23 +21,23 @@
     "type": "core",
     "readTime": 12,
     "tags": [
-      { "ar": "إعمار-الأرض", "en": "stewardship", "ur": "", "fr": "", "es": "" },
-      { "ar": "النية", "en": "intention", "ur": "", "fr": "", "es": "" },
-      { "ar": "الإتقان", "en": "excellence", "ur": "", "fr": "", "es": "" },
-      { "ar": "العداد-المخفي", "en": "hidden-counter", "ur": "", "fr": "", "es": "" }
+      { "ar": "إعمار-الأرض", "en": "stewardship", "ur": "نگہداشت", "fr": "", "es": "" },
+      { "ar": "النية", "en": "intention", "ur": "نیت", "fr": "", "es": "" },
+      { "ar": "الإتقان", "en": "excellence", "ur": "بہتری", "fr": "", "es": "" },
+      { "ar": "العداد-المخفي", "en": "hidden-counter", "ur": "پوشیدہ-عداد", "fr": "", "es": "" }
     ]
   },
   "hook": {
     "ar": "كلنا بنمر باللحظة دي: بتصحى الصبح تجري، تقف في زحمة المواصلات، تروح الشغل أو الجامعة، تقعد 8 ساعات بين إيميلات ومشاكل وتاسكات مابتخلصش (أو أم مطحونة طول اليوم في طلبات البيت والولاد). ترجع أخر اليوم مهنج، تصلي بالعافية، وتنام عشان تصحى تعيد نفس الشريط.\n\nفي النص كده، بيجيلك إحساس قاسي جداً بـ 'الذنب': 'أنا بعيد أوي عن ربنا.. يومي كله ضايع في الدنيا ومفيش وقت أقرأ قرآن ولا أركز في عبادتي.. أنا مجرد ترس في مكنة!'",
     "en": "We all go through this: you wake up in the morning rushing, stuck in traffic, heading to work or university, sitting for 8 hours between emails, problems, and endless tasks (or a mother exhausted all day with household demands and children). You come home at the end of the day drained, pray quickly, and sleep so you can wake up and repeat the same cycle.\n\nIn the middle of all this, you get a harsh feeling of 'guilt': 'I'm so far from my Creator... my entire day is wasted in the world and there's no time to read the Quran or focus on my worship... I'm just a cog in a machine!'",
-    "ur": "",
+    "ur": "ہم سب اس سے گزرتے ہیں: آپ صبح جلدی اٹھتے ہیں، ٹریفک میں پھنسے ہوتے ہیں، کام یا یونیورسٹی جاتے ہیں، 8 گھنٹے ای میلز، مسائل اور ختم نہ ہونے والے کاموں کے درمیان بیٹھتے ہیں (یا ایک ماں جو پورے دن گھر کے کاموں اور بچوں سے تھک جاتی ہے)۔ آپ دن کے آخر میں تھک کر گھر آتے ہیں، جلدی نماز پڑھتے ہیں، اور سوتے ہیں تاکہ اگلے دن اٹھ کر یہی سب دوبارہ کریں۔\n\nاس سب کے درمیان، آپ کو 'گناہ' کا سخت احساس ہوتا ہے: 'میں اپنے خالق سے بہت دور ہوں... میرا پورا دن دنیا میں ضائع ہو رہا ہے اور قرآن پڑھنے یا اپنی عبادت پر توجہ دینے کا کوئی وقت نہیں... میں صرف ایک مشین کا ایک حصہ ہوں!'",
     "fr": "",
     "es": ""
   },
   "mainConcept": {
     "ar": "لو الإحساس ده بيزورك، يبقى أنت محتاج تقرأ الصفحة دي من 'الكتالوج' فوراً. الدين مش جاي يفصلك عن الحياة، الدين جاي 'ينور' الحياة. الشغل والدراسة والسعي مش 'تضييع وقت' بيسرقك من ربنا، دي هي دي 'ساحة الاختبار' الحقيقية اللي بتثبت فيها إنك خليفة يستحق الأمانة.",
     "en": "If this feeling visits you, then you need to read this page from the Catalog immediately. Faith doesn't separate you from life—faith illuminates life. Work, study, and striving are not 'wasting time' that steals you from your Creator. This is the real 'testing ground' where you prove you're a steward worthy of the trust.",
-    "ur": "",
+    "ur": "اگر یہ احساس آپ کو ہو، تو آپ کو فوری طور پر کتالوگ کے اس صفحے کو پڑھنے کی ضرورت ہے۔ دین آپ کو زندگی سے الگ نہیں کرتا—دین زندگی کو روشن کرتا ہے۔ کام، تعلیم اور کوشش 'وقت ضائع کرنا' نہیں ہے جو آپ کو اپنے خالق سے چرا لے۔ یہ حقیقی 'امتحان کا میدان' ہے جہاں آپ ثابت کرتے ہیں کہ آپ اعتماد کے قابل ہیں۔",
     "fr": "",
     "es": ""
   },
@@ -47,14 +47,14 @@
       "title": {
         "ar": "خرافة الانفصال (الجامع والشركة)",
         "en": "The Myth of Separation (Mosque and Workplace)",
-        "ur": "",
+        "ur": "علیحدگی کا افسانہ (مسجد اور کام کی جگہ)",
         "fr": "",
         "es": ""
       },
       "content": {
         "ar": "إحنا ورثنا فكرة غلط بتقول إن 'الدين' مكانه السجادة والجامع بس، وإن 'الدنيا' مكانها الشارع والشغل. فبقى عندنا صراع داخلي دائم بينهم. لكن 'المصمم' لما خلق سيدنا آدم، مقالوش للملايكة: 'إني جاعل في الأرض عابداً أو ساجداً'.. قالهم: (إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً).\n\nخليفة يعني إيه؟ يعني وكيل عن ربنا في الأرض، وظيفته الأساسية 'إعمارها'. المهندس اللي بيبني كوبري آمن للناس، الدكتور اللي بيخفف وجع مريض، المحاسب اللي بيظبط أرقام شركته بضمير، الأم اللي بتربي طفل سوي نفسياً، والشاب اللي بيذاكر عشان ينفع نفسه ومجتمعه.. كل دول في قلب 'العبادة'، زيهم زي اللي واقف يصلي قيام ليل بالظبط!",
         "en": "We inherited a wrong idea that says 'faith' belongs only on the prayer mat and in the mosque, and 'the world' belongs on the street and at work. So we have a constant internal conflict between them. But when the Designer created Adam, He didn't tell the angels: 'I am placing in the earth a worshipper or one who prostrates'... He told them: 'I am placing in the earth a steward'.\n\nWhat does steward mean? It means a trustee of the Creator on earth, whose primary duty is to 'develop and maintain it'. The engineer building a safe bridge for people, the doctor easing a patient's pain, the accountant managing their company's numbers with integrity, the mother raising a psychologically healthy child, the student studying to benefit themselves and their society... all of them are at the heart of 'worship', just like someone standing in night prayer!",
-        "ur": "",
+        "ur": "ہم نے ایک غلط خیال وراثت میں پایا جو کہتا ہے کہ 'دین' صرف نماز کی چٹائی اور مسجد میں ہے، اور 'دنیا' سڑک اور کام میں ہے۔ تو ہمارے اندر ہمیشہ ان کے درمیان تنازعہ رہتا ہے۔ لیکن جب ڈیزائنر نے آدم کو بنایا، تو فرشتوں سے نہیں کہا: 'میں زمین میں ایک عابد یا سجدہ کرنے والا رکھ رہا ہوں'... انہیں کہا: 'میں زمین میں ایک نگہبان رکھ رہا ہوں'۔\n\nنگہبان کا مطلب کیا ہے؟ اس کا مطلب ہے خالق کا نمائندہ زمین پر، جس کا بنیادی فریضہ 'اسے آباد اور برقرار رکھنا' ہے۔ انجینئر جو لوگوں کے لیے محفوظ پل بناتا ہے، ڈاکٹر جو مریض کا درد کم کرتا ہے، اکاؤنٹنٹ جو اپنی کمپنی کے اعداد و شمار کو ایمانداری سے سنبھالتا ہے، ماں جو نفسیاتی طور پر صحت مند بچے کی تربیت کرتی ہے، طالب علم جو اپنے اور اپنی معاشرے کے فائدے کے لیے پڑھتا ہے... یہ سب 'عبادت' کے دل میں ہیں، بالکل اسی طرح جیسے کوئی رات کی نماز میں کھڑا ہو!",
         "fr": "",
         "es": ""
       }
@@ -64,14 +64,14 @@
       "title": {
         "ar": "زرار السحر: 'حجر الفلاسفة' (النية)",
         "en": "The Magic Button: The 'Philosopher's Stone' (Intention)",
-        "ur": "",
+        "ur": "جادوئی بٹن: 'فلاسفروں کا پتھر' (نیت)",
         "fr": "",
         "es": ""
       },
       "content": {
         "ar": "في الأساطير القديمة كان فيه حجر سحري اسمه 'حجر الفلاسفة' بيحول النحاس لدهب. في الكتالوج بتاعنا، إحنا عندنا الزرار ده بجد، واسمه 'النية'.\n\nالنية هي اللي بتحول الروتين الممل لعداد حسنات شغال في الخلفية (Passive Income لروحك). لو أنت نزلت الشغل الصبح عشان 'تقبض وتصرف وخلاص'، ده نحاس. بس لو قبل ما تنزل، وقفت ثانية وقلت: 'يا رب أنا نازل أشتغل عشان أعف نفسي عن الحرام، وعشان أكفي بيتي، وعشان أنفع الناس بشغلي'.. بوم! الـ 8 ساعات شغل بتوعك اتحولوا لـ 8 ساعات 'عبادة' مكتوبين في رصيدك كأنك كنت ساجد!",
         "en": "In ancient mythology, there was a magical stone called the 'Philosopher's Stone' that turned copper into gold. In our Catalog, we have this button for real, and it's called 'intention'.\n\nIntention is what transforms boring routine into a running counter of good deeds in the background (Passive Income for your soul). If you go to work in the morning just to 'earn and spend, that's it', that's copper. But if before you leave, you pause for a moment and say: 'O Lord, I'm going to work to protect myself from the forbidden, to provide for my family, and to benefit people through my work'... boom! Your 8 hours of work have transformed into 8 hours of 'worship' written in your account as if you were prostrating!",
-        "ur": "",
+        "ur": "پرانے اساطیر میں ایک جادوئی پتھر تھا جسے 'فلاسفروں کا پتھر' کہا جاتا تھا جو تانبے کو سونے میں بدل دیتا تھا۔ ہماری کتالوگ میں، ہمارے پاس یہ بٹن واقعی ہے، اور اسے 'نیت' کہا جاتا ہے۔\n\nنیت وہ ہے جو بوریت سے بھری روزمرہ کو پس منظر میں چلنے والی نیکیوں کی عداد میں تبدیل کرتی ہے (آپ کی روح کے لیے منفعت)۔ اگر آپ صبح کام پر صرف 'کمانے اور خرچ کرنے' کے لیے جاتے ہیں، تو یہ تانبا ہے۔ لیکن اگر جانے سے پہلے، آپ ایک لمحے کے لیے رکتے ہیں اور کہتے ہیں: 'اے رب، میں کام پر جا رہا ہوں اپنے آپ کو حرام سے بچانے کے لیے، اپنے خاندان کو فراہم کرنے کے لیے، اور اپنے کام کے ذریعے لوگوں کو فائدہ دینے کے لیے'... بوم! آپ کے 8 گھنٹے کام 8 گھنٹے 'عبادت' میں تبدیل ہو گئے ہیں جو آپ کے اکاؤنٹ میں لکھے ہیں گویا آپ سجدہ کر رہے ہوں!",
         "fr": "",
         "es": ""
       }
@@ -81,14 +81,14 @@
       "title": {
         "ar": "الإحسان (الإتقان مش عشان المدير)",
         "en": "Excellence (Perfection is Not for Your Boss)",
-        "ur": "",
+        "ur": "بہتری (کمال آپ کے بوس کے لیے نہیں ہے)",
         "fr": "",
         "es": ""
       },
       "content": {
         "ar": "الكتالوج مش بس بيطلب منك تشتغل، ده بيطلب منك تطلع 'أحسن نسخة' من الشغل ده. النبي ﷺ قال: 'إن الله يحب إذا عمل أحدكم عملاً أن يتقنه'. لما بتعمل شغلك بضمير، وتفنش التاسك بتاعتك بنظافة، أنت مش بتعمل كدة عشان ترضي مديرك (اللي ممكن يكون مابيقدرش أصلاً)، أنت بتعمل كدة لأنك بتعكس صفة من صفات الخالق (المُحسن، الصانع المتقن). أنت بتشتغل عشان 'تحترم نفسك' وتحترم العهد اللي بينك وبين ربنا.",
         "en": "The Catalog doesn't just ask you to work—it asks you to produce the 'best version' of that work. The Prophet said: 'The Creator loves when any of you does a task, that you do it excellently'. When you do your work with integrity, and perfect your tasks with care, you're not doing it to please your boss (who might not even appreciate it anyway). You're doing it because you're reflecting a quality of the Creator (the Excellent, the Perfect Maker). You work because you 'respect yourself' and honour the covenant between you and your Creator.",
-        "ur": "",
+        "ur": "کتالوگ صرف آپ سے کام کرنے کو نہیں کہتی—یہ آپ سے اس کام کا 'بہترین ورژن' پیدا کرنے کو کہتی ہے۔ نبی نے کہا: 'خالق اسے پسند کرتا ہے جب تم میں سے کوئی کام کرے تو اسے بہترین طریقے سے کرے'۔ جب آپ اپنے کام کو ایمانداری سے کرتے ہیں، اور اپنے کاموں کو احتیاط سے بہتر بناتے ہیں، تو آپ یہ اپنے بوس کو خوش کرنے کے لیے نہیں کر رہے (جو شاید اس کی تعریف بھی نہ کرے)۔ آپ یہ اس لیے کر رہے ہیں کیونکہ آپ خالق کی ایک خصوصیت کو ظاہر کر رہے ہیں (بہترین، کامل صانع)۔ آپ کام کرتے ہیں کیونکہ آپ 'اپنے آپ کا احترام' کرتے ہیں اور اپنے اور اپنے خالق کے درمیان عہد کا احترام کرتے ہیں۔",
         "fr": "",
         "es": ""
       }
@@ -100,21 +100,21 @@
       "title": {
         "ar": "الخليفة (الوكيل)",
         "en": "The Steward (The Trustee)",
-        "ur": "",
+        "ur": "نگہبان (امانتدار)",
         "fr": "",
         "es": ""
       },
       "description": {
         "ar": "الإنسان ليس عابداً فقط على السجادة، بل هو خليفة (وكيل) عن الله في الأرض.",
         "en": "Humans are not just worshippers on the prayer mat—they are stewards (trustees) of the Creator on earth.",
-        "ur": "",
+        "ur": "انسان صرف نماز کی چٹائی پر عابد نہیں ہے—وہ زمین پر خالق کے نگہبان (امانتدار) ہیں۔",
         "fr": "",
         "es": ""
       },
       "example": {
         "ar": "المهندس الذي يبني جسراً آمناً، الطبيب الذي يخفف الألم، الأم التي تربي طفلاً سوياً - كل هؤلاء في قلب العبادة، مثل من يقف يصلي قيام الليل.",
         "en": "The engineer building a safe bridge, the doctor easing pain, the mother raising a healthy child—all of them are at the heart of worship, just like someone standing in night prayer.",
-        "ur": "",
+        "ur": "انجینئر جو محفوظ پل بناتا ہے، ڈاکٹر جو درد کم کرتا ہے، ماں جو صحت مند بچے کی تربیت کرتی ہے—یہ سب عبادت کے دل میں ہیں، بالکل اسی طرح جیسے کوئی رات کی نماز میں کھڑا ہو۔",
         "fr": "",
         "es": ""
       }
@@ -124,21 +124,21 @@
       "title": {
         "ar": "حجر الفلاسفة (النية)",
         "en": "The Philosopher's Stone (Intention)",
-        "ur": "",
+        "ur": "فلاسفروں کا پتھر (نیت)",
         "fr": "",
         "es": ""
       },
       "description": {
         "ar": "في الأساطير، حجر الفلاسفة يحول النحاس إلى ذهب. في الكتالوج، النية تحول الروتين إلى عبادة.",
         "en": "In mythology, the Philosopher's Stone turns copper into gold. In the Catalog, intention transforms routine into worship.",
-        "ur": "",
+        "ur": "اساطیر میں، فلاسفروں کا پتھر تانبے کو سونے میں بدل دیتا ہے۔ کتالوگ میں، نیت روزمرہ کو عبادت میں تبدیل کرتی ہے۔",
         "fr": "",
         "es": ""
       },
       "example": {
         "ar": "العمل بدون نية = نحاس. العمل بنية صادقة = ذهب (عبادة مكتوبة في رصيدك).",
         "en": "Work without intention = copper. Work with sincere intention = gold (worship written in your account).",
-        "ur": "",
+        "ur": "نیت کے بغیر کام = تانبا۔ سچی نیت کے ساتھ کام = سونا (آپ کے اکاؤنٹ میں لکھی عبادت)۔",
         "fr": "",
         "es": ""
       }
@@ -148,21 +148,21 @@
       "title": {
         "ar": "الدخل السلبي للروح",
         "en": "Passive Income for Your Soul",
-        "ur": "",
+        "ur": "آپ کی روح کے لیے منفعت",
         "fr": "",
         "es": ""
       },
       "description": {
         "ar": "النية تحول العمل اليومي إلى عداد حسنات يعمل في الخلفية.",
         "en": "Intention transforms daily work into a running counter of good deeds in the background.",
-        "ur": "",
+        "ur": "نیت روزمرہ کے کام کو پس منظر میں چلنے والی نیکیوں کی عداد میں تبدیل کرتی ہے۔",
         "fr": "",
         "es": ""
       },
       "example": {
         "ar": "8 ساعات عمل بنية صادقة = 8 ساعات عبادة مكتوبة في ميزانك، حتى وأنت تعمل.",
         "en": "8 hours of work with sincere intention = 8 hours of worship written in your account, even as you work.",
-        "ur": "",
+        "ur": "سچی نیت کے ساتھ 8 گھنٹے کام = 8 گھنٹے عبادت آپ کے اکاؤنٹ میں لکھی ہے، چاہے آپ کام کر رہے ہوں۔",
         "fr": "",
         "es": ""
       }
@@ -172,35 +172,35 @@
     {
       "ar": "الدين لا يفصلك عن الحياة - الدين ينور الحياة",
       "en": "Faith doesn't separate you from life—faith illuminates life",
-      "ur": "",
+      "ur": "دین آپ کو زندگی سے الگ نہیں کرتا—دین زندگی کو روشن کرتا ہے",
       "fr": "",
       "es": ""
     },
     {
       "ar": "الشغل والدراسة والسعي ليست تضييع وقت - هي ساحة الاختبار الحقيقية",
       "en": "Work, study, and striving are not wasting time—they are the real testing ground",
-      "ur": "",
+      "ur": "کام، تعلیم اور کوشش وقت ضائع کرنا نہیں ہے—یہ حقیقی امتحان کا میدان ہے",
       "fr": "",
       "es": ""
     },
     {
       "ar": "أنت خليفة (وكيل) عن الله في الأرض، وظيفتك إعمار الأرض",
       "en": "You are a steward (trustee) of the Creator on earth—your duty is to develop and maintain it",
-      "ur": "",
+      "ur": "آپ زمین پر خالق کے نگہبان (امانتدار) ہیں—آپ کا فریضہ اسے آباد اور برقرار رکھنا ہے",
       "fr": "",
       "es": ""
     },
     {
       "ar": "النية هي التي تحول الروتين الممل إلى عبادة وعداد حسنات",
       "en": "Intention is what transforms boring routine into worship and a running counter of good deeds",
-      "ur": "",
+      "ur": "نیت وہ ہے جو بوریت سے بھری روزمرہ کو عبادت اور نیکیوں کی عداد میں تبدیل کرتی ہے",
       "fr": "",
       "es": ""
     },
     {
       "ar": "الإتقان والإحسان في العمل ليس لإرضاء المدير - هو عكس لصفات الخالق",
       "en": "Excellence and perfection in work is not to please your boss—it reflects the qualities of the Creator",
-      "ur": "",
+      "ur": "کام میں بہتری اور کمال بوس کو خوش کرنے کے لیے نہیں ہے—یہ خالق کی خصوصیات کو ظاہر کرتا ہے",
       "fr": "",
       "es": ""
     }
@@ -211,21 +211,21 @@
       "title": {
         "ar": "ضع النية قبل العمل",
         "en": "Set Your Intention Before Work",
-        "ur": "",
+        "ur": "کام سے پہلے اپنی نیت رکھیں",
         "fr": "",
         "es": ""
       },
       "action": {
         "ar": "قبل ما تبدأ يومك، قف ثانية وقل: 'يا رب، أنا هشتغل/أذاكر عشان أعف نفسي عن الحرام، وأكفي بيتي، وأنفع الناس'",
         "en": "Before you start your day, pause for a moment and say: 'O Lord, I will work/study to protect myself from the forbidden, to provide for my family, and to benefit people'",
-        "ur": "",
+        "ur": "اپنے دن کی شروعات سے پہلے، ایک لمحے کے لیے رکیں اور کہیں: 'اے رب، میں کام/تعلیم کروں گا اپنے آپ کو حرام سے بچانے کے لیے، اپنے خاندان کو فراہم کرنے کے لیے، اور لوگوں کو فائدہ دینے کے لیے'",
         "fr": "",
         "es": ""
       },
       "benefit": {
         "ar": "تحويل العمل من روتين ممل إلى عبادة مكتوبة في ميزانك",
         "en": "Transform work from boring routine into worship written in your account",
-        "ur": "",
+        "ur": "کام کو بوریت سے بھری روزمرہ سے عبادت میں تبدیل کریں جو آپ کے اکاؤنٹ میں لکھی ہے",
         "fr": "",
         "es": ""
       }
@@ -235,21 +235,21 @@
       "title": {
         "ar": "مارس الإتقان في عملك",
         "en": "Practice Excellence in Your Work",
-        "ur": "",
+        "ur": "اپنے کام میں بہتری کا مشق کریں",
         "fr": "",
         "es": ""
       },
       "action": {
         "ar": "أتقن كل تاسك تعمله، حتى لو لم يراك أحد. اعمل بضمير وليس لإرضاء المدير",
         "en": "Perfect every task you do, even if no one is watching. Work with integrity, not to please your boss",
-        "ur": "",
+        "ur": "ہر کام کو بہتر بنائیں، چاہے کوئی دیکھ رہا ہو یا نہ ہو۔ ایمانداری سے کام کریں، بوس کو خوش کرنے کے لیے نہیں",
         "fr": "",
         "es": ""
       },
       "benefit": {
         "ar": "عكس صفات الخالق (المحسن، الصانع المتقن) واحترام نفسك والعهد مع الله",
         "en": "Reflect the qualities of the Creator (the Excellent, the Perfect Maker) and respect yourself and your covenant with the Creator",
-        "ur": "",
+        "ur": "خالق کی خصوصیات کو ظاہر کریں (بہترین، کامل صانع) اور اپنے آپ کا احترام کریں اور خالق کے ساتھ اپنے عہد کا احترام کریں",
         "fr": "",
         "es": ""
       }
@@ -259,21 +259,21 @@
       "title": {
         "ar": "أعد تعريف عملك",
         "en": "Reframe Your Work",
-        "ur": "",
+        "ur": "اپنے کام کو دوبارہ تعریف دیں",
         "fr": "",
         "es": ""
       },
       "action": {
         "ar": "فكر في عملك كخدمة للناس والمجتمع، لا كمجرد وسيلة للحصول على راتب",
         "en": "Think of your work as service to people and society, not just a means to earn a salary",
-        "ur": "",
+        "ur": "اپنے کام کو لوگوں اور معاشرے کی خدمت کے طور پر سوچیں، نہ کہ صرف تنخواہ کمانے کا ذریعہ",
         "fr": "",
         "es": ""
       },
       "benefit": {
         "ar": "تحويل منظورك للعمل من عبء إلى رسالة ذات معنى",
         "en": "Transform your perspective on work from a burden into a meaningful mission",
-        "ur": "",
+        "ur": "کام کے بارے میں اپنے نقطہ نظر کو بوجھ سے معنی خیز مشن میں تبدیل کریں",
         "fr": "",
         "es": ""
       }
@@ -282,14 +282,14 @@
   "dailyAction": {
     "ar": "⚡ تحدي اليوم (الروشتة العملية):\n\nالنهاردة عايزين نشغل 'العداد المخفي' اللي اتكلمنا عنه.\n\nالتحدي (قاعدة الـ 10 ثواني):\n\nبكرة الصبح، وقبل ما تفتح باب شقتك عشان تنزل، أو قبل ما تفتح اللاب توب، أو قبل ما تفتحي كتاب المذاكرة.. اقف 10 ثواني بس.\n\nقول بقلبك: 'يا رب، أنا هقعد الساعات دي كلها أشتغل/أذاكر عشان أكون إنسان قوي، أنفع نفسي ومابقاش حمل على حد، وأعمر في أرضك.. فتقبل مني التعب ده واكتبهولي عبادة في ميزاني.'\n\nهتلاحظ حاجة غريبة جداً: 'الإرهاق' اللي بتحس بيه في نص اليوم هيتغير طعمه. بدل ما كان إرهاق كئيب وممل، هيبقى إرهاق مليان 'معنى وسلام نفسي'، لأنك عارف إن تعبك مبيقعش على الأرض، تعبك بيتبني بيه قصر في رصيدك.",
     "en": "⚡ Today's Challenge (The Prescription):\n\nToday, we want to activate the 'hidden counter' we talked about.\n\nThe Challenge (The 10-Second Rule):\n\nTomorrow morning, before you open your apartment door to leave, or before you open your laptop, or before you open your study book... pause for just 10 seconds.\n\nSay in your heart: 'O Lord, I will spend all these hours working/studying to become a strong person, to benefit myself and not be a burden on others, and to develop Your earth... so accept this effort from me and write it as worship in my account.'\n\nYou'll notice something strange: the 'exhaustion' you feel in the middle of the day will change its flavour. Instead of being gloomy and boring exhaustion, it will become exhaustion filled with 'meaning and inner peace', because you know your effort isn't wasted on the ground—your effort is building a palace in your account.",
-    "ur": "",
+    "ur": "⚡ آج کا چیلنج (نسخہ):\n\nآج، ہم 'پوشیدہ عداد' کو فعال کرنا چاہتے ہیں جس کے بارے میں ہم نے بات کی۔\n\nچیلنج (10 سیکنڈ کا اصول):\n\nکل صبح، اپنے اپارٹمنٹ کا دروازہ کھولنے سے پہلے، یا اپنا لیپ ٹاپ کھولنے سے پہلے، یا اپنی کتاب کھولنے سے پہلے... صرف 10 سیکنڈ کے لیے رکیں۔\n\nاپنے دل میں کہیں: 'اے رب، میں یہ تمام گھنٹے کام/تعلیم میں لگاؤں گا ایک مضبوط شخص بننے کے لیے، اپنے آپ کو فائدہ دینے کے لیے اور دوسروں پر بوجھ نہ بننے کے لیے، اور آپ کی زمین کو آباد کرنے کے لیے... تو اس محنت کو قبول کریں اور اسے میرے اکاؤنٹ میں عبادت کے طور پر لکھیں۔'\n\nآپ کو کچھ عجیب نظر آئے گا: دن کے درمیان میں جو 'تھکاوٹ' آپ محسوس کرتے ہیں وہ اپنا ذائقہ بدل دے گی۔ اداس اور بوریت سے بھری تھکاوٹ کی بجائے، یہ 'معنی اور اندرونی سلام' سے بھری تھکاوٹ بن جائے گی، کیونکہ آپ جانتے ہیں کہ آپ کی محنت زمین پر ضائع نہیں ہو رہی—آپ کی محنت آپ کے اکاؤنٹ میں ایک محل بنا رہی ہے۔",
     "fr": "",
     "es": ""
   },
   "conclusion": {
     "ar": "الخلاصة: الدين مش جاي يفصلك عن الحياة، الدين جاي 'ينور' الحياة. الشغل والدراسة والسعي مش 'تضييع وقت' بيسرقك من ربنا، دي هي دي 'ساحة الاختبار' الحقيقية اللي بتثبت فيها إنك خليفة يستحق الأمانة.\n\nموعدنا بكره مع حلقة بتعالج أكبر وجع في حياة الإنسان.. اليوم السابع والعشرون: الابتلاء (فلسفة الألم وليه بيحصلنا حاجات وحشة؟).",
     "en": "Conclusion: Faith doesn't come to separate you from life—faith comes to illuminate life. Work, study, and striving are not 'wasting time' that steals you from your Creator. This is the real 'testing ground' where you prove you're a steward worthy of the trust.\n\nOur meeting tomorrow is with an episode that addresses the greatest pain in human life... Day Twenty-Seven: Trials and Tribulations (The Philosophy of Pain and Why Bad Things Happen to Us?).",
-    "ur": "",
+    "ur": "نتیجہ: دین آپ کو زندگی سے الگ کرنے نہیں آتا—دین زندگی کو روشن کرنے آتا ہے۔ کام، تعلیم اور کوشش 'وقت ضائع کرنا' نہیں ہے جو آپ کو اپنے خالق سے چرا لے۔ یہ حقیقی 'امتحان کا میدان' ہے جہاں آپ ثابت کرتے ہیں کہ آپ اعتماد کے قابل ہیں۔\n\nکل ہماری ملاقات ایک ایسی قسط کے ساتھ ہے جو انسانی زندگی میں سب سے بڑے درد کو حل کرتی ہے... دن سات اور بیس: آزمائشیں اور مشکلات (درد کی فلسفہ اور ہمیں برے کام کیوں ہوتے ہیں؟)۔",
     "fr": "",
     "es": ""
   },
