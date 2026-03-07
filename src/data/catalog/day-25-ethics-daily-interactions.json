@@ -1,0 +1,298 @@
+{
+  "id": "day-25-ethics-daily-interactions",
+  "slug": "day-25-ethics-daily-interactions",
+  "day": 25,
+  "title": {
+    "ar": "الأخلاق - الدين المعاملة",
+    "en": "Character - Faith is Conduct",
+    "ur": "کردار - دین رویہ ہے",
+    "fr": "",
+    "es": ""
+  },
+  "subtitle": {
+    "ar": "ليه بنصلي جوه.. وبنغش بره؟ (وهم الإفلاس)",
+    "en": "Why Do We Pray Inside but Cheat Outside? (The Illusion of Bankruptcy)",
+    "ur": "ہم اندر نماز پڑھتے ہیں لیکن باہر دھوکہ دیتے ہیں؟ (دیوالیہ کا وہم)",
+    "fr": "",
+    "es": ""
+  },
+  "metadata": {
+    "day": 25,
+    "type": "core",
+    "readTime": 11,
+    "tags": [
+      { "ar": "الأخلاق", "en": "character", "ur": "کردار", "fr": "", "es": "" },
+      { "ar": "المعاملات", "en": "conduct", "ur": "رویہ", "fr": "", "es": "" },
+      { "ar": "الإفلاس", "en": "bankruptcy", "ur": "دیوالیہ", "fr": "", "es": "" },
+      { "ar": "جبر-الخواطر", "en": "mending-hearts", "ur": "دلوں-کو-تسلی", "fr": "", "es": "" }
+    ]
+  },
+  "hook": {
+    "ar": "تخيل إنك رحت مطعم مشهور جداً، المطعم ده جايب أحسن شيف في العالم، وبيستخدم أغلى وأجود المكونات في الطبخ. بس أول ما دخلت، الجرسون اتعامل معاك بقلة ذوق، الكراسي كانت مش نظيفة، ولما جيت تحاسب لقيتهم مزودين في الفاتورة. هل هتروح المطعم ده تاني؟ مستحيل. جودة الأكل (الجوهر) فقدت قيمتها تماماً لأن 'التجربة والمعاملة' (الواجهة) كانت سيئة جداً.",
+    "en": "Imagine you went to a very famous restaurant. The restaurant has the best chef in the world, using the finest and most expensive ingredients. But the moment you walked in, the waiter treated you disrespectfully, the chairs were dirty, and when you asked for the bill, you found they'd inflated the prices. Would you go back to that restaurant? Never. The quality of the food (the essence) lost all its value because 'the experience and treatment' (the interface) was terrible.",
+    "ur": "تصور کریں کہ آپ ایک بہت مشہور ریستوران میں گئے۔ یہ ریستوران دنیا کے بہترین شیف کو رکھتا ہے، جو بہترین اور مہنگے اجزاء استعمال کرتا ہے۔ لیکن جیسے ہی آپ اندر گئے، ویٹر نے آپ کے ساتھ بے ادبی سے سلوک کیا، کرسیاں گندی تھیں، اور جب آپ نے بل مانگا تو انہوں نے قیمتیں بڑھا دی تھیں۔ کیا آپ اس ریستوران میں واپس جائیں گے؟ کبھی نہیں۔ کھانے کی معیت (جوہر) نے اپنی تمام قیمت کھو دی کیونکہ 'تجربہ اور سلوک' (انٹرفیس) بہت برا تھا۔",
+    "fr": "",
+    "es": ""
+  },
+  "mainConcept": {
+    "ar": "ولله المثل الأعلى.. العبادات اللي بينك وبين ربنا (الصلاة، الصيام، قراءة القرآن) هي الجوهر، هي اللي بتشحن قلبك وتغذيه. بس 'الأخلاق والمعاملات' هي الواجهة بتاعتك مع الناس. لو أنت بتصلي في الصف الأول، بس لسانك بيجرح اللي حواليك، أو بتغش في شغلك، أو بتاكل حق أخواتك في الميراث.. يبقى أنت بتقدم أسوأ 'واجهة' لأعظم كتالوج في الدنيا.",
+    "en": "And the highest example belongs to the Divine... The acts of worship between you and your Creator (prayer, fasting, reading the Quran) are the essence—they charge and nourish your heart. But 'character and conduct' is your interface with people. If you pray in the front row, but your words wound those around you, or you cheat at work, or you consume what isn't rightfully yours... then you're presenting the worst 'interface' for the greatest catalog in existence.",
+    "ur": "اور سب سے بہترین مثال خدا کی ہے... آپ اور اپنے خالق کے درمیان عبادت کے اعمال (نماز، روزہ، قرآن پڑھنا) جوہر ہیں—وہ آپ کے دل کو چارج اور غذا دیتے ہیں۔ لیکن 'کردار اور رویہ' لوگوں کے ساتھ آپ کا انٹرفیس ہے۔ اگر آپ پہلی صف میں نماز پڑھتے ہیں، لیکن آپ کے الفاظ آپ کے ارد گرد کے لوگوں کو زخمی کرتے ہیں، یا آپ کام میں دھوکہ دیتے ہیں، یا آپ وہ کھاتے ہیں جو آپ کا نہیں ہے... تو آپ موجودگی میں سب سے بدترین 'انٹرفیس' پیش کر رہے ہیں۔",
+    "fr": "",
+    "es": ""
+  },
+  "sections": [
+    {
+      "id": "spiritual-bankruptcy",
+      "title": {
+        "ar": "صدمة 'المُفلس'",
+        "en": "The Shock of Spiritual Bankruptcy",
+        "ur": "روحانی دیوالیہ کا صدمہ",
+        "fr": "",
+        "es": ""
+      },
+      "content": {
+        "ar": "النبي ﷺ قعد مع أصحابه في يوم وسألهم سؤال غريب جداً: 'أتدرون ما المفلس؟' قالوا بالمنطق البشري بتاعنا: المفلس اللي معندوش فلوس ولا متاع. النبي ﷺ صحح المفهوم وقالهم إن المفلس الحقيقي من أمته، هو واحد هييجي يوم القيامة بجبال من الحسنات (صلاة، وصيام، وزكاة).. يعني راجل متدين جداً في الظاهر. بس الكارثة إنه ييجي: (وقد شتم هذا، وقذف هذا، وأكل مال هذا، وسفك دم هذا، وضرب هذا). النتيجة؟ ربنا العدل بياخد من حسنات صلاته وصيامه ويديها للناس اللي أذاهم، لحد ما حسناته تخلص، فياخد من سيئاتهم وتترمي عليه، ويدخل النار!\n\nالحديث ده بيعمل زلزال في العقل.. بيقلك إن صلاتك مهما كترت، مش هتشفعلك لو ميزان 'أخلاقك' بايظ.",
+        "en": "The Prophet sat with his companions one day and asked them a strange question: 'Do you know who the spiritually bankrupt person is?' They answered with human logic: someone with no money or possessions. The Prophet corrected them, saying the truly bankrupt person from his community is someone who will come on the Day of Judgment with mountains of good deeds (prayer, fasting, charity)—seemingly very pious on the surface. But the catastrophe is that they will come having: insulted this person, slandered that person, consumed what wasn't theirs, shed blood, and struck others. The result? The Just Judge takes from their prayer and fasting rewards and gives them to those they harmed, until their good deeds are exhausted. Then their sins are taken and placed upon them, and they enter the Fire!\n\nThis teaching shakes the mind... it tells you that no matter how much you pray, it won't intercede for you if the scales of your 'character' are broken.",
+        "ur": "نبی نے ایک دن اپنے ساتھیوں کے ساتھ بیٹھ کر ایک عجیب سوال پوچھا: 'کیا تم جانتے ہو روحانی طور پر دیوالیہ شخص کون ہے؟' انہوں نے انسانی منطق سے جواب دیا: جس کے پاس پیسے یا سامان نہیں۔ نبی نے انہیں درست کیا، کہا کہ سچا روحانی طور پر دیوالیہ شخص وہ ہے جو قیامت کے دن بہت سے نیک اعمال (نماز، روزہ، خیرات) کے ساتھ آئے گا—ظاہری طور پر بہت متقی۔ لیکن آفت یہ ہے کہ وہ آئے گا اس حال میں کہ اس نے اس شخص کو گالی دی، اس کو بدنام کیا، جو اس کا نہیں تھا کھایا، خون بہایا، اور دوسروں کو مارا۔ نتیجہ؟ عادل قاضی اس کے نماز اور روزے کے ثواب لے کر انہیں ان لوگوں کو دے دیتا ہے جنہیں اس نے نقصان پہنچایا، جب تک اس کے نیک اعمال ختم نہ ہو جائیں۔ پھر اس کے برے اعمال لیے جاتے ہیں اور اس پر ڈالے جاتے ہیں، اور وہ جہنم میں داخل ہوتا ہے!\n\nیہ تعلیم دماغ کو ہلا دیتی ہے... یہ آپ کو بتاتی ہے کہ چاہے آپ کتنی بھی نماز پڑھیں، اگر آپ کے 'کردار' کے ترازو ٹوٹے ہوئے ہیں تو یہ آپ کے لیے شفاعت نہیں کر سکتی۔",
+        "fr": "",
+        "es": ""
+      }
+    },
+    {
+      "id": "trust-currency",
+      "title": {
+        "ar": "عملة 'الثقة' (الأساس الاجتماعي)",
+        "en": "The Currency of Trust (The Social Foundation)",
+        "ur": "اعتماد کی کرنسی (سماجی بنیاد)",
+        "fr": "",
+        "es": ""
+      },
+      "content": {
+        "ar": "في علم الاجتماع والاقتصاد، أصل أي مجتمع ناجح وأي بيزنس بيكبر هو 'الثقة' (Trust). لو التاجر بيكدب، والموظف بيزوغ، والزوج بيخون، والمقاول بيغش في المون.. المجتمع بينهار حتى لو كل الناس دي بتصلي الفجر حاضر. عشان كدة، النبي ﷺ قبل ما ينزل عليه الوحي ويبقى نبي، كان لقبه في قريش 'الصادق الأمين'. المصمم بيعلمنا إن 'الأخلاق' هي الأساس اللي بيتبني عليه الدين. لو الأساس ده مش موجود، أي عبادة هتبنيها فوقه هتبقى عاملة زي بيت من ورق، هيطير مع أول اختبار.",
+        "en": "In sociology and economics, the foundation of any successful society and any growing business is 'trust'. If the merchant lies, the employee slacks off, the spouse is unfaithful, the contractor cheats on materials... society collapses even if all these people pray regularly. That's why the Prophet, before revelation came to him and he became a prophet, was known in his community as 'the Truthful, the Trustworthy'. The Designer teaches us that 'character' is the foundation upon which faith is built. If this foundation doesn't exist, any worship you build upon it will be like a house of paper—it will blow away at the first test.",
+        "ur": "سماجیات اور معاشیات میں، کسی بھی کامیاب معاشرے اور کسی بھی بڑھتے ہوئے کاروبار کی بنیاد 'اعتماد' ہے۔ اگر تاجر جھوٹ بولے، ملازم کام میں سستی کرے، شوہر بے وفا ہو، ٹھیکیدار مواد میں دھوکہ دے... معاشرہ ڈھہ جاتا ہے چاہے یہ سب لوگ باقاعدہ نماز پڑھتے ہوں۔ اسی لیے نبی، وحی آنے سے پہلے اور نبی بننے سے پہلے، اپنی برادری میں 'سچا، قابل اعتماد' کے نام سے جانے جاتے تھے۔ ڈیزائنر ہمیں سکھاتا ہے کہ 'کردار' وہ بنیاد ہے جس پر دین بنایا جاتا ہے۔ اگر یہ بنیاد موجود نہیں ہے، تو کوئی بھی عبادت جو آپ اس پر بنائیں گے وہ کاغذ کے گھر کی طرح ہوگی—یہ پہلی آزمائش میں اڑ جائے گی۔",
+        "fr": "",
+        "es": ""
+      }
+    },
+    {
+      "id": "character-excellence",
+      "title": {
+        "ar": "جبر الخواطر (أرقى درجات الإنسانية)",
+        "en": "Mending Hearts (The Highest Form of Humanity)",
+        "ur": "دلوں کو تسلی دینا (انسانیت کی سب سے اعلیٰ شکل)",
+        "fr": "",
+        "es": ""
+      },
+      "content": {
+        "ar": "في الكتالوج بتاعنا، الأخلاق مش بس إنك 'ماتأذيش' حد.. الأخلاق بتوصل لدرجة الفن في 'جبر الخواطر'. إنك تختار كلماتك بعناية عشان ماتكسرش ثقة حد في نفسه. إنك تتغافل عن غلطة زميلك وماتحرجوش قدام الناس. إنك توفي بوعدك حتى لو هيخسرك فلوس. الأخلاق دي مش 'ذوقيات إضافية'.. دي صلب الدين، وبتوزن في ميزانك يوم القيامة أثقل من قيام الليل! (النبي ﷺ قال: أثقل شيء في ميزان المؤمن يوم القيامة حُسن الخُلق).",
+        "en": "In our Catalog, character isn't just about 'not harming' someone... character reaches the level of an art form in 'mending hearts'. It's choosing your words carefully so you don't break someone's confidence in themselves. It's overlooking a colleague's mistake and not embarrassing them in front of others. It's keeping your promise even if it costs you money. This character isn't 'optional niceties'... it's the core of faith, and it weighs on your scales on the Day of Judgment heavier than night prayers! (The Prophet said: The heaviest thing on a believer's scales on the Day of Judgment is good character.)",
+        "ur": "ہماری کتالوگ میں، کردار صرف 'کسی کو نقصان نہ پہنچانا' نہیں ہے... کردار 'دلوں کو تسلی دینے' کی فن کی سطح تک پہنچتا ہے۔ یہ اپنے الفاظ کو احتیاط سے منتخب کرنا ہے تاکہ آپ کسی کے اپنے آپ پر اعتماد کو نہ توڑیں۔ یہ اپنے ساتھی کی غلطی کو نظر انداز کرنا اور انہیں دوسروں کے سامنے شرمندہ نہ کرنا ہے۔ یہ اپنے وعدے کو پورا کرنا ہے چاہے اس سے آپ کو پیسے کا نقصان ہو۔ یہ کردار 'اختیاری خوبصورتیاں' نہیں ہے... یہ دین کا مرکز ہے، اور یہ قیامت کے دن آپ کے ترازو میں رات کی نماز سے زیادہ وزن رکھتا ہے! (نبی نے کہا: قیامت کے دن مومن کے ترازو میں سب سے بھاری چیز اچھا کردار ہے۔)",
+        "fr": "",
+        "es": ""
+      }
+    }
+  ],
+  "analogies": [
+    {
+      "id": "restaurant-experience",
+      "title": {
+        "ar": "تجربة المطعم",
+        "en": "The Restaurant Experience",
+        "ur": "ریستوران کا تجربہ",
+        "fr": "",
+        "es": ""
+      },
+      "description": {
+        "ar": "المطعم الفاخر بأحسن شيف في العالم، لكن الخدمة سيئة والحساب مزيف.",
+        "en": "The luxury restaurant with the world's best chef, but the service is poor and the bill is inflated.",
+        "ur": "دنیا کے بہترین شیف کے ساتھ شاندار ریستوران، لیکن سروس برا ہے اور بل بڑھایا ہوا ہے۔",
+        "fr": "",
+        "es": ""
+      },
+      "example": {
+        "ar": "جودة الأكل (الجوهر) فقدت قيمتها تماماً لأن 'التجربة والمعاملة' (الواجهة) كانت سيئة جداً. هكذا الدين - العبادة بدون أخلاق تفقد قيمتها.",
+        "en": "The quality of the food (the essence) lost all its value because 'the experience and treatment' (the interface) was terrible. So it is with faith—worship without character loses its value.",
+        "ur": "کھانے کی معیت (جوہر) نے اپنی تمام قیمت کھو دی کیونکہ 'تجربہ اور سلوک' (انٹرفیس) بہت برا تھا۔ دین کے ساتھ بھی ایسا ہے—کردار کے بغیر عبادت اپنی قیمت کھو دیتی ہے۔",
+        "fr": "",
+        "es": ""
+      }
+    },
+    {
+      "id": "paper-house",
+      "title": {
+        "ar": "بيت من ورق",
+        "en": "A House of Paper",
+        "ur": "کاغذ کا گھر",
+        "fr": "",
+        "es": ""
+      },
+      "description": {
+        "ar": "لو الأساس (الأخلاق) مش موجود، أي عبادة هتبنيها فوقه هتبقى عاملة زي بيت من ورق.",
+        "en": "If the foundation (character) doesn't exist, any worship you build upon it will be like a house of paper.",
+        "ur": "اگر بنیاد (کردار) موجود نہیں ہے، تو کوئی بھی عبادت جو آپ اس پر بنائیں گے وہ کاغذ کے گھر کی طرح ہوگی۔",
+        "fr": "",
+        "es": ""
+      },
+      "example": {
+        "ar": "البيت من الورق يطير مع أول اختبار. كذلك الدين بدون أخلاق ينهار عند أول محنة أو اختبار حقيقي.",
+        "en": "A paper house blows away at the first wind. Similarly, faith without character collapses at the first real trial or hardship.",
+        "ur": "کاغذ کا گھر پہلی ہوا میں اڑ جاتا ہے۔ اسی طرح، کردار کے بغیر دین پہلی حقیقی آزمائش یا مشکل میں ڈھہ جاتا ہے۔",
+        "fr": "",
+        "es": ""
+      }
+    },
+    {
+      "id": "scales-of-justice",
+      "title": {
+        "ar": "ميزان يوم القيامة",
+        "en": "The Scales of the Day of Judgment",
+        "ur": "قیامت کے دن کے ترازو",
+        "fr": "",
+        "es": ""
+      },
+      "description": {
+        "ar": "حسن الخلق أثقل شيء في ميزان المؤمن يوم القيامة.",
+        "en": "Good character is the heaviest thing on a believer's scales on the Day of Judgment.",
+        "ur": "اچھا کردار قیامت کے دن مومن کے ترازو میں سب سے بھاری چیز ہے۔",
+        "fr": "",
+        "es": ""
+      },
+      "example": {
+        "ar": "الرجل الذي يأتي يوم القيامة بجبال من الحسنات لكن أساء للناس، يفقد كل حسناته ويدخل النار. الأخلاق هي الأساس الذي يحدد مصيرك.",
+        "en": "The man who comes on the Day of Judgment with mountains of good deeds but harmed people loses all his good deeds and enters the Fire. Character is the foundation that determines your fate.",
+        "ur": "وہ شخص جو قیامت کے دن بہت سے نیک اعمال کے ساتھ آتا ہے لیکن لوگوں کو نقصان پہنچایا ہے، اپنے تمام نیک اعمال کھو دیتا ہے اور جہنم میں داخل ہوتا ہے۔ کردار وہ بنیاد ہے جو آپ کی تقدیر کا تعین کرتی ہے۔",
+        "fr": "",
+        "es": ""
+      }
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "ar": "الأخلاق ليست إضافة اختيارية - هي صلب الدين وأساسه",
+      "en": "Character is not optional—it is the core and foundation of faith",
+      "ur": "کردار اختیاری نہیں ہے—یہ دین کا مرکز اور بنیاد ہے",
+      "fr": "",
+      "es": ""
+    },
+    {
+      "ar": "العبادات (الصلاة والصيام) هي الجوهر، والأخلاق والمعاملات هي الواجهة التي تثبت صدق الجوهر",
+      "en": "Worship (prayer and fasting) is the essence, and character and conduct is the interface that proves the essence is genuine",
+      "ur": "عبادت (نماز اور روزہ) جوہر ہے، اور کردار اور رویہ وہ انٹرفیس ہے جو ثابت کرتا ہے کہ جوہر حقیقی ہے",
+      "fr": "",
+      "es": ""
+    },
+    {
+      "ar": "المفلس الحقيقي من يأتي يوم القيامة بحسنات كثيرة لكن أساء للناس",
+      "en": "The truly bankrupt person is one who comes on the Day of Judgment with many good deeds but harmed people",
+      "ur": "سچا روحانی طور پر دیوالیہ شخص وہ ہے جو قیامت کے دن بہت سے نیک اعمال کے ساتھ آتا ہے لیکن لوگوں کو نقصان پہنچایا ہے",
+      "fr": "",
+      "es": ""
+    },
+    {
+      "ar": "الثقة هي عملة المجتمع - بدونها ينهار كل شيء حتى لو كان الناس متدينين",
+      "en": "Trust is the currency of society—without it, everything collapses even if people are religious",
+      "ur": "اعتماد معاشرے کی کرنسی ہے—اس کے بغیر، سب کچھ ڈھہ جاتا ہے چاہے لوگ متدین ہوں",
+      "fr": "",
+      "es": ""
+    },
+    {
+      "ar": "حسن الخلق أثقل شيء في ميزان المؤمن يوم القيامة - أثقل من قيام الليل والصيام",
+      "en": "Good character is the heaviest thing on a believer's scales on the Day of Judgment—heavier than night prayers and fasting",
+      "ur": "اچھا کردار قیامت کے دن مومن کے ترازو میں سب سے بھاری چیز ہے—رات کی نماز اور روزے سے بھی زیادہ",
+      "fr": "",
+      "es": ""
+    }
+  ],
+  "practicalSteps": [
+    {
+      "id": "choose-words-carefully",
+      "title": {
+        "ar": "اختر كلماتك بعناية",
+        "en": "Choose Your Words Carefully",
+        "ur": "اپنے الفاظ احتیاط سے منتخب کریں",
+        "fr": "",
+        "es": ""
+      },
+      "action": {
+        "ar": "قبل ما تتكلم، اسأل نفسك: هل هذه الكلمة ستكسر ثقة حد في نفسه؟ هل ستحرج حد قدام الناس؟",
+        "en": "Before you speak, ask yourself: Will this word break someone's confidence in themselves? Will it embarrass someone in front of others?",
+        "ur": "بولنے سے پہلے، اپنے آپ سے پوچھیں: کیا یہ لفظ کسی کے اپنے آپ پر اعتماد کو توڑے گا؟ کیا یہ کسی کو دوسروں کے سامنے شرمندہ کرے گا؟",
+        "fr": "",
+        "es": ""
+      },
+      "benefit": {
+        "ar": "تطوير مهارة جبر الخواطر وحماية الآخرين من الألم النفسي",
+        "en": "Develop the skill of mending hearts and protect others from emotional pain",
+        "ur": "دلوں کو تسلی دینے کی مہارت کو بڑھائیں اور دوسروں کو جذباتی درد سے بچائیں",
+        "fr": "",
+        "es": ""
+      }
+    },
+    {
+      "id": "keep-your-promises",
+      "title": {
+        "ar": "وفِ بوعودك",
+        "en": "Keep Your Promises",
+        "ur": "اپنے وعدے پورے کریں",
+        "fr": "",
+        "es": ""
+      },
+      "action": {
+        "ar": "حتى لو الوفاء بالوعد هيخسرك فلوس أو وقت، وفِ به. الثقة أغلى من أي خسارة مادية",
+        "en": "Even if keeping your promise will cost you money or time, keep it. Trust is worth more than any material loss",
+        "ur": "چاہے اپنے وعدے کو پورا کرنے سے آپ کو پیسے یا وقت کا نقصان ہو، اسے پورا کریں۔ اعتماد کسی بھی مادی نقصان سے زیادہ قیمتی ہے",
+        "fr": "",
+        "es": ""
+      },
+      "benefit": {
+        "ar": "بناء سمعة طيبة وكسب ثقة الناس - أعظم رأس مال في الحياة",
+        "en": "Build a good reputation and earn people's trust—the greatest capital in life",
+        "ur": "اچھی شہرت بنائیں اور لوگوں کا اعتماد حاصل کریں—زندگی میں سب سے بڑا سرمایہ",
+        "fr": "",
+        "es": ""
+      }
+    },
+    {
+      "id": "overlook-mistakes",
+      "title": {
+        "ar": "تغافل عن الأخطاء",
+        "en": "Overlook Mistakes",
+        "ur": "غلطیوں کو نظر انداز کریں",
+        "fr": "",
+        "es": ""
+      },
+      "action": {
+        "ar": "لما يخطئ حد في حقك، لا تفضحه قدام الناس. تغافل عن الخطأ أو انصحه بهدوء على انفراد",
+        "en": "When someone wrongs you, don't expose them in front of others. Overlook the mistake or advise them quietly in private",
+        "ur": "جب کوئی آپ کے ساتھ غلط کرے، انہیں دوسروں کے سامنے بے نقاب نہ کریں۔ غلطی کو نظر انداز کریں یا انہیں خاموشی سے نجی طور پر مشورہ دیں",
+        "fr": "",
+        "es": ""
+      },
+      "benefit": {
+        "ar": "حماية كرامة الآخرين وتقوية العلاقات الإنسانية",
+        "en": "Protect others' dignity and strengthen human relationships",
+        "ur": "دوسروں کی عزت و آبرو کی حفاظت کریں اور انسانی تعلقات کو مضبوط کریں",
+        "fr": "",
+        "es": ""
+      }
+    }
+  ],
+  "dailyAction": {
+    "ar": "⚡ تحدي اليوم (الروشتة العملية):\n\nالنهاردة عايزين نختبر 'واجهة الأخلاق' بتاعنا في أكتر لحظة بيبان فيها معدن الإنسان: لحظة الغضب أو الخلاف.\n\nالتحدي (اختبار الفرامل):\n\nالنهاردة، وبنسبة كبيرة، هيحصل موقف يستفزك. حد هيكسر عليك بالعربية، أو زميلك هيقول كلمة تضايقك، أو حد في البيت هيعصبك. طبيعتك البشرية هتقولك: 'رد عليه الكلمة بعشرة عشان ماتبانش ضعيف'. في اللحظة دي بالذات، شغل 'فرامل الأخلاق'.\n\n• خد نفس عميق.\n• اكتم غيظك وماتردش الإساءة بإساءة.\n• لو تقدر، رد بكلمة هادية أو ابتسامة، أو حتى انسحب من النقاش بهدوء.\n\nانوي من جواك: 'يا رب، أنا قادر أرد وأخد حقي، بس أنا هسكت وأكتم غيظي عشان أثبت لنفسي إن ديني مأثر في أخلاقي، وعشان جبر الخواطر عندك أغلى من انتصاري لنفسي'.\n\nاستمتع بإحساس 'القوة والسيطرة' اللي هتحس بيه لما تكتشف إنك بقيت تتحكم في رد فعلك، ومبقتش ريموت كنترول في إيد استفزاز الناس.",
+    "en": "⚡ Today's Challenge (The Prescription):\n\nToday, we want to test our 'character interface' in the moment that reveals a person's true nature: a moment of anger or conflict.\n\nThe Challenge (Testing Your Brakes):\n\nToday, most likely, something will provoke you. Someone will speak harshly to you, or a colleague will say something that bothers you, or someone at home will upset you. Your human nature will tell you: 'Respond with ten times the harshness so you don't look weak'. In that exact moment, activate your 'character brakes'.\n\n• Take a deep breath.\n• Contain your anger and don't respond to harm with harm.\n• If you can, respond with a kind word or smile, or even withdraw from the conversation calmly.\n\nSet this intention from within: 'O Lord, I am capable of responding and defending myself, but I will stay silent and contain my anger to prove to myself that my faith has influenced my character, and because mending hearts is more valuable to You than my victory over myself'.\n\nEnjoy the feeling of 'power and control' you'll experience when you discover that you've taken control of your reaction, and you're no longer a remote control in the hands of others' provocations.",
+    "ur": "⚡ آج کا چیلنج (نسخہ):\n\nآج، ہم اپنے 'کردار کے انٹرفیس' کو اس لمحے میں آزمانا چاہتے ہیں جو انسان کی حقیقی فطرت کو ظاہر کرتا ہے: غصے یا تنازعے کا لمحہ۔\n\nچیلنج (اپنے فرامل کو آزمائیں):\n\nآج، سب سے زیادہ امکان ہے کہ کچھ آپ کو اکسائے۔ کوئی آپ سے سختی سے بات کرے گا، یا کوئی ساتھی کچھ کہے گا جو آپ کو پریشان کرے، یا گھر میں کوئی آپ کو ناراض کرے گا۔ آپ کی انسانی فطرت آپ کو کہے گی: 'دس گنا سختی سے جواب دو تاکہ تم کمزور نہ لگو'۔ اسی لمحے میں، اپنے 'کردار کے فرامل' کو فعال کریں۔\n\n• گہری سانس لیں۔\n• اپنے غصے کو روکیں اور نقصان کا جواب نقصان سے نہ دیں۔\n• اگر آپ کر سکیں، تو کوئی مہربان لفظ یا مسکراہٹ سے جواب دیں، یا خاموشی سے بات چھوڑ دیں۔\n\nاپنے اندر سے یہ نیت رکھیں: 'اے رب، میں جواب دے سکتا ہوں اور اپنا دفاع کر سکتا ہوں، لیکن میں خاموش رہوں گا اور اپنے غصے کو روکوں گا تاکہ اپنے آپ کو ثابت کروں کہ میرے دین نے میرے کردار کو متاثر کیا ہے، اور کیونکہ دلوں کو تسلی دینا آپ کے نزدیک میری اپنے آپ پر فتح سے زیادہ قیمتی ہے'۔\n\n'طاقت اور کنٹرول' کے احساس سے لطف اندوز ہوں جو آپ محسوس کریں گے جب آپ دریافت کریں گے کہ آپ نے اپنے ردعمل پر کنٹرول حاصل کر لیا ہے، اور آپ اب دوسروں کے اکسانے کے ہاتھ میں ریموٹ کنٹرول نہیں ہیں۔",
+    "fr": "",
+    "es": ""
+  },
+  "conclusion": {
+    "ar": "الخلاصة: الدين مش بس اللي بتعمله وأنت حاطط وشك في الأرض على السجادة.. الدين الحقيقي بيبدأ أول ما ترفع وشك من على السجادة وتنزل الشارع تتعامل مع الناس. عبادتك لربنا بتديك طاقة، وأخلاقك مع الناس هي اللي بتثبت إن الطاقة دي حقيقية مش مزيفة.\n\nموعدنا بكره مع مفهوم بيغير شكل يومنا كله: اليوم السادس والعشرون: إعمار الأرض (ليه شغلك عبادة؟).",
+    "en": "Conclusion: Faith is not just what you do with your face on the ground on the prayer mat... True faith begins the moment you lift your face from the prayer mat and go out into the street to interact with people. Your worship of your Creator gives you energy, and your character with people is what proves that energy is real, not fake.\n\nOur meeting tomorrow is with a concept that transforms our entire day: Day Twenty-Six: Stewardship of the Earth (Why is your work an act of worship?).",
+    "ur": "نتیجہ: دین صرف وہ نہیں ہے جو آپ نماز کی چٹائی پر اپنا چہرہ زمین پر رکھ کر کرتے ہیں... سچا دین اس لمحے سے شروع ہوتا ہے جب آپ اپنا چہرہ نماز کی چٹائی سے اٹھاتے ہیں اور سڑک پر نکل کر لوگوں کے ساتھ تعامل کرتے ہیں۔ آپ کے خالق کی عبادت آپ کو توانائی دیتی ہے، اور لوگوں کے ساتھ آپ کا کردار یہ ثابت کرتا ہے کہ یہ توانائی حقیقی ہے، نقلی نہیں۔\n\nکل ہماری ملاقات ایک ایسے تصور کے ساتھ ہے جو ہماری پوری روز کو بدل دیتا ہے: دن چھبیس: زمین کی نگہداشت (آپ کا کام عبادت کیوں ہے؟)۔",
+    "fr": "",
+    "es": ""
+  },
+  "prevEntry": "day-24-read-critical-thinking",
+  "nextEntry": "day-26-earth-stewardship"
+}
