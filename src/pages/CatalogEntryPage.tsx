@@ -18,7 +18,15 @@ import type { CatalogSection, BilingualText } from '@/types/catalog';
 // Helper component to render bilingual text
 function BilingualContent({ text }: { text: BilingualText }) {
   const language = useAppStore((state) => state.language);
-  return <>{language === 'ar' ? text.arabic : text.english}</>;
+  
+  // Support both old format (arabic/english) and new format (ar/en/ur/fr/es)
+  if ('ar' in text || 'en' in text || 'ur' in text) {
+    const multiText = text as any;
+    return <>{multiText[language] || multiText.en || multiText.ar || ''}</>;
+  }
+  
+  // Fallback to old format
+  return <>{language === 'ar' ? (text as any).arabic : (text as any).english}</>;
 }
 
 export default function CatalogEntryPage() {
