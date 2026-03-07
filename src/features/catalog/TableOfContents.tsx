@@ -9,42 +9,57 @@
  *     Responsive: sidebar on desktop, drawer on mobile.
  */
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ChevronUp, Menu, X } from 'lucide-react';
+import { ChevronUp, Menu, X, Home } from 'lucide-react';
 import { useText, useDirection } from '@/lib/store';
 import { getCatalogCards } from '@/data/catalog';
+import { useNavigate } from 'react-router-dom';
 
 export default function TableOfContents() {
   const [currentDay, setCurrentDay] = useState<number | null>(null);
   const [isOpen, setIsOpen] = useState(false);
   const direction = useDirection();
+  const navigate = useNavigate();
   const catalogCards = getCatalogCards();
+  const rafRef = useRef<number | null>(null);
 
   const tocLabel = useText({ arabic: 'جدول المحتويات', english: 'Table of Contents' });
   const backToTopLabel = useText({ arabic: 'العودة للأعلى', english: 'Back to Top' });
+  const homeLabel = useText({ arabic: 'الرئيسية', english: 'Home' });
   const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
   const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
 
-  // Track scroll position to highlight current day
+  // Track scroll position to highlight current day with debouncing
   useEffect(() => {
     const handleScroll = () => {
-      const entries = catalogCards.filter((c) => c.day !== 0);
+      if (rafRef.current !== null) {
+        cancelAnimationFrame(rafRef.current);
+      }
 
-      for (let i = entries.length - 1; i >= 0; i--) {
-        const element = document.getElementById(`day-${entries[i].day}`);
-        if (element) {
-          const rect = element.getBoundingClientRect();
-          if (rect.top <= 200) {
-            setCurrentDay(entries[i].day);
-            break;
+      rafRef.current = requestAnimationFrame(() => {
+        const entries = catalogCards.filter((c) => c.day !== 0);
+
+        for (let i = entries.length - 1; i >= 0; i--) {
+          const element = document.getElementById(`day-${entries[i].day}`);
+          if (element) {
+            const rect = element.getBoundingClientRect();
+            if (rect.top <= 200) {
+              setCurrentDay(entries[i].day);
+              break;
+            }
           }
         }
-      }
+      });
     };
 
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      if (rafRef.current !== null) {
+        cancelAnimationFrame(rafRef.current);
+      }
+    };
   }, [catalogCards]);
 
   const scrollToDay = (day: number) => {
@@ -60,6 +75,11 @@ export default function TableOfContents() {
     setIsOpen(false);
   };
 
+  const goHome = () => {
+    navigate('/');
+    setIsOpen(false);
+  };
+
   // Desktop Sidebar
   const DesktopSidebar = () => (
     <motion.div
@@ -70,6 +90,17 @@ export default function TableOfContents() {
         direction === 'rtl' ? 'left-6' : 'right-6'
       } w-64 flex-col gap-4 max-h-[calc(100vh-200px)] overflow-y-auto z-40`}
     >
+      {/* Home Button */}
+      <motion.button
+        whileHover={{ scale: 1.05 }}
+        whileTap={{ scale: 0.95 }}
+        onClick={goHome}
+        className="w-full px-4 py-3 rounded-xl bg-accent-500 hover:bg-accent-600 text-white font-bold transition-colors flex items-center justify-center gap-2 shadow-lg"
+      >
+        <Home className="w-5 h-5" />
+        {homeLabel}
+      </motion.button>
+
       {/* Back to Top Button */}
       <motion.button
         whileHover={{ scale: 1.05 }}
@@ -186,6 +217,17 @@ export default function TableOfContents() {
             </div>
 
             <div className="p-4 space-y-2">
+              {/* Home Button */}
+              <motion.button
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                onClick={goHome}
+                className="w-full px-4 py-3 rounded-xl bg-accent-500 hover:bg-accent-600 text-white font-bold transition-colors flex items-center justify-center gap-2 mb-2"
+              >
+                <Home className="w-5 h-5" />
+                {homeLabel}
+              </motion.button>
+
               {/* Back to Top Button */}
               <motion.button
                 whileHover={{ scale: 1.02 }}
