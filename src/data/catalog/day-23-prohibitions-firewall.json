@@ -3,12 +3,12 @@
   "day": 23,
   "slug": "day-23-prohibitions-firewall",
   "title": {
-    "arabic": "اليوم الثالث والعشرون: المحرمات (نظام الحماية - Firewall)",
-    "english": "Day Twenty-Three: Prohibitions (Protection System - Firewall)"
+    "arabic": "اليوم الثالث والعشرون: المحرمات (درع الحماية الإلهي)",
+    "english": "Day Twenty-Three: Prohibitions (Divine Protection Shield)"
   },
   "subtitle": {
-    "arabic": "ليه ربنا قال 'لأ'؟ (سر الـ Firewall)",
-    "english": "Why did Allah say 'No'? (The Secret of the Firewall)"
+    "arabic": "ليه ربنا قال 'لأ'؟ (أنت محمي.. مش محروم)",
+    "english": "Why did Allah say 'No'? (You are protected.. not deprived)"
   },
   "metadata": {
     "day": 23,
@@ -25,48 +25,48 @@
     ]
   },
   "hook": {
-    "arabic": "كلمة 'حرام' مش سجن.. كلمة 'حرام' معناها (Keep Out - منطقة خطر). لما ربنا يحرم عليك 3 أو 4 حاجات، ويحللك ملايين الحاجات التانية.. يبقى هو بيوجهك للـ Safe Zone",
-    "english": "The word 'forbidden' is not a prison.. the word 'forbidden' means (Keep Out - danger zone). When Allah forbids you 3 or 4 things and permits you millions of others.. He's guiding you to the Safe Zone"
+    "arabic": "كلمة 'حرام' مش سجن.. كلمة 'حرام' معناها منطقة خطر. لما ربنا يحرم عليك 3 أو 4 حاجات، ويحللك ملايين الحاجات التانية.. يبقى هو بيوجهك لبر الأمان",
+    "english": "The word 'forbidden' is not a prison.. the word 'forbidden' means danger zone. When Allah forbids you 3 or 4 things and permits you millions of others.. He's guiding you to safety"
   },
   "mainConcept": {
-    "arabic": "المحرمات ليست تقييداً للحرية، بل هي نظام حماية (Firewall) يحمي الماكينة البشرية من الفيروسات والأضرار. كل تحريم هو 'Keep Out' لمنطقة خطر، وليس سجن للحرية.",
-    "english": "Prohibitions are not restrictions on freedom, but a protection system (Firewall) that shields the human machine from viruses and harm. Every prohibition is a 'Keep Out' for a danger zone, not a prison for freedom."
+    "arabic": "المحرمات ليست تقييداً للحرية، بل هي درع حماية يحمي الإنسان من الأذى والسموم. كل تحريم هو تحذير من منطقة خطر، وليس سجن للحرية.",
+    "english": "Prohibitions are not restrictions on freedom, but a protection shield that guards humans from harm and toxins. Every prohibition is a warning from a danger zone, not a prison for freedom."
   },
   "introduction": {
-    "arabic": "تخيل إنك اشتريت 'لاب توب' بمواصفات جبارة ودفعت فيه مبلغ وقدره. فتحت الكتالوج لقيت الشركة كاتبة بالبنط العريض: 'تحذير: ممنوع سكب أي سوائل على لوحة المفاتيح'. هل في اللحظة دي هتقول: 'إيه الشركة المعقدة دي؟ بيقيدوا حريتي ليه؟' أكيد لأ. أنت متأكد 100% إن المنع ده مش 'تقييد لحريتك'، ده 'حماية لجهازك'.",
-    "english": "Imagine you bought a 'laptop' with amazing specs and paid a lot for it. You opened the manual and found the company wrote in bold: 'Warning: Do not pour any liquids on the keyboard'. Would you say at that moment: 'What a complicated company? Why are they restricting my freedom?' Of course not. You're 100% sure that this prohibition isn't 'restricting your freedom', it's 'protecting your device'."
+    "arabic": "تخيل إنك اشتريت عربية غالية جداً، وفتحت كتالوج العربية لقيت الشركة كاتبة بالبنط العريض: 'تحذير: ممنوع استخدام بنزين أقل من 95، وإلا الموتور هيتدمر'. هل في اللحظة دي هتغضب وتقول: 'إيه الشركة المعقدة دي؟ بيقيدوا حريتي ليه؟' أكيد لأ. أنت متأكد 100% إن المنع ده مش 'تقييد لحريتك'، ده 'حماية لعربيتك' عشان تعيش معاك أطول فترة بأعلى كفاءة.",
+    "english": "Imagine you bought an expensive car and opened the car manual to find the company wrote in bold: 'Warning: Do not use fuel below 95 octane, or the engine will be destroyed'. Would you get angry and say: 'What a complicated company? Why are they restricting my freedom?' Of course not. You're 100% sure that this prohibition isn't 'restricting your freedom', it's 'protecting your car' so it lasts with you for the longest time at peak efficiency."
   },
   "sections": [
     {
       "id": "firewall-concept",
       "title": {
-        "arabic": "نظام الحماية (Firewall)",
-        "english": "The Protection System (Firewall)"
+        "arabic": "درع الحماية الإلهي",
+        "english": "The Divine Protection Shield"
       },
       "content": {
-        "arabic": "ولله المثل الأعلى.. أوامر التحريم في الإسلام (لا تشرب، لا تأكل، لا تفعل) مش معمولة عشان تخنقك أو تكدر عليك عيشتك. دي عبارة عن نظام (Firewall) أو جدار حماية، المصمم حطهولك عشان يمنع الفيروسات والـ (Malware) إنها تدمر الماكينة بتاعتك (جسمك وعقلك).\n\nالقاعدة الذهبية: نحن نطيع المُصمّم أولاً. قبل ما ندخل في التفاصيل العلمية، لازم نحط قاعدة مريحة جداً لعقلك: 'إحنا بنبعد عن الحرام عشان ربنا قال لأ (نقطة).' الأمر 'تعبدي'.",
-        "english": "And to Allah belongs the highest example.. the commands of prohibition in Islam (do not drink, do not eat, do not do) are not made to suffocate you or ruin your life. They are a system (Firewall) or protection wall that the Designer placed for you to prevent viruses and (Malware) from destroying your machine (your body and mind).\n\nThe golden rule: We obey the Designer first. Before we dive into scientific details, we must establish a rule that's very comfortable for your mind: 'We avoid the forbidden because Allah said no (period).' The command is 'worshipful obedience'."
+        "arabic": "ولله المثل الأعلى.. أوامر التحريم في الإسلام (لا تشرب، لا تأكل، لا تفعل) مش معمولة عشان تخنقك أو تكدر عليك عيشتك. دي عبارة عن درع حماية وموانع أمان، الخالق حطهالك عشان يمنع الأذى والسموم إنها تدمر جسمك وعقلك وحياتك.\n\nالقاعدة الذهبية: نحن نطيع المُصمّم أولاً. قبل ما ندخل في التفاصيل العلمية، لازم نحط قاعدة مريحة جداً لقلبك: 'إحنا بنبعد عن الحرام عشان ربنا قال لأ (نقطة).' الأمر 'تعبدي'. يعني إيه؟ يعني لو العلم بكرة اخترع حباية بتلغي تأثير الخمر، برضه مش هنشرب خمر! لأننا بنثق في حكمة 'الخالق' أكتر من ثقتنا في المعمل.",
+        "english": "And to Allah belongs the highest example.. the commands of prohibition in Islam (do not drink, do not eat, do not do) are not made to suffocate you or ruin your life. They are a protection shield and safety barriers that the Creator placed for you to prevent harm and toxins from destroying your body, mind, and life.\n\nThe golden rule: We obey the Designer first. Before we dive into scientific details, we must establish a rule that's very comfortable for your heart: 'We avoid the forbidden because Allah said no (period).' The command is 'worshipful obedience'. What does that mean? It means if science tomorrow invents a shield that eliminates the effects of alcohol, we still won't drink it! Because we trust the wisdom of the 'Creator' more than we trust the lab."
       }
     },
     {
       "id": "processor-protection",
       "title": {
-        "arabic": "حماية الـ Processor (ليه الخمر حرام؟)",
-        "english": "Protecting the Processor (Why is alcohol forbidden?)"
+        "arabic": "حماية البوصلة (ليه الخمر حرام؟)",
+        "english": "Protecting the Compass (Why is alcohol forbidden?)"
       },
       "content": {
-        "arabic": "أهم وأغلى قطعة في الإنسان هي 'العقل'. العقل هو أداة التكليف، هو اللي بيخليك إنسان متحكم في قراراتك ومش حيوان بيمشي ورا غريزته.\n\nالخمر (وأي مخدرات) بتعمل إيه؟\n\nعلمياً: الكحول بيعمل تثبيط (إطفاء) لجزء في المخ اسمه (Prefrontal Cortex) أو الفص الجبهي. الجزء ده هو المسؤول عن (اتخاذ القرار، التحكم في الانفعالات، والأخلاق). لما الجزء ده بيطفي، الإنسان بيفقد 'فرامله'، وممكن يقتل، أو يغتصب، أو يضيع ثروته في ليلة.\n\nالكتالوج: ربنا بيقولك: 'أنا كرمتك بالعقل ده، إزاي تروح تدفع فلوس عشان تلغيه وتهين إنسانيتك؟' التحريم هنا حماية لوعيك.",
-        "english": "The most important and most valuable part of a human is 'the mind'. The mind is the tool of responsibility, it's what makes you a human in control of your decisions and not an animal following its instincts.\n\nWhat does alcohol (and any drugs) do?\n\nScientifically: Alcohol causes inhibition (shutdown) of a part of the brain called the (Prefrontal Cortex) or frontal lobe. This part is responsible for (decision-making, emotional control, and morality). When this part shuts down, a person loses their 'brakes', and might kill, rape, or waste their wealth in one night.\n\nThe Catalogue: Allah is telling you: 'I honored you with this mind, how can you go pay money to disable it and humiliate your humanity?' The prohibition here is protection for your consciousness."
+        "arabic": "أهم وأغلى نعمة في الإنسان هي 'العقل'. العقل هو بوصلتك، هو اللي بيخليك إنسان متحكم في قراراتك ومش كائن بيمشي ورا غريزته.\n\nالخمر (وأي مخدرات) بتعمل إيه؟\n\nعلمياً: الكحول بيعمل تخدير وإطفاء لجزء في المخ اسمه الفص الجبهي. الجزء ده هو المسؤول عن اتخاذ القرار والتحكم في الانفعالات والأخلاق. لما الجزء ده بيطفي، الإنسان بيفقد فرامله، وممكن يؤذي نفسه أو غيره، أو يضيع شقى عمره في ليلة.\n\nالكتالوج: ربنا بيقولك: 'أنا كرمتك بالعقل ده، إزاي تروح تدفع فلوس عشان تلغيه وتهين إنسانيتك؟' التحريم هنا حماية لوعيك ولإنسانيتك.",
+        "english": "The most important and most valuable blessing in a human is 'the mind'. The mind is your compass, it's what makes you a human in control of your decisions and not a creature following its instincts.\n\nWhat does alcohol (and any drugs) do?\n\nScientifically: Alcohol causes numbness and shutdown of a part of the brain called the prefrontal cortex. This part is responsible for decision-making, emotional control, and morality. When this part shuts down, a person loses their brakes, and might harm themselves or others, or waste their life in one night.\n\nThe Catalogue: Allah is telling you: 'I honored you with this mind, how can you go pay money to disable it and humiliate your humanity?' The prohibition here is protection for your consciousness and your humanity."
       }
     },
     {
       "id": "hardware-protection",
       "title": {
-        "arabic": "حماية الـ Hardware (ليه لحم الخنزير حرام؟)",
+        "arabic": "حماية البدن (ليه لحم الخنزير حرام؟)",
         "english": "Protecting the Hardware (Why is pork forbidden?)"
       },
       "content": {
-        "arabic": "كتير مننا فاكر إن السبب هو 'الدودة الشريطية'، وبيقول: 'طب ما إحنا دلوقتي بنطبخه كويس وبنموت الدودة!'. الحقيقة إن الموضوع في 'تصميم' الحيوان نفسه:\n\nعلمياً: الخنزير حيوان 'كاسح للقمامة' (Scavenger). جهاز الهضمي سريع جداً، بيهضم الأكل في 4 ساعات بس (مقارنة بالبقرة اللي بتاخد 24 ساعة). السرعة دي بتخلي جسم الخنزير مايلحقش يفلتر السموم، فبتتخزن كلها في 'الدهون' بتاعته. غير إنه بيحتوي على مستويات مرعبة من مسببات الالتهابات (Inflammation) والسموم اللي بتتنقل للي بياكله.\n\nالكتالوج: ربنا وصفه بكلمة واحدة عبقرية (فَإِنَّهُ رِجْسٌ). يعني نجس ومضر من الجذور. التحريم هنا حماية لصحتك ومناعتك.",
+        "arabic": "كتير مننا فاكر إن السبب هو 'الدودة الشريطية'، وبيقول: 'طب ما إحنا دلوقتي بنطبخه كويس وبنموت الدودة!'. الحقيقة إن الموضوع في 'تصميم' الحيوان نفسه:\n\nعلمياً: الخنزير حيوان بيعيش على القمامة والفضلات. جهاز الهضمي سريع جداً، بيهضم الأكل في 4 ساعات بس (مقارنة بالبقرة اللي بتاخد 24 ساعة). السرعة دي بتخلي جسم الخنزير مايلحقش يفلتر السموم، فبتتخزن كلها في 'الدهون' بتاعته. غير إنه بيحتوي على مستويات مرعبة من مسببات الالتهابات والسموم اللي بتتنقل للي بياكله.\n\nالكتالوج: ربنا وصفه بكلمة واحدة عبقرية (فَإِنَّهُ رِجْسٌ). يعني نجس ومضر من الجذور. التحريم هنا حماية لصحتك ومناعتك.",
         "english": "Many of us remember that the reason is 'tapeworm', and say: 'But we cook it well now and kill the worm!'. The truth is that it's about the 'design' of the animal itself:\n\nScientifically: The pig is a 'scavenger' animal. Its digestive system is very fast, digesting food in just 4 hours (compared to a cow that takes 24 hours). This speed means the pig's body can't filter out toxins, so they all get stored in its 'fat'. Plus it contains terrifying levels of inflammatory agents (Inflammation) and toxins that transfer to whoever eats it.\n\nThe Catalogue: Allah described it with one brilliant word (فَإِنَّهُ رِجْسٌ). Meaning filthy and harmful from the roots. The prohibition here is protection for your health and immunity."
       }
     },
@@ -77,7 +77,7 @@
         "english": "Protecting the Social Network (Why are adultery and forbidden relationships prohibited?)"
       },
       "content": {
-        "arabic": "لو سيبنا الغريزة من غير فرامل، المجتمع هيتحول لغابة.\n\nنفسياً ومجتمعياً: الزنا مش بس 'علاقة جسدية'. ده تدمير للأنساب، ونشر لأمراض قاتلة، وكسر لقلوب، وإنتاج أطفال من غير بيئة آمنة (Families) تحضنهم. الكتالوج قفل الباب ده، وفتحلك الباب البديل النضيف والأمن (الزواج) عشان تبني سكن ومودة.\n\nالتحريم هنا حماية للنسيج الاجتماعي والصحة النفسية والجسدية.",
+        "arabic": "لو سيبنا الغريزة من غير فرامل، المجتمع هيتحول لغابة.\n\nنفسياً ومجتمعياً: الزنا مش بس 'علاقة جسدية'. ده تدمير للأنساب، ونشر لأمراض قاتلة، وكسر لقلوب، وإنتاج أطفال من غير بيئة آمنة (أسرة) تحضنهم. الكتالوج قفل الباب ده، وفتحلك الباب البديل النضيف والأمن (الزواج) عشان تبني سكن ومودة.\n\nالتحريم هنا حماية للنسيج الاجتماعي والصحة النفسية والجسدية.",
         "english": "If we left instinct without brakes, society would turn into a jungle.\n\nPsychologically and socially: Adultery is not just a 'physical relationship'. It's the destruction of lineages, the spread of deadly diseases, the breaking of hearts, and the production of children without a safe environment (Families) to nurture them. The Catalogue closed that door and opened you the alternative clean and safe door (marriage) so you can build a home and affection.\n\nThe prohibition here is protection for the social fabric, mental health, and physical health."
       }
     },
@@ -94,7 +94,7 @@
     }
   ],
   "conclusion": {
-    "arabic": "كلمة 'حرام' مش سجن.. كلمة 'حرام' معناها (Keep Out - منطقة خطر). لما ربنا يحرم عليك 3 أو 4 حاجات، ويحللك ملايين الحاجات التانية (كل الأكل التاني حلال، كل المشروبات التانية حلال).. يبقى هو بيوجهك للـ (Safe Zone) أو المنطقة الآمنة اللي الماكينة بتاعتك هتشتغل فيها بأعلى كفاءة وأطول عمر.",
+    "arabic": "كلمة 'حرام' مش سجن.. كلمة 'حرام' معناها منطقة خطر. لما ربنا يحرم عليك 3 أو 4 حاجات، ويحللك ملايين الحاجات التانية (كل الأكل التاني حلال، كل المشروبات التانية حلال).. يبقى هو بيوجهك لبر الأمان اللي الماكينة بتاعتك هتشتغل فيها بأعلى كفاءة وأطول عمر.",
     "english": "The word 'forbidden' is not a prison.. the word 'forbidden' means (Keep Out - danger zone). When Allah forbids you 3 or 4 things and permits you millions of others (all other food is permissible, all other drinks are permissible).. then He's guiding you to the (Safe Zone) or the safe area where your machine will operate at maximum efficiency and longest lifespan."
   },
   "challenge": {
@@ -107,7 +107,7 @@
       "english": "Our problem is that we look at the forbidden with the eyes of the 'deprived' (lucky them doing this while we can't!). Today we want to change this 'linguistic programming'."
     },
     "action": {
-      "arabic": "النهاردة، لما تفتكر أي حاجة حرام كان نفسك فيها أو بتجاهد عشان تبطلها (سواء ذنب كبير أو حتى عادة سيئة ربنا مابيحبهاش)، استبدل كلمة 'أنا محروم من كذا' بكلمة 'أنا محمي من كذا'.\n\nارفع إيدك وقول: 'يا رب، أنا سايب الذنب ده عشان واثق في الـ Firewall بتاعك، أنا عارف إنك منعتني عشان بتحبني وبتحميني، فارزقني الحلال اللي يغنيني عنه.'\n\nاليقين ده هينزل على قلبك برد وسلام، وهيخليك تبطل الذنب وأنت حاسس بـ 'عزة' مش بـ 'نقص'.",
+      "arabic": "النهاردة، لما تفتكر أي حاجة حرام كان نفسك فيها أو بتجاهد عشان تبطلها (سواء ذنب كبير أو حتى عادة سيئة ربنا مابيحبهاش)، استبدل كلمة 'أنا محروم من كذا' بكلمة 'أنا محمي من كذا'.\n\nارفع إيدك وقول: 'يا رب، أنا سايب الذنب ده عشان واثق في درع الحماية بتاعك، أنا عارف إنك منعتني عشان بتحبني وبتحميني، فارزقني الحلال اللي يغنيني عنه.'\n\nاليقين ده هينزل على قلبك برد وسلام، وهيخليك تبطل الذنب وأنت حاسس بـ 'عزة' مش بـ 'نقص'.",
       "english": "Today, when you remember any forbidden thing you wanted or are struggling to stop (whether a major sin or even a bad habit Allah doesn't love), replace the phrase 'I am deprived of this' with 'I am protected from this'.\n\nRaise your hand and say: 'O Lord, I'm leaving this sin because I trust in Your Firewall, I know You forbade it because You love me and protect me, so grant me the permissible that suffices me from it.'\n\nThis certainty will descend upon your heart with coolness and peace, and will make you stop the sin while feeling 'dignity' not 'deficiency'."
     }
   },
