@@ -6,12 +6,28 @@
  * Description:
  *     Zustand store for global application state.
  *     Manages language preference and theme with localStorage persistence.
+ *     Supports 5 languages: Arabic, English, Urdu, French (coming soon), Spanish (coming soon).
  */
 
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import type { ThemeMode } from '../types/surah';
 import type { LanguageCode } from '../config/languages';
+
+// Multilingual text type supporting all 5 languages
+export type MultilingualText = {
+  ar: string;
+  en: string;
+  ur: string;
+  fr?: string; // Optional for coming soon languages
+  es?: string; // Optional for coming soon languages
+};
+
+// Legacy type for backward compatibility during migration
+export type LegacyText = {
+  arabic: string;
+  english: string;
+};
 
 interface AppState {
   // State
@@ -56,13 +72,24 @@ export const useAppStore = create<AppState>()(
 /** Hook to get current direction based on language */
 export const useDirection = () => {
   const language = useAppStore((state) => state.language);
-  return language === 'ar' ? 'rtl' : 'ltr';
+  return language === 'ar' || language === 'ur' ? 'rtl' : 'ltr';
 };
 
-/** Hook to get text based on current language */
-export const useText = <T extends { arabic: string; english: string }>(
-  text: T
-): string => {
+/** 
+ * Hook to get text based on current language
+ * Supports both new multilingual format and legacy format for backward compatibility
+ */
+export const useText = (text: MultilingualText | LegacyText): string => {
   const language = useAppStore((state) => state.language);
-  return language === 'ar' ? text.arabic : text.english;
+  
+  // Check if it's the new multilingual format
+  if ('ar' in text) {
+    const multiText = text as MultilingualText;
+    // Return text in selected language, fallback to English if not available
+    return multiText[language] || multiText.en || multiText.ar;
+  }
+  
+  // Legacy format support (arabic/english)
+  const legacyText = text as LegacyText;
+  return language === 'ar' ? legacyText.arabic : legacyText.english;
 };

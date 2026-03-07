@@ -27,9 +27,9 @@ export default function TableOfContents() {
   const rafRef = useRef<number | null>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
-  const tocLabel = useText({ arabic: 'جدول المحتويات', english: 'Table of Contents' });
-  const backToTopLabel = useText({ arabic: 'العودة للأعلى', english: 'Back to Top' });
-  const homeLabel = useText({ arabic: 'الرئيسية', english: 'Home' });
+  const tocLabel = useText({ ar: 'جدول المحتويات', en: 'Table of Contents', ur: 'فہرست', fr: '', es: '' });
+  const backToTopLabel = useText({ ar: 'العودة للأعلى', en: 'Back to Top', ur: 'اوپر جائیں', fr: '', es: '' });
+  const homeLabel = useText({ ar: 'الرئيسية', en: 'Home', ur: 'ہوم', fr: '', es: '' });
   const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
   const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
   const ofLabel = useText({ arabic: 'من', english: 'of' });

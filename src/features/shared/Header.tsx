@@ -13,13 +13,19 @@ export default function Header() {
   const { theme, toggleTheme } = useAppStore();
   
   const title = useText({
-    arabic: 'الكتالوج',
-    english: 'The Catalog',
+    ar: 'الكتالوج',
+    en: 'The Catalog',
+    ur: 'کیٹلاگ',
+    fr: '',
+    es: '',
   });
 
   const catalogLabel = useText({
-    arabic: 'الكتالوج',
-    english: 'The Catalog',
+    ar: 'الكتالوج',
+    en: 'The Catalog',
+    ur: 'کیٹلاگ',
+    fr: '',
+    es: '',
   });
 
   return (
@@ -45,14 +51,14 @@ export default function Header() {
               to="/"
               className="px-4 py-2 rounded-lg text-neutral-700 dark:text-neutral-300 hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors font-medium"
             >
-              {useText({ arabic: 'الرئيسية', english: 'Home' })}
+              {useText({ ar: 'الرئيسية', en: 'Home', ur: 'ہوم', fr: '', es: '' })}
             </Link>
             <Link
               to="/surahs"
               className="px-4 py-2 rounded-lg text-neutral-700 dark:text-neutral-300 hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors font-medium flex items-center gap-2"
             >
               <span>💚</span>
-              {useText({ arabic: 'النسيج القرآني', english: 'Quranic Fabric' })}
+              {useText({ ar: 'النسيج القرآني', en: 'Quranic Fabric', ur: 'قرآنی تانا بانا', fr: '', es: '' })}
             </Link>
             <Link
               to="/catalog"
@@ -66,7 +72,7 @@ export default function Header() {
               className="px-4 py-2 rounded-lg text-neutral-700 dark:text-neutral-300 hover:bg-neutral-100 dark:hover:bg-neutral-800 transition-colors font-medium flex items-center gap-2"
             >
               <span>📚</span>
-              {useText({ arabic: 'المصادر', english: 'Sources' })}
+              {useText({ ar: 'المصادر', en: 'Sources', ur: 'ذرائع', fr: '', es: '' })}
             </Link>
           </nav>
 

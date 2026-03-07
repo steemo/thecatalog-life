@@ -43,10 +43,10 @@ function CatalogEntryCard({ entry, index }: { entry: CatalogCard; index: number 
   // Only use the first 3 for display
   const displayTags = [tag0Text, tag1Text, tag2Text].slice(0, Math.min(3, tags.length));
 
-  const dayLabel = useText({ arabic: 'اليوم', english: 'Day' });
-  const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
-  const minLabel = useText({ arabic: 'دقيقة', english: 'min' });
-  const startLabel = useText({ arabic: 'ابدأ الرحلة', english: 'Start Journey' });
+  const dayLabel = useText({ ar: 'اليوم', en: 'Day', ur: 'دن', fr: '', es: '' });
+  const teaserLabel = useText({ ar: 'تشويق', en: 'Teaser', ur: 'تعارف', fr: '', es: '' });
+  const minLabel = useText({ ar: 'دقيقة', en: 'min', ur: 'منٹ', fr: '', es: '' });
+  const startLabel = useText({ ar: 'ابدأ الرحلة', en: 'Start Journey', ur: 'سفر شروع کریں', fr: '', es: '' });
 
   return (
     <motion.div
@@ -152,18 +152,27 @@ export default function CatalogPage() {
   }, []);
 
   const pageTitle = useText({
-    arabic: 'الكتالوج للحياة',
-    english: 'The Catalog for Life',
+    ar: 'الكتالوج للحياة',
+    en: 'The Catalog for Life',
+    ur: 'زندگی کا کیٹلاگ',
+    fr: '',
+    es: '',
   });
 
   const pageSubtitle = useText({
-    arabic: 'رحلة 30 يوم لفهم دينك',
-    english: '30-Day Journey to Understand Your Religion',
+    ar: 'رحلة 30 يوم لفهم دينك',
+    en: '30-Day Journey to Understand Your Religion',
+    ur: '30 دن کا سفر اپنے دین کو سمجھنے کے لیے',
+    fr: '',
+    es: '',
   });
 
   const introText = useText({
-    arabic: 'تخيل لو اشتريت أحدث طيارة في العالم، بس قررت تسوقها زي العجلة... المشكلة مش في الطيارة، المشكلة إنك رميت الكتالوج. ولله المثل الأعلى.. الإنسان هو أعقد ماكينة في الكون، والدين هو الكتالوج.',
-    english: 'Imagine you bought the most advanced airplane in the world, but decided to drive it like a bicycle... The problem is not with the airplane, the problem is you threw away the catalog. And to Allah belongs the highest example... The human is the most complex machine in the universe, and religion is the catalog.',
+    ar: 'تخيل لو اشتريت أحدث طيارة في العالم، بس قررت تسوقها زي العجلة... المشكلة مش في الطيارة، المشكلة إنك رميت الكتالوج. ولله المثل الأعلى.. الإنسان هو أعقد ماكينة في الكون، والدين هو الكتالوج.',
+    en: 'Imagine you bought the most advanced airplane in the world, but decided to drive it like a bicycle... The problem is not with the airplane, the problem is you threw away the catalog. And to Allah belongs the highest example... The human is the most complex machine in the universe, and religion is the catalog.',
+    ur: 'تصور کریں کہ آپ نے دنیا کا جدید ترین ہوائی جہاز خریدا، لیکن اسے سائیکل کی طرح چلانے کا فیصلہ کیا... مسئلہ ہوائی جہاز میں نہیں، مسئلہ یہ ہے کہ آپ نے کیٹلاگ پھینک دیا۔ اور اللہ کے لیے سب سے اعلیٰ مثال ہے... انسان کائنات کی سب سے پیچیدہ مشین ہے، اور دین کیٹلاگ ہے۔',
+    fr: '',
+    es: '',
   });
 
   return (

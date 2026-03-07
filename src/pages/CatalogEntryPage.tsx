@@ -43,68 +43,107 @@ export default function CatalogEntryPage() {
   const BackIcon = direction === 'rtl' ? ArrowRight : ArrowLeft;
 
   const dayLabel = useText({
-    arabic: 'اليوم',
-    english: 'Day',
+    ar: 'اليوم',
+    en: 'Day',
+    ur: 'دن',
+    fr: '',
+    es: '',
   });
 
   const teaserLabel = useText({
-    arabic: 'تشويق',
-    english: 'Teaser',
+    ar: 'تشويق',
+    en: 'Teaser',
+    ur: 'تعارف',
+    fr: '',
+    es: '',
   });
 
   const minLabel = useText({
-    arabic: 'دقيقة قراءة',
-    english: 'min read',
+    ar: 'دقيقة قراءة',
+    en: 'min read',
+    ur: 'منٹ پڑھیں',
+    fr: '',
+    es: '',
   });
 
   const keyTakeawaysTitle = useText({
-    arabic: 'النقاط الرئيسية',
-    english: 'Key Takeaways',
+    ar: 'النقاط الرئيسية',
+    en: 'Key Takeaways',
+    ur: 'اہم نکات',
+    fr: '',
+    es: '',
   });
 
   const analogiesTitle = useText({
-    arabic: 'أمثلة وتشبيهات',
-    english: 'Analogies & Examples',
+    ar: 'أمثلة وتشبيهات',
+    en: 'Analogies & Examples',
+    ur: 'مثالیں اور تشبیہات',
+    fr: '',
+    es: '',
   });
 
   const practicalStepsTitle = useText({
-    arabic: 'خطوات عملية',
-    english: 'Practical Steps',
+    ar: 'خطوات عملية',
+    en: 'Practical Steps',
+    ur: 'عملی اقدامات',
+    fr: '',
+    es: '',
   });
 
   const conclusionTitle = useText({
-    arabic: 'الخلاصة',
-    english: 'Conclusion',
+    ar: 'الخلاصة',
+    en: 'Conclusion',
+    ur: 'خلاصہ',
+    fr: '',
+    es: '',
   });
 
   const dailyActionTitle = useText({
-    arabic: 'خطة العمل اليومية',
-    english: 'Daily Action Plan',
+    ar: 'خطة العمل اليومية',
+    en: 'Daily Action Plan',
+    ur: 'روزانہ عمل کا منصوبہ',
+    fr: '',
+    es: '',
   });
 
   const actionLabel = useText({
-    arabic: 'الإجراء:',
-    english: 'Action:',
+    ar: 'الإجراء:',
+    en: 'Action:',
+    ur: 'عمل:',
+    fr: '',
+    es: '',
   });
 
   const benefitLabel = useText({
-    arabic: 'الفائدة:',
-    english: 'Benefit:',
+    ar: 'الفائدة:',
+    en: 'Benefit:',
+    ur: 'فائدہ:',
+    fr: '',
+    es: '',
   });
 
   const backToCatalog = useText({
-    arabic: 'العودة إلى الكتالوج',
-    english: 'Back to Catalog',
+    ar: 'العودة إلى الكتالوج',
+    en: 'Back to Catalog',
+    ur: 'کیٹلاگ پر واپس',
+    fr: '',
+    es: '',
   });
 
   const previousLabel = useText({
-    arabic: 'السابق',
-    english: 'Previous',
+    ar: 'السابق',
+    en: 'Previous',
+    ur: 'پچھلا',
+    fr: '',
+    es: '',
   });
 
   const nextLabel = useText({
-    arabic: 'التالي',
-    english: 'Next',
+    ar: 'التالي',
+    en: 'Next',
+    ur: 'اگلا',
+    fr: '',
+    es: '',
   });
 
   // Pre-render all text that might be conditional - ALWAYS call these hooks

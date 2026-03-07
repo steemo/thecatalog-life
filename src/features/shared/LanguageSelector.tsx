@@ -68,20 +68,31 @@ export default function LanguageSelector() {
               <button
                 key={lang.code}
                 onClick={() => handleLanguageChange(lang.code)}
+                disabled={!lang.available}
                 className={`w-full px-4 py-3 text-left flex items-center gap-3 transition-colors ${
-                  language === lang.code
+                  !lang.available
+                    ? 'opacity-50 cursor-not-allowed'
+                    : language === lang.code
                     ? 'bg-primary-50 dark:bg-primary-900/20 text-primary-700 dark:text-primary-400'
                     : 'text-neutral-700 dark:text-neutral-300 hover:bg-neutral-50 dark:hover:bg-neutral-700/50'
                 }`}
                 role="option"
                 aria-selected={language === lang.code}
+                aria-disabled={!lang.available}
               >
                 <span className="text-xl">{lang.flag}</span>
                 <div className="flex-1">
-                  <div className="font-medium">{lang.nativeName}</div>
+                  <div className="font-medium flex items-center gap-2">
+                    {lang.nativeName}
+                    {!lang.available && (
+                      <span className="text-xs px-2 py-0.5 rounded-full bg-neutral-200 dark:bg-neutral-700 text-neutral-600 dark:text-neutral-400">
+                        Coming Soon
+                      </span>
+                    )}
+                  </div>
                   <div className="text-xs opacity-75">{lang.name}</div>
                 </div>
-                {language === lang.code && (
+                {language === lang.code && lang.available && (
                   <span className="text-primary-600 dark:text-primary-400">✓</span>
                 )}
               </button>
