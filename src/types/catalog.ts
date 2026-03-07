@@ -8,8 +8,13 @@
  */
 
 export interface BilingualText {
-  arabic: string;
-  english: string;
+  arabic?: string;
+  english?: string;
+  ar?: string;
+  en?: string;
+  ur?: string;
+  fr?: string;
+  es?: string;
 }
 
 export interface CatalogMetadata {

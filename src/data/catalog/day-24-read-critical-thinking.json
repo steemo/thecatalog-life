@@ -3,94 +3,94 @@
   "slug": "day-24-read-critical-thinking",
   "day": 24,
   "title": {
-    "arabic": "اقرأ - فريضة التفكير وتحديث العقل",
-    "english": "Read - The Obligation of Thinking and Mental Renewal",
-    "urdu": "پڑھیں - سوچ سمجھنے کی ذمہ داری اور ذہن کی تازگی",
-    "french": "Lisez - L'obligation de penser et du renouvellement mental",
-    "spanish": "Lee - La obligación de pensar y la renovación mental"
+    "ar": "اقرأ - فريضة التفكير وتحديث العقل",
+    "en": "Read - The Obligation of Thinking and Mental Renewal",
+    "ur": "پڑھیں - سوچ سمجھنے کی ذمہ داری اور ذہن کی تازگی",
+    "fr": "Lisez - L'obligation de penser et du renouvellement mental",
+    "es": "Lee - La obligación de pensar y la renovación mental"
   },
   "subtitle": {
-    "arabic": "ليه أول كلمة في الكتالوج مكنتش 'صلي'؟ (كسر سياسة القطيع)",
-    "english": "Why Wasn't the First Word in the Catalog 'Pray'? (Breaking Herd Mentality)",
-    "urdu": "کتالوگ میں پہلا لفظ 'نماز' کیوں نہیں تھا؟ (بھیڑ کی ذہنیت کو توڑنا)",
-    "french": "Pourquoi le premier mot du Catalogue n'était-il pas 'Prier'? (Briser la mentalité de troupeau)",
-    "spanish": "¿Por qué la primera palabra del Catálogo no fue 'Rezar'? (Rompiendo la mentalidad de rebaño)"
+    "ar": "ليه أول كلمة في الكتالوج مكنتش 'صلي'؟ (كسر سياسة القطيع)",
+    "en": "Why Wasn't the First Word in the Catalog 'Pray'? (Breaking Herd Mentality)",
+    "ur": "کتالوگ میں پہلا لفظ 'نماز' کیوں نہیں تھا؟ (بھیڑ کی ذہنیت کو توڑنا)",
+    "fr": "Pourquoi le premier mot du Catalogue n'était-il pas 'Prier'? (Briser la mentalité de troupeau)",
+    "es": "¿Por qué la primera palabra del Catálogo no fue 'Rezar'? (Rompiendo la mentalidad de rebaño)"
   },
   "metadata": {
     "day": 24,
     "type": "core",
     "readTime": 10,
     "tags": [
-      { "arabic": "اقرأ", "english": "read", "urdu": "پڑھیں", "french": "lire", "spanish": "leer" },
-      { "arabic": "التفكير-النقدي", "english": "critical-thinking", "urdu": "تنقیدی-سوچ", "french": "pensée-critique", "spanish": "pensamiento-crítico" },
-      { "arabic": "سياسة-القطيع", "english": "herd-mentality", "urdu": "بھیڑ-کی-ذہنیت", "french": "mentalité-de-troupeau", "spanish": "mentalidad-de-rebaño" },
-      { "arabic": "الكتاب-المنظور", "english": "book-of-universe", "urdu": "کائنات-کی-کتاب", "french": "livre-de-l-univers", "spanish": "libro-del-universo" }
+      { "ar": "اقرأ", "en": "read", "ur": "پڑھیں", "fr": "lire", "es": "leer" },
+      { "ar": "التفكير-النقدي", "en": "critical-thinking", "ur": "تنقیدی-سوچ", "fr": "pensée-critique", "es": "pensamiento-crítico" },
+      { "ar": "سياسة-القطيع", "en": "herd-mentality", "ur": "بھیڑ-کی-ذہنیت", "fr": "mentalité-de-troupeau", "es": "mentalidad-de-rebaño" },
+      { "ar": "الكتاب-المنظور", "en": "book-of-universe", "ur": "کائنات-کی-کتاب", "fr": "livre-de-l-univers", "es": "libro-del-universo" }
     ]
   },
   "hook": {
-    "arabic": "تخيل اللحظة المهيبة دي: الخالق سبحانه وتعالى بيبعت آخر رسالة للبشرية، رسالة هتفضل مكملة لنهاية الزمن. الوحي بينزل لأول مرة على النبي ﷺ في غار حراء. المنطق البشري بتاعنا بيقول إن أول كلمة تنزل هتكون: 'اعبدني'، أو 'صلي'، أو 'حارب الشر'. لكن المفاجأة إن أول كلمة نزلت تدوي في الأرض كانت: 'اقْرَأْ'.",
-    "english": "Imagine this majestic moment: The Creator is sending the final message to humanity, a message that will continue until the end of time. Revelation descends for the first time upon the Prophet in the cave. Our human logic says the first word would be: 'Worship me', or 'Pray', or 'Fight evil'. But the surprise is that the first word that echoed on earth was: 'Read'.",
-    "urdu": "اس شاندار لمحے کو تصور کریں: خالق انسانیت کو آخری پیغام بھیج رہا ہے، ایک پیغام جو قیامت تک جاری رہے گا۔ وحی پہلی بار نبی کے پاس غار میں اترتی ہے۔ ہماری انسانی منطق کہتی ہے کہ پہلا لفظ ہوگا: 'مری عبادت کرو'، یا 'نماز پڑھو'، یا 'برائی سے لڑو'۔ لیکن حیرت کی بات یہ ہے کہ پہلا لفظ جو زمین پر گونجا وہ تھا: 'پڑھو'۔",
-    "french": "Imaginez ce moment majestueux: Le Créateur envoie le message final à l'humanité, un message qui continuera jusqu'à la fin des temps. La révélation descend pour la première fois sur le Prophète dans la grotte. Notre logique humaine dit que le premier mot serait: 'Adorez-moi', ou 'Priez', ou 'Combattez le mal'. Mais la surprise est que le premier mot qui a retenti sur terre était: 'Lisez'.",
-    "spanish": "Imagina este momento majestuoso: El Creador está enviando el mensaje final a la humanidad, un mensaje que continuará hasta el fin de los tiempos. La revelación desciende por primera vez sobre el Profeta en la cueva. Nuestra lógica humana dice que la primera palabra sería: 'Adórenme', o 'Recen', o 'Luchen contra el mal'. Pero la sorpresa es que la primera palabra que resonó en la tierra fue: 'Lee'."
+    "ar": "تخيل اللحظة المهيبة دي: الخالق سبحانه وتعالى بيبعت آخر رسالة للبشرية، رسالة هتفضل مكملة لنهاية الزمن. الوحي بينزل لأول مرة على النبي ﷺ في غار حراء. المنطق البشري بتاعنا بيقول إن أول كلمة تنزل هتكون: 'اعبدني'، أو 'صلي'، أو 'حارب الشر'. لكن المفاجأة إن أول كلمة نزلت تدوي في الأرض كانت: 'اقْرَأْ'.",
+    "en": "Imagine this majestic moment: The Creator is sending the final message to humanity, a message that will continue until the end of time. Revelation descends for the first time upon the Prophet in the cave. Our human logic says the first word would be: 'Worship me', or 'Pray', or 'Fight evil'. But the surprise is that the first word that echoed on earth was: 'Read'.",
+    "ur": "اس شاندار لمحے کو تصور کریں: خالق انسانیت کو آخری پیغام بھیج رہا ہے، ایک پیغام جو قیامت تک جاری رہے گا۔ وحی پہلی بار نبی کے پاس غار میں اترتی ہے۔ ہماری انسانی منطق کہتی ہے کہ پہلا لفظ ہوگا: 'مری عبادت کرو'، یا 'نماز پڑھو'، یا 'برائی سے لڑو'۔ لیکن حیرت کی بات یہ ہے کہ پہلا لفظ جو زمین پر گونجا وہ تھا: 'پڑھو'۔",
+    "fr": "Imaginez ce moment majestueux: Le Créateur envoie le message final à l'humanité, un message qui continuera jusqu'à la fin des temps. La révélation descend pour la première fois sur le Prophète dans la grotte. Notre logique humaine dit que le premier mot serait: 'Adorez-moi', ou 'Priez', ou 'Combattez le mal'. Mais la surprise est que le premier mot qui a retenti sur terre était: 'Lisez'.",
+    "es": "Imagina este momento majestuoso: El Creador está enviando el mensaje final a la humanidad, un mensaje que continuará hasta el fin de los tiempos. La revelación desciende por primera vez sobre el Profeta en la cueva. Nuestra lógica humana dice que la primera palabra sería: 'Adórenme', o 'Recen', o 'Luchen contra el mal'. Pero la sorpresa es que la primera palabra que resonó en la tierra fue: 'Lee'."
   },
   "mainConcept": {
-    "arabic": "ليه 'اقرأ'؟ ليه البداية من العقل مش من حركات الجسد؟ لأن 'الكتالوج' بيأسس لقاعدة ذهبية: الإيمان المبني على جهل ووراثة هو إيمان هش. الإيمان الحقيقي بيبدأ بـ 'الوعي'. أنت مش مجرد متابع أعمى، أنت مفكر واعي. الدين عايزك إنسان بيفكر، بيحلل، وبيسأل.",
-    "english": "Why 'Read'? Why start with the mind instead of physical actions? Because the Catalog establishes a golden rule: faith built on ignorance and inheritance is fragile faith. True faith begins with 'awareness'. You are not just a blind follower, you are a conscious thinker. The faith wants you to be a person who thinks, analyses, and questions.",
-    "urdu": "پڑھنے کیوں؟ ذہن سے شروع کرنے کی وجہ جسمانی اعمال سے نہیں؟ کیونکہ کتالوگ ایک سنہری اصول قائم کرتا ہے: جہالت اور وراثت پر بنایا گیا ایمان کمزور ایمان ہے۔ سچا ایمان 'شعور' سے شروع ہوتا ہے۔ آپ محض ایک اندھے پیروکار نہیں ہیں، آپ ایک شعور رکھنے والے سوچنے والے ہیں۔ دین آپ سے چاہتا ہے کہ آپ ایک ایسے شخص ہوں جو سوچتے ہیں، تجزیہ کرتے ہیں، اور سوالات اٹھاتے ہیں۔",
-    "french": "Pourquoi 'Lire'? Pourquoi commencer par l'esprit plutôt que par les actions physiques? Parce que le Catalogue établit une règle d'or: la foi construite sur l'ignorance et l'héritage est une foi fragile. La vraie foi commence par la 'conscience'. Vous n'êtes pas simplement un adepte aveugle, vous êtes un penseur conscient. La foi veut que vous soyez une personne qui pense, analyse et pose des questions.",
-    "spanish": "¿Por qué 'Leer'? ¿Por qué empezar con la mente en lugar de acciones físicas? Porque el Catálogo establece una regla de oro: la fe construida sobre la ignorancia y la herencia es una fe frágil. La verdadera fe comienza con la 'conciencia'. No eres simplemente un seguidor ciego, eres un pensador consciente. La fe quiere que seas una persona que piensa, analiza y cuestiona."
+    "ar": "ليه 'اقرأ'؟ ليه البداية من العقل مش من حركات الجسد؟ لأن 'الكتالوج' بيأسس لقاعدة ذهبية: الإيمان المبني على جهل ووراثة هو إيمان هش. الإيمان الحقيقي بيبدأ بـ 'الوعي'. أنت مش مجرد متابع أعمى، أنت مفكر واعي. الدين عايزك إنسان بيفكر، بيحلل، وبيسأل.",
+    "en": "Why 'Read'? Why start with the mind instead of physical actions? Because the Catalog establishes a golden rule: faith built on ignorance and inheritance is fragile faith. True faith begins with 'awareness'. You are not just a blind follower, you are a conscious thinker. The faith wants you to be a person who thinks, analyses, and questions.",
+    "ur": "پڑھنے کیوں؟ ذہن سے شروع کرنے کی وجہ جسمانی اعمال سے نہیں؟ کیونکہ کتالوگ ایک سنہری اصول قائم کرتا ہے: جہالت اور وراثت پر بنایا گیا ایمان کمزور ایمان ہے۔ سچا ایمان 'شعور' سے شروع ہوتا ہے۔ آپ محض ایک اندھے پیروکار نہیں ہیں، آپ ایک شعور رکھنے والے سوچنے والے ہیں۔ دین آپ سے چاہتا ہے کہ آپ ایک ایسے شخص ہوں جو سوچتے ہیں، تجزیہ کرتے ہیں، اور سوالات اٹھاتے ہیں۔",
+    "fr": "Pourquoi 'Lire'? Pourquoi commencer par l'esprit plutôt que par les actions physiques? Parce que le Catalogue établit une règle d'or: la foi construite sur l'ignorance et l'héritage est une foi fragile. La vraie foi commence par la 'conscience'. Vous n'êtes pas simplement un adepte aveugle, vous êtes un penseur conscient. La foi veut que vous soyez une personne qui pense, analyse et pose des questions.",
+    "es": "¿Por qué 'Leer'? ¿Por qué empezar con la mente en lugar de acciones físicas? Porque el Catálogo establece una regla de oro: la fe construida sobre la ignorancia y la herencia es una fe frágil. La verdadera fe comienza con la 'conciencia'. No eres simplemente un seguidor ciego, eres un pensador consciente. La fe quiere que seas una persona que piensa, analiza y cuestiona."
   },
   "sections": [
     {
       "id": "why-read",
       "title": {
-        "arabic": "ليه 'اقرأ' أول أمر؟",
-        "english": "Why 'Read' as the First Command?",
-        "urdu": "پہلا حکم 'پڑھو' کیوں ہے؟",
-        "french": "",
-        "spanish": ""
+        "ar": "ليه 'اقرأ' أول أمر؟",
+        "en": "Why 'Read' as the First Command?",
+        "ur": "پہلا حکم 'پڑھو' کیوں ہے؟",
+        "fr": "",
+        "es": ""
       },
       "content": {
-        "arabic": "في مجتمعاتنا، أحياناً بنورث فكرة إن 'الدين والعقل مابيتفقوش'. لو سألت سؤال عميق في الدين، تلاقي اللي يقولك: 'استغفر ربك وماتشغلش دماغك عشان ماتلحدش!'. الكلام ده عكس الكتالوج تماماً!\n\nالقرآن مليان بكلمات زي: (أَفَلَا يَعْقِلُونَ)، (أَفَلَا يَتَفَكَّرُونَ)، (لِّقَوْمٍ يَتَفَكَّرُونَ). ربنا بيستفز عقلك عشان يشتغل. الإسلام بيكره جداً 'سياسة القطيع' (التبعية العمياء).\n\nالنبي ﷺ قالها واضحة: 'لا يكون أحدكم إمَّعَة، يقول: أنا مع الناس، إن أحسن الناس أحسنت، وإن أساؤوا أسأت'. الدين عايزك إنسان بيفكر، بيحلل، وبيسأل. السؤال اللي بيطرد النوم من عينك عشان بتدور على الحق، هو في حد ذاته 'عبادة'.",
-        "english": "In our societies, we sometimes inherit the idea that 'faith and reason don't agree'. If you ask a deep question about faith, you'll find someone saying: 'Seek forgiveness from your Lord and don't strain your mind or you'll become an unbeliever!'. This is the complete opposite of the Catalog!\n\nThe Quran is full of phrases like: 'Do they not reason?', 'Do they not reflect?', 'For people who think'. Your Lord provokes your mind to work. Faith deeply rejects 'herd mentality' (blind following).\n\nThe Prophet clearly said: 'None of you should be like a sheep that just follows, saying: I am with the people, if they do good I do good, and if they do wrong I do wrong'. Faith wants you to be a person who thinks, analyses, and questions. The question that keeps you awake searching for truth is itself an 'act of worship'.",
-        "urdu": "ہماری معاشروں میں، ہم کبھی کبھی یہ خیال وراثت میں پاتے ہیں کہ 'دین اور عقل متفق نہیں ہیں'۔ اگر آپ دین کے بارے میں گہرا سوال اٹھائیں تو آپ کو کوئی کہتے ہوئے ملے گا: 'اپنے رب سے معافی مانگو اور اپنے دماغ کو مت تھکاؤ ورنہ تم کافر ہو جاؤ گے!'۔ یہ کتالوگ کے بالکل برعکس ہے!\n\nقرآن ایسے الفاظ سے بھرا ہوا ہے: 'کیا وہ سمجھتے نہیں ہیں؟'، 'کیا وہ غور نہیں کرتے؟'، 'ان لوگوں کے لیے جو سوچتے ہیں'۔ آپ کا رب آپ کے دماغ کو کام کرنے کے لیے اکساتا ہے۔ دین 'بھیڑ کی ذہنیت' (اندھی پیروی) سے بہت نفرت کرتا ہے۔\n\nنبی نے واضح طور پر کہا: 'تم میں سے کوئی بھی ایسا نہ ہو جو محض پیروی کرے، کہے: میں لوگوں کے ساتھ ہوں، اگر وہ اچھا کریں تو میں اچھا کروں، اگر وہ برا کریں تو میں برا کروں'۔ دین آپ سے چاہتا ہے کہ آپ ایک ایسے شخص ہوں جو سوچتے ہیں، تجزیہ کرتے ہیں، اور سوالات اٹھاتے ہیں۔ وہ سوال جو آپ کو سچ تلاش کرنے کے لیے جاگتا رکھتا ہے، خود ایک 'عبادت' ہے۔",
-        "french": "",
-        "spanish": ""
+        "ar": "في مجتمعاتنا، أحياناً بنورث فكرة إن 'الدين والعقل مابيتفقوش'. لو سألت سؤال عميق في الدين، تلاقي اللي يقولك: 'استغفر ربك وماتشغلش دماغك عشان ماتلحدش!'. الكلام ده عكس الكتالوج تماماً!\n\nالقرآن مليان بكلمات زي: (أَفَلَا يَعْقِلُونَ)، (أَفَلَا يَتَفَكَّرُونَ)، (لِّقَوْمٍ يَتَفَكَّرُونَ). ربنا بيستفز عقلك عشان يشتغل. الإسلام بيكره جداً 'سياسة القطيع' (التبعية العمياء).\n\nالنبي ﷺ قالها واضحة: 'لا يكون أحدكم إمَّعَة، يقول: أنا مع الناس، إن أحسن الناس أحسنت، وإن أساؤوا أسأت'. الدين عايزك إنسان بيفكر، بيحلل، وبيسأل. السؤال اللي بيطرد النوم من عينك عشان بتدور على الحق، هو في حد ذاته 'عبادة'.",
+        "en": "In our societies, we sometimes inherit the idea that 'faith and reason don't agree'. If you ask a deep question about faith, you'll find someone saying: 'Seek forgiveness from your Lord and don't strain your mind or you'll become an unbeliever!'. This is the complete opposite of the Catalog!\n\nThe Quran is full of phrases like: 'Do they not reason?', 'Do they not reflect?', 'For people who think'. Your Lord provokes your mind to work. Faith deeply rejects 'herd mentality' (blind following).\n\nThe Prophet clearly said: 'None of you should be like a sheep that just follows, saying: I am with the people, if they do good I do good, and if they do wrong I do wrong'. Faith wants you to be a person who thinks, analyses, and questions. The question that keeps you awake searching for truth is itself an 'act of worship'.",
+        "ur": "ہماری معاشروں میں، ہم کبھی کبھی یہ خیال وراثت میں پاتے ہیں کہ 'دین اور عقل متفق نہیں ہیں'۔ اگر آپ دین کے بارے میں گہرا سوال اٹھائیں تو آپ کو کوئی کہتے ہوئے ملے گا: 'اپنے رب سے معافی مانگو اور اپنے دماغ کو مت تھکاؤ ورنہ تم کافر ہو جاؤ گے!'۔ یہ کتالوگ کے بالکل برعکس ہے!\n\nقرآن ایسے الفاظ سے بھرا ہوا ہے: 'کیا وہ سمجھتے نہیں ہیں؟'، 'کیا وہ غور نہیں کرتے؟'، 'ان لوگوں کے لیے جو سوچتے ہیں'۔ آپ کا رب آپ کے دماغ کو کام کرنے کے لیے اکساتا ہے۔ دین 'بھیڑ کی ذہنیت' (اندھی پیروی) سے بہت نفرت کرتا ہے۔\n\nنبی نے واضح طور پر کہا: 'تم میں سے کوئی بھی ایسا نہ ہو جو محض پیروی کرے، کہے: میں لوگوں کے ساتھ ہوں، اگر وہ اچھا کریں تو میں اچھا کروں، اگر وہ برا کریں تو میں برا کروں'۔ دین آپ سے چاہتا ہے کہ آپ ایک ایسے شخص ہوں جو سوچتے ہیں، تجزیہ کرتے ہیں، اور سوالات اٹھاتے ہیں۔ وہ سوال جو آپ کو سچ تلاش کرنے کے لیے جاگتا رکھتا ہے، خود ایک 'عبادت' ہے۔",
+        "fr": "",
+        "es": ""
       }
     },
     {
       "id": "two-books",
       "title": {
-        "arabic": "كتابان من عند الله (المقروء والمنظور)",
-        "english": "Two Books from the Divine (The Written and The Visible)",
-        "urdu": "خدا کی طرف سے دو کتابیں (لکھی ہوئی اور نظر آنے والی)",
-        "french": "",
-        "spanish": ""
+        "ar": "كتابان من عند الله (المقروء والمنظور)",
+        "en": "Two Books from the Divine (The Written and The Visible)",
+        "ur": "خدا کی طرف سے دو کتابیں (لکھی ہوئی اور نظر آنے والی)",
+        "fr": "",
+        "es": ""
       },
       "content": {
-        "arabic": "كتير مننا فاكر إن كلمة 'اقرأ' مقصود بيها قراءة القرآن وبس والكتب الدينية. لكن علماء الإسلام الكبار قالوا إن ربنا نزلنا 'كتابين' لازم نقرأهم:\n\n• الكتاب المسطور (المكتوب): وهو القرآن الكريم، اللي بيعالج الروح والنفس.\n• الكتاب المنظور (الكون المفتوح): وهو علوم الدنيا (الطب، الهندسة، الفلك، الفيزياء، الإدارة).\n\nلما بتدرس طب عشان تخفف ألم مريض، أنت بتنفذ أمر 'اقرأ'. ولما بتدرس هندسة عشان تبني بيت آمن للناس، أنت بتنفذ أمر 'اقرأ'. العالِم اللي بيبص في الميكروسكوب وبيكتشف إعجاز الخلية البشرية، قلبه بيخشع وبيعرف عظمة الخالق أضعاف اللي بيقرا من غير فهم. العلم هو الطريق الأقصر لليقين.",
-        "english": "Many of us think that 'Read' refers only to reading the Quran and religious books. But great Islamic scholars said that the Divine sent us 'two books' that we must read:\n\n• The Written Book: The Quran, which addresses the soul and spirit.\n• The Visible Book: The universe and its sciences (medicine, engineering, astronomy, physics, management).\n\nWhen you study medicine to ease a patient's pain, you are fulfilling the command to 'Read'. When you study engineering to build safe homes for people, you are fulfilling the command to 'Read'. The scientist who looks through a microscope and discovers the miracle of the human cell feels their heart tremble and knows the Creator's greatness far more than someone who reads without understanding. Knowledge is the shortest path to certainty.",
-        "urdu": "ہم میں سے بہت سے لوگ سوچتے ہیں کہ 'پڑھو' صرف قرآن اور مذہبی کتابوں کو پڑھنے کا حکم ہے۔ لیکن بڑے اسلامی علماء نے کہا کہ خدا نے ہمیں 'دو کتابیں' دی ہیں جو ہمیں پڑھنی ہیں:\n\n• لکھی ہوئی کتاب: قرآن، جو روح اور نفس کو خطاب کرتا ہے۔\n• نظر آنے والی کتاب: کائنات اور اس کے علوم (طب، انجینئرنگ، فلکیات، طبیعیات، انتظام)۔\n\nجب آپ کسی مریض کا درد کم کرنے کے لیے طب کا مطالعہ کرتے ہیں، تو آپ 'پڑھو' کے حکم کو پورا کر رہے ہیں۔ جب آپ لوگوں کے لیے محفوظ گھر بنانے کے لیے انجینئرنگ کا مطالعہ کرتے ہیں، تو آپ 'پڑھو' کے حکم کو پورا کر رہے ہیں۔ وہ سائنسدان جو خوردبین سے انسانی خلیے کے معجزے کو دیکھتا ہے، اس کا دل کانپتا ہے اور وہ خالق کی عظمت کو اس سے کہیں زیادہ جانتا ہے جو بغیر سمجھے پڑھتا ہے۔ علم یقین تک پہنچنے کا سب سے قریب ترین راستہ ہے۔",
-        "french": "",
-        "spanish": ""
+        "ar": "كتير مننا فاكر إن كلمة 'اقرأ' مقصود بيها قراءة القرآن وبس والكتب الدينية. لكن علماء الإسلام الكبار قالوا إن ربنا نزلنا 'كتابين' لازم نقرأهم:\n\n• الكتاب المسطور (المكتوب): وهو القرآن الكريم، اللي بيعالج الروح والنفس.\n• الكتاب المنظور (الكون المفتوح): وهو علوم الدنيا (الطب، الهندسة، الفلك، الفيزياء، الإدارة).\n\nلما بتدرس طب عشان تخفف ألم مريض، أنت بتنفذ أمر 'اقرأ'. ولما بتدرس هندسة عشان تبني بيت آمن للناس، أنت بتنفذ أمر 'اقرأ'. العالِم اللي بيبص في الميكروسكوب وبيكتشف إعجاز الخلية البشرية، قلبه بيخشع وبيعرف عظمة الخالق أضعاف اللي بيقرا من غير فهم. العلم هو الطريق الأقصر لليقين.",
+        "en": "Many of us think that 'Read' refers only to reading the Quran and religious books. But great Islamic scholars said that the Divine sent us 'two books' that we must read:\n\n• The Written Book: The Quran, which addresses the soul and spirit.\n• The Visible Book: The universe and its sciences (medicine, engineering, astronomy, physics, management).\n\nWhen you study medicine to ease a patient's pain, you are fulfilling the command to 'Read'. When you study engineering to build safe homes for people, you are fulfilling the command to 'Read'. The scientist who looks through a microscope and discovers the miracle of the human cell feels their heart tremble and knows the Creator's greatness far more than someone who reads without understanding. Knowledge is the shortest path to certainty.",
+        "ur": "ہم میں سے بہت سے لوگ سوچتے ہیں کہ 'پڑھو' صرف قرآن اور مذہبی کتابوں کو پڑھنے کا حکم ہے۔ لیکن بڑے اسلامی علماء نے کہا کہ خدا نے ہمیں 'دو کتابیں' دی ہیں جو ہمیں پڑھنی ہیں:\n\n• لکھی ہوئی کتاب: قرآن، جو روح اور نفس کو خطاب کرتا ہے۔\n• نظر آنے والی کتاب: کائنات اور اس کے علوم (طب، انجینئرنگ، فلکیات، طبیعیات، انتظام)۔\n\nجب آپ کسی مریض کا درد کم کرنے کے لیے طب کا مطالعہ کرتے ہیں، تو آپ 'پڑھو' کے حکم کو پورا کر رہے ہیں۔ جب آپ لوگوں کے لیے محفوظ گھر بنانے کے لیے انجینئرنگ کا مطالعہ کرتے ہیں، تو آپ 'پڑھو' کے حکم کو پورا کر رہے ہیں۔ وہ سائنسدان جو خوردبین سے انسانی خلیے کے معجزے کو دیکھتا ہے، اس کا دل کانپتا ہے اور وہ خالق کی عظمت کو اس سے کہیں زیادہ جانتا ہے جو بغیر سمجھے پڑھتا ہے۔ علم یقین تک پہنچنے کا سب سے قریب ترین راستہ ہے۔",
+        "fr": "",
+        "es": ""
       }
     },
     {
       "id": "mental-update",
       "title": {
-        "arabic": "تحديث العقل (Mental Update)",
-        "english": "Mental Update - Continuous Learning",
-        "urdu": "ذہن کی تازگی - مسلسل سیکھنا",
-        "french": "",
-        "spanish": ""
+        "ar": "تحديث العقل (Mental Update)",
+        "en": "Mental Update - Continuous Learning",
+        "ur": "ذہن کی تازگی - مسلسل سیکھنا",
+        "fr": "",
+        "es": ""
       },
       "content": {
-        "arabic": "زي ما جسمك محتاج أكل كل يوم عشان يعيش، عقلك محتاج 'معرفة' عشان مايعجزش. في علم الأعصاب، كل ما بتتعلم حاجة جديدة، مخك بيبني مسارات عصبية جديدة، وده بيحميك من الزهايمر وضعف الذاكرة.\n\nعشان كدة، طلب العلم في الإسلام مش مرحلة بتخلص مع التخرج من الجامعة، طلب العلم هو 'أسلوب حياة' من المهد إلى اللحد. كل يوم بتتعلم حاجة جديدة، أنت بتحدّث نسخة من نفسك. الخلاصة: المؤمن الحقيقي مش شخص 'ساذج' بيمشي ورا أي كلام. المؤمن الحقيقي إنسان عقله صاحي، بيقرأ، بيتطور، وبيسأل. الجهل هو أكبر عدو للدين.. لأن الجاهل بيسيء لدينه وهو فاكر إنه بينصره.",
-        "english": "Just as your body needs food every day to survive, your mind needs 'knowledge' to thrive. In neuroscience, every time you learn something new, your brain builds new neural pathways, which protects you from dementia and memory loss.\n\nThat's why seeking knowledge in faith is not a phase that ends with university graduation - it is a 'lifestyle' from cradle to grave. Every day you learn something new, you update a version of yourself. The conclusion: a true believer is not a 'naive' person who blindly follows. A true believer is someone with an alert mind, who reads, evolves, and questions. Ignorance is the greatest enemy of faith... because the ignorant person harms their faith while thinking they're defending it.",
-        "urdu": "جیسے آپ کا جسم ہر روز زندہ رہنے کے لیے کھانے کی ضرورت ہے، آپ کے دماغ کو 'علم' کی ضرورت ہے تاکہ وہ ضعیف نہ ہو۔ اعصابی سائنس میں، ہر بار جب آپ کچھ نیا سیکھتے ہیں، آپ کا دماغ نئے اعصابی راستے بناتا ہے، جو آپ کو ڈیمنشیا اور یادداشت کے نقصان سے بچاتا ہے۔\n\nاسی لیے دین میں علم کی تلاش یونیورسٹی کی تعلیم کے ساتھ ختم ہونے والا مرحلہ نہیں ہے - یہ 'زندگی کا طریقہ' ہے جو پالنے سے قبر تک جاری رہتا ہے۔ ہر روز جب آپ کچھ نیا سیکھتے ہیں، آپ اپنے آپ کا ایک نیا ورژن بناتے ہیں۔ نتیجہ: سچا ایمان والا شخص 'سادہ لوح' نہیں ہے جو اندھے طریقے سے پیروی کرتا ہے۔ سچا ایمان والا شخص وہ ہے جس کا دماغ بیدار ہے، جو پڑھتا ہے، ترقی کرتا ہے، اور سوالات اٹھاتا ہے۔ جہالت دین کا سب سے بڑا دشمن ہے... کیونکہ جاہل شخص اپنے دین کو نقصان پہنچاتا ہے جبکہ سوچتا ہے کہ وہ اس کی حفاظت کر رہا ہے۔",
-        "french": "",
-        "spanish": ""
+        "ar": "زي ما جسمك محتاج أكل كل يوم عشان يعيش، عقلك محتاج 'معرفة' عشان مايعجزش. في علم الأعصاب، كل ما بتتعلم حاجة جديدة، مخك بيبني مسارات عصبية جديدة، وده بيحميك من الزهايمر وضعف الذاكرة.\n\nعشان كدة، طلب العلم في الإسلام مش مرحلة بتخلص مع التخرج من الجامعة، طلب العلم هو 'أسلوب حياة' من المهد إلى اللحد. كل يوم بتتعلم حاجة جديدة، أنت بتحدّث نسخة من نفسك. الخلاصة: المؤمن الحقيقي مش شخص 'ساذج' بيمشي ورا أي كلام. المؤمن الحقيقي إنسان عقله صاحي، بيقرأ، بيتطور، وبيسأل. الجهل هو أكبر عدو للدين.. لأن الجاهل بيسيء لدينه وهو فاكر إنه بينصره.",
+        "en": "Just as your body needs food every day to survive, your mind needs 'knowledge' to thrive. In neuroscience, every time you learn something new, your brain builds new neural pathways, which protects you from dementia and memory loss.\n\nThat's why seeking knowledge in faith is not a phase that ends with university graduation - it is a 'lifestyle' from cradle to grave. Every day you learn something new, you update a version of yourself. The conclusion: a true believer is not a 'naive' person who blindly follows. A true believer is someone with an alert mind, who reads, evolves, and questions. Ignorance is the greatest enemy of faith... because the ignorant person harms their faith while thinking they're defending it.",
+        "ur": "جیسے آپ کا جسم ہر روز زندہ رہنے کے لیے کھانے کی ضرورت ہے، آپ کے دماغ کو 'علم' کی ضرورت ہے تاکہ وہ ضعیف نہ ہو۔ اعصابی سائنس میں، ہر بار جب آپ کچھ نیا سیکھتے ہیں، آپ کا دماغ نئے اعصابی راستے بناتا ہے، جو آپ کو ڈیمنشیا اور یادداشت کے نقصان سے بچاتا ہے۔\n\nاسی لیے دین میں علم کی تلاش یونیورسٹی کی تعلیم کے ساتھ ختم ہونے والا مرحلہ نہیں ہے - یہ 'زندگی کا طریقہ' ہے جو پالنے سے قبر تک جاری رہتا ہے۔ ہر روز جب آپ کچھ نیا سیکھتے ہیں، آپ اپنے آپ کا ایک نیا ورژن بناتے ہیں۔ نتیجہ: سچا ایمان والا شخص 'سادہ لوح' نہیں ہے جو اندھے طریقے سے پیروی کرتا ہے۔ سچا ایمان والا شخص وہ ہے جس کا دماغ بیدار ہے، جو پڑھتا ہے، ترقی کرتا ہے، اور سوالات اٹھاتا ہے۔ جہالت دین کا سب سے بڑا دشمن ہے... کیونکہ جاہل شخص اپنے دین کو نقصان پہنچاتا ہے جبکہ سوچتا ہے کہ وہ اس کی حفاظت کر رہا ہے۔",
+        "fr": "",
+        "es": ""
       }
     }
   ],
@@ -98,200 +98,200 @@
     {
       "id": "herd-mentality",
       "title": {
-        "arabic": "سياسة القطيع",
-        "english": "Herd Mentality",
-        "urdu": "بھیڑ کی ذہنیت",
-        "french": "",
-        "spanish": ""
+        "ar": "سياسة القطيع",
+        "en": "Herd Mentality",
+        "ur": "بھیڑ کی ذہنیت",
+        "fr": "",
+        "es": ""
       },
       "description": {
-        "arabic": "الإسلام بيكره جداً 'سياسة القطيع' (التبعية العمياء). النبي ﷺ قالها واضحة: 'لا يكون أحدكم إمَّعَة، يقول: أنا مع الناس، إن أحسن الناس أحسنت، وإن أساؤوا أسأت'.",
-        "english": "Faith deeply rejects 'herd mentality' (blind following). The Prophet clearly said: 'None of you should be like a sheep that just follows, saying: I am with the people, if they do good I do good, and if they do wrong I do wrong'.",
-        "urdu": "دین 'بھیڑ کی ذہنیت' (اندھی پیروی) سے بہت نفرت کرتا ہے۔ نبی نے واضح طور پر کہا: 'تم میں سے کوئی بھی ایسا نہ ہو جو محض پیروی کرے، کہے: میں لوگوں کے ساتھ ہوں، اگر وہ اچھا کریں تو میں اچھا کروں، اگر وہ برا کریں تو میں برا کروں'۔",
-        "french": "",
-        "spanish": ""
+        "ar": "الإسلام بيكره جداً 'سياسة القطيع' (التبعية العمياء). النبي ﷺ قالها واضحة: 'لا يكون أحدكم إمَّعَة، يقول: أنا مع الناس، إن أحسن الناس أحسنت، وإن أساؤوا أسأت'.",
+        "en": "Faith deeply rejects 'herd mentality' (blind following). The Prophet clearly said: 'None of you should be like a sheep that just follows, saying: I am with the people, if they do good I do good, and if they do wrong I do wrong'.",
+        "ur": "دین 'بھیڑ کی ذہنیت' (اندھی پیروی) سے بہت نفرت کرتا ہے۔ نبی نے واضح طور پر کہا: 'تم میں سے کوئی بھی ایسا نہ ہو جو محض پیروی کرے، کہے: میں لوگوں کے ساتھ ہوں، اگر وہ اچھا کریں تو میں اچھا کروں، اگر وہ برا کریں تو میں برا کروں'۔",
+        "fr": "",
+        "es": ""
       },
       "example": {
-        "arabic": "لو الناس كلها بتقول حاجة غلط، وأنت بتقول نفس الحاجة بدون ما تفكر فيها، يبقى أنت 'إمَّعَة'. الدين عايزك تفكر بنفسك.",
-        "english": "If everyone says something wrong, and you say the same thing without thinking about it, then you are a 'sheep'. Faith wants you to think for yourself.",
-        "urdu": "اگر سب لوگ کچھ غلط کہتے ہیں، اور آپ بغیر سوچے سمجھے وہی بات کہتے ہیں، تو آپ 'بھیڑ' ہیں۔ دین آپ سے چاہتا ہے کہ آپ اپنے لیے سوچیں۔",
-        "french": "",
-        "spanish": ""
+        "ar": "لو الناس كلها بتقول حاجة غلط، وأنت بتقول نفس الحاجة بدون ما تفكر فيها، يبقى أنت 'إمَّعَة'. الدين عايزك تفكر بنفسك.",
+        "en": "If everyone says something wrong, and you say the same thing without thinking about it, then you are a 'sheep'. Faith wants you to think for yourself.",
+        "ur": "اگر سب لوگ کچھ غلط کہتے ہیں، اور آپ بغیر سوچے سمجھے وہی بات کہتے ہیں، تو آپ 'بھیڑ' ہیں۔ دین آپ سے چاہتا ہے کہ آپ اپنے لیے سوچیں۔",
+        "fr": "",
+        "es": ""
       }
     },
     {
       "id": "two-books-concept",
       "title": {
-        "arabic": "الكتابان: المسطور والمنظور",
-        "english": "Two Books: The Written and The Visible",
-        "urdu": "دو کتابیں: لکھی ہوئی اور نظر آنے والی",
-        "french": "",
-        "spanish": ""
+        "ar": "الكتابان: المسطور والمنظور",
+        "en": "Two Books: The Written and The Visible",
+        "ur": "دو کتابیں: لکھی ہوئی اور نظر آنے والی",
+        "fr": "",
+        "es": ""
       },
       "description": {
-        "arabic": "علماء الإسلام الكبار قالوا إن ربنا نزلنا 'كتابين' لازم نقرأهم: الكتاب المسطور (القرآن) والكتاب المنظور (الكون).",
-        "english": "Great Islamic scholars said that the Divine sent us 'two books' that we must read: The Written Book (the Quran) and The Visible Book (the universe).",
-        "urdu": "بڑے اسلامی علماء نے کہا کہ خدا نے ہمیں 'دو کتابیں' دی ہیں جو ہمیں پڑھنی ہیں: لکھی ہوئی کتاب (قرآن) اور نظر آنے والی کتاب (کائنات)۔",
-        "french": "",
-        "spanish": ""
+        "ar": "علماء الإسلام الكبار قالوا إن ربنا نزلنا 'كتابين' لازم نقرأهم: الكتاب المسطور (القرآن) والكتاب المنظور (الكون).",
+        "en": "Great Islamic scholars said that the Divine sent us 'two books' that we must read: The Written Book (the Quran) and The Visible Book (the universe).",
+        "ur": "بڑے اسلامی علماء نے کہا کہ خدا نے ہمیں 'دو کتابیں' دی ہیں جو ہمیں پڑھنی ہیں: لکھی ہوئی کتاب (قرآن) اور نظر آنے والی کتاب (کائنات)۔",
+        "fr": "",
+        "es": ""
       },
       "example": {
-        "arabic": "لما بتدرس طب عشان تخفف ألم مريض، أنت بتنفذ أمر 'اقرأ'. العالِم اللي بيكتشف إعجاز الخلية البشرية، قلبه بيخشع وبيعرف عظمة الخالق.",
-        "english": "When you study medicine to ease a patient's pain, you are fulfilling the command to 'Read'. The scientist who discovers the miracle of the human cell feels their heart tremble and knows the Creator's greatness.",
-        "urdu": "جب آپ کسی مریض کا درد کم کرنے کے لیے طب کا مطالعہ کرتے ہیں، تو آپ 'پڑھو' کے حکم کو پورا کر رہے ہیں۔ وہ سائنسدان جو انسانی خلیے کے معجزے کو دیکھتا ہے، اس کا دل کانپتا ہے اور وہ خالق کی عظمت کو جانتا ہے۔",
-        "french": "",
-        "spanish": ""
+        "ar": "لما بتدرس طب عشان تخفف ألم مريض، أنت بتنفذ أمر 'اقرأ'. العالِم اللي بيكتشف إعجاز الخلية البشرية، قلبه بيخشع وبيعرف عظمة الخالق.",
+        "en": "When you study medicine to ease a patient's pain, you are fulfilling the command to 'Read'. The scientist who discovers the miracle of the human cell feels their heart tremble and knows the Creator's greatness.",
+        "ur": "جب آپ کسی مریض کا درد کم کرنے کے لیے طب کا مطالعہ کرتے ہیں، تو آپ 'پڑھو' کے حکم کو پورا کر رہے ہیں۔ وہ سائنسدان جو انسانی خلیے کے معجزے کو دیکھتا ہے، اس کا دل کانپتا ہے اور وہ خالق کی عظمت کو جانتا ہے۔",
+        "fr": "",
+        "es": ""
       }
     },
     {
       "id": "neuroplasticity",
       "title": {
-        "arabic": "العقل يتطور مع التعلم",
-        "english": "The Mind Evolves Through Learning",
-        "urdu": "دماغ سیکھنے کے ذریعے ترقی کرتا ہے",
-        "french": "",
-        "spanish": ""
+        "ar": "العقل يتطور مع التعلم",
+        "en": "The Mind Evolves Through Learning",
+        "ur": "دماغ سیکھنے کے ذریعے ترقی کرتا ہے",
+        "fr": "",
+        "es": ""
       },
       "description": {
-        "arabic": "زي ما جسمك محتاج أكل كل يوم عشان يعيش، عقلك محتاج 'معرفة' عشان مايعجزش.",
-        "english": "Just as your body needs food every day to survive, your mind needs 'knowledge' to thrive.",
-        "urdu": "جیسے آپ کا جسم ہر روز زندہ رہنے کے لیے کھانے کی ضرورت ہے، آپ کے دماغ کو 'علم' کی ضرورت ہے۔",
-        "french": "",
-        "spanish": ""
+        "ar": "زي ما جسمك محتاج أكل كل يوم عشان يعيش، عقلك محتاج 'معرفة' عشان مايعجزش.",
+        "en": "Just as your body needs food every day to survive, your mind needs 'knowledge' to thrive.",
+        "ur": "جیسے آپ کا جسم ہر روز زندہ رہنے کے لیے کھانے کی ضرورت ہے، آپ کے دماغ کو 'علم' کی ضرورت ہے۔",
+        "fr": "",
+        "es": ""
       },
       "example": {
-        "arabic": "كل ما بتتعلم حاجة جديدة، مخك بيبني مسارات عصبية جديدة، وده بيحميك من الزهايمر وضعف الذاكرة. طلب العلم هو 'أسلوب حياة' من المهد إلى اللحد.",
-        "english": "Every time you learn something new, your brain builds new neural pathways, which protects you from cognitive decline and memory loss. Seeking knowledge is a 'lifestyle' from cradle to grave.",
-        "urdu": "ہر بار جب آپ کچھ نیا سیکھتے ہیں، آپ کا دماغ نئے اعصابی راستے بناتا ہے، جو آپ کو ذہنی کمزوری اور یادداشت کے نقصان سے بچاتا ہے۔ علم کی تلاش 'زندگی کا طریقہ' ہے جو پالنے سے قبر تک جاری رہتا ہے۔",
-        "french": "",
-        "spanish": ""
+        "ar": "كل ما بتتعلم حاجة جديدة، مخك بيبني مسارات عصبية جديدة، وده بيحميك من الزهايمر وضعف الذاكرة. طلب العلم هو 'أسلوب حياة' من المهد إلى اللحد.",
+        "en": "Every time you learn something new, your brain builds new neural pathways, which protects you from cognitive decline and memory loss. Seeking knowledge is a 'lifestyle' from cradle to grave.",
+        "ur": "ہر بار جب آپ کچھ نیا سیکھتے ہیں، آپ کا دماغ نئے اعصابی راستے بناتا ہے، جو آپ کو ذہنی کمزوری اور یادداشت کے نقصان سے بچاتا ہے۔ علم کی تلاش 'زندگی کا طریقہ' ہے جو پالنے سے قبر تک جاری رہتا ہے۔",
+        "fr": "",
+        "es": ""
       }
     }
   ],
   "keyTakeaways": [
     {
-      "arabic": "أول أمر في الكتالوج هو 'اقرأ' - لأن الإيمان الحقيقي بيبدأ بالوعي والتفكير",
-      "english": "The first command in the Catalog is 'Read' - because true faith begins with awareness and thinking",
-      "urdu": "کتالوگ میں پہلا حکم 'پڑھو' ہے - کیونکہ سچا ایمان شعور اور سوچ سے شروع ہوتا ہے",
-      "french": "",
-      "spanish": ""
+      "ar": "أول أمر في الكتالوج هو 'اقرأ' - لأن الإيمان الحقيقي بيبدأ بالوعي والتفكير",
+      "en": "The first command in the Catalog is 'Read' - because true faith begins with awareness and thinking",
+      "ur": "کتالوگ میں پہلا حکم 'پڑھو' ہے - کیونکہ سچا ایمان شعور اور سوچ سے شروع ہوتا ہے",
+      "fr": "",
+      "es": ""
     },
     {
-      "arabic": "الدين والعقل بيتفقوا تماماً - الإسلام بيستفز عقلك عشان يشتغل",
-      "english": "Faith and reason are in complete harmony - faith provokes your mind to work",
-      "urdu": "دین اور عقل بالکل متفق ہیں - دین آپ کے دماغ کو کام کرنے کے لیے اکساتا ہے",
-      "french": "",
-      "spanish": ""
+      "ar": "الدين والعقل بيتفقوا تماماً - الإسلام بيستفز عقلك عشان يشتغل",
+      "en": "Faith and reason are in complete harmony - faith provokes your mind to work",
+      "ur": "دین اور عقل بالکل متفق ہیں - دین آپ کے دماغ کو کام کرنے کے لیے اکساتا ہے",
+      "fr": "",
+      "es": ""
     },
     {
-      "arabic": "الكتاب المسطور (القرآن) والكتاب المنظور (الكون) - كلاهما من عند الله",
-      "english": "The Written Book (the Quran) and The Visible Book (the universe) - both are from the Divine",
-      "urdu": "لکھی ہوئی کتاب (قرآن) اور نظر آنے والی کتاب (کائنات) - دونوں خدا کی طرف سے ہیں",
-      "french": "",
-      "spanish": ""
+      "ar": "الكتاب المسطور (القرآن) والكتاب المنظور (الكون) - كلاهما من عند الله",
+      "en": "The Written Book (the Quran) and The Visible Book (the universe) - both are from the Divine",
+      "ur": "لکھی ہوئی کتاب (قرآن) اور نظر آنے والی کتاب (کائنات) - دونوں خدا کی طرف سے ہیں",
+      "fr": "",
+      "es": ""
     },
     {
-      "arabic": "طلب العلم ليس مرحلة بتخلص - هو أسلوب حياة من المهد إلى اللحد",
-      "english": "Seeking knowledge is not a phase that ends - it is a lifestyle from cradle to grave",
-      "urdu": "علم کی تلاش ختم ہونے والا مرحلہ نہیں ہے - یہ پالنے سے قبر تک کا طریقہ زندگی ہے",
-      "french": "",
-      "spanish": ""
+      "ar": "طلب العلم ليس مرحلة بتخلص - هو أسلوب حياة من المهد إلى اللحد",
+      "en": "Seeking knowledge is not a phase that ends - it is a lifestyle from cradle to grave",
+      "ur": "علم کی تلاش ختم ہونے والا مرحلہ نہیں ہے - یہ پالنے سے قبر تک کا طریقہ زندگی ہے",
+      "fr": "",
+      "es": ""
     },
     {
-      "arabic": "المؤمن الحقيقي إنسان عقله صاحي، بيقرأ، بيتطور، وبيسأل - الجهل هو أكبر عدو للدين",
-      "english": "A true believer is someone with an alert mind, who reads, evolves, and questions - ignorance is the greatest enemy of faith",
-      "urdu": "سچا ایمان والا شخص وہ ہے جس کا دماغ بیدار ہے، جو پڑھتا ہے، ترقی کرتا ہے، اور سوالات اٹھاتا ہے - جہالت دین کا سب سے بڑا دشمن ہے",
-      "french": "",
-      "spanish": ""
+      "ar": "المؤمن الحقيقي إنسان عقله صاحي، بيقرأ، بيتطور، وبيسأل - الجهل هو أكبر عدو للدين",
+      "en": "A true believer is someone with an alert mind, who reads, evolves, and questions - ignorance is the greatest enemy of faith",
+      "ur": "سچا ایمان والا شخص وہ ہے جس کا دماغ بیدار ہے، جو پڑھتا ہے، ترقی کرتا ہے، اور سوالات اٹھاتا ہے - جہالت دین کا سب سے بڑا دشمن ہے",
+      "fr": "",
+      "es": ""
     }
   ],
   "practicalSteps": [
     {
       "id": "break-herd-mentality",
       "title": {
-        "arabic": "اكسر سياسة القطيع",
-        "english": "Break Herd Mentality",
-        "urdu": "بھیڑ کی ذہنیت کو توڑیں",
-        "french": "",
-        "spanish": ""
+        "ar": "اكسر سياسة القطيع",
+        "en": "Break Herd Mentality",
+        "ur": "بھیڑ کی ذہنیت کو توڑیں",
+        "fr": "",
+        "es": ""
       },
       "action": {
-        "arabic": "في كل مرة تسمع رأي، اسأل نفسك: 'أنا فعلاً مقتنع بده؟ ولا بقول ده عشان الناس بتقول كده؟'",
-        "english": "Every time you hear an opinion, ask yourself: 'Am I truly convinced of this? Or am I saying it because others say it?'",
-        "urdu": "ہر بار جب آپ کوئی رائے سنیں، اپنے آپ سے پوچھیں: 'کیا میں واقعی اس سے قائل ہوں؟ یا میں یہ اس لیے کہہ رہا ہوں کیونکہ دوسرے یہ کہتے ہیں؟'",
-        "french": "",
-        "spanish": ""
+        "ar": "في كل مرة تسمع رأي، اسأل نفسك: 'أنا فعلاً مقتنع بده؟ ولا بقول ده عشان الناس بتقول كده؟'",
+        "en": "Every time you hear an opinion, ask yourself: 'Am I truly convinced of this? Or am I saying it because others say it?'",
+        "ur": "ہر بار جب آپ کوئی رائے سنیں، اپنے آپ سے پوچھیں: 'کیا میں واقعی اس سے قائل ہوں؟ یا میں یہ اس لیے کہہ رہا ہوں کیونکہ دوسرے یہ کہتے ہیں؟'",
+        "fr": "",
+        "es": ""
       },
       "benefit": {
-        "arabic": "تطوير القدرة على التفكير المستقل والنقدي",
-        "english": "Develop the ability to think independently and critically",
-        "urdu": "آزادانہ اور تنقیدی سوچ کی صلاحیت کو بڑھائیں",
-        "french": "",
-        "spanish": ""
+        "ar": "تطوير القدرة على التفكير المستقل والنقدي",
+        "en": "Develop the ability to think independently and critically",
+        "ur": "آزادانہ اور تنقیدی سوچ کی صلاحیت کو بڑھائیں",
+        "fr": "",
+        "es": ""
       }
     },
     {
       "id": "read-both-books",
       "title": {
-        "arabic": "اقرأ الكتابين",
-        "english": "Read Both Books",
-        "urdu": "دونوں کتابیں پڑھیں",
-        "french": "",
-        "spanish": ""
+        "ar": "اقرأ الكتابين",
+        "en": "Read Both Books",
+        "ur": "دونوں کتابیں پڑھیں",
+        "fr": "",
+        "es": ""
       },
       "action": {
-        "arabic": "خصص وقت لقراءة القرآن والتدبر، وخصص وقت لتعلم علوم الدنيا (طب، هندسة، تاريخ، إدارة)",
-        "english": "Dedicate time to reading and reflecting on the Quran, and dedicate time to learning worldly sciences (medicine, engineering, history, management)",
-        "urdu": "قرآن کو پڑھنے اور غور کرنے کے لیے وقت نکالیں، اور دنیاوی علوم (طب، انجینئرنگ، تاریخ، انتظام) سیکھنے کے لیے وقت نکالیں",
-        "french": "",
-        "spanish": ""
+        "ar": "خصص وقت لقراءة القرآن والتدبر، وخصص وقت لتعلم علوم الدنيا (طب، هندسة، تاريخ، إدارة)",
+        "en": "Dedicate time to reading and reflecting on the Quran, and dedicate time to learning worldly sciences (medicine, engineering, history, management)",
+        "ur": "قرآن کو پڑھنے اور غور کرنے کے لیے وقت نکالیں، اور دنیاوی علوم (طب، انجینئرنگ، تاریخ، انتظام) سیکھنے کے لیے وقت نکالیں",
+        "fr": "",
+        "es": ""
       },
       "benefit": {
-        "arabic": "توازن بين الروح والعقل، بين الدين والعلم",
-        "english": "Balance between spirit and mind, between faith and knowledge",
-        "urdu": "روح اور دماغ کے درمیان توازن، دین اور علم کے درمیان توازن",
-        "french": "",
-        "spanish": ""
+        "ar": "توازن بين الروح والعقل، بين الدين والعلم",
+        "en": "Balance between spirit and mind, between faith and knowledge",
+        "ur": "روح اور دماغ کے درمیان توازن، دین اور علم کے درمیان توازن",
+        "fr": "",
+        "es": ""
       }
     },
     {
       "id": "daily-learning",
       "title": {
-        "arabic": "تحديث يومي للعقل",
-        "english": "Daily Mental Update",
-        "urdu": "روزانہ ذہن کی تازگی",
-        "french": "",
-        "spanish": ""
+        "ar": "تحديث يومي للعقل",
+        "en": "Daily Mental Update",
+        "ur": "روزانہ ذہن کی تازگی",
+        "fr": "",
+        "es": ""
       },
       "action": {
-        "arabic": "كل يوم، تعلم حاجة جديدة - مقال، فيديو، كتاب، بودكاست. حتى لو 15 دقيقة بس.",
-        "english": "Every day, learn something new - an article, video, book, or podcast. Even if just 15 minutes.",
-        "urdu": "ہر روز کچھ نیا سیکھیں - ایک مضمون، ویڈیو، کتاب، یا پوڈ کاسٹ۔ چاہے صرف 15 منٹ ہی ہو۔",
-        "french": "",
-        "spanish": ""
+        "ar": "كل يوم، تعلم حاجة جديدة - مقال، فيديو، كتاب، بودكاست. حتى لو 15 دقيقة بس.",
+        "en": "Every day, learn something new - an article, video, book, or podcast. Even if just 15 minutes.",
+        "ur": "ہر روز کچھ نیا سیکھیں - ایک مضمون، ویڈیو، کتاب، یا پوڈ کاسٹ۔ چاہے صرف 15 منٹ ہی ہو۔",
+        "fr": "",
+        "es": ""
       },
       "benefit": {
-        "arabic": "بناء عادة التعلم المستمر وحماية العقل من الضمور",
-        "english": "Build a habit of continuous learning and protect your mind from decline",
-        "urdu": "مسلسل سیکھنے کی عادت بنائیں اور اپنے دماغ کو کمزوری سے بچائیں",
-        "french": "",
-        "spanish": ""
+        "ar": "بناء عادة التعلم المستمر وحماية العقل من الضمور",
+        "en": "Build a habit of continuous learning and protect your mind from decline",
+        "ur": "مسلسل سیکھنے کی عادت بنائیں اور اپنے دماغ کو کمزوری سے بچائیں",
+        "fr": "",
+        "es": ""
       }
     }
   ],
   "dailyAction": {
-    "arabic": "⚡ تحدي اليوم (الروشتة العملية):\n\nالنهاردة، خصص 15 دقيقة بس لعقلك:\n\n• اقرأ مقال في مجال عمرك ما دورت فيه (تاريخ، فضاء، علم نفس)\n• أو اسمع بودكاست أو فيديو وثائقي قصير وأنت في المواصلات بدل الأغاني\n• أو افتح كتاب كنت مأجله واقرأ منه 5 صفحات بس\n\nالمهم إنك تدخّل لـ 'عقلك' معلومة جديدة تفكر فيها.\n\nوانوي النية دي وأنت بتعمل كده: 'يا رب، أنا بنفذ أول أمر نزل في الكتالوج (اقرأ)، بنية إني أوسع مداركي وأكون إنسان أنفع لنفسي وللناس'.\n\nشوف الإحساس بالرقي والإنجاز اللي هتحس بيه آخر اليوم.",
-    "english": "⚡ Today's Challenge (The Prescription):\n\nToday, dedicate just 15 minutes to your mind:\n\n• Read an article in a field you've never explored (history, space, psychology)\n• Or listen to a podcast or short documentary while commuting instead of music\n• Or open a book you've been putting off and read just 5 pages\n\nThe important thing is that you feed your 'mind' with new information to think about.\n\nSet this intention as you do it: 'O Lord, I am fulfilling the first command that came in the Catalog (Read), with the intention of expanding my understanding and becoming a person of benefit to myself and others'.\n\nFeel the sense of elevation and accomplishment you'll experience by the end of the day.",
-    "urdu": "⚡ آج کا چیلنج (نسخہ):\n\nآج، اپنے دماغ کے لیے صرف 15 منٹ نکالیں:\n\n• ایک ایسے شعبے میں مضمون پڑھیں جو آپ نے کبھی نہیں دیکھا (تاریخ، خلا، نفسیات)\n• یا سفر میں پوڈ کاسٹ یا مختصر دستاویزی فلم سنیں بجائے موسیقی کے\n• یا ایک کتاب کھولیں جو آپ نے ملتوی کی ہے اور صرف 5 صفحات پڑھیں\n\nاہم بات یہ ہے کہ آپ اپنے 'دماغ' کو سوچنے کے لیے نیا معلومات دیں۔\n\nیہ نیت رکھیں جب آپ یہ کریں: 'اے رب، میں کتالوگ میں آنے والے پہلے حکم (پڑھو) کو پورا کر رہا ہوں، اس نیت کے ساتھ کہ میں اپنی سمجھ کو بڑھاؤں اور اپنے لیے اور دوسروں کے لیے مفید شخص بنوں'۔\n\nدن کے آخر میں اس اعلیٰ احساس اور کامیابی کو محسوس کریں۔",
-    "french": "",
-    "spanish": ""
+    "ar": "⚡ تحدي اليوم (الروشتة العملية):\n\nالنهاردة، خصص 15 دقيقة بس لعقلك:\n\n• اقرأ مقال في مجال عمرك ما دورت فيه (تاريخ، فضاء، علم نفس)\n• أو اسمع بودكاست أو فيديو وثائقي قصير وأنت في المواصلات بدل الأغاني\n• أو افتح كتاب كنت مأجله واقرأ منه 5 صفحات بس\n\nالمهم إنك تدخّل لـ 'عقلك' معلومة جديدة تفكر فيها.\n\nوانوي النية دي وأنت بتعمل كده: 'يا رب، أنا بنفذ أول أمر نزل في الكتالوج (اقرأ)، بنية إني أوسع مداركي وأكون إنسان أنفع لنفسي وللناس'.\n\nشوف الإحساس بالرقي والإنجاز اللي هتحس بيه آخر اليوم.",
+    "en": "⚡ Today's Challenge (The Prescription):\n\nToday, dedicate just 15 minutes to your mind:\n\n• Read an article in a field you've never explored (history, space, psychology)\n• Or listen to a podcast or short documentary while commuting instead of music\n• Or open a book you've been putting off and read just 5 pages\n\nThe important thing is that you feed your 'mind' with new information to think about.\n\nSet this intention as you do it: 'O Lord, I am fulfilling the first command that came in the Catalog (Read), with the intention of expanding my understanding and becoming a person of benefit to myself and others'.\n\nFeel the sense of elevation and accomplishment you'll experience by the end of the day.",
+    "ur": "⚡ آج کا چیلنج (نسخہ):\n\nآج، اپنے دماغ کے لیے صرف 15 منٹ نکالیں:\n\n• ایک ایسے شعبے میں مضمون پڑھیں جو آپ نے کبھی نہیں دیکھا (تاریخ، خلا، نفسیات)\n• یا سفر میں پوڈ کاسٹ یا مختصر دستاویزی فلم سنیں بجائے موسیقی کے\n• یا ایک کتاب کھولیں جو آپ نے ملتوی کی ہے اور صرف 5 صفحات پڑھیں\n\nاہم بات یہ ہے کہ آپ اپنے 'دماغ' کو سوچنے کے لیے نیا معلومات دیں۔\n\nیہ نیت رکھیں جب آپ یہ کریں: 'اے رب، میں کتالوگ میں آنے والے پہلے حکم (پڑھو) کو پورا کر رہا ہوں، اس نیت کے ساتھ کہ میں اپنی سمجھ کو بڑھاؤں اور اپنے لیے اور دوسروں کے لیے مفید شخص بنوں'۔\n\nدن کے آخر میں اس اعلیٰ احساس اور کامیابی کو محسوس کریں۔",
+    "fr": "",
+    "es": ""
   },
   "conclusion": {
-    "arabic": "الخلاصة: المؤمن الحقيقي مش شخص 'ساذج' بيمشي ورا أي كلام. المؤمن الحقيقي إنسان عقله صاحي، بيقرأ، بيتطور، وبيسأل. الجهل هو أكبر عدو للدين.. لأن الجاهل بيسيء لدينه وهو فاكر إنه بينصره.\n\nموعدنا بكره مع المعاملات اليومية والـ تفاعلات بتاع حياتك مع الناس: اليوم الخامس والعشرون: الأخلاق (الدين المعاملة).",
-    "english": "Conclusion: A true believer is not a 'naive' person who blindly follows. A true believer is someone with an alert mind, who reads, evolves, and questions. Ignorance is the greatest enemy of faith... because the ignorant person harms their faith while thinking they're defending it.\n\nOur meeting tomorrow is with daily interactions and how you relate to people: Day Twenty-Five: Character (Faith is Conduct).",
-    "urdu": "نتیجہ: سچا ایمان والا شخص 'سادہ لوح' نہیں ہے جو اندھے طریقے سے پیروی کرتا ہے۔ سچا ایمان والا شخص وہ ہے جس کا دماغ بیدار ہے، جو پڑھتا ہے، ترقی کرتا ہے، اور سوالات اٹھاتا ہے۔ جہالت دین کا سب سے بڑا دشمن ہے... کیونکہ جاہل شخص اپنے دین کو نقصان پہنچاتا ہے جبکہ سوچتا ہے کہ وہ اس کی حفاظت کر رہا ہے۔\n\nکل ہماری ملاقات روزمرہ کے تعاملات اور آپ کے لوگوں کے ساتھ تعلق کے بارے میں ہے: دن پچیس: کردار (دین رویہ ہے)۔",
-    "french": "",
-    "spanish": ""
+    "ar": "الخلاصة: المؤمن الحقيقي مش شخص 'ساذج' بيمشي ورا أي كلام. المؤمن الحقيقي إنسان عقله صاحي، بيقرأ، بيتطور، وبيسأل. الجهل هو أكبر عدو للدين.. لأن الجاهل بيسيء لدينه وهو فاكر إنه بينصره.\n\nموعدنا بكره مع المعاملات اليومية والـ تفاعلات بتاع حياتك مع الناس: اليوم الخامس والعشرون: الأخلاق (الدين المعاملة).",
+    "en": "Conclusion: A true believer is not a 'naive' person who blindly follows. A true believer is someone with an alert mind, who reads, evolves, and questions. Ignorance is the greatest enemy of faith... because the ignorant person harms their faith while thinking they're defending it.\n\nOur meeting tomorrow is with daily interactions and how you relate to people: Day Twenty-Five: Character (Faith is Conduct).",
+    "ur": "نتیجہ: سچا ایمان والا شخص 'سادہ لوح' نہیں ہے جو اندھے طریقے سے پیروی کرتا ہے۔ سچا ایمان والا شخص وہ ہے جس کا دماغ بیدار ہے، جو پڑھتا ہے، ترقی کرتا ہے، اور سوالات اٹھاتا ہے۔ جہالت دین کا سب سے بڑا دشمن ہے... کیونکہ جاہل شخص اپنے دین کو نقصان پہنچاتا ہے جبکہ سوچتا ہے کہ وہ اس کی حفاظت کر رہا ہے۔\n\nکل ہماری ملاقات روزمرہ کے تعاملات اور آپ کے لوگوں کے ساتھ تعلق کے بارے میں ہے: دن پچیس: کردار (دین رویہ ہے)۔",
+    "fr": "",
+    "es": ""
   },
   "prevEntry": "day-23-prohibitions-firewall",
   "nextEntry": "day-25-ethics-daily-interactions"

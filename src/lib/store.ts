@@ -79,17 +79,23 @@ export const useDirection = () => {
  * Hook to get text based on current language
  * Supports both new multilingual format and legacy format for backward compatibility
  */
-export const useText = (text: MultilingualText | LegacyText): string => {
+export const useText = (text: MultilingualText | LegacyText | any): string => {
   const language = useAppStore((state) => state.language);
   
-  // Check if it's the new multilingual format
-  if ('ar' in text) {
-    const multiText = text as MultilingualText;
+  if (!text) return '';
+  
+  // Check if it's the new multilingual format with short codes
+  if ('ar' in text || 'en' in text || 'ur' in text) {
+    const multiText = text as any;
     // Return text in selected language, fallback to English if not available
-    return multiText[language] || multiText.en || multiText.ar;
+    return multiText[language] || multiText.en || multiText.ar || '';
   }
   
   // Legacy format support (arabic/english)
-  const legacyText = text as LegacyText;
-  return language === 'ar' ? legacyText.arabic : legacyText.english;
+  if ('arabic' in text || 'english' in text) {
+    const legacyText = text as LegacyText;
+    return language === 'ar' ? legacyText.arabic : legacyText.english;
+  }
+  
+  return '';
 };
