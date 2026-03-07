@@ -130,12 +130,15 @@ export default function TableOfContents() {
               animate={{ opacity: 1, height: 'auto' }}
               exit={{ opacity: 0, height: 0 }}
               transition={{ duration: 0.3 }}
-              className="max-h-96 overflow-y-auto bg-white dark:bg-slate-800"
+              className="max-h-96 overflow-y-auto bg-white dark:bg-slate-800 w-64"
             >
               {/* Home Button */}
               <motion.button
                 whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
-                onClick={goHome}
+                onClick={() => {
+                  goHome();
+                  setIsDropdownOpen(false);
+                }}
                 className="w-full px-6 py-3 text-left text-sm font-medium text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors flex items-center gap-2 border-b border-slate-200 dark:border-slate-700"
               >
                 <Home className="w-4 h-4" />
@@ -145,7 +148,10 @@ export default function TableOfContents() {
               {/* Back to Top Button */}
               <motion.button
                 whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
-                onClick={scrollToTop}
+                onClick={() => {
+                  scrollToTop();
+                  setIsDropdownOpen(false);
+                }}
                 className="w-full px-6 py-3 text-left text-sm font-medium text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors flex items-center gap-2 border-b border-slate-200 dark:border-slate-700"
               >
                 <ChevronUp className="w-4 h-4" />
