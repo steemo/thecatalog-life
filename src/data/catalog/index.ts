@@ -39,6 +39,7 @@ import day24ReadCriticalThinking from './day-24-read-critical-thinking.json';
 import day25EthicsDailyInteractions from './day-25-ethics-daily-interactions.json';
 import day26EarthStewardship from './day-26-earth-stewardship.json';
 import day27TrialsTribulations from './day-27-trials-tribulations.json';
+import day28Repentance from './day-28-repentance.json';
 
 /** All Catalog entries */
 export const catalogEntries: CatalogEntry[] = [
@@ -70,6 +71,7 @@ export const catalogEntries: CatalogEntry[] = [
   day25EthicsDailyInteractions as CatalogEntry,
   day26EarthStewardship as CatalogEntry,
   day27TrialsTribulations as CatalogEntry,
+  day28Repentance as CatalogEntry,
 ];
 
 /** Get all Catalog entries as cards (for grid display) */

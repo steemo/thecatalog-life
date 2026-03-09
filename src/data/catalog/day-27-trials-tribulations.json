@@ -4,93 +4,63 @@
   "day": 27,
   "title": {
     "ar": "الابتلاء - فلسفة الألم",
-    "en": "Trials and Tribulations - The Philosophy of Pain",
-    "ur": "",
-    "fr": "",
-    "es": ""
+    "en": "Trials and Tribulations - The Philosophy of Pain"
   },
   "subtitle": {
     "ar": "ليه بيحصلنا حاجات وحشة؟ (سر المشرط الرحيم)",
-    "en": "Why Do Bad Things Happen to Us? (The Secret of the Merciful Scalpel)",
-    "ur": "",
-    "fr": "",
-    "es": ""
+    "en": "Why Do Bad Things Happen to Us? (The Secret of the Merciful Scalpel)"
   },
   "metadata": {
     "day": 27,
     "type": "core",
     "readTime": 13,
     "tags": [
-      { "ar": "الابتلاء", "en": "trials", "ur": "", "fr": "", "es": "" },
-      { "ar": "الألم", "en": "pain", "ur": "", "fr": "", "es": "" },
-      { "ar": "الحكمة", "en": "wisdom", "ur": "", "fr": "", "es": "" },
-      { "ar": "النمو-ما-بعد-الصدمة", "en": "post-traumatic-growth", "ur": "", "fr": "", "es": "" }
+      { "ar": "الابتلاء", "en": "trials" },
+      { "ar": "الألم", "en": "pain" },
+      { "ar": "الحكمة", "en": "wisdom" },
+      { "ar": "النمو-ما-بعد-الصدمة", "en": "post-traumatic-growth" }
     ]
   },
   "hook": {
     "ar": "كلنا من غير استثناء مرينا أو هنمر باللحظة دي: تكون ماشي صح، بتصلي، مابتأذيش حد، وفجأة.. الدنيا تتهد فوق دماغك. تخسر شغلك، تمرض بمرض صعب، تفقد إنسان غالي عليك، أو تتكسر في علاقة كنت باني عليها أحلامك.",
-    "en": "All of us without exception have experienced or will experience this moment: you're doing fine, you're praying, you're not hurting anyone, and suddenly the world collapses on your head. You lose your job, you get a serious illness, you lose someone dear to you, or a relationship you built your dreams on breaks.",
-    "ur": "",
-    "fr": "",
-    "es": ""
+    "en": "All of us without exception have experienced or will experience this moment: you're doing fine, you're praying, you're not hurting anyone, and suddenly the world collapses on your head. You lose your job, you get a serious illness, you lose someone dear to you, or a relationship you built your dreams on breaks."
   },
   "mainConcept": {
     "ar": "الابتلاء مش علامة طرد.. الابتلاء أحياناً بيكون أعظم علامة حب واهتمام. الألم مش عبثي، والدموع اللي نزلت منك ليها تاريخ صلاحية وهتنتهي، وليها ثمن غالي جداً بيتدفعلك في تشكيل شخصيتك في الدنيا، وفي رصيدك يوم القيامة.",
-    "en": "Trials are not a sign of rejection... trials are sometimes the greatest sign of love and care. Pain is not meaningless, and the tears that fell from you have an expiration date and will end, and they have a price that is paid to you in shaping your character in this world, and in your account on the Day of Judgment.",
-    "ur": "",
-    "fr": "",
-    "es": ""
+    "en": "Trials are not a sign of rejection... trials are sometimes the greatest sign of love and care. Pain is not meaningless, and the tears that fell from you have an expiration date and will end, and they have a price that is paid to you in shaping your character in this world, and in your account on the Day of Judgment."
   },
   "sections": [
     {
       "id": "false-separation",
       "title": {
         "ar": "خرافة الانفصال (الوجع ليس غضب)",
-        "en": "The Myth of Separation (Pain is Not Anger)",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "The Myth of Separation (Pain is Not Anger)"
       },
       "content": {
         "ar": "إحنا ورثنا فكرة قاسية جداً ومغلوطة بتقول إن الابتلاء دايماً عقاب على ذنب. الكتالوج بينسف الفكرة دي تماماً. لو كان الوجع دليل على غضب ربنا، كان أكتر ناس عاشوا مرتاحين هما الأنبياء! بس الحقيقة إن الأنبياء وهما أحب الخلق لله كانوا أكتر ناس اتعرضوا للوجع، والفقر، والمرض، والفقد. إذن المعادلة واضحة: الألم مش علامة طرد.. الألم أحياناً بيكون أعظم علامة حب واهتمام.",
-        "en": "We inherited a cruel and false idea that says trials are always punishment for sin. The Catalog completely refutes this idea. If pain were evidence of the Creator's anger, the most comfortable people would be the prophets! But the truth is that the prophets who are the most beloved of creation to the Creator were the most exposed to pain, poverty, illness, and loss. So the equation is clear: pain is not a sign of rejection... pain is sometimes the greatest sign of love and care.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "We inherited a cruel and false idea that says trials are always punishment for sin. The Catalog completely refutes this idea. If pain were evidence of the Creator's anger, the most comfortable people would be the prophets! But the truth is that the prophets who are the most beloved of creation to the Creator were the most exposed to pain, poverty, illness, and loss. So the equation is clear: pain is not a sign of rejection... pain is sometimes the greatest sign of love and care."
       }
     },
     {
       "id": "merciful-scalpel",
       "title": {
         "ar": "سر المشرط الرحيم",
-        "en": "The Secret of the Merciful Scalpel",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "The Secret of the Merciful Scalpel"
       },
       "content": {
         "ar": "تخيل إنك دخلت غرفة عمليات، وشفت دكتور ماسك مشرط وبيفتح بطن مريض والمريض بيتألم. لو أنت متعرفش حاجة عن الطب، هتقول: الدكتور ده مجرم وبيأذي الراجل!. بس الحقيقة إن الدكتور بيجرحه جرح مؤقت، عشان يستأصل ورم خبيث كان هيموته. الجرح بيوجع؟ آه جداً. بس وراه نية إنقاذ وحياة. ولله المثل الأعلى.. المصمم العظيم أحياناً بيتدخل في حياتك بـ مشرط الابتلاء. بياخد منك حاجة كنت متعلق بيها لدرجة المرض، عشان يحرر قلبك ويقولك أنا السند الوحيد. بيقفل في وشك باب شغل كنت هتموت عليه، عشان عارف إنه كان هيدمر أخلاقك أو يبعدك عن طريقك الصح. بيكسرك في موقف، عشان يستأصل من قلبك ورم الغرور ويرجعك متواضع وحاسس بالناس. ظاهر الابتلاء منع ووجع، بس باطنه عطاء وحماية.",
-        "en": "Imagine you entered an operating room and saw a doctor holding a scalpel, opening a patient's abdomen, and the patient is in pain. If you didn't know about medicine, you'd say: This doctor is a criminal and hurting the man! But the truth is the doctor is making a temporary wound to remove a malignant tumour that would have killed him. Does the wound hurt? Yes, very much. But behind it is the intention to save and give life. And the highest example belongs to the Creator... The great Designer sometimes intervenes in your life with the scalpel of trials. He takes from you something you were attached to to the point of sickness, to free your heart and tell you I am your only support. He closes a job door in your face that you would have died for, because He knows it would have destroyed your character or taken you off the right path. He breaks you in a situation to remove the tumour of arrogance from your heart and return you humble and compassionate. The appearance of trials is prevention and pain, but their essence is giving and protection.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Imagine you entered an operating room and saw a doctor holding a scalpel, opening a patient's abdomen, and the patient is in pain. If you didn't know about medicine, you'd say: This doctor is a criminal and hurting the man! But the truth is the doctor is making a temporary wound to remove a malignant tumour that would have killed him. Does the wound hurt? Yes, very much. But behind it is the intention to save and give life. And the highest example belongs to the Creator... The great Designer sometimes intervenes in your life with the scalpel of trials. He takes from you something you were attached to to the point of sickness, to free your heart and tell you I am your only support. He closes a job door in your face that you would have died for, because He knows it would have destroyed your character or taken you off the right path. He breaks you in a situation to remove the tumour of arrogance from your heart and return you humble and compassionate. The appearance of trials is prevention and pain, but their essence is giving and protection."
       }
     },
     {
       "id": "post-traumatic-growth",
       "title": {
         "ar": "النمو ما بعد الصدمة",
-        "en": "Post-Traumatic Growth",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Post-Traumatic Growth"
       },
       "content": {
         "ar": "في علم النفس، بيتكلموا كتير عن صدمة ما بعد الكرب PTSD، بس مؤخراً العلماء ركزوا على ظاهرة تانية أعظم بكتير اسمها النمو ما بعد الصدمة. اكتشفوا إن الإنسان اللي بيمر بأزمة طاحنة فقد، مرض، فشل وبيتقبلها، بيخرج منها إنسان تاني خالص. بيبقى أكثر تعاطفاً مع وجع غيره، أكثر نضجاً، وأكثر قدرة على ترتيب أولوياته. بالظبط زي العضلة في الجيم.. العضلة مستحيل تكبر وتبقى قوية إلا لو شالت وزن تقيل عمل تمزق بسيط في أنسجتها. الألم هو ضريبة النضج.",
-        "en": "In psychology, they talk a lot about post-traumatic stress disorder PTSD, but recently scientists have focused on a much greater phenomenon called post-traumatic growth. They discovered that a person who goes through a crushing crisis loss, illness, failure and accepts it, comes out as a completely different person. They become more empathetic to others' pain, more mature, and more able to prioritize. Exactly like a muscle in the gym... a muscle can't grow and become strong unless it lifts heavy weight that causes a slight tear in its tissue. Pain is the price of maturity.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "In psychology, they talk a lot about post-traumatic stress disorder PTSD, but recently scientists have focused on a much greater phenomenon called post-traumatic growth. They discovered that a person who goes through a crushing crisis loss, illness, failure and accepts it, comes out as a completely different person. They become more empathetic to others' pain, more mature, and more able to prioritize. Exactly like a muscle in the gym... a muscle can't grow and become strong unless it lifts heavy weight that causes a slight tear in its tissue. Pain is the price of maturity."
       }
     }
   ],
@@ -99,110 +69,68 @@
       "id": "prophets-suffering",
       "title": {
         "ar": "الأنبياء والوجع",
-        "en": "The Prophets and Suffering",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "The Prophets and Suffering"
       },
       "description": {
         "ar": "الأنبياء أحب الخلق لله عانوا أكثر من غيرهم من الألم والفقر والمرض.",
-        "en": "The prophets the most beloved of creation to the Creator suffered more than others from pain, poverty, and illness.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "The prophets the most beloved of creation to the Creator suffered more than others from pain, poverty, and illness."
       },
       "example": {
         "ar": "إذن الألم ليس دليل على غضب الله، بل قد يكون أعظم دليل على حبه واهتمامه.",
-        "en": "So pain is not evidence of the Creator's anger, but may be the greatest evidence of His love and care.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "So pain is not evidence of the Creator's anger, but may be the greatest evidence of His love and care."
       }
     },
     {
       "id": "surgical-scalpel",
       "title": {
         "ar": "المشرط الجراحي",
-        "en": "The Surgical Scalpel",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "The Surgical Scalpel"
       },
       "description": {
         "ar": "الدكتور يجرح المريض بنية الشفاء، وليس بنية الإيذاء.",
-        "en": "The doctor wounds the patient with the intention of healing, not harming.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "The doctor wounds the patient with the intention of healing, not harming."
       },
       "example": {
         "ar": "كذلك الله يبتلي بنية الحماية والتطهير، لا بنية الإيذاء.",
-        "en": "Similarly, the Creator tests with the intention of protection and purification, not harm.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Similarly, the Creator tests with the intention of protection and purification, not harm."
       }
     },
     {
       "id": "muscle-growth",
       "title": {
         "ar": "نمو العضلة",
-        "en": "Muscle Growth",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Muscle Growth"
       },
       "description": {
         "ar": "العضلة لا تنمو إلا بالضغط والتمزق البسيط.",
-        "en": "A muscle only grows through pressure and slight tearing.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "A muscle only grows through pressure and slight tearing."
       },
       "example": {
         "ar": "الألم هو ضريبة النضج والقوة الحقيقية.",
-        "en": "Pain is the price of maturity and true strength.",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Pain is the price of maturity and true strength."
       }
     }
   ],
   "keyTakeaways": [
     {
       "ar": "الابتلاء ليس علامة طرد - الابتلاء أحياناً أعظم علامة حب واهتمام",
-      "en": "Trials are not a sign of rejection - trials are sometimes the greatest sign of love and care",
-      "ur": "",
-      "fr": "",
-      "es": ""
+      "en": "Trials are not a sign of rejection - trials are sometimes the greatest sign of love and care"
     },
     {
       "ar": "الأنبياء أحب الخلق لله عانوا أكثر من غيرهم - فالألم ليس دليل على غضب الله",
-      "en": "The prophets the most beloved of creation suffered more than others - so pain is not evidence of the Creator's anger",
-      "ur": "",
-      "fr": "",
-      "es": ""
+      "en": "The prophets the most beloved of creation suffered more than others - so pain is not evidence of the Creator's anger"
     },
     {
       "ar": "المشرط الرحيم - الله يجرح بنية الشفاء والحماية، لا بنية الإيذاء",
-      "en": "The Merciful Scalpel - the Creator wounds with the intention of healing and protection, not harm",
-      "ur": "",
-      "fr": "",
-      "es": ""
+      "en": "The Merciful Scalpel - the Creator wounds with the intention of healing and protection, not harm"
     },
     {
       "ar": "النمو ما بعد الصدمة - الإنسان الذي يقبل الأزمة يخرج منها إنساناً أقوى وأكثر نضجاً",
-      "en": "Post-Traumatic Growth - a person who accepts crisis emerges stronger and more mature",
-      "ur": "",
-      "fr": "",
-      "es": ""
+      "en": "Post-Traumatic Growth - a person who accepts crisis emerges stronger and more mature"
     },
     {
       "ar": "الألم هو ضريبة النضج - لا يمكن للعضلة أن تنمو بدون الضغط والتمزق البسيط",
-      "en": "Pain is the price of maturity - a muscle cannot grow without pressure and slight tearing",
-      "ur": "",
-      "fr": "",
-      "es": ""
+      "en": "Pain is the price of maturity - a muscle cannot grow without pressure and slight tearing"
     }
   ],
   "practicalSteps": [
@@ -210,88 +138,55 @@
       "id": "reframe-pain",
       "title": {
         "ar": "أعد تعريف الألم",
-        "en": "Reframe Your Pain",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Reframe Your Pain"
       },
       "action": {
         "ar": "عندما تمر بأزمة، لا تقل لماذا أنا؟ بل قل ماذا يريد الله أن أتعلمه من هذا؟",
-        "en": "When you go through a crisis, don't say Why me? but say What does the Creator want me to learn from this?",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "When you go through a crisis, don't say Why me? but say What does the Creator want me to learn from this?"
       },
       "benefit": {
         "ar": "تحويل الألم من عقاب إلى درس وفرصة للنمو",
-        "en": "Transform pain from punishment into a lesson and opportunity for growth",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Transform pain from punishment into a lesson and opportunity for growth"
       }
     },
     {
       "id": "look-back",
       "title": {
         "ar": "انظر للوراء",
-        "en": "Look Back",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Look Back"
       },
       "action": {
         "ar": "تذكر أزمة قديمة عدت عليك - كيف كانت مؤلمة وقتها، وكيف أصبحت الآن؟ ما الخير الذي خرج منها؟",
-        "en": "Remember an old crisis you went through - how painful it was then, and how it is now? What good came from it?",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Remember an old crisis you went through - how painful it was then, and how it is now? What good came from it?"
       },
       "benefit": {
         "ar": "بناء الثقة بأن الله يدبر أحسن سيناريو لك",
-        "en": "Build trust that the Creator is orchestrating the best scenario for you",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Build trust that the Creator is orchestrating the best scenario for you"
       }
     },
     {
       "id": "accept-and-grow",
       "title": {
         "ar": "اقبل وانمُ",
-        "en": "Accept and Grow",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Accept and Grow"
       },
       "action": {
         "ar": "بدل من مقاومة الألم إلى قبوله - اسأل نفسك: كيف يمكنني أن أنمو من هذا؟",
-        "en": "Instead of resisting pain, accept it - ask yourself: How can I grow from this?",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Instead of resisting pain, accept it - ask yourself: How can I grow from this?"
       },
       "benefit": {
         "ar": "تحويل الأزمة إلى فرصة للنمو الحقيقي والنضج",
-        "en": "Transform crisis into an opportunity for real growth and maturity",
-        "ur": "",
-        "fr": "",
-        "es": ""
+        "en": "Transform crisis into an opportunity for real growth and maturity"
       }
     }
   ],
   "dailyAction": {
     "ar": "⚡ تحدي اليوم (الروشتة العملية):\n\nوقت الوجع، الرؤية بتبقى ضبابية ومابنشوفش الحكمة. بس لما بنبص للماضي، الصورة بتوضح.\n\nالتحدي (نظرة للوراء):\n\nالنهاردة، خصص 5 دقايق بس عشان تفتكر أزمة قديمة عدت عليك من سنين. وقتها أنت كنت حاسس إن دي نهاية العالم وكنت زعلان جداً من ربنا.\n\nدلوقتي، وبعد ما السنين عدت.. اسأل نفسك:\nإيه الخير اللي طلعلي من ورا الأزمة دي؟\nإزاي المنع ده كان هو عين العطاء والرحمة؟\n\nهتلاقي نفسك بتبتسم وتكتشف إن ربنا كان بيدبرلك أحسن سيناريو، بس أنت اللي كنت مستعجل.\n\nالهدف من التمرين ده: إنك لما تتأكد إن ربنا كان رحيم وحكيم معاك في الماضي، قلبك هيطمن ويسلّم ليه في أي وجع بتمر بيه في الحاضر أو هيقابلك في المستقبل.",
-    "en": "⚡ Today's Challenge (The Prescription):\n\nWhen pain comes, vision becomes blurry and we don't see the wisdom. But when we look back, the picture becomes clear.\n\nThe Challenge (A Look Back):\n\nToday, spend just 5 minutes remembering an old crisis you went through years ago. Back then, you felt like it was the end of the world and you were very angry at the Creator.\n\nNow, after the years have passed... ask yourself:\nWhat good came from this crisis?\nHow was this prevention actually a gift and mercy?\n\nYou'll find yourself smiling and discovering that the Creator was orchestrating the best scenario for you, but you were just in a hurry.\n\nThe goal of this exercise: when you confirm that the Creator was merciful and wise with you in the past, your heart will find peace and surrender to Him in any pain you're going through now or will face in the future.",
-    "ur": "",
-    "fr": "",
-    "es": ""
+    "en": "⚡ Today's Challenge (The Prescription):\n\nWhen pain comes, vision becomes blurry and we don't see the wisdom. But when we look back, the picture becomes clear.\n\nThe Challenge (A Look Back):\n\nToday, spend just 5 minutes remembering an old crisis you went through years ago. Back then, you felt like it was the end of the world and you were very angry at the Creator.\n\nNow, after the years have passed... ask yourself:\nWhat good came from this crisis?\nHow was this prevention actually a gift and mercy?\n\nYou'll find yourself smiling and discovering that the Creator was orchestrating the best scenario for you, but you were just in a hurry.\n\nThe goal of this exercise: when you confirm that the Creator was merciful and wise with you in the past, your heart will find peace and surrender to Him in any pain you're going through now or will face in the future."
   },
   "conclusion": {
     "ar": "الخلاصة: ربنا مش بيخلق ألم عبثي. كل دمعة نزلت منك، كل ليلة منمتهاش من القلق، كل كسرة خاطر.. ليها تاريخ صلاحية وهتنتهي، وليها ثمن غالي جداً بيتدفعلك في تشكيل شخصيتك في الدنيا، وفي رصيدك يوم القيامة. الابتلاء هو رسالة حب.. بس قاسية شوية، عشان تفوقك وتصنع منك أحسن نسخة ممكنة.\n\nموعدنا بكره مع أعظم زرار في الكتالوج.. زرار الأمل والميلاد الجديد: اليوم الثامن والعشرون: التوبة (البداية من الصفر).",
-    "en": "Conclusion: The Creator does not create meaningless pain. Every tear that fell from you, every sleepless night from worry, every broken heart... has an expiration date and will end, and has a price that is paid to you in shaping your character in this world, and in your account on the Day of Judgment. Trials are a message of love... but a harsh one, to elevate you and make you the best version possible.\n\nOur meeting tomorrow is with the greatest button in the Catalog... the button of hope and new birth: Day Twenty-Eight: Repentance (Starting from Zero).",
-    "ur": "",
-    "fr": "",
-    "es": ""
+    "en": "Conclusion: The Creator does not create meaningless pain. Every tear that fell from you, every sleepless night from worry, every broken heart... has an expiration date and will end, and has a price that is paid to you in shaping your character in this world, and in your account on the Day of Judgment. Trials are a message of love... but a harsh one, to elevate you and make you the best version possible.\n\nOur meeting tomorrow is with the greatest button in the Catalog... the button of hope and new birth: Day Twenty-Eight: Repentance (Starting from Zero)."
   },
   "prevEntry": "day-26-earth-stewardship",
   "nextEntry": ""

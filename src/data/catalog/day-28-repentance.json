@@ -1,0 +1,193 @@
+{
+  "id": "day-28-repentance",
+  "slug": "day-28-repentance",
+  "day": 28,
+  "title": {
+    "ar": "التوبة - زرار إعادة التشغيل",
+    "en": "Repentance - The Reset Button"
+  },
+  "subtitle": {
+    "ar": "عكيت الدنيا؟.. لسه مفيش Game Over (كسر دائرة الذنب)",
+    "en": "Did You Mess Up? There's Still No Game Over (Breaking the Cycle of Sin)"
+  },
+  "metadata": {
+    "day": 28,
+    "type": "core",
+    "readTime": 14,
+    "tags": [
+      { "ar": "التوبة", "en": "repentance" },
+      { "ar": "الذنب", "en": "sin" },
+      { "ar": "الخزي", "en": "shame" },
+      { "ar": "البداية-من-الصفر", "en": "fresh-start" }
+    ]
+  },
+  "hook": {
+    "ar": "تخيل إنك بتلعب لعبة فيديو صعبة جداً، ووصلت لمرحلة متقدمة، وفجأة عملت غلطة تافهة وخسرت. هل هتقوم تكسر الشاشة وترمي اللعبة وتقول أنا فاشل ومستحيل ألعب تاني؟ أكيد لأ. أنت بتدوس على زرار Restart أو Play Again، وبتبدأ المحاولة من جديد، بس المرة دي أنت أذكى وعارف مكان الفخ.",
+    "en": "Imagine you're playing a very difficult video game, you've reached an advanced level, and suddenly you make a silly mistake and lose. Would you break the screen and throw the game away saying I'm a failure and can never play again? Of course not. You press the Restart or Play Again button, and start the attempt again, but this time you're smarter and know where the trap is."
+  },
+  "mainConcept": {
+    "ar": "ولله المثل الأعلى.. الكتالوج بتاعنا بيتعامل مع النفس البشرية بواقعية شديدة. المصمم عارف إن الماكينة دي بتعطل وبتغلط، وإن السوفتوير بتاعها بيضعف قدام الشهوات. عشان كدة، الخالق ماصممش الإنسان عشان يكون ملاك مبيغلطش.. هو صممه عشان يكون إنسان بيغلط، بس عنده زرار سحري اسمه التوبة.",
+    "en": "And the highest example belongs to the Creator... Our Catalog deals with human nature with extreme realism. The Designer knows that this machine breaks down and makes mistakes, and that its software weakens in the face of desires. That's why the Creator didn't design humans to be angels who never make mistakes... He designed them to be humans who make mistakes, but have a magical button called Repentance."
+  },
+  "sections": [
+    {
+      "id": "perfection-trap",
+      "title": {
+        "ar": "أخطر فخ: وهم المثالية",
+        "en": "The Deadliest Trap: The Perfection Illusion"
+      },
+      "content": {
+        "ar": "أكبر انتصار للشيطان مش إنه يخليك تعمل الذنب.. أكبر انتصار ليه هو اللي بيحصل بعد الذنب. بيدخلك في حاجة في علم النفس اسمها تأثير الانهيار Abstinence Violation Effect. يعني إيه؟ يعني واحد عامل دايت، وضعف وأكل حتة شيكولاتة. عقله يقوله: خلاص الدايت باظ، وأنت فاشل، فيقوم واكل التورتة كلها! الشيطان بيعمل معاك كدة بالظبط: يخليك تضعف وتعمل ذنب، وبعدين يلبس عباية الواعظ ويقولك: أنت منافق! إزاي بتصلي وتقرأ قرآن وأنت لسه بتعمل الذنب ده؟ سيب الصلاة بقى لحد ما تنضف وتبقى كويس.",
+        "en": "The devil's greatest victory is not making you commit sin... his greatest victory is what happens after the sin. He puts you in something psychology calls the Abstinence Violation Effect. What does that mean? It means someone is on a diet, weakens and eats a piece of chocolate. Their mind tells them: the diet is ruined, you're a failure, so they eat the whole cake! The devil does exactly this to you: he makes you weaken and commit a sin, then he puts on the robe of a preacher and tells you: You're a hypocrite! How can you pray and read the Quran while you're still committing this sin? Stop praying until you clean up and become good."
+      }
+    },
+    {
+      "id": "sin-is-part-of-plan",
+      "title": {
+        "ar": "الكتالوج: الذنب جزء من الخطة!",
+        "en": "The Catalog: Sin is Part of the Plan!"
+      },
+      "content": {
+        "ar": "النبي ﷺ قال جملة بتنسف الفخ ده تماماً: والذي نفسي بيده، لو لم تذنبوا، لذهب الله بكم، ولجاء بقوم يذنبون، فيستغفرون الله فيغفر لهم. الحديث ده مش دعوة للذنب، ده إعلان رحمة. ربنا بيقولك: أنا مش مستني منك مثالية الأنبياء، أنا مستني منك رجوع المحب. أنا بحب أسمع كلمة سامحني يا رب، وبحب أشوفك وأنت بتقاوم ضعفك وتقوم تاني.",
+        "en": "The Prophet said a statement that completely destroys this trap: By the One in Whose hand is my soul, if you did not commit sin, Allah would replace you with people who would commit sin and then seek forgiveness from Allah, and He would forgive them. This hadith is not an invitation to sin, it's an announcement of mercy. The Creator is telling you: I'm not waiting for you to have the perfection of the prophets, I'm waiting for you to return like a lover. I love to hear the words forgive me O Lord, and I love to see you resisting your weakness and standing up again."
+      }
+    },
+    {
+      "id": "guilt-vs-shame",
+      "title": {
+        "ar": "الفرق بين الذنب البنّاء والخزي المدمر",
+        "en": "The Difference Between Constructive Guilt and Destructive Shame"
+      },
+      "content": {
+        "ar": "الخزي Shame: إنك تقول أنا إنسان سيء ومقرف ومستحيل أتصلح. ده إحساس مدمر بيجيب اكتئاب وبيخليك تغرق في الذنب أكتر. الشعور بالذنب الإيجابي Guilt: إنك تقول أنا إنسان كويس، بس عملت فعل سيء، ومحتاج أصلحه. ده الإحساس اللي الكتالوج بيشجعه، لأنه بيحركك لقدام. التوبة مش معناها إنك توعد ربنا إنك عمرك ما هتعمل الذنب ده تاني أبداً لأنك ممكن تضعف وتقع تاني. التوبة الحقيقية هي إنك كل ما تقع، تدوس Reset فوراً وترجعله. لو وقعت 100 مرة، ارجع 101 مرة. الباب مابيقفلش غير بطلوع الروح.",
+        "en": "Shame: You say I'm a bad and disgusting person and I can never fix myself. This is a destructive feeling that brings depression and makes you sink deeper into sin. Positive Guilt: You say I'm a good person, but I did something wrong, and I need to fix it. This is the feeling the Catalog encourages, because it moves you forward. Repentance doesn't mean you promise the Creator you'll never commit this sin again ever because you might weaken and fall again. True repentance is that every time you fall, you press Reset immediately and return to Him. If you fall 100 times, return 101 times. The door doesn't close except when the soul departs."
+      }
+    }
+  ],
+  "analogies": [
+    {
+      "id": "video-game-restart",
+      "title": {
+        "ar": "زرار إعادة التشغيل",
+        "en": "The Restart Button"
+      },
+      "description": {
+        "ar": "في لعبة الفيديو، لما تخسر، بتدوس Restart وتبدأ من جديد بدون ما تحس بخزي.",
+        "en": "In a video game, when you lose, you press Restart and start again without feeling shame."
+      },
+      "example": {
+        "ar": "كذلك التوبة: كل ما تقع في ذنب، بتدوس على زرار التوبة وتبدأ من جديد، بس المرة دي أذكى وأقوى.",
+        "en": "Similarly with repentance: every time you fall into sin, you press the repentance button and start again, but this time smarter and stronger."
+      }
+    },
+    {
+      "id": "diet-mistake",
+      "title": {
+        "ar": "الدايت والشيكولاتة",
+        "en": "The Diet and the Chocolate"
+      },
+      "description": {
+        "ar": "واحد على دايت أكل حتة شيكولاتة، فقال الدايت باظ وأكل التورتة كلها.",
+        "en": "Someone on a diet ate a piece of chocolate, so they said the diet is ruined and ate the whole cake."
+      },
+      "example": {
+        "ar": "الشيطان بيعمل معاك كدة: يخليك تعمل ذنب صغير، بعدين يقولك أنت فاشل فتعمل ذنوب أكبر.",
+        "en": "The devil does this to you: he makes you commit a small sin, then tells you you're a failure so you commit bigger sins."
+      }
+    },
+    {
+      "id": "shower-after-mud",
+      "title": {
+        "ar": "الاستحمام بعد الطين",
+        "en": "Showering After Mud"
+      },
+      "description": {
+        "ar": "لما تتسخ من الطين، بتستحمي عشان تنضف، ماتقول سيب الاستحمام لحد ما أبقى نظيف.",
+        "en": "When you get dirty with mud, you shower to clean up, you don't say I'll skip showering until I'm clean."
+      },
+      "example": {
+        "ar": "كذلك الصلاة: هي الدش اللي بتغسل بيه الطين اللي نزل عليك من الذنب.",
+        "en": "Similarly prayer: it's the shower that washes away the mud that fell on you from sin."
+      }
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "ar": "الذنب جزء من التصميم البشري - الخالق عارف إنك هتغلط",
+      "en": "Sin is part of human design - the Creator knows you will make mistakes"
+    },
+    {
+      "ar": "أكبر انتصار للشيطان مش الذنب نفسه، بل الخزي والاستسلام بعده",
+      "en": "The devil's greatest victory is not the sin itself, but the shame and surrender after it"
+    },
+    {
+      "ar": "الفرق بين الخزي المدمر والذنب البنّاء: الخزي يقول أنت سيء، الذنب يقول فعلك سيء",
+      "en": "The difference between destructive shame and constructive guilt: shame says you're bad, guilt says your action was bad"
+    },
+    {
+      "ar": "التوبة الحقيقية ليست وعد بعدم الذنب، بل رجوع فوري كل مرة تقع",
+      "en": "True repentance is not a promise never to sin, but an immediate return every time you fall"
+    },
+    {
+      "ar": "الصلاة ليست مكافأة للطاهرين، بل دش تطهير للمذنبين",
+      "en": "Prayer is not a reward for the pure, but a purifying shower for sinners"
+    }
+  ],
+  "practicalSteps": [
+    {
+      "id": "immediate-action",
+      "title": {
+        "ar": "الأكشن الفوري",
+        "en": "Immediate Action"
+      },
+      "action": {
+        "ar": "كل ما تقع في ذنب، اعمل حسنة فورية: صلاة، صدقة، قراءة قرآن، استغفار. ربط الوقعة بحسنة فورية بيكسر دائرة الخزي.",
+        "en": "Every time you fall into sin, do an immediate good deed: prayer, charity, read Quran, seek forgiveness. Linking the fall to an immediate good deed breaks the cycle of shame."
+      },
+      "benefit": {
+        "ar": "تحويل الذنب من دائرة مغلقة إلى حلقة مفتوحة نحو التحسن",
+        "en": "Transform sin from a closed cycle into an open loop toward improvement"
+      }
+    },
+    {
+      "id": "identify-pattern",
+      "title": {
+        "ar": "تحديد النمط المتكرر",
+        "en": "Identify the Recurring Pattern"
+      },
+      "action": {
+        "ar": "اختار أكتر ذنب بتكرره (عصبية، نظرة حرام، نميمة، تضييع وقت) وربط معاه حسنة محددة تعملها فوراً كل مرة.",
+        "en": "Choose the sin you repeat most (anger, forbidden glance, gossip, wasting time) and link it to a specific good deed you do immediately every time."
+      },
+      "benefit": {
+        "ar": "تحويل الذنب المتكرر إلى فرصة للحسنات المتكررة",
+        "en": "Transform repeated sin into an opportunity for repeated good deeds"
+      }
+    },
+    {
+      "id": "reset-mindset",
+      "title": {
+        "ar": "عقلية الـ Reset",
+        "en": "The Reset Mindset"
+      },
+      "action": {
+        "ar": "كل مرة تقع، قول لنفسك: أنا إنسان كويس عملت فعل سيء، وأنا بدوس Reset دلوقتي. ماتقول أنا فاشل ومستحيل أتصلح.",
+        "en": "Every time you fall, tell yourself: I'm a good person who did something wrong, and I'm pressing Reset now. Don't say I'm a failure and can never fix myself."
+      },
+      "benefit": {
+        "ar": "الحفاظ على الثقة بالنفس والقدرة على المحاولة مرة أخرى",
+        "en": "Maintain self-confidence and the ability to try again"
+      }
+    }
+  ],
+  "dailyAction": {
+    "ar": "⚡ تحدي اليوم (الروشتة العملية):\n\nالنهاردة عايزين ندوس على زرار الـ Reset ونكسر الإحساس بالخزي.\n\nالتحدي (قاعدة المسح الفوري):\n\nالكتالوج حط قاعدة سحرية بتقول: إن الحسنات يذهبن السيئات. النهاردة، اختار أكتر ذنب مكسوف منه وبيتكرر معاك (عصبية زيادة، نظرة حرام، نميمة، تضييع وقت). وبدل ما تقعد تجلد في نفسك وتكتئب، اعمل أكشن فوري يمسح أثره.\n\nعملت ذنب؟ قم اتوضى وصلي ركعتين في ساعتها.\nاتعصبت وقلت كلمة وحشة؟ طلع 10 جنيه صدقة فوراً.\nضيعت وقتك في حاجة تافهة؟ اقرأ صفحة قرآن واحدة.\n\nاربط كل وقعة بـ حسنة فورية. هتلاقي الشيطان هو اللي بييأس منك وبيقول: أنا كل ما بخليه يغلط، بيروح يعمل حسنة أكبر! مجهودي بيروح على الفاضي.\n\nاليقين إن ربنا بيفرح برجوعك، هيردلك روحك ويخليك تنام وأنت خفيف وجاهز لبداية جديدة.",
+    "en": "⚡ Today's Challenge (The Prescription):\n\nToday we want to press the Reset button and break the feeling of shame.\n\nThe Challenge (The Immediate Cleansing Rule):\n\nThe Catalog has a magical rule that says: Good deeds erase bad deeds. Today, choose the sin you're most ashamed of and that repeats with you (excessive anger, forbidden glance, gossip, wasting time). Instead of beating yourself up and getting depressed, take immediate action to erase its effect.\n\nCommitted a sin? Get up, perform ablution and pray two units immediately.\nGot angry and said something harsh? Give 10 pounds to charity immediately.\nWasted your time on something trivial? Read one page of the Quran.\n\nLink every fall to an immediate good deed. You'll find the devil is the one who gives up on you saying: Every time I make him fall, he goes and does a bigger good deed! My effort is wasted.\n\nThe certainty that the Creator rejoices in your return will restore your soul and let you sleep light and ready for a fresh start."
+  },
+  "conclusion": {
+    "ar": "الخلاصة: التوبة هي الـ Undo بتاع حياتك. هي اللي بتطهر الفيروسات اللي ضربت السيستم أول بأول. ماتخليش كسوفك من ذنبك يمنعك من الصلاة، لأن الصلاة هي الدش اللي بتغسل بيه الطين اللي نزل عليك من الذنب. هتبطل تستحمى عشان هدومك متطينة؟!\n\nموعدنا بكره مع الدافع الأكبر والمكافأة النهائية.. اليوم التاسع والعشرون: الجنة (أمل الوصول ومعنى الحياة).",
+    "en": "Conclusion: Repentance is the Undo button of your life. It's what purifies the viruses that hit the system right away. Don't let your shame about your sin prevent you from praying, because prayer is the shower that washes away the mud that fell on you from sin. Will you stop showering because your clothes are muddy?!\n\nOur meeting tomorrow is with the greatest motivation and the ultimate reward... Day Twenty-Nine: Paradise (The Hope of Arrival and the Meaning of Life)."
+  },
+  "prevEntry": "day-27-trials-tribulations",
+  "nextEntry": ""
+}
