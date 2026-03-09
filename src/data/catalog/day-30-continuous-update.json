@@ -1,0 +1,204 @@
+{
+  "id": "day-30-continuous-update",
+  "slug": "day-30-continuous-update",
+  "day": 30,
+  "title": {
+    "ar": "التحديث المستمر - كيف تحافظ على السيستم من الانهيار؟",
+    "en": "The Continuous Update - How to Keep the System from Crashing?"
+  },
+  "subtitle": {
+    "ar": "ليه بنرجع لنقطة الصفر؟ (فخ الحماس المؤقت)",
+    "en": "Why Do We Return to Square One? (The Trap of Temporary Enthusiasm)"
+  },
+  "metadata": {
+    "day": 30,
+    "type": "core",
+    "readTime": 16,
+    "tags": [
+      { "ar": "الاستمرارية", "en": "consistency" },
+      { "ar": "الحد-الأدنى", "en": "minimum-viable" },
+      { "ar": "قليل-دائم", "en": "little-consistent" },
+      { "ar": "التحديث-المستمر", "en": "continuous-update" }
+    ]
+  },
+  "hook": {
+    "ar": "تخيل إنك قررت تنظف اللاب توب بتاعك، نزّلت تحديث قوي جداً، وسطبت أحدث برامج الحماية، ونظفت الهارد ديسك بالكامل. الجهاز بقى طيارة! فجأة، بعد أسبوع واحد، رجعت تفتح نفس المواقع المضروبة، وتحمل ملفات عشوائية، ومبقتش تعمل فحص للجهاز. النتيجة؟ السيستم هيقع تاني، وهيرجع أبطأ من الأول، وهتحس بإحباط مضاعف لأنك دُقت طعم النظافة والسرعة وضيعتهم.",
+    "en": "Imagine you decided to clean your laptop, downloaded a powerful update, installed the latest antivirus programs, and cleaned the hard disk completely. The device became a rocket! Suddenly, after just one week, you went back to opening the same infected websites, downloading random files, and stopped scanning the device. The result? The system will crash again, become slower than before, and you'll feel double the frustration because you tasted cleanliness and speed and lost them."
+  },
+  "mainConcept": {
+    "ar": "دي بالظبط قصة أغلبنا مع الدين. بنسمع موعظة، أو بنقعد نقرأ كتاب زي الكتالوج ده، أو بنمر بأزمة.. فـ نتحمس جداً. نقرر فجأة نصلي كل الفرايض والسنن، ونبطل كل الذنوب، ونقرأ قرآن كل يوم. نفضل ماشيين بأقصى سرعة لمدة أسبوع أو اتنين، وفجأة.. البنزين يخلص، الحماس يطفي، والسيستم ينهار، فنرجع أسوأ من الأول ونقول لنفسنا: أنا مفيش مني فايدة!",
+    "en": "This is exactly the story of most of us with religion. We hear a sermon, or sit and read a book like this Catalog, or go through a crisis... so we get very enthusiastic. We suddenly decide to pray all obligatory and voluntary prayers, stop all sins, and read Quran every day. We keep going at maximum speed for a week or two, and suddenly... the fuel runs out, the enthusiasm fades, and the system crashes, so we return worse than before and tell ourselves: I'm hopeless!"
+  },
+  "sections": [
+    {
+      "id": "all-or-nothing-trap",
+      "title": {
+        "ar": "فخ الأبيض يا أسود",
+        "en": "The All or Nothing Trap"
+      },
+      "content": {
+        "ar": "الكتالوج بيحذرك من أكبر فيروس بيدمر التغيير: المثالية الزايدة. الدين مش سباق سرعة هنجري فيه 100 متر ونقف. الدين ماراثون طويل جداً بيمتد لحد آخر يوم في عمرك. الماراثون مش محتاج سرعة حرق، الماراثون محتاج توزيع طاقة.\n\nعشان تحافظ على السيستم اللي بنيناه وفهمناه في الرحلة دي شغال طول السنة، لازم تطبق الـ 3 قواعد دول بصرامة.",
+        "en": "The Catalog warns you about the biggest virus that destroys change: excessive perfectionism. Religion is not a sprint where we run 100 meters and stop. Religion is a very long marathon that extends until the last day of your life. The marathon doesn't need burning speed, the marathon needs energy distribution.\n\nTo keep the system we built and understood in this journey running all year long, you must strictly apply these 3 rules."
+      }
+    },
+    {
+      "id": "minimum-viable-worship",
+      "title": {
+        "ar": "الحد الأدنى للتشغيل",
+        "en": "The Minimum Viable Worship (MVW Rule)"
+      },
+      "content": {
+        "ar": "في عالم البيزنس والشركات الناشئة، فيه مبدأ اسمه الحد الأدنى للمنتج يعني الحد الأدنى للمنتج اللي يخليه يشتغل وميخسرش. في الكتالوج، إحنا محتاجين نعمل الحد الأدنى للعبادة.\n\nالنبي ﷺ حط القاعدة الذهبية دي وقال: أحَبُّ الأعمالِ إلى اللهِ أدْوَمُها وإنْ قَلَّ. يعني ربنا بيحب الاستمرارية أكتر من الكمية.\n\nحدد لنفسك خط أحمر مستحيل تنزل عنه، مهما كنت مضغوط أو مكتئب أو مشغول. مثلاً: الـ 5 صلوات في وقتهم + صفحة واحدة قرآن. مهما حصل، الخط ده مش هيتكسر. الخط ده هو وضع توفير الطاقة اللي بيمنع الجهاز إنه يفصل شحن تماماً.",
+        "en": "In the business world and startups, there's a principle called Minimum Viable Product (MVP) - the minimum product that makes it work without losing. In the Catalog, we need to create Minimum Viable Worship.\n\nThe Prophet set this golden rule and said: The most beloved deeds to Allah are those that are continuous, even if they are small. This means the Creator loves consistency more than quantity.\n\nSet yourself a red line that's impossible to go below, no matter how stressed, depressed, or busy you are. For example: the 5 prayers on time + one page of Quran. Whatever happens, this line won't be broken. This line is the power saving mode that prevents the device from completely losing charge."
+      }
+    },
+    {
+      "id": "safe-network",
+      "title": {
+        "ar": "حماية الشبكة",
+        "en": "The Safe Network"
+      },
+      "content": {
+        "ar": "أي سيستم نضيف، لو دخلته على شبكة مليانة فيروسات، هيتضرب في ثواني. أنت اتغيرت وقناعاتك نضفت، بس لو فضلت في نفس البيئة السامة، ومع نفس الصحبة اللي بتشدك لتحت، ولنفس الأماكن اللي بتوقعك في الغلط.. هترجع للنسخة القديمة.\n\nالمرء على دين خليله.. البيئة بتغلب الإرادة. حوّط نفسك بناس بتفكر زيك، ناس بتجري على الصلاة، ناس عندها طموح في الدنيا وماشية على الكتالوج.",
+        "en": "Any clean system, if you connect it to a network full of viruses, will be infected in seconds. You've changed and your beliefs have been cleaned, but if you stay in the same toxic environment, with the same friends pulling you down, and in the same places that make you fall into mistakes... you'll return to the old version.\n\nA person follows the religion of their close friend... the environment overcomes willpower. Surround yourself with people who think like you, people who rush to prayer, people who have ambition in this world and follow the Catalog."
+      }
+    },
+    {
+      "id": "fast-recovery",
+      "title": {
+        "ar": "سرعة التعافي",
+        "en": "The Fast Recovery"
+      },
+      "content": {
+        "ar": "هل هتقع تاني؟ آه هتقع، وهتضعف، وممكن تعمل ذنوب كنت بطلتها. إحنا بشر ودي برمجتنا. الفرق بين الإنسان الناجح والفاشل مش إن الناجح مابيقعش.. الفرق في سرعة النهوض.\n\nالناجح أول ما بيقع، مابيجلسش يندب حظه ويلعن نفسه. بيدوس على زرار البداية من جديد فوراً بالتوبة ويرجع يكمل جري. كل ما سرعتك في الرجوع زادت، كل ما يأس الشيطان منك زاد.",
+        "en": "Will you fall again? Yes, you will fall, weaken, and might commit sins you had stopped. We're human and this is our programming. The difference between a successful person and a failed one isn't that the successful one doesn't fall... the difference is in the recovery speed.\n\nThe successful person, as soon as they fall, doesn't sit lamenting their fate and cursing themselves. They press the reset button immediately with repentance and return to continue running. The faster your return speed, the more the devil despairs of you."
+      }
+    }
+  ],
+  "analogies": [
+    {
+      "id": "laptop-maintenance",
+      "title": {
+        "ar": "صيانة اللاب توب",
+        "en": "Laptop Maintenance"
+      },
+      "description": {
+        "ar": "لاب توب نظيف ومحدث، لكن رجعت للمواقع المضروبة والملفات العشوائية.",
+        "en": "A clean and updated laptop, but you returned to infected websites and random files."
+      },
+      "example": {
+        "ar": "كذلك الدين: التحمس المؤقت بدون صيانة مستمرة يؤدي للانهيار.",
+        "en": "Similarly with religion: temporary enthusiasm without continuous maintenance leads to collapse."
+      }
+    },
+    {
+      "id": "marathon-vs-sprint",
+      "title": {
+        "ar": "الماراثون مش سباق سرعة",
+        "en": "Marathon Not a Sprint"
+      },
+      "description": {
+        "ar": "الدين ماراثون طويل، مش سباق 100 متر.",
+        "en": "Religion is a long marathon, not a 100-meter race."
+      },
+      "example": {
+        "ar": "الماراثون محتاج توزيع طاقة واستمرارية، مش سرعة حرق.",
+        "en": "The marathon needs energy distribution and consistency, not burning speed."
+      }
+    },
+    {
+      "id": "power-saving-mode",
+      "title": {
+        "ar": "وضع توفير الطاقة",
+        "en": "Power Saving Mode"
+      },
+      "description": {
+        "ar": "الحد الأدنى للعبادة هو وضع توفير الطاقة للجهاز.",
+        "en": "The minimum viable worship is the power saving mode for the device."
+      },
+      "example": {
+        "ar": "بيمنع الجهاز إنه يفصل شحن تماماً حتى في أصعب الظروف.",
+        "en": "It prevents the device from completely losing charge even in the toughest circumstances."
+      }
+    }
+  ],
+  "keyTakeaways": [
+    {
+      "ar": "الدين ماراثون طويل، مش سباق سرعة - محتاج استمرارية مش حماس مؤقت",
+      "en": "Religion is a long marathon, not a sprint - it needs consistency not temporary enthusiasm"
+    },
+    {
+      "ar": "أحب الأعمال إلى الله أدومها وإن قل - الاستمرارية أهم من الكمية",
+      "en": "The most beloved deeds to Allah are those that are continuous even if small - consistency is more important than quantity"
+    },
+    {
+      "ar": "حدد الحد الأدنى للعبادة - خط أحمر مستحيل تنزل عنه مهما حصل",
+      "en": "Set your minimum viable worship - a red line impossible to go below no matter what happens"
+    },
+    {
+      "ar": "البيئة بتغلب الإرادة - حوط نفسك بناس بتفكر زيك",
+      "en": "Environment overcomes willpower - surround yourself with people who think like you"
+    },
+    {
+      "ar": "الفرق بين الناجح والفاشل في سرعة النهوض - ادوس زرار البداية من جديد فوراً",
+      "en": "The difference between success and failure is in recovery speed - press reset immediately"
+    }
+  ],
+  "practicalSteps": [
+    {
+      "id": "define-mvw",
+      "title": {
+        "ar": "حدد الحد الأدنى للعبادة",
+        "en": "Define Your Minimum Viable Worship"
+      },
+      "action": {
+        "ar": "اكتب 2 أو 3 عبادات كحد أدنى مستحيل تنزل عنهم: الـ 5 صلوات في وقتهم + صفحة واحدة قرآن. مهما كنت مضغوط أو مشغول، الخط ده مش هيتكسر.",
+        "en": "Write 2 or 3 acts of worship as a minimum impossible to go below: the 5 prayers on time + one page of Quran. No matter how stressed or busy, this line won't be broken."
+      },
+      "benefit": {
+        "ar": "ضمان استمرارية العبادة حتى في أصعب الظروف",
+        "en": "Guarantee worship continuity even in the toughest circumstances"
+      }
+    },
+    {
+      "id": "build-safe-network",
+      "title": {
+        "ar": "ابني شبكة آمنة",
+        "en": "Build a Safe Network"
+      },
+      "action": {
+        "ar": "حوط نفسك بناس بتفكر زيك: انضم لمجموعة قرآن، صاحب ناس بتجري على الصلاة، ابعد عن البيئات السامة اللي بتشدك لتحت.",
+        "en": "Surround yourself with people who think like you: join a Quran group, befriend people who rush to prayer, distance yourself from toxic environments that pull you down."
+      },
+      "benefit": {
+        "ar": "البيئة الصالحة بتدعم الاستمرارية وبتغلب ضعف الإرادة",
+        "en": "A righteous environment supports consistency and overcomes weak willpower"
+      }
+    },
+    {
+      "id": "fast-reset",
+      "title": {
+        "ar": "سرعة الرجوع",
+        "en": "Fast Reset"
+      },
+      "action": {
+        "ar": "كل ما تقع في ذنب، ادوس زرار البداية من جديد فوراً: توبة فورية، حسنة تمحي السيئة، ورجوع للمسار. ماتجلسش تندب حظك.",
+        "en": "Every time you fall into sin, press reset immediately: instant repentance, a good deed to erase the bad, and return to the path. Don't sit lamenting your fate."
+      },
+      "benefit": {
+        "ar": "تقليل وقت الانقطاع وزيادة يأس الشيطان منك",
+        "en": "Reduce downtime and increase the devil's despair of you"
+      }
+    }
+  ],
+  "dailyAction": {
+    "ar": "⚡ تحدي اليوم (وثيقة العهد):\n\nالنهاردة، مفيش تحدي جديد.. النهاردة فيه توقيع عقد مع نفسك ومع المصمم.\n\nالتحدي:\n\nافتح الملاحظات على موبايلك، واكتب الوثيقة دي:\n\nأنا (اسمك)، عاهدت نفسي وربي إن هذا هو الحد الأدنى الذي لن أتنازل عنه في حياتي، في الفرح والحزن، في الزحمة والفراغ:\n\n(اكتب 2 أو 3 حاجات بس كحد أدنى).\n\nخلي الملاحظة دي في المفضلة عندك، وكل ما تحس إنك بتغرق، افتحها وافتكر عهدك.",
+    "en": "⚡ Today's Challenge (The Covenant Document):\n\nToday, there's no new challenge... today there's signing a contract with yourself and with the Designer.\n\nThe Challenge:\n\nOpen the notes on your phone, and write this document:\n\nI (your name), have made a covenant with myself and my Lord that this is the minimum I will not compromise on in my life, in joy and sorrow, in busyness and free time:\n\n(Write only 2 or 3 things as a minimum).\n\nKeep this note in your favorites, and whenever you feel like you're drowning, open it and remember your covenant."
+  },
+  "conclusion": {
+    "ar": "الخلاصة والوداع: سواء قرأت الكتالوج ده في 30 يوم، أو في قعدة واحدة.. الرحلة مكنتش مجرد معلومات بنجمعها، دي كانت محاولة عشان نغير النظارة اللي بنبص بيها لديننا ولحياتنا. عشان نعرف إن الخالق مانزلش الدين عشان يقيدنا، هو نزله عشان يحررنا. عشان نعبد عن حب وفهم، مش عن خوف وعادة.\n\nلو السطور دي نورت في قلبك ولو لمبة واحدة صغيرة، افتكر اللي كتبها واللي ساعد في نشرها بدعوة في ظهر الغيب. الكتالوج بين إيديك دلوقتي.. عيش بيه، وافهمه، وخليه دليلك لحد ما تقابل المصمم وهو راضي عنك.\n\nفي أمان الله.. وإلى لقاء دائم على خط النهاية.",
+    "en": "Conclusion and Farewell: Whether you read this Catalog in 30 days, or in one sitting... the journey wasn't just information we collected, it was an attempt to change the glasses through which we look at our religion and our lives. To know that the Creator didn't send religion to restrict us, He sent it to free us. To worship out of love and understanding, not out of fear and habit.\n\nIf these lines lit even one small lamp in your heart, remember the one who wrote it and those who helped spread it with a prayer in their absence. The Catalog is in your hands now... live by it, understand it, and make it your guide until you meet the Designer and He is pleased with you.\n\nIn the safety of Allah... and to an eternal meeting at the finish line."
+  },
+  "prevEntry": "day-29-paradise",
+  "nextEntry": ""
+}

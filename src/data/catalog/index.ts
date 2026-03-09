@@ -41,6 +41,7 @@ import day26EarthStewardship from './day-26-earth-stewardship.json';
 import day27TrialsTribulations from './day-27-trials-tribulations.json';
 import day28Repentance from './day-28-repentance.json';
 import day29Paradise from './day-29-paradise.json';
+import day30ContinuousUpdate from './day-30-continuous-update.json';
 
 /** All Catalog entries */
 export const catalogEntries: CatalogEntry[] = [
@@ -74,6 +75,7 @@ export const catalogEntries: CatalogEntry[] = [
   day27TrialsTribulations as CatalogEntry,
   day28Repentance as CatalogEntry,
   day29Paradise as CatalogEntry,
+  day30ContinuousUpdate as CatalogEntry,
 ];
 
 /** Get all Catalog entries as cards (for grid display) */
