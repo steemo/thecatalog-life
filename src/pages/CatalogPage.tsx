@@ -14,7 +14,6 @@ import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
 import { getCatalogCards } from '@/data/catalog';
 import { useText } from '@/lib/store';
-import TableOfContents from '@/features/catalog/TableOfContents';
 import type { CatalogCard } from '@/types/catalog';
 
 // Separate component to handle hooks properly
@@ -177,9 +176,6 @@ export default function CatalogPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-slate-100 to-slate-50 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
-      {/* Table of Contents Sidebar */}
-      <TableOfContents />
-
       {/* Hero Section */}
       <div className="relative overflow-hidden bg-gradient-to-br from-primary-500 via-primary-600 to-primary-700 text-white">
         {/* Animated Background Pattern */}

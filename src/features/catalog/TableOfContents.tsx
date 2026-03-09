@@ -8,6 +8,7 @@
  *     Highlights current day based on scroll position.
  *     Sticky positioning that moves with scroll.
  *     Responsive: dropdown on desktop, drawer on mobile.
+ *     Works on both CatalogPage (scroll) and CatalogEntryPage (navigate).
  */
 
 import { useEffect, useState, useRef } from 'react';
@@ -15,7 +16,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronUp, Menu, X, Home, ChevronDown } from 'lucide-react';
 import { useText, useDirection } from '@/lib/store';
 import { getCatalogCards } from '@/data/catalog';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation, useParams } from 'react-router-dom';
 
 export default function TableOfContents() {
   const [currentDay, setCurrentDay] = useState<number | null>(null);
@@ -23,9 +24,25 @@ export default function TableOfContents() {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const direction = useDirection();
   const navigate = useNavigate();
+  const location = useLocation();
+  const { slug } = useParams<{ slug: string }>();
   const catalogCards = getCatalogCards();
   const rafRef = useRef<number | null>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  // Determine if we're on CatalogPage or CatalogEntryPage
+  const isCatalogPage = location.pathname === '/catalog';
+  const isCatalogEntryPage = location.pathname.startsWith('/catalog/') && slug;
+
+  // Set current day based on page type
+  useEffect(() => {
+    if (isCatalogEntryPage && slug) {
+      const entry = catalogCards.find(c => c.slug === slug);
+      if (entry) {
+        setCurrentDay(entry.day);
+      }
+    }
+  }, [slug, isCatalogEntryPage, catalogCards]);
 
   const tocLabel = useText({ ar: 'جدول المحتويات', en: 'Table of Contents', ur: 'فہرست', fr: '', es: '' });
   const backToTopLabel = useText({ ar: 'العودة للأعلى', en: 'Back to Top', ur: 'اوپر جائیں', fr: '', es: '' });
@@ -34,8 +51,10 @@ export default function TableOfContents() {
   const teaserLabel = useText({ arabic: 'تشويق', english: 'Teaser' });
   const ofLabel = useText({ arabic: 'من', english: 'of' });
 
-  // Track scroll position to highlight current day with debouncing
+  // Track scroll position to highlight current day (only on CatalogPage)
   useEffect(() => {
+    if (!isCatalogPage) return;
+
     const handleScroll = () => {
       if (rafRef.current !== null) {
         cancelAnimationFrame(rafRef.current);
@@ -64,24 +83,40 @@ export default function TableOfContents() {
         cancelAnimationFrame(rafRef.current);
       }
     };
-  }, [catalogCards]);
+  }, [catalogCards, isCatalogPage]);
+
+  const handleDayClick = (day: number) => {
+    if (isCatalogPage) {
+      scrollToDay(day);
+    } else {
+      const entry = catalogCards.find(c => c.day === day);
+      if (entry) {
+        navigate(`/catalog/${entry.slug}`);
+        setIsOpen(false);
+        setIsDropdownOpen(false);
+      }
+    }
+  };
 
   const scrollToDay = (day: number) => {
     const element = document.getElementById(`day-${day}`);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'start' });
       setIsOpen(false);
+      setIsDropdownOpen(false);
     }
   };
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
     setIsOpen(false);
+    setIsDropdownOpen(false);
   };
 
   const goHome = () => {
     navigate('/');
     setIsOpen(false);
+    setIsDropdownOpen(false);
   };
 
   // Desktop Dropdown (Compact)
@@ -95,9 +130,7 @@ export default function TableOfContents() {
       } z-40`}
       ref={dropdownRef}
     >
-      {/* Compact Dropdown Container */}
       <div className="bg-white dark:bg-slate-800 rounded-2xl shadow-lg border border-slate-200 dark:border-slate-700 overflow-hidden">
-        {/* Dropdown Header/Button */}
         <motion.button
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
@@ -122,7 +155,6 @@ export default function TableOfContents() {
           </motion.div>
         </motion.button>
 
-        {/* Dropdown Content */}
         <AnimatePresence>
           {isDropdownOpen && (
             <motion.div
@@ -132,7 +164,6 @@ export default function TableOfContents() {
               transition={{ duration: 0.3 }}
               className="max-h-96 overflow-y-auto bg-white dark:bg-slate-800 w-64"
             >
-              {/* Home Button */}
               <motion.button
                 whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
                 onClick={() => {
@@ -145,7 +176,6 @@ export default function TableOfContents() {
                 {homeLabel}
               </motion.button>
 
-              {/* Back to Top Button */}
               <motion.button
                 whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
                 onClick={() => {
@@ -158,14 +188,13 @@ export default function TableOfContents() {
                 {backToTopLabel}
               </motion.button>
 
-              {/* Days List */}
               <div className="divide-y divide-slate-200 dark:divide-slate-700">
                 {catalogCards.map((entry) => (
                   <motion.button
                     key={entry.id}
                     whileHover={{ x: direction === 'rtl' ? -4 : 4 }}
                     onClick={() => {
-                      scrollToDay(entry.day);
+                      handleDayClick(entry.day);
                       setIsDropdownOpen(false);
                     }}
                     className={`w-full px-6 py-3 text-sm font-medium transition-all text-left ${
@@ -198,7 +227,6 @@ export default function TableOfContents() {
   // Mobile Floating Button + Drawer
   const MobileDrawer = () => (
     <>
-      {/* Floating Button */}
       <motion.button
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.9 }}
@@ -230,7 +258,6 @@ export default function TableOfContents() {
         </AnimatePresence>
       </motion.button>
 
-      {/* Drawer Overlay */}
       <AnimatePresence>
         {isOpen && (
           <motion.div
@@ -243,7 +270,6 @@ export default function TableOfContents() {
         )}
       </AnimatePresence>
 
-      {/* Drawer Content */}
       <AnimatePresence>
         {isOpen && (
           <motion.div
@@ -264,7 +290,6 @@ export default function TableOfContents() {
             </div>
 
             <div className="p-4 space-y-2">
-              {/* Home Button */}
               <motion.button
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
@@ -275,7 +300,6 @@ export default function TableOfContents() {
                 {homeLabel}
               </motion.button>
 
-              {/* Back to Top Button */}
               <motion.button
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
@@ -286,13 +310,15 @@ export default function TableOfContents() {
                 {backToTopLabel}
               </motion.button>
 
-              {/* Days List */}
               <div className="space-y-1">
                 {catalogCards.map((entry) => (
                   <motion.button
                     key={entry.id}
                     whileHover={{ x: 4 }}
-                    onClick={() => scrollToDay(entry.day)}
+                    onClick={() => {
+                      handleDayClick(entry.day);
+                      setIsOpen(false);
+                    }}
                     className={`w-full px-4 py-3 rounded-lg text-sm font-medium transition-all text-left ${
                       currentDay === entry.day
                         ? 'bg-primary-50 dark:bg-primary-900/30 text-primary-600 dark:text-primary-400'
