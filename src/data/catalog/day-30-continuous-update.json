@@ -3,7 +3,7 @@
   "slug": "day-30-continuous-update",
   "day": 30,
   "title": {
-    "ar": "التحديث المستمر - كيف تحافظ على السيستم من الانهيار؟",
+    "ar": "التحديث المستمر - كيف تحافظ على النظام من الانهيار؟",
     "en": "The Continuous Update - How to Keep the System from Crashing?"
   },
   "subtitle": {
@@ -22,11 +22,11 @@
     ]
   },
   "hook": {
-    "ar": "تخيل إنك قررت تنظف اللاب توب بتاعك، نزّلت تحديث قوي جداً، وسطبت أحدث برامج الحماية، ونظفت الهارد ديسك بالكامل. الجهاز بقى طيارة! فجأة، بعد أسبوع واحد، رجعت تفتح نفس المواقع المضروبة، وتحمل ملفات عشوائية، ومبقتش تعمل فحص للجهاز. النتيجة؟ السيستم هيقع تاني، وهيرجع أبطأ من الأول، وهتحس بإحباط مضاعف لأنك دُقت طعم النظافة والسرعة وضيعتهم.",
+    "ar": "تخيل إنك قررت تنظف الجهاز بتاعك، نزّلت تحديث قوي جداً، وسطبت أحدث برامج الحماية، ونظفت القرص بالكامل. الجهاز بقى طيارة! فجأة، بعد أسبوع واحد، رجعت تفتح نفس المواقع المضروبة، وتحمل ملفات عشوائية، ومبقتش تعمل فحص للجهاز. النتيجة؟ النظام هيقع تاني، وهيرجع أبطأ من الأول، وهتحس بإحباط مضاعف لأنك دُقت طعم النظافة والسرعة وضيعتهم.",
     "en": "Imagine you decided to clean your laptop, downloaded a powerful update, installed the latest antivirus programs, and cleaned the hard disk completely. The device became a rocket! Suddenly, after just one week, you went back to opening the same infected websites, downloading random files, and stopped scanning the device. The result? The system will crash again, become slower than before, and you'll feel double the frustration because you tasted cleanliness and speed and lost them."
   },
   "mainConcept": {
-    "ar": "دي بالظبط قصة أغلبنا مع الدين. بنسمع موعظة، أو بنقعد نقرأ كتاب زي الكتالوج ده، أو بنمر بأزمة.. فـ نتحمس جداً. نقرر فجأة نصلي كل الفرايض والسنن، ونبطل كل الذنوب، ونقرأ قرآن كل يوم. نفضل ماشيين بأقصى سرعة لمدة أسبوع أو اتنين، وفجأة.. البنزين يخلص، الحماس يطفي، والسيستم ينهار، فنرجع أسوأ من الأول ونقول لنفسنا: أنا مفيش مني فايدة!",
+    "ar": "دي بالظبط قصة أغلبنا مع الدين. بنسمع موعظة، أو بنقعد نقرأ كتاب زي الكتالوج ده، أو بنمر بأزمة.. فـ نتحمس جداً. نقرر فجأة نصلي كل الفرايض والسنن، ونبطل كل الذنوب، ونقرأ قرآن كل يوم. نفضل ماشيين بأقصى سرعة لمدة أسبوع أو اتنين، وفجأة.. البنزين يخلص، الحماس يطفي، والنظام ينهار، فنرجع أسوأ من الأول ونقول لنفسنا: أنا مفيش مني فايدة!",
     "en": "This is exactly the story of most of us with religion. We hear a sermon, or sit and read a book like this Catalog, or go through a crisis... so we get very enthusiastic. We suddenly decide to pray all obligatory and voluntary prayers, stop all sins, and read Quran every day. We keep going at maximum speed for a week or two, and suddenly... the fuel runs out, the enthusiasm fades, and the system crashes, so we return worse than before and tell ourselves: I'm hopeless!"
   },
   "sections": [
@@ -37,7 +37,7 @@
         "en": "The All or Nothing Trap"
       },
       "content": {
-        "ar": "الكتالوج بيحذرك من أكبر فيروس بيدمر التغيير: المثالية الزايدة. الدين مش سباق سرعة هنجري فيه 100 متر ونقف. الدين ماراثون طويل جداً بيمتد لحد آخر يوم في عمرك. الماراثون مش محتاج سرعة حرق، الماراثون محتاج توزيع طاقة.\n\nعشان تحافظ على السيستم اللي بنيناه وفهمناه في الرحلة دي شغال طول السنة، لازم تطبق الـ 3 قواعد دول بصرامة.",
+        "ar": "الكتالوج بيحذرك من أكبر فيروس بيدمر التغيير: المثالية الزايدة. الدين مش سباق سرعة هنجري فيه 100 متر ونقف. الدين ماراثون طويل جداً بيمتد لحد آخر يوم في عمرك. الماراثون مش محتاج سرعة حرق، الماراثون محتاج توزيع طاقة.\n\nعشان تحافظ على النظام اللي بنيناه وفهمناه في الرحلة دي شغال طول السنة، لازم تطبق الـ 3 قواعد دول بصرامة.",
         "en": "The Catalog warns you about the biggest virus that destroys change: excessive perfectionism. Religion is not a sprint where we run 100 meters and stop. Religion is a very long marathon that extends until the last day of your life. The marathon doesn't need burning speed, the marathon needs energy distribution.\n\nTo keep the system we built and understood in this journey running all year long, you must strictly apply these 3 rules."
       }
     },
@@ -59,7 +59,7 @@
         "en": "The Safe Network"
       },
       "content": {
-        "ar": "أي سيستم نضيف، لو دخلته على شبكة مليانة فيروسات، هيتضرب في ثواني. أنت اتغيرت وقناعاتك نضفت، بس لو فضلت في نفس البيئة السامة، ومع نفس الصحبة اللي بتشدك لتحت، ولنفس الأماكن اللي بتوقعك في الغلط.. هترجع للنسخة القديمة.\n\nالمرء على دين خليله.. البيئة بتغلب الإرادة. حوّط نفسك بناس بتفكر زيك، ناس بتجري على الصلاة، ناس عندها طموح في الدنيا وماشية على الكتالوج.",
+        "ar": "أي نظام نظيف، لو دخلته على بيئة مليانة مشاكل، هيتضرب في ثواني. أنت اتغيرت وقناعاتك نضفت، بس لو فضلت في نفس البيئة السامة، ومع نفس الصحبة اللي بتشدك لتحت، ولنفس الأماكن اللي بتوقعك في الغلط.. هترجع للنسخة القديمة.\n\nالمرء على دين خليله.. البيئة بتغلب الإرادة. حوّط نفسك بناس بتفكر زيك، ناس بتجري على الصلاة، ناس عندها طموح في الدنيا وماشية على الكتالوج.",
         "en": "Any clean system, if you connect it to a network full of viruses, will be infected in seconds. You've changed and your beliefs have been cleaned, but if you stay in the same toxic environment, with the same friends pulling you down, and in the same places that make you fall into mistakes... you'll return to the old version.\n\nA person follows the religion of their close friend... the environment overcomes willpower. Surround yourself with people who think like you, people who rush to prayer, people who have ambition in this world and follow the Catalog."
       }
     },
@@ -70,8 +70,8 @@
         "en": "The Fast Recovery"
       },
       "content": {
-        "ar": "هل هتقع تاني؟ آه هتقع، وهتضعف، وممكن تعمل ذنوب كنت بطلتها. إحنا بشر ودي برمجتنا. الفرق بين الإنسان الناجح والفاشل مش إن الناجح مابيقعش.. الفرق في سرعة النهوض.\n\nالناجح أول ما بيقع، مابيجلسش يندب حظه ويلعن نفسه. بيدوس على زرار البداية من جديد فوراً بالتوبة ويرجع يكمل جري. كل ما سرعتك في الرجوع زادت، كل ما يأس الشيطان منك زاد.",
-        "en": "Will you fall again? Yes, you will fall, weaken, and might commit sins you had stopped. We're human and this is our programming. The difference between a successful person and a failed one isn't that the successful one doesn't fall... the difference is in the recovery speed.\n\nThe successful person, as soon as they fall, doesn't sit lamenting their fate and cursing themselves. They press the reset button immediately with repentance and return to continue running. The faster your return speed, the more the devil despairs of you."
+        "ar": "هل هتقع تاني؟ آه هتقع، وهتضعف، وممكن تعمل ذنوب كنت بطلتها. إحنا بشر ودي طبيعتنا. الفرق بين الإنسان الناجح والفاشل مش إن الناجح مابيقعش.. الفرق في سرعة النهوض.\n\nالناجح أول ما بيقع، مابيجلسش يندب حظه ويلعن نفسه. بيدوس على زرار البداية من جديد فوراً بالتوبة ويرجع يكمل جري. كل ما سرعتك في الرجوع زادت، كل ما يأس الشيطان منك زاد.",
+        "en": "Will you fall again? Yes, you will fall, weaken, and might commit sins you had stopped. We're human and this is our nature. The difference between a successful person and a failed one isn't that the successful one doesn't fall... the difference is in the recovery speed.\n\nThe successful person, as soon as they fall, doesn't sit lamenting their fate and cursing themselves. They press the reset button immediately with repentance and return to continue running. The faster your return speed, the more the devil despairs of you."
       }
     }
   ],
@@ -79,12 +79,12 @@
     {
       "id": "laptop-maintenance",
       "title": {
-        "ar": "صيانة اللاب توب",
-        "en": "Laptop Maintenance"
+        "ar": "صيانة الجهاز",
+        "en": "Device Maintenance"
       },
       "description": {
-        "ar": "لاب توب نظيف ومحدث، لكن رجعت للمواقع المضروبة والملفات العشوائية.",
-        "en": "A clean and updated laptop, but you returned to infected websites and random files."
+        "ar": "جهاز نظيف ومحدث، لكن رجعت للمواقع المضروبة والملفات العشوائية.",
+        "en": "A clean and updated device, but you returned to infected websites and random files."
       },
       "example": {
         "ar": "كذلك الدين: التحمس المؤقت بدون صيانة مستمرة يؤدي للانهيار.",
