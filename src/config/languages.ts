@@ -42,7 +42,7 @@ export const LANGUAGES: Record<LanguageCode, LanguageConfig> = {
     nativeName: 'اردو',
     flag: '🇵🇰',
     direction: 'rtl',
-    available: true,
+    available: false, // Paused temporarily
   },
   fr: {
     code: 'fr',
